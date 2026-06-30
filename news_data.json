@@ -1,4 +1,222 @@
 {
-  "lastUpdated": "loading",
-  "topics": []
+  "lastUpdated": "2026-06-30T21:30:00+10:00",
+  "topics": [
+    {
+      "id": "pm-no10",
+      "name": "PM & No. 10",
+      "description": "Prime Minister & Downing Street",
+      "stories": [
+        {
+          "title": "Starmer Unveils Long-Delayed Defence Investment Plan",
+          "summary": "In one of his final acts as Prime Minister, Sir Keir Starmer unveiled the Defence Investment Plan (DIP), committing to a 'hybrid navy' combining autonomous vessels and AI, and £5bn for drones. The Treasury and No 10 agreed a £13.5bn increase in defence funding.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/live/c3ry1zpyz0et",
+          "publishedAt": "2026-06-30"
+        },
+        {
+          "title": "Burnham Expected to Succeed Starmer as Next Prime Minister",
+          "summary": "Andy Burnham, the Labour leadership frontrunner and former Greater Manchester mayor, is set to become the next UK Prime Minister. He delivered a major policy speech outlining his vision for Britain, including a 'No 10 North' devolution hub in Manchester.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/keir-starmer",
+          "publishedAt": "2026-06-30"
+        },
+        {
+          "title": "NATO Chief Confident Burnham Will Honour Defence Spending Commitments",
+          "summary": "NATO Secretary General Mark Rutte expressed confidence that incoming PM Andy Burnham will maintain the UK's defence spending commitments, ahead of the long-awaited Defence Investment Plan announcement.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/jun/29/nato-chief-confident-burnham-defence-spending",
+          "publishedAt": "2026-06-29"
+        }
+      ]
+    },
+    {
+      "id": "parliament",
+      "name": "Parliament",
+      "description": "House of Commons, Lords & Legislation",
+      "stories": [
+        {
+          "title": "House of Commons: Supply and Appropriation (Main Estimates) Bill",
+          "summary": "Parliament is proceeding with the Supply and Appropriation (Main Estimates) Bill on 30 June and 1 July 2026, following Estimates days. The Backbench Business Committee had recommended the estimate for debate.",
+          "source": "UK Parliament",
+          "url": "https://whatson.parliament.uk/events/commons/thisweek/",
+          "publishedAt": "2026-06-30"
+        },
+        {
+          "title": "Urgent Question on Early Release of Rapists and Child Groomers",
+          "summary": "An Urgent Question was raised in the House of Commons regarding the early release of rapists and child groomers, highlighting ongoing concerns about the government's early release scheme.",
+          "source": "BBC Parliament",
+          "url": "https://www.bbc.co.uk/schedules/p00fzl73",
+          "publishedAt": "2026-06-30"
+        },
+        {
+          "title": "Eve Samson Appointed as 53rd Clerk of the House of Commons",
+          "summary": "Following a competitive recruitment process, Eve Samson — current Clerk of the Journals — has been appointed as the 53rd Clerk of the House of Commons, a senior constitutional role in Parliament.",
+          "source": "UK Parliament (Hansard)",
+          "url": "https://hansard.parliament.uk/pdf/commons/2026-06-29",
+          "publishedAt": "2026-06-29"
+        }
+      ]
+    },
+    {
+      "id": "labour",
+      "name": "Labour Party",
+      "description": "Labour Party news & internal politics",
+      "stories": [
+        {
+          "title": "Burnham Confirms 'No 10 North' Plan in Major Policy Speech",
+          "summary": "Andy Burnham confirmed he will set up a 'No 10 North' in Manchester if he becomes Prime Minister, promising to deliver 'good growth in every British postcode'. The speech was billed as a landmark vision for devolving power away from Westminster.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/live/cgrk4rpxnx7t",
+          "publishedAt": "2026-06-29"
+        },
+        {
+          "title": "Burnham Sets Out Vision to Transform Britain and Fix 'Broken' System",
+          "summary": "The expected next Prime Minister outlined plans to restore faith in politics, tackle the cost of living, and drive regional devolution. His blueprint includes public ownership of utilities and an end to trickle-down economics.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/jun/29/burnham-sets-out-vision-to-transform-britain-and-fix-broken-system",
+          "publishedAt": "2026-06-29"
+        },
+        {
+          "title": "Home Secretary Mahmood Announces Major Asylum Reforms",
+          "summary": "Home Secretary Shabana Mahmood unveiled new asylum reforms requiring rejected asylum seekers to repay around £10,000 in living costs before returning to the UK. The plans also include speeding up removal of families whose claims have been refused.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cddlgqlm7q2o",
+          "publishedAt": "2026-06-30"
+        }
+      ]
+    },
+    {
+      "id": "conservatives",
+      "name": "Conservative Party",
+      "description": "Conservative Party & opposition",
+      "stories": [
+        {
+          "title": "Badenoch Challenges Burnham to Fund Defence Without Raising Taxes",
+          "summary": "Conservative leader Kemi Badenoch said Andy Burnham must find the money to fund Britain's defence without raising taxes, criticising Labour for delays to the Defence Investment Plan and what she called a failure to provide long-term military funding.",
+          "source": "Sky News / Facebook",
+          "url": "https://www.facebook.com/skynews/posts/kemi-badenoch-says-that-if-andy-burnham-cannot-provide-the-right-level-of-fundin/1490580879779903/",
+          "publishedAt": "2026-06-30"
+        },
+        {
+          "title": "Badenoch Sets Out Conservative Alternative: Tax Cuts, Welfare Reform and Cheap Energy",
+          "summary": "Kemi Badenoch delivered a speech setting out the Conservative platform, focused on getting more people off benefits and into work, cutting taxes, slashing red tape, and delivering cheap and secure energy.",
+          "source": "Instagram / Conservatives",
+          "url": "https://www.instagram.com/p/DaLXB13CFOb/",
+          "publishedAt": "2026-06-30"
+        }
+      ]
+    },
+    {
+      "id": "lib-dems",
+      "name": "Liberal Democrats",
+      "description": "Liberal Democrats news & policy",
+      "stories": [
+        {
+          "title": "Ed Davey: Burnham's Local Government Plan Must Not Be 'One-Size-Fits-All'",
+          "summary": "Liberal Democrat leader Ed Davey responded to Andy Burnham's devolution speech, welcoming the focus on local power but warning that any plan must not impose a one-size-fits-all approach across different parts of England.",
+          "source": "Liberal Democrats",
+          "url": "https://www.libdems.org.uk/press/release/ed-davey-burnhams-local-government-plan-must-not-be-one-size-fits-all",
+          "publishedAt": "2026-06-29"
+        }
+      ]
+    },
+    {
+      "id": "reform-uk",
+      "name": "Reform UK",
+      "description": "Reform UK & Nigel Farage",
+      "stories": [
+        {
+          "title": "Farage Says Devolution 'Could Work' But Warns Against Rival Power Centres",
+          "summary": "Nigel Farage responded to Burnham's devolution plans, saying devolution could work in principle but warned that a 'No 10 in the North' and a 'No 10 in the South' would 'naturally fight against each other', risking further fragmentation.",
+          "source": "ITN",
+          "url": "https://www.itn.co.uk/news/farage-shares-his-thoughts-burnhams-devolution-plans-0",
+          "publishedAt": "2026-06-30"
+        },
+        {
+          "title": "Thai-Based Crypto Investor Funding Reform UK Unlikely to Avoid Overseas Donation Cap",
+          "summary": "A Thai-based cryptocurrency investor who previously donated £5 million to Nigel Farage before the 2024 general election is unlikely to avoid the cap on overseas donations to UK political parties, raising questions about Reform's funding.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/nigel-farage/2026/jun/29/all",
+          "publishedAt": "2026-06-29"
+        }
+      ]
+    },
+    {
+      "id": "snp",
+      "name": "SNP",
+      "description": "Scottish National Party & Scottish politics",
+      "stories": [
+        {
+          "title": "Scottish Government Has 'No Idea' What Burnham's Devolution Plan Means for Scotland",
+          "summary": "The Scottish Government said it has received no briefing on Andy Burnham's plans to decentralise governance away from Westminster and Holyrood, raising concerns about the implications of 'powering up' English regions at the expense of devolved institutions.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cwyl8e7g0g2o",
+          "publishedAt": "2026-06-30"
+        },
+        {
+          "title": "Scottish Press Reviews Burnham's 'Pitch to Scotland'",
+          "summary": "Scottish newspapers covered Andy Burnham's pitch to Scotland as part of his devolution vision, as the incoming PM sought to reassure Scotland that his plans would not undermine Holyrood's powers.",
+          "source": "BBC News Scotland",
+          "url": "https://www.bbc.co.uk/news/articles/c74yvg71vmdo",
+          "publishedAt": "2026-06-30"
+        }
+      ]
+    },
+    {
+      "id": "cabinet-office",
+      "name": "Cabinet Office",
+      "description": "Government, reshuffles & cross-department policy",
+      "stories": [
+        {
+          "title": "Resident Doctors Agree Deal with Government to End Strikes",
+          "summary": "The British Medical Association voted to accept the government's offer, which will see resident doctors benefit from a new pay structure and better career progression opportunities, ending a prolonged period of industrial action in the NHS.",
+          "source": "GOV.UK",
+          "url": "https://www.gov.uk/government/news/resident-doctors-agree-deal-with-government-to-end-strikes",
+          "publishedAt": "2026-06-30"
+        },
+        {
+          "title": "UK's First Maternity and Neonatal Commissioner to Be Appointed",
+          "summary": "The government announced the appointment of the UK's first dedicated Maternity and Neonatal Commissioner along with extra funding, aimed at making maternity and neonatal care safer, fairer and more consistent across England.",
+          "source": "GOV.UK",
+          "url": "https://www.gov.uk/government/news/uks-first-maternity-and-neonatal-commissioner-to-be-appointed",
+          "publishedAt": "2026-06-30"
+        }
+      ]
+    },
+    {
+      "id": "elections",
+      "name": "Elections & By-elections",
+      "description": "Elections, by-elections & polls",
+      "stories": [
+        {
+          "title": "Labour Leadership Contest: Burnham on Course to Become PM",
+          "summary": "Andy Burnham is on course to win the Labour leadership contest and become Prime Minister, with polling showing him as the clear frontrunner. His candidacy has reshaped UK political dynamics heading into the second half of 2026.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/labourleadership/2026/jun/29/all",
+          "publishedAt": "2026-06-29"
+        }
+      ]
+    },
+    {
+      "id": "house-of-lords",
+      "name": "House of Lords",
+      "description": "Lords debates, reform & appointments",
+      "stories": [
+        {
+          "title": "House of Lords Questions to Ministers on 30 June 2026",
+          "summary": "The House of Lords held its regular questions session with government ministers on Tuesday 30 June 2026, covering a range of current policy issues.",
+          "source": "BBC Parliament",
+          "url": "https://www.bbc.co.uk/schedules/p00fzl73",
+          "publishedAt": "2026-06-30"
+        },
+        {
+          "title": "Lords Business: Supply and Appropriation (Main Estimates) Bill",
+          "summary": "The House of Lords participated in proceedings on the Supply and Appropriation (Main Estimates) Bill as part of the parliamentary business week, with further debate scheduled for 1 July 2026.",
+          "source": "UK Parliament",
+          "url": "https://whatson.parliament.uk/events/commons/thisweek/",
+          "publishedAt": "2026-06-30"
+        }
+      ]
+    }
+  ]
 }
