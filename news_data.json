@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T16:00:00+10:00",
+  "lastUpdated": "2026-07-03T06:00:00+01:00",
   "topics": [
     {
       "id": "pm-no10",
@@ -7,122 +7,129 @@
       "description": "Prime Minister & Downing Street",
       "stories": [
         {
-          "title": "Starmer Defends £15bn Defence Investment Plan at PMQs",
-          "summary": "PM Keir Starmer defended his government's £15bn defence investment plan at PMQs, calling it the biggest military funding increase in 40 years. Conservative leader Kemi Badenoch accused him of leaving a £5bn funding gap.",
+          "title": "Starmer says forced adoptions a 'stain on our history' — issues formal state apology",
+          "summary": "Sir Keir Starmer issued a formal government apology on behalf of the British state for historical forced adoptions in England and Wales between 1949 and 1976, affecting an estimated 185,000 babies taken from unmarried mothers.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/live/cz75g9387dwt",
-          "publishedAt": "2026-07-01"
+          "url": "https://www.bbc.co.uk/news/articles/c20yq332018o",
+          "publishedAt": "2026-07-02"
         },
         {
-          "title": "Andy Burnham Poised to Succeed Starmer as Prime Minister",
-          "summary": "Andy Burnham is widely expected to win the Labour leadership contest later this month, succeeding Sir Keir Starmer as Prime Minister. Angela Rayner publicly backed Burnham's devolution agenda.",
+          "title": "Labour failed to prepare for power, admits PM's former top aide Morgan McSweeney",
+          "summary": "In his first-ever media interview, Morgan McSweeney — Starmer's former chief of staff — admitted Labour was not prepared to govern quickly enough when it took office in 2024, saying he needed to 'move on to a new chapter' in his life.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c77yeykgxlpo",
-          "publishedAt": "2026-07-01"
+          "url": "https://www.bbc.co.uk/news/articles/ce8j2e38zzgo",
+          "publishedAt": "2026-07-02"
         },
         {
-          "title": "Guardian PMQs Live: No 10 Defends Defence Funding as 'Credible'",
-          "summary": "No 10 insisted the defence investment plan was 'credible' as Badenoch urged incoming PM Burnham to condemn it. Ministers and MPs raised concerns about cuts to road projects to fund the plan.",
+          "title": "Keir Starmer's tenure at No. 10 drawing to a close",
+          "summary": "Analysis from The Guardian suggests PM Starmer is in his final days at Downing Street, with the Labour Party facing a leadership contest as his authority wanes following poor local election results.",
           "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/live/2026/jul/01/keir-starmer-andy-burnham-labour-defence-investment-plan-pmqs-kemi-badenoch",
-          "publishedAt": "2026-07-01"
+          "url": "https://www.theguardian.com/politics/2026/jul/02/keir-starmer-england-world-cup-prime-minister",
+          "publishedAt": "2026-07-02"
         }
       ]
     },
     {
       "id": "parliament",
       "name": "Parliament",
-      "description": "House of Commons, House of Lords, PMQs, Debates & Legislation",
+      "description": "House of Commons, House of Lords, PMQs & Legislation",
       "stories": [
         {
-          "title": "PMQs: Badenoch Presses Starmer on Defence Spending Shortfall",
-          "summary": "A tense PMQs exchange saw Kemi Badenoch challenge Starmer over an alleged £5bn gap in the £15bn defence investment plan. The PM defended the package as historic, while a Guardian sketch described a stroppy Starmer unafraid to push back.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cy9rgg9ddw2o",
-          "publishedAt": "2026-07-01"
+          "title": "Immigration and Asylum Bill 2026 introduced in House of Commons",
+          "summary": "The Immigration and Asylum Bill 2026 was introduced in the House of Commons on 30 June 2026, with its second reading scheduled for 13 July. It implements changes to immigration and asylum policy announced by the government.",
+          "source": "House of Commons Library",
+          "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10940/",
+          "publishedAt": "2026-07-02"
         },
         {
-          "title": "Eve Samson Appointed as Next Clerk of the House of Commons",
-          "summary": "UK Parliament announced Eve Samson as the incoming Clerk of the House of Commons, one of Parliament's most senior administrative roles.",
-          "source": "UK Parliament",
-          "url": "https://www.parliament.uk/",
-          "publishedAt": "2026-06-29"
+          "title": "Commons Business: Debate on ban on trade with illegal Israeli settlements scheduled",
+          "summary": "This week's House of Commons business includes a general debate on 9 July on a ban on trade with illegal Israeli settlements, alongside a debate on the impact of strategic lawsuits against public participation.",
+          "source": "Hansard — UK Parliament",
+          "url": "https://hansard.parliament.uk/Commons/2026-07-02/debates/80B137FB-8C53-4E59-A1D2-4B7B51B8A937/BusinessOfTheHouse",
+          "publishedAt": "2026-07-02"
         },
         {
-          "title": "Reform UK Raises Illegal Migration Detention Policy in Commons",
-          "summary": "Reform UK used parliamentary time to push its position that every illegal migrant should be detained, denied asylum, and deported — the PM rejected the approach at the dispatch box.",
-          "source": "UK Parliament (Hansard)",
-          "url": "https://hansard.parliament.uk/pdf/commons/2026-07-01",
-          "publishedAt": "2026-07-01"
+          "title": "Commonhold and Leasehold Reform — Managing Agents debate in Commons",
+          "summary": "The House of Commons held a debate on Commonhold and Leasehold Reform focusing on managing agents, providing members the opportunity to review the draft Bill and identify measures needed in the final version.",
+          "source": "Hansard — UK Parliament",
+          "url": "https://hansard.parliament.uk/commons/2026-07-02/debates/13818603-8CD4-42FC-BCA6-C04B75CA1E1E/CommonholdAndLeaseholdReformManagingAgents",
+          "publishedAt": "2026-07-02"
         }
       ]
     },
     {
       "id": "labour",
       "name": "Labour Party",
-      "description": "Labour Party news, policy & internal politics",
+      "description": "Party news, policy & internal politics",
       "stories": [
         {
-          "title": "Burnham Urged to Adopt Radical Economic Policies to See Off Reform UK",
-          "summary": "An exclusive Guardian poll shows Andy Burnham should pursue bold economic policies — including rent control and higher wealth taxes — to protect key Labour seats from Reform UK at the next general election.",
+          "title": "Labour was not prepared to govern in 2024, says Morgan McSweeney",
+          "summary": "Starmer's former chief of staff gave his first public interview admitting political mistakes and revealed that Trump shared theories about wind turbines with him. McSweeney acknowledged Labour failed to deliver quickly enough after winning the 2024 election.",
           "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/2026/jul/02/andy-burnham-radical-economy-help-labour-win-next-election",
+          "url": "https://www.theguardian.com/politics/2026/jul/02/labour-was-not-prepared-to-govern-in-2024-says-morgan-mcsweeney",
           "publishedAt": "2026-07-02"
         },
         {
-          "title": "Angela Rayner Backs Burnham's Devolution Vision",
-          "summary": "Former Deputy PM Angela Rayner offered public support for Andy Burnham's devolution agenda, suggesting the outgoing Starmer government had too often defended the status quo and left the impression of insufficient decentralisation.",
+          "title": "Andy Burnham emerges as frontrunner in Labour leadership race",
+          "summary": "Andy Burnham, the Manchester Mayor, has become the frontrunner to succeed Keir Starmer as Labour leader and Prime Minister. Former Labour MP Joan Walley praised Burnham's time in Manchester as providing a different perspective for Westminster.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c77yeykgxlpo",
-          "publishedAt": "2026-07-01"
+          "url": "https://www.bbc.co.uk/news/articles/c0ey7921pvyo",
+          "publishedAt": "2026-07-02"
+        },
+        {
+          "title": "'The shame is ours': Starmer issues formal state apology over forced adoptions",
+          "summary": "PM Keir Starmer apologised for the state's role in the forced adoption of an estimated 185,000 babies from unmarried mothers between 1949 and 1976. The Guardian's live politics blog covered the announcement extensively.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/live/2026/jul/02/keir-starmer-apology-forced-adoption-labour-andy-burnham-uk-politics-latest-news-updates",
+          "publishedAt": "2026-07-02"
         }
       ]
     },
     {
       "id": "conservatives",
       "name": "Conservative Party",
-      "description": "Conservative Party news, leadership & opposition",
+      "description": "Party news, leadership & opposition",
       "stories": [
         {
-          "title": "Badenoch Accuses Starmer of Leaving Defence Spending 'Mess'",
-          "summary": "Tory leader Kemi Badenoch accused the PM of leaving a £5bn hole in defence funding, despite Starmer's announcement of £15bn in new military investment — the biggest such increase in 40 years.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cy9rgg9ddw2o",
-          "publishedAt": "2026-07-01"
-        },
-        {
-          "title": "Tory MPs Furious as Road Projects Cut to Fund Defence Plan",
-          "summary": "Conservative MPs Robert Jenrick (Newark) and Hamish Falconer (Lincoln) are reported to be furious after road improvement projects in their constituencies were cut to fund the government's defence investment plan.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/2026/jul/01/ministers-furious-cuts-road-projects-fund-defence-plan",
-          "publishedAt": "2026-07-01"
+          "title": "Kemi Badenoch seeks advice from former Tory leaders to boost PMQs performance",
+          "summary": "Conservative leader Kemi Badenoch has spoken to all her living predecessors — except one — as she seeks to sharpen her performance at Prime Minister's Questions. Boris Johnson reportedly cautioned that Nigel Farage comes with the 'whiff of sulphur'.",
+          "source": "The Times",
+          "url": "https://www.thetimes.co.uk/uk/politics/article/kemi-badenoch-advice-conservative-leaders-jft355pm5",
+          "publishedAt": "2026-07-02"
         }
       ]
     },
     {
       "id": "lib-dems",
       "name": "Liberal Democrats",
-      "description": "Lib Dem party news & policy",
+      "description": "Party news & policy positions",
       "stories": []
     },
     {
       "id": "reform-uk",
       "name": "Reform UK",
-      "description": "Reform UK & Nigel Farage news",
+      "description": "Nigel Farage & party news",
       "stories": [
         {
-          "title": "Farage Faces Pressure Over Undisclosed Properties in £4m Portfolio",
-          "summary": "A Times investigation revealed Nigel Farage owns five mortgage-free homes but only declared two to Parliament, prompting fresh calls for him to clarify his housing arrangements and raising transparency concerns.",
-          "source": "The Times",
-          "url": "https://www.thetimes.com/topic/nigel-farage",
-          "publishedAt": "2026-07-01"
+          "title": "Nigel Farage reported to parliamentary standards watchdog over alleged 'crypto lobbying'",
+          "summary": "The parliamentary standards commissioner has been asked to investigate Reform UK leader Nigel Farage after a private meeting he held with the Bank of England governor raised concerns about undisclosed crypto lobbying.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/jul/02/nigel-farage-reported-standards-watchdog-alleged-crypto-lobbying",
+          "publishedAt": "2026-07-02"
         },
         {
-          "title": "Analysis: Is Farage Losing His Political 'Aura'?",
-          "summary": "A New Statesman analysis suggests Reform UK is losing momentum after a run of by-election disappointments, including Andy Burnham's win in Makerfield — a seat where Reform had made significant council gains.",
-          "source": "New Statesman",
-          "url": "https://www.newstatesman.com/politics/2026/07/is-nigel-farage-losing-momentum",
-          "publishedAt": "2026-07-01"
+          "title": "Bitcoin firm advertised by Nigel Farage loses 15% of asset value",
+          "summary": "A bitcoin treasury company promoted by Farage has seen its assets plunge by 15%, with finance experts warning against investing in such companies. The news adds to scrutiny of Farage's paid promotional activities.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/jul/02/bitcoin-firm-advertised-by-nigel-farage-loses-15-percent-asset-value",
+          "publishedAt": "2026-07-02"
+        },
+        {
+          "title": "Farage paid £270,000 for 12 hours' work promoting gold bullion company",
+          "summary": "An investigation reveals Nigel Farage was paid £270,000 for just 12 hours of work promoting Direct Bullion, raising questions about financial conflicts of interest for the Reform UK leader.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/jul/02/explainer-nigel-farage-paid-promote-gold-bullion-company",
+          "publishedAt": "2026-07-02"
         }
       ]
     },
@@ -132,25 +139,18 @@
       "description": "Scottish National Party & Scottish politics",
       "stories": [
         {
-          "title": "Swinney Criticises Burnham for 'Lack of Knowledge' About Scotland",
-          "summary": "Scottish First Minister John Swinney accused Labour leadership hopeful Andy Burnham of showing a lack of knowledge about Scotland after Burnham suggested power north of the border was too centralised. Swinney described the comments as 'polemics'.",
+          "title": "Kate Forbes: I was 'slam dunk' for SNP leadership until revealing views on same-sex marriage",
+          "summary": "Former SNP Deputy First Minister Kate Forbes has said she was the frontrunner for the SNP leadership until she publicly revealed her views on same-sex marriage, and claims she was advised to lie about her opinions.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cp8lrd5mnm0o",
-          "publishedAt": "2026-07-01"
+          "url": "https://www.bbc.co.uk/news/articles/c2ky31qelgzo",
+          "publishedAt": "2026-07-02"
         },
         {
-          "title": "Commons Officials: No Evidence Murrell Stole Taxpayer Money",
-          "summary": "House of Commons officials signalled no reason to believe former SNP CEO Peter Murrell misappropriated taxpayer funds, with the Clerk of the House confirming no concerns had been raised.",
-          "source": "Herald Scotland",
-          "url": "https://www.heraldscotland.com/news/national/26245947.no-concerns-raised-murrell-stealing-taxpayer-money-commons-says/",
-          "publishedAt": "2026-07-01"
-        },
-        {
-          "title": "Kate Forbes, Christian Conscience and Scotland's New Culture War",
-          "summary": "Analysis explores how Deputy First Minister Kate Forbes's Christianity continues to generate public debate in Scotland, almost a year after she announced plans to leave frontline politics.",
-          "source": "Herald Scotland",
-          "url": "https://www.heraldscotland.com/politics/holyrood/26245377.kate-forbes-christian-conscience-scotlands-new-culture-war/",
-          "publishedAt": "2026-07-01"
+          "title": "Is Andy Burnham simply Labour's Boris Johnson? SNP seizes on devolution comments",
+          "summary": "The Herald Scotland analyses whether Andy Burnham's comments on devolution have handed the SNP an open goal, with the presumptive PM seen as making the case for Scottish independence through his centralising instincts.",
+          "source": "The Herald Scotland",
+          "url": "https://www.heraldscotland.com/politics/viewpoint/26244933.andy-burnham-simply-labours-boris-johnson/",
+          "publishedAt": "2026-07-02"
         }
       ]
     },
@@ -160,11 +160,18 @@
       "description": "Government reshuffles, appointments & cross-department policy",
       "stories": [
         {
-          "title": "'Remaking the State' — Government Sets Out Public Sector Reform Agenda",
-          "summary": "A minister delivered a speech at the Re:State Annual Conference in London on 1 July 2026, setting out the government's agenda for remaking public services and state institutions.",
+          "title": "Get Britain Working: Update on the Jobs and Careers Service",
+          "summary": "The government published an update on the Jobs and Careers Service, outlining how local labour market plans will integrate partners to support employment and earnings, as part of the broader 'Get Britain Working' agenda.",
           "source": "GOV.UK",
-          "url": "https://www.gov.uk/government/speeches/remaking-the-state",
-          "publishedAt": "2026-07-01"
+          "url": "https://www.gov.uk/government/publications/get-britain-working-an-update-on-the-jobs-and-careers-service/get-britain-working-an-update-on-the-jobs-and-careers-service",
+          "publishedAt": "2026-07-02"
+        },
+        {
+          "title": "Environment Secretary Emma Reynolds addresses Groundswell Festival 2026",
+          "summary": "Environment Secretary Emma Reynolds delivered a speech at the Groundswell Festival 2026, setting out the government's approach to sustainable farming and environmental policy.",
+          "source": "GOV.UK",
+          "url": "https://www.gov.uk/government/speeches/environment-secretary-emma-reynolds-groundswell-festival",
+          "publishedAt": "2026-07-02"
         }
       ]
     },
@@ -174,11 +181,18 @@
       "description": "Upcoming or recent election results & polls",
       "stories": [
         {
-          "title": "Reform UK Suffers Run of By-Election Disappointments",
-          "summary": "Reports indicate Reform UK has experienced a series of disappointing by-election results in recent weeks, including a loss in Makerfield — a constituency where the party had previously made strong council gains.",
-          "source": "New Statesman",
-          "url": "https://www.newstatesman.com/politics/2026/07/is-nigel-farage-losing-momentum",
-          "publishedAt": "2026-07-01"
+          "title": "Labour leadership contest triggered — MP issues ultimatum to cabinet members",
+          "summary": "Former Labour minister Catherine West told cabinet members to challenge Keir Starmer for the leadership by Monday or she would do so herself, claiming 10 MPs were ready to back her and triggering a formal contest.",
+          "source": "BBC News",
+          "url": "https://www.bbc.com/news/live/c1428pev1n0t",
+          "publishedAt": "2026-07-02"
+        },
+        {
+          "title": "Local elections handed Reform gains — and triggered Starmer's departure",
+          "summary": "Recent local elections saw significant Reform UK gains that shattered the assumption Reform posed the ultimate threat to Labour, ultimately contributing to the political pressure that has led Starmer to announce he will leave office.",
+          "source": "Various",
+          "url": "https://www.theguardian.com/politics/live/2026/jul/02/keir-starmer-apology-forced-adoption-labour-andy-burnham-uk-politics-latest-news-updates",
+          "publishedAt": "2026-07-02"
         }
       ]
     },
@@ -188,18 +202,18 @@
       "description": "Lords debates, reform & appointments",
       "stories": [
         {
-          "title": "Lords Committee Challenges Government's Earned Settlement Plans",
-          "summary": "A House of Lords committee published a report challenging the government's proposed 'earned settlement' scheme, raising concerns about its implementation — though the report does not block the government from proceeding.",
-          "source": "Faegre Drinker (Lords committee report)",
-          "url": "https://www.faegredrinker.com/en/insights/publications/2026/7/house-of-lords-committee-challenges-governments-earned-settlement-plans",
-          "publishedAt": "2026-07-01"
+          "title": "House of Lords: Motions for Balloted Debate — 3 July 2026",
+          "summary": "The House of Lords published its Order Paper for 3 July 2026, with motions for balloted debates covering a range of policy areas.",
+          "source": "Lords Business — UK Parliament",
+          "url": "https://lordsbusiness.parliament.uk/?sectionId=45&businessPaperDate=2026-07-03",
+          "publishedAt": "2026-07-03"
         },
         {
-          "title": "Lords Debate Bill Targeting Foreign State-Linked Organisations",
-          "summary": "The House of Lords debated amendments to a Bill designed to address the threat posed by foreign state-linked organisations operating in the UK (30 June 2026).",
-          "source": "TheyWorkForYou",
-          "url": "https://www.theyworkforyou.com/lords/?id=2026-06-30a.953.6",
-          "publishedAt": "2026-06-30"
+          "title": "House of Lords Justice & Home Affairs Committee publishes major immigration report",
+          "summary": "The Lords Justice & Home Affairs Committee released a 122-page report scrutinising the government's proposed Immigration and Asylum Bill, which was introduced in the Commons on 30 June 2026.",
+          "source": "UK Parliament",
+          "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10940/",
+          "publishedAt": "2026-07-02"
         }
       ]
     }
