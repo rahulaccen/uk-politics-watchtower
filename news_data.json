@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T06:00:00+01:00",
+  "lastUpdated": "2026-07-04T16:00:00+10:00",
   "topics": [
     {
       "id": "pm-no10",
@@ -7,52 +7,45 @@
       "description": "Prime Minister & Downing Street",
       "stories": [
         {
-          "title": "Starmer says forced adoptions a 'stain on our history' — issues formal state apology",
-          "summary": "Sir Keir Starmer issued a formal government apology on behalf of the British state for historical forced adoptions in England and Wales between 1949 and 1976, affecting an estimated 185,000 babies taken from unmarried mothers.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c20yq332018o",
-          "publishedAt": "2026-07-02"
+          "title": "Keir Starmer resigns — Andy Burnham set to become UK Prime Minister",
+          "summary": "Andy Burnham has confirmed he will run to succeed Keir Starmer as Labour leader and UK Prime Minister after Starmer's resignation. Burnham is widely expected to take office this month.",
+          "source": "Yahoo Finance / AFP",
+          "url": "https://ca.finance.yahoo.com/news/andy-burnham-set-become-uk-015012357.html",
+          "publishedAt": "2026-07-03"
         },
         {
-          "title": "Labour failed to prepare for power, admits PM's former top aide Morgan McSweeney",
-          "summary": "In his first-ever media interview, Morgan McSweeney — Starmer's former chief of staff — admitted Labour was not prepared to govern quickly enough when it took office in 2024, saying he needed to 'move on to a new chapter' in his life.",
+          "title": "Starmer: 'It was really tough to accept my political career was over'",
+          "summary": "In a candid BBC interview, outgoing PM Keir Starmer said he had 'saved' the Labour Party and promised to 'keep my mouth shut' under his successor. He warned Burnham will face the same demands of foreign affairs as any premier.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ce8j2e38zzgo",
-          "publishedAt": "2026-07-02"
+          "url": "https://www.bbc.co.uk/news/articles/c0qy2zxjkwvo",
+          "publishedAt": "2026-07-03"
         },
         {
-          "title": "Keir Starmer's tenure at No. 10 drawing to a close",
-          "summary": "Analysis from The Guardian suggests PM Starmer is in his final days at Downing Street, with the Labour Party facing a leadership contest as his authority wanes following poor local election results.",
+          "title": "Downing Street extends pub hours for England's World Cup campaign",
+          "summary": "The government extended pub opening hours in England after the nation progressed in the World Cup, a decision Downing Street said had to be made quickly once England's qualification was confirmed.",
           "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/2026/jul/02/keir-starmer-england-world-cup-prime-minister",
-          "publishedAt": "2026-07-02"
+          "url": "https://www.theguardian.com/politics/live/2026/jul/03/andy-burnham-says-labour-manifesto-has-room-for-movement-on-tax-uk-politics-live",
+          "publishedAt": "2026-07-03"
         }
       ]
     },
     {
       "id": "parliament",
       "name": "Parliament",
-      "description": "House of Commons, House of Lords, PMQs & Legislation",
+      "description": "House of Commons, debates & legislation",
       "stories": [
         {
-          "title": "Immigration and Asylum Bill 2026 introduced in House of Commons",
-          "summary": "The Immigration and Asylum Bill 2026 was introduced in the House of Commons on 30 June 2026, with its second reading scheduled for 13 July. It implements changes to immigration and asylum policy announced by the government.",
-          "source": "House of Commons Library",
-          "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10940/",
-          "publishedAt": "2026-07-02"
+          "title": "Commons schedule: 6–10 July debates and e-petitions",
+          "summary": "The UK Parliament has published its forthcoming Commons schedule, including Westminster Hall debates on e-petitions selected by the Petitions Committee.",
+          "source": "UK Parliament",
+          "url": "https://www.parliament.uk/business/news/2026/july-2026/coming-up-in-the-commons-6-10-july/",
+          "publishedAt": "2026-07-03"
         },
         {
-          "title": "Commons Business: Debate on ban on trade with illegal Israeli settlements scheduled",
-          "summary": "This week's House of Commons business includes a general debate on 9 July on a ban on trade with illegal Israeli settlements, alongside a debate on the impact of strategic lawsuits against public participation.",
-          "source": "Hansard — UK Parliament",
-          "url": "https://hansard.parliament.uk/Commons/2026-07-02/debates/80B137FB-8C53-4E59-A1D2-4B7B51B8A937/BusinessOfTheHouse",
-          "publishedAt": "2026-07-02"
-        },
-        {
-          "title": "Commonhold and Leasehold Reform — Managing Agents debate in Commons",
-          "summary": "The House of Commons held a debate on Commonhold and Leasehold Reform focusing on managing agents, providing members the opportunity to review the draft Bill and identify measures needed in the final version.",
-          "source": "Hansard — UK Parliament",
-          "url": "https://hansard.parliament.uk/commons/2026-07-02/debates/13818603-8CD4-42FC-BCA6-C04B75CA1E1E/CommonholdAndLeaseholdReformManagingAgents",
+          "title": "Commons debate on extended producer responsibility for glass recycling",
+          "summary": "MPs debated the extended producer responsibility scheme, which is seeing breweries, pubs and other businesses pay twice to recycle glass bottles, raising concerns about its impact on the hospitality sector.",
+          "source": "Hansard / UK Parliament",
+          "url": "https://hansard.parliament.uk/Commons/2026-07-02/debates/6F975411-1D56-4642-8F2F-85AA224AC129/details",
           "publishedAt": "2026-07-02"
         }
       ]
@@ -60,76 +53,84 @@
     {
       "id": "labour",
       "name": "Labour Party",
-      "description": "Party news, policy & internal politics",
+      "description": "Labour Party news, policy & internal politics",
       "stories": [
         {
-          "title": "Labour was not prepared to govern in 2024, says Morgan McSweeney",
-          "summary": "Starmer's former chief of staff gave his first public interview admitting political mistakes and revealed that Trump shared theories about wind turbines with him. McSweeney acknowledged Labour failed to deliver quickly enough after winning the 2024 election.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/2026/jul/02/labour-was-not-prepared-to-govern-in-2024-says-morgan-mcsweeney",
-          "publishedAt": "2026-07-02"
-        },
-        {
-          "title": "Andy Burnham emerges as frontrunner in Labour leadership race",
-          "summary": "Andy Burnham, the Manchester Mayor, has become the frontrunner to succeed Keir Starmer as Labour leader and Prime Minister. Former Labour MP Joan Walley praised Burnham's time in Manchester as providing a different perspective for Westminster.",
+          "title": "Labour general secretary Hollie Ridley to stand down after party conference",
+          "summary": "Hollie Ridley, credited with organising the ground campaign behind Labour's 2024 landslide, has announced she will step down as general secretary after the party conference. She said she was making way for a successor to work alongside the new leader.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c0ey7921pvyo",
-          "publishedAt": "2026-07-02"
+          "url": "https://www.bbc.co.uk/news/articles/cly9xlgkyz5o",
+          "publishedAt": "2026-07-03"
         },
         {
-          "title": "'The shame is ours': Starmer issues formal state apology over forced adoptions",
-          "summary": "PM Keir Starmer apologised for the state's role in the forced adoption of an estimated 185,000 babies from unmarried mothers between 1949 and 1976. The Guardian's live politics blog covered the announcement extensively.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/live/2026/jul/02/keir-starmer-apology-forced-adoption-labour-andy-burnham-uk-politics-latest-news-updates",
-          "publishedAt": "2026-07-02"
+          "title": "Burnham rules out calling an early general election as PM",
+          "summary": "Andy Burnham, the newly elected MP for Makerfield and expected next PM, has ruled out calling an early general election and confirmed he will stick to the 2024 Labour manifesto. He also indicated backing for electoral reform.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c982r5z7v0no",
+          "publishedAt": "2026-07-03"
+        },
+        {
+          "title": "Labour MPs seek cap on political donations",
+          "summary": "A group of Labour MPs are pushing for a cap on political donations, believing the measure will be backed by dozens of colleagues and likely next PM Andy Burnham.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c3wy268q48po",
+          "publishedAt": "2026-07-03"
         }
       ]
     },
     {
       "id": "conservatives",
       "name": "Conservative Party",
-      "description": "Party news, leadership & opposition",
+      "description": "Conservative Party news, leadership & opposition",
       "stories": [
         {
-          "title": "Kemi Badenoch seeks advice from former Tory leaders to boost PMQs performance",
-          "summary": "Conservative leader Kemi Badenoch has spoken to all her living predecessors — except one — as she seeks to sharpen her performance at Prime Minister's Questions. Boris Johnson reportedly cautioned that Nigel Farage comes with the 'whiff of sulphur'.",
-          "source": "The Times",
-          "url": "https://www.thetimes.co.uk/uk/politics/article/kemi-badenoch-advice-conservative-leaders-jft355pm5",
-          "publishedAt": "2026-07-02"
+          "title": "Badenoch attacks Burnham for 'shrinking from scrutiny'",
+          "summary": "Conservative leader Kemi Badenoch launched a pointed attack on Andy Burnham, accusing the Labour frontrunner of avoiding traditional media questions and dodging scrutiny as he closes in on the premiership.",
+          "source": "ITV Politics / Instagram",
+          "url": "https://www.instagram.com/reel/DaVcQibDHie/",
+          "publishedAt": "2026-07-03"
+        },
+        {
+          "title": "Badenoch on the campaign trail in Hertfordshire",
+          "summary": "The Conservative leader visited Hertfordshire as part of her ongoing effort to rebuild the party, meeting local supporters ahead of the Manchester mayor by-election.",
+          "source": "GB News / Facebook",
+          "url": "https://www.facebook.com/GBNewsOnline/posts/watch-kemi-badenoch-meets-the-tallest-tory-while-in-hertfordshireshe-thanked-the/1555810859891975/",
+          "publishedAt": "2026-07-03"
         }
       ]
     },
     {
       "id": "lib-dems",
       "name": "Liberal Democrats",
-      "description": "Party news & policy positions",
-      "stories": []
+      "description": "Lib Dem party news & policy",
+      "stories": [
+        {
+          "title": "Lib Dems score three council by-election wins against Conservatives",
+          "summary": "The Liberal Democrats gained seats from the Conservatives in Powys and held strong in the Cotswolds in recent local council by-elections, extending their run of success at Conservative expense.",
+          "source": "Liberal Democrats / Facebook",
+          "url": "https://www.facebook.com/libdems/posts/three-big-lib-dem-wins-gaining-from-the-conservatives-in-powys-and-holding-stron/1605701070914555/",
+          "publishedAt": "2026-07-03"
+        }
+      ]
     },
     {
       "id": "reform-uk",
       "name": "Reform UK",
-      "description": "Nigel Farage & party news",
+      "description": "Reform UK & Nigel Farage",
       "stories": [
         {
-          "title": "Nigel Farage reported to parliamentary standards watchdog over alleged 'crypto lobbying'",
-          "summary": "The parliamentary standards commissioner has been asked to investigate Reform UK leader Nigel Farage after a private meeting he held with the Bank of England governor raised concerns about undisclosed crypto lobbying.",
+          "title": "Reform UK-led council fails to attract any sponsors for union flag scheme",
+          "summary": "A Reform UK-led local council's initiative to fly union flags — backed by Lee Anderson and Robert Jenrick — has failed to attract any sponsors, raising questions about the party's grassroots credibility in local government.",
           "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/2026/jul/02/nigel-farage-reported-standards-watchdog-alleged-crypto-lobbying",
-          "publishedAt": "2026-07-02"
+          "url": "https://www.theguardian.com/politics/brexit-party",
+          "publishedAt": "2026-07-03"
         },
         {
-          "title": "Bitcoin firm advertised by Nigel Farage loses 15% of asset value",
-          "summary": "A bitcoin treasury company promoted by Farage has seen its assets plunge by 15%, with finance experts warning against investing in such companies. The news adds to scrutiny of Farage's paid promotional activities.",
+          "title": "Manchester mayor by-election a key test for Reform UK",
+          "summary": "The 'biggest ever by-election' — for Manchester mayor — will test whether Reform UK can convert national polling support into regional electoral wins, as Burnham's allies prepare for the race.",
           "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/2026/jul/02/bitcoin-firm-advertised-by-nigel-farage-loses-15-percent-asset-value",
-          "publishedAt": "2026-07-02"
-        },
-        {
-          "title": "Farage paid £270,000 for 12 hours' work promoting gold bullion company",
-          "summary": "An investigation reveals Nigel Farage was paid £270,000 for just 12 hours of work promoting Direct Bullion, raising questions about financial conflicts of interest for the Reform UK leader.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/2026/jul/02/explainer-nigel-farage-paid-promote-gold-bullion-company",
-          "publishedAt": "2026-07-02"
+          "url": "https://www.theguardian.com/politics/2026/jul/03/hugely-significant-biggest-ever-byelection-will-test-nations-mood-and-burnhams-credentials",
+          "publishedAt": "2026-07-03"
         }
       ]
     },
@@ -139,18 +140,25 @@
       "description": "Scottish National Party & Scottish politics",
       "stories": [
         {
-          "title": "Kate Forbes: I was 'slam dunk' for SNP leadership until revealing views on same-sex marriage",
-          "summary": "Former SNP Deputy First Minister Kate Forbes has said she was the frontrunner for the SNP leadership until she publicly revealed her views on same-sex marriage, and claims she was advised to lie about her opinions.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c2ky31qelgzo",
-          "publishedAt": "2026-07-02"
+          "title": "New Scottish Parliament Presiding Officer Kenneth Gibson meets King Charles",
+          "summary": "Cunninghame North MSP Kenneth Gibson was formally received by King Charles III in his new role as Presiding Officer of the Scottish Parliament following recent Holyrood elections.",
+          "source": "The Herald Scotland",
+          "url": "https://www.heraldscotland.com/news/26249431.cunninghame-north-msp-audience-king-charles-holyrood/",
+          "publishedAt": "2026-07-03"
         },
         {
-          "title": "Is Andy Burnham simply Labour's Boris Johnson? SNP seizes on devolution comments",
-          "summary": "The Herald Scotland analyses whether Andy Burnham's comments on devolution have handed the SNP an open goal, with the presumptive PM seen as making the case for Scottish independence through his centralising instincts.",
+          "title": "Kate Forbes: 'I was slam dunk for SNP leader until gay marriage views'",
+          "summary": "Kate Forbes has claimed she was seen as the obvious frontrunner to lead the SNP until she publicly stated her conservative Christian views on gay marriage, which she says cost her the leadership.",
           "source": "The Herald Scotland",
-          "url": "https://www.heraldscotland.com/politics/viewpoint/26244933.andy-burnham-simply-labours-boris-johnson/",
-          "publishedAt": "2026-07-02"
+          "url": "https://www.heraldscotland.com/news/26250359.slam-dunk-snp-leader-gay-marriage-comments-claims-kate-forbes/",
+          "publishedAt": "2026-07-03"
+        },
+        {
+          "title": "Scrutiny is more important than ever in the new Holyrood session",
+          "summary": "With the SNP remaining the largest party but significant changes in composition, analysis suggests the new Scottish Parliament session demands stronger scrutiny of government as Reform UK establishes a presence in Holyrood.",
+          "source": "The Herald Scotland",
+          "url": "https://www.heraldscotland.com/news/26252052.scrutiny-never-important-session-holyrood/",
+          "publishedAt": "2026-07-03"
         }
       ]
     },
@@ -160,39 +168,32 @@
       "description": "Government reshuffles, appointments & cross-department policy",
       "stories": [
         {
-          "title": "Get Britain Working: Update on the Jobs and Careers Service",
-          "summary": "The government published an update on the Jobs and Careers Service, outlining how local labour market plans will integrate partners to support employment and earnings, as part of the broader 'Get Britain Working' agenda.",
+          "title": "Sir Charlie Mayfield appointed Co-Chair of Keep Britain Working Vanguard Phase",
+          "summary": "The Government has appointed Sir Charlie Mayfield to co-chair the Keep Britain Working Vanguard Phase alongside Secretaries of State for Work and Pensions, as part of a cross-department push to improve employment outcomes.",
           "source": "GOV.UK",
-          "url": "https://www.gov.uk/government/publications/get-britain-working-an-update-on-the-jobs-and-careers-service/get-britain-working-an-update-on-the-jobs-and-careers-service",
-          "publishedAt": "2026-07-02"
-        },
-        {
-          "title": "Environment Secretary Emma Reynolds addresses Groundswell Festival 2026",
-          "summary": "Environment Secretary Emma Reynolds delivered a speech at the Groundswell Festival 2026, setting out the government's approach to sustainable farming and environmental policy.",
-          "source": "GOV.UK",
-          "url": "https://www.gov.uk/government/speeches/environment-secretary-emma-reynolds-groundswell-festival",
-          "publishedAt": "2026-07-02"
+          "url": "https://www.gov.uk/government/publications/keep-britain-working-vanguard-phase-terms-of-reference/co-chair-of-the-keep-britain-working-vanguard-phase-terms-of-reference",
+          "publishedAt": "2026-07-03"
         }
       ]
     },
     {
       "id": "elections",
       "name": "Elections & By-elections",
-      "description": "Upcoming or recent election results & polls",
+      "description": "Elections, by-elections, polls & results",
       "stories": [
         {
-          "title": "Labour leadership contest triggered — MP issues ultimatum to cabinet members",
-          "summary": "Former Labour minister Catherine West told cabinet members to challenge Keir Starmer for the leadership by Monday or she would do so herself, claiming 10 MPs were ready to back her and triggering a formal contest.",
-          "source": "BBC News",
-          "url": "https://www.bbc.com/news/live/c1428pev1n0t",
-          "publishedAt": "2026-07-02"
+          "title": "'Biggest ever by-election' to test Burnham's credentials and nation's mood",
+          "summary": "The Manchester mayor by-election is being described as the largest by-election in British history and will be a major test of Andy Burnham's ability to turn the tide against Reform UK as he prepares to take office as PM.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/jul/03/hugely-significant-biggest-ever-byelection-will-test-nations-mood-and-burnhams-credentials",
+          "publishedAt": "2026-07-03"
         },
         {
-          "title": "Local elections handed Reform gains — and triggered Starmer's departure",
-          "summary": "Recent local elections saw significant Reform UK gains that shattered the assumption Reform posed the ultimate threat to Labour, ultimately contributing to the political pressure that has led Starmer to announce he will leave office.",
-          "source": "Various",
-          "url": "https://www.theguardian.com/politics/live/2026/jul/02/keir-starmer-apology-forced-adoption-labour-andy-burnham-uk-politics-latest-news-updates",
-          "publishedAt": "2026-07-02"
+          "title": "Lib Dems gain from Conservatives in Powys council by-elections",
+          "summary": "The Liberal Democrats won three council by-election seats, continuing their strong record of gains from the Conservatives in local contests.",
+          "source": "Liberal Democrats",
+          "url": "https://www.facebook.com/libdems/posts/three-big-lib-dem-wins-gaining-from-the-conservatives-in-powys-and-holding-stron/1605701070914555/",
+          "publishedAt": "2026-07-03"
         }
       ]
     },
@@ -202,18 +203,25 @@
       "description": "Lords debates, reform & appointments",
       "stories": [
         {
-          "title": "House of Lords: Motions for Balloted Debate — 3 July 2026",
-          "summary": "The House of Lords published its Order Paper for 3 July 2026, with motions for balloted debates covering a range of policy areas.",
-          "source": "Lords Business — UK Parliament",
-          "url": "https://lordsbusiness.parliament.uk/?sectionId=45&businessPaperDate=2026-07-03",
+          "title": "House of Lords debates Nature's Rights Bill",
+          "summary": "The House of Lords held a debate on 3 July on the Nature's Rights Bill (HL), with Green peer Natalie Bennett arguing that nature's rights are an essential foundation for a healthy, secure future.",
+          "source": "Hansard / UK Parliament",
+          "url": "https://hansard.parliament.uk/lords/2026-07-03/debates/492857BC-EE3A-496F-A023-A92E7670954E/Nature%E2%80%99SRightsBill(HL)",
           "publishedAt": "2026-07-03"
         },
         {
-          "title": "House of Lords Justice & Home Affairs Committee publishes major immigration report",
-          "summary": "The Lords Justice & Home Affairs Committee released a 122-page report scrutinising the government's proposed Immigration and Asylum Bill, which was introduced in the Commons on 30 June 2026.",
-          "source": "UK Parliament",
-          "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10940/",
+          "title": "Lords debate live music industry support",
+          "summary": "On 2 July, the House of Lords held a question for short debate on the live music sector, raising concerns about the pressures facing venues and artists across the UK.",
+          "source": "TheyWorkForYou / Hansard",
+          "url": "https://www.theyworkforyou.com/lords/?id=2026-07-02a.1157.0",
           "publishedAt": "2026-07-02"
+        },
+        {
+          "title": "Lords Chamber sitting on 3 July — ODA cuts and welfare debates",
+          "summary": "The Lords Chamber was sitting on 3 July, with peers expected to question the government on official development assistance cuts and broader welfare pressures affecting women and girls globally.",
+          "source": "Lords Library / Parallel Parliament",
+          "url": "https://www.parallelparliament.co.uk/live/2026-07-03/lords-chamber",
+          "publishedAt": "2026-07-03"
         }
       ]
     }
