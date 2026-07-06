@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T16:00:00+10:00",
+  "lastUpdated": "2026-07-06T16:00:00+10:00",
   "topics": [
     {
       "id": "pm-no10",
@@ -7,46 +7,46 @@
       "description": "Prime Minister & Downing Street",
       "stories": [
         {
-          "title": "Keir Starmer: I am most proud of lifting two-child benefit cap",
-          "summary": "Prime Minister Keir Starmer has listed lifting the two-child benefit cap among the highlights of his time in office, as he prepares to leave Downing Street. Starmer took to social media to reflect on his tenure's key achievements.",
-          "source": "The Times",
-          "url": "https://www.thetimes.co.uk/uk/politics/article/keir-starmer-proud-lifting-two-child-benefit-cap-vfqjf5plw",
-          "publishedAt": "2026-07-05"
+          "title": "Starmer Resigns — Burnham Poised to Succeed as PM",
+          "summary": "Keir Starmer resigned on 22 June 2026 after a vote of no confidence, saying his successor would face 'a battle for the soul of the nation.' Andy Burnham is the clear frontrunner to become Labour leader and Prime Minister.",
+          "source": "Yahoo News / Sky News",
+          "url": "https://ca.news.yahoo.com/starmer-says-successor-burnham-faces-105218706.html",
+          "publishedAt": "2026-07-06"
         },
         {
-          "title": "Burnham will change No 10 'boys club' briefing culture, says Lucy Powell",
-          "summary": "Deputy Labour leader Lucy Powell says No 10 must become more meritocratic as party's female MPs press Andy Burnham on gender balance ahead of his expected arrival as Prime Minister.",
+          "title": "Lucy Powell Speaks on Why Starmer Stepped Down",
+          "summary": "Deputy Labour leader Lucy Powell addressed the media on why Sir Keir Starmer decided to resign as Prime Minister, as the Labour leadership contest heats up.",
+          "source": "Sky News",
+          "url": "https://news.sky.com/video/why-did-keir-starmer-resign-as-pm-13560622",
+          "publishedAt": "2026-07-06"
+        },
+        {
+          "title": "Burnham Faces Defence Spending Challenge at No. 10",
+          "summary": "A minister called on Andy Burnham, expected next PM, to show a credible path to meeting NATO's 3.5% of GDP defence spending target.",
           "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/2026/jul/04/burnham-will-change-no-10-boys-club-briefing-culture-says-lucy-powell",
-          "publishedAt": "2026-07-04"
-        },
-        {
-          "title": "Can Andy Burnham's devolution promises work in Yorkshire?",
-          "summary": "Andy Burnham is promising to deliver 'the biggest rebalancing of power our country has ever seen' as he prepares to take over as PM. The BBC examines whether his devolution pledges can work across England.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cqx1d84lrn2o",
-          "publishedAt": "2026-07-05"
+          "url": "https://www.theguardian.com/politics/labour",
+          "publishedAt": "2026-07-06"
         }
       ]
     },
     {
       "id": "parliament",
       "name": "Parliament",
-      "description": "House of Commons, House of Lords, PMQs & Legislation",
+      "description": "House of Commons, House of Lords & Legislation",
       "stories": [
         {
-          "title": "What's coming up in Parliament this week? 6–9 July 2026",
-          "summary": "MPs will consider Lords amendments to the National Security (State Threats) Bill this week, while the Conservatives will choose the subject of the second Opposition Day debate. The Treasury Committee will also question Defence Ministers on defence spending.",
-          "source": "Hansard Society",
-          "url": "https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-6-july-2026",
-          "publishedAt": "2026-07-05"
+          "title": "Commons Agenda 6–10 July: E-Petitions and Defence Scrutiny",
+          "summary": "The House of Commons sits this week with Westminster Hall debates on e-petitions, and the Treasury Committee questioning Defence Ministers on the new Defence Investment Plan.",
+          "source": "UK Parliament",
+          "url": "https://www.parliament.uk/business/news/2026/july-2026/coming-up-in-the-commons-6-10-july/",
+          "publishedAt": "2026-07-06"
         },
         {
-          "title": "Lords amendments to National Security (State Threats) Bill head to Commons",
-          "summary": "The House of Commons will review amendments passed by the House of Lords to the National Security (State Threats) Bill, a key piece of national security legislation. This marks a key stage in the bill's parliamentary passage.",
+          "title": "Parliament Week 6–9 July: Outdoor Education Bill and School Regulation",
+          "summary": "This week includes a 10-Minute Rule Bill on Outdoor Education in the Commons and a Lords debate on school regulation following Galaxy Global academy closures.",
           "source": "Hansard Society",
           "url": "https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-6-july-2026",
-          "publishedAt": "2026-07-05"
+          "publishedAt": "2026-07-06"
         }
       ]
     },
@@ -56,25 +56,25 @@
       "description": "Labour Party news, policy & internal politics",
       "stories": [
         {
-          "title": "The massive scramble behind the scenes before the new PM arrives",
-          "summary": "As Starmer prepares to leave office, there is a 'bunfight for jobs' in Whitehall with senior figures positioning themselves ahead of Andy Burnham's arrival as Prime Minister, according to BBC political editor Laura Kuenssberg.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cj4g0n0p15xo",
-          "publishedAt": "2026-07-05"
+          "title": "2026 Labour Leadership Election Underway — Seven Candidates Standing",
+          "summary": "Triggered by Starmer's 22 June resignation, the Labour leadership contest has attracted seven candidates. Andy Burnham is the frontrunner after his decisive Makerfield by-election win.",
+          "source": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/2026_Labour_Party_leadership_election",
+          "publishedAt": "2026-07-06"
         },
         {
-          "title": "Labour should win next election under Burnham after work already done, Starmer says",
-          "summary": "Outgoing PM Keir Starmer has expressed confidence that Labour will win the next general election under Andy Burnham, saying the groundwork has already been laid.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/keir-starmer/2026/jul/04/all",
-          "publishedAt": "2026-07-04"
-        },
-        {
-          "title": "Burnham's funding gap: what state are UK finances in for the PM-in-waiting?",
-          "summary": "Analysis of the financial challenges Andy Burnham will inherit as he prepares to become Prime Minister, with questions raised about the state of public finances.",
+          "title": "Burnham's Fiscal Challenge: State of UK Finances Examined",
+          "summary": "Analysis examines the fiscal inheritance awaiting the likely next PM, including inherited debt, defence commitments, and uncosted manifesto pledges.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com/politics/labour+economy",
-          "publishedAt": "2026-07-04"
+          "publishedAt": "2026-07-03"
+        },
+        {
+          "title": "Burnham's Rise Could Boost Liverpool Jobs via Devolution Push",
+          "summary": "Andy Burnham's advocacy for greater devolution and investment in the North is seen as a potential catalyst for economic development, including in his native Merseyside.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ckg03072exxo",
+          "publishedAt": "2026-07-06"
         }
       ]
     },
@@ -84,17 +84,17 @@
       "description": "Conservative Party, Kemi Badenoch & opposition",
       "stories": [
         {
-          "title": "'No way back,' Kemi Badenoch tells defectors begging to return",
-          "summary": "Conservative Party leader Kemi Badenoch has told politicians and supporters who abandoned the party for Reform UK that they will not be allowed to return, taking a firm line against defectors.",
-          "source": "PM News",
-          "url": "https://pmnewsnigeria.com/2026/07/05/no-way-back-kemi-badenoch-tells-defectors-begging-to-return/",
-          "publishedAt": "2026-07-05"
+          "title": "Badenoch: Burnham Should Sack Miliband, Not Make Him Chancellor",
+          "summary": "Conservative leader Kemi Badenoch urged any incoming Labour PM to dismiss Ed Miliband, saying net zero policies are destroying UK energy infrastructure and competitiveness.",
+          "source": "Facebook / Kemi Badenoch",
+          "url": "https://www.facebook.com/kemibadenoch/posts/if-andy-burnham-has-any-sense-he-will-sack-ed-miliband-not-make-him-chancellor/1586941982798506/",
+          "publishedAt": "2026-07-06"
         },
         {
-          "title": "Conservatives to set second Opposition Day debate agenda",
-          "summary": "With Parliament returning this week, the Conservative Party will choose the subject for the second Opposition Day debate, a key opportunity for the official opposition to set the parliamentary agenda.",
-          "source": "Hansard Society",
-          "url": "https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-6-july-2026",
+          "title": "Tories Mark Two Years of Labour Government",
+          "summary": "The Conservative Party marked two years since the 2024 general election result, highlighting what they describe as Labour's failures and positioning Badenoch as the alternative PM.",
+          "source": "Conservative Party",
+          "url": "https://www.facebook.com/conservatives/posts/remember-keir-starmeron-this-day-two-years-ago-he-became-britains-prime-minister/1617491426400796/",
           "publishedAt": "2026-07-05"
         }
       ]
@@ -102,42 +102,49 @@
     {
       "id": "lib-dems",
       "name": "Liberal Democrats",
-      "description": "Liberal Democrats & Ed Davey",
+      "description": "Lib Dem news & policy positions",
       "stories": [
         {
-          "title": "Lib Dems mark two years since record-breaking 2024 General Election",
-          "summary": "The Liberal Democrats are marking the second anniversary of their record-breaking 2024 general election result, with MPs highlighting policy wins including progress on LGBT veterans compensation.",
-          "source": "Liberal Democrats",
-          "url": "https://www.facebook.com/libdems/videos/two-years-on-from-our-record-breaking-general-election-heres-what-our-hard-worki/1540976667729588/",
-          "publishedAt": "2026-07-04"
+          "title": "Lib Dems Claim Credit for Extended Pub Hours During World Cup",
+          "summary": "The Liberal Democrats claimed they pressured PM Starmer into passing last-minute legislation extending pub closing times during England's World Cup matches, calling it a win for their campaigning.",
+          "source": "Politico",
+          "url": "https://www.politico.com/live-updates/2026/07/05/world-cup-2026/lib-dems-claim-extra-time-win-england-mexico-pubs-00987273",
+          "publishedAt": "2026-07-05"
+        },
+        {
+          "title": "Ipsos Poll: Lib Dems Fall One Point as Reform Leads",
+          "summary": "A new Ipsos voting intention poll shows Reform on 26% and Labour on 24%, with the Liberal Democrats falling one percentage point as Reform's overall lead narrows by 4 points since May.",
+          "source": "Ipsos / UK Politics",
+          "url": "https://www.reddit.com/r/ukpolitics/comments/1uo658o/new_headline_voting_intention_from_ipsos_reform/",
+          "publishedAt": "2026-07-06"
         }
       ]
     },
     {
       "id": "reform-uk",
       "name": "Reform UK",
-      "description": "Nigel Farage & Reform UK",
+      "description": "Reform UK & Nigel Farage",
       "stories": [
         {
-          "title": "Farage denies rules broken after reports benefits from ally were not declared",
-          "summary": "Nigel Farage is facing scrutiny after The Sunday Times reported he received support from George Cottrell, who was convicted of fraud in the US, without declaring it. Farage denies breaking the rules.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cy0424end7vo",
+          "title": "Farage Referred to Parliamentary Standards Watchdog Over Undeclared Gifts",
+          "summary": "Nigel Farage has been referred to the parliamentary standards watchdog after reports he failed to declare benefits — including a reported £5m in support — from George Cottrell, a convicted fraudster and crypto entrepreneur. Farage denies wrongdoing.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/uk/uks-farage-denies-rules-broken-after-report-undeclared-benefits-2026-07-05/",
           "publishedAt": "2026-07-05"
         },
         {
-          "title": "Revealed: Nigel Farage secretly funded by convicted criminal",
-          "summary": "The Times investigation reveals the Reform UK leader did not declare benefits including staff, security and housing provided by crypto-gambler George Cottrell, who was convicted of fraud in the United States.",
-          "source": "The Times",
-          "url": "https://www.thetimes.co.uk/uk/politics/article/revealed-nigel-farage-secretly-funded-by-convicted-criminal-j0brtrlnk",
-          "publishedAt": "2026-07-05"
-        },
-        {
-          "title": "Could Farage quit? Questions swirl over Reform UK leader's future",
-          "summary": "The Guardian reports Farage is under pressure from multiple directions: a £5m undeclared gift, recent byelection losses, and the rise of rival party Restore. Allies dismiss the exit speculation as 'wishful thinking'.",
+          "title": "Could Farage Quit? Pressure Mounts as Restore Party Rises",
+          "summary": "Speculation is growing about Farage's future as Reform leader amid the Cottrell gifts scandal, by-election losses, and the emergence of rival party Restore. Reform allies say exit talk is 'wishful thinking'.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/05/nigel-farage-reform-uk-speculation-future",
           "publishedAt": "2026-07-05"
+        },
+        {
+          "title": "Government Announces £100k Cap on Political Donations from Overseas Voters",
+          "summary": "Ministers announced a crackdown on large political donations as part of a review of political funding integrity, with overseas voters moving to the UK to face a £100,000 donations cap.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c0jyyw59gpjo",
+          "publishedAt": "2026-07-06"
         }
       ]
     },
@@ -147,74 +154,67 @@
       "description": "Scottish National Party & Scottish politics",
       "stories": [
         {
-          "title": "Stop the War criticises SNP's 'crazy' response to defence investment plan",
-          "summary": "The SNP's opposition to Keir Starmer's defence investment plan has drawn criticism from within the peace movement itself, with Stop the War calling the response an 'affront' to party supporters who joined on the back of peace principles.",
-          "source": "Herald Scotland",
-          "url": "https://www.heraldscotland.com/news/26252469.stop-war-snps-crazy-response-defence-investment-plan/",
-          "publishedAt": "2026-07-05"
+          "title": "Police Scotland Probe Yes Scotland's Missing £1.5m",
+          "summary": "Police Scotland are investigating a formal complaint alleging that £1.5 million raised during the 2014 Yes Scotland independence campaign is unaccounted for.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ce955jp3jz9o",
+          "publishedAt": "2026-07-06"
         },
         {
-          "title": "John Swinney lobs Stephen Flynn a food price cap hand grenade",
-          "summary": "First Minister John Swinney has put Stephen Flynn in a difficult position over food pricing policy, with political tensions rising in Scotland over the SNP's post-election direction.",
-          "source": "The Times",
-          "url": "https://www.thetimes.com/uk/scotland/article/john-swinney-stephen-flynn-food-price-cap-jlp77lmh3",
-          "publishedAt": "2026-07-05"
+          "title": "Burnham Privately Rules Out Second Independence Referendum",
+          "summary": "Andy Burnham has reportedly told Scottish Labour MPs he will flatly reject indyref2 if he becomes Prime Minister, prompting a backlash from the SNP.",
+          "source": "Herald Scotland",
+          "url": "https://www.heraldscotland.com/news/26253971.indyref2-andy-burnham-rules-new-vote-independence/",
+          "publishedAt": "2026-07-06"
         },
         {
-          "title": "Scottish Conservative MSP demands answers from Swinney over Monklands Hospital risks",
-          "summary": "A Scottish Conservative MSP is demanding answers from First Minister John Swinney over when risks to the £2.1bn Monklands Hospital replacement were flagged, accusing the SNP government of a cover-up.",
+          "title": "SNP: Burnham's Devolution Claims 'Unravelling' Over IndyRef2 Stance",
+          "summary": "The SNP has accused Andy Burnham of contradicting his devolution agenda by opposing a second independence referendum, saying his claims are 'unravelling'.",
           "source": "Herald Scotland",
-          "url": "https://www.facebook.com/heraldscotland/posts/a-scottish-conservative-msp-is-demanding-answers-from-john-swinney-over-when-ris/1457223839758269/",
-          "publishedAt": "2026-07-05"
+          "url": "https://www.heraldscotland.com/news/national/26254140.andy-burnham-devolution-claims-unravelling-due-indyref-opposition-snp-says/",
+          "publishedAt": "2026-07-06"
         }
       ]
     },
     {
       "id": "cabinet-office",
       "name": "Cabinet Office",
-      "description": "Government reshuffles, appointments & cross-department policy",
+      "description": "Government policy, reshuffles & cross-department announcements",
       "stories": [
         {
-          "title": "Burnham rules out early election and announces 'No 10 North' plans",
-          "summary": "PM-in-waiting Andy Burnham says he has yet to choose his chancellor and wants a 'complete rethink' of UK governance, including his 'No 10 North' proposal to rebalance power from London to the regions.",
-          "source": "Sky News",
-          "url": "https://news.sky.com/story/politics-latest-burnham-starmer-labour-makerfield-by-election-12593360",
+          "title": "UK Tightens Rules on Overseas Political Donations",
+          "summary": "The UK government has tightened rules on overseas political donations to stop foreign money influencing elections, as part of a broader political funding review triggered by a former Reform MP jailed for bribery.",
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/uk/uk-tightens-rules-overseas-political-donations-stop-dodgy-funding-2026-07-05/",
           "publishedAt": "2026-07-05"
         },
         {
-          "title": "Scramble for Whitehall jobs ahead of PM transition",
-          "summary": "Senior civil servants and political advisers are jostling for positions as the transition from Starmer to Burnham begins, with one MP describing it as a 'bunfight for jobs' across Whitehall departments.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cj4g0n0p15xo",
-          "publishedAt": "2026-07-05"
+          "title": "Parliament Week: Treasury Committee to Question Defence Ministers",
+          "summary": "As part of the busy parliamentary week of 6–9 July, the Treasury Committee will question Defence Ministers on spending levels and the recently published Defence Investment Plan.",
+          "source": "Hansard Society",
+          "url": "https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-6-july-2026",
+          "publishedAt": "2026-07-06"
         }
       ]
     },
     {
       "id": "elections",
       "name": "Elections & By-elections",
-      "description": "Upcoming or recent elections, polls & results",
+      "description": "Election results, by-elections & opinion polls",
       "stories": [
         {
-          "title": "Could Farage quit? Reform UK faces pressure after byelection losses",
-          "summary": "Reform UK's Nigel Farage faces mounting pressure including recent byelection losses alongside the funding scandal, with the Guardian reporting questions about his future as party leader.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/05/nigel-farage-reform-uk-speculation-future",
-          "publishedAt": "2026-07-05"
+          "title": "Makerfield By-election: Burnham Wins, Opening Path to Labour Leadership",
+          "summary": "Andy Burnham won the Makerfield by-election on 18 June 2026 with a decisive majority, vacating his Greater Manchester mayoralty to contest the Labour leadership. Labour polled 38%, ahead of Restore (29%) and Reform (24%).",
+          "source": "Politico",
+          "url": "https://www.politico.eu/tag/makerfield-by-election/",
+          "publishedAt": "2026-06-19"
         },
         {
-          "title": "Why voting method change matters in Greater Manchester mayoral poll",
-          "summary": "A polling expert says Labour could benefit most from the return of the Supplementary Votes (SV) system in the Greater Manchester mayoral race, which will decide Andy Burnham's successor as mayor.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ckg0nkk2lrvo",
-          "publishedAt": "2026-07-05"
-        },
-        {
-          "title": "What impact will Andy Burnham have on Greens and Zack Polanski?",
-          "summary": "The Guardian examines how Burnham's elevation to PM could affect the Green Party's electoral prospects, as voters who left Labour for the Greens under Starmer may now return.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/2026/jul/04/impact-andy-burnham-zack-polanski-greens",
-          "publishedAt": "2026-07-04"
+          "title": "New Ipsos Poll: Reform Leads at 26%, Labour Up 4 Points to 24%",
+          "summary": "The latest Ipsos headline voting intention shows Reform at 26% and Labour at 24%, with Reform's lead over Labour narrowing by 4 percentage points since May as the Labour leadership race energises the party.",
+          "source": "Ipsos",
+          "url": "https://www.reddit.com/r/ukpolitics/comments/1uo658o/new_headline_voting_intention_from_ipsos_reform/",
+          "publishedAt": "2026-07-06"
         }
       ]
     },
@@ -224,18 +224,25 @@
       "description": "Lords debates, reform & appointments",
       "stories": [
         {
-          "title": "Burial plots, lobbying transparency and Nature's rights debated in Lords",
-          "summary": "The House of Lords held its first round of debates on 3 July covering topics including burial plots, lobbying transparency, and the concept of rights for nature. Healthcare services were also debated in the upper chamber.",
+          "title": "Railways Bill Debated in Lords This Week",
+          "summary": "The House of Lords is debating the Railways Bill during its 6–9 July sitting, with industry leaders calling for amendments to better support economic growth and private investment.",
           "source": "UK Parliament",
-          "url": "https://www.parliament.uk/business/lords/lords-news/",
-          "publishedAt": "2026-07-03"
+          "url": "https://www.parliament.uk/business/news/2026/july-2026/whats-on-in-the-lords-6-july-9-july/",
+          "publishedAt": "2026-07-06"
         },
         {
-          "title": "Lords amendments to National Security (State Threats) Bill head to MPs",
-          "summary": "The House of Lords has passed amendments to the National Security (State Threats) Bill which will now be considered by the House of Commons this week, marking a key legislative ping-pong moment.",
-          "source": "Hansard Society",
-          "url": "https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-6-july-2026",
-          "publishedAt": "2026-07-05"
+          "title": "Lords to Question Government on West Bank Settlement Land Purchases",
+          "summary": "Lords members will question the government this week on the purchase of settlement land on the West Bank by British citizens and the application of international law.",
+          "source": "UK Parliament",
+          "url": "https://www.parliament.uk/business/news/2026/july-2026/whats-on-in-the-lords-6-july-9-july/",
+          "publishedAt": "2026-07-06"
+        },
+        {
+          "title": "Human Rights Due Diligence Bill Introduced in Lords",
+          "summary": "A mandatory human rights and environmental due diligence bill was introduced in the House of Lords in June, requiring companies to assess and address human rights risks in their supply chains.",
+          "source": "Ropes & Gray",
+          "url": "https://www.ropesgray.com/en/insights/viewpoints/2026/07/102n82u/uk-corporate-human-rights-compliance-developments-four-laws-and-regulations-to",
+          "publishedAt": "2026-07-06"
         }
       ]
     }
