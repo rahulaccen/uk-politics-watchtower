@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T16:00:00+10:00",
+  "lastUpdated": "2026-07-08T16:00:00+10:00",
   "topics": [
     {
       "id": "pm-no10",
@@ -7,25 +7,25 @@
       "description": "Prime Minister & Downing Street",
       "stories": [
         {
-          "title": "Starmer to Rally European Allies at NATO Summit in Ankara",
-          "summary": "Outgoing PM Keir Starmer is stressing British commitment to defence spending at the NATO meeting in Ankara, countering Trump's criticisms of European allies' contributions.",
+          "title": "Starmer accuses Farage of 'desperate stunt' as he announces by-election",
+          "summary": "Outgoing PM Keir Starmer called Nigel Farage's resignation and by-election gambit a 'desperate stunt', saying the public should not be subjected to the cost of a political manoeuvre. Starmer had announced his own resignation as Labour leader on 22 June 2026, with Andy Burnham set to succeed him.",
           "source": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/jul/06/keir-starmer-european-nato-us-ankara-summit",
-          "publishedAt": "2026-07-06"
+          "url": "https://www.theguardian.com/politics/live/2026/jul/07/nigel-farage-reform-uk-donations-investigations-parliament-electoral-commission-defence-nato-keir-starmer-latest-news-updates",
+          "publishedAt": "2026-07-07"
         },
         {
-          "title": "Andy Burnham May Keep Cabinet Details Secret Until He Enters No. 10",
-          "summary": "The PM-in-waiting's planned 'one and done' cabinet announcement has created fears in Whitehall of a political vacuum as the transition approaches.",
-          "source": "The Times",
-          "url": "https://www.thetimes.co.uk/uk/politics/article/andy-burnham-announcement-cabinet-prime-minister-0kkps5jvr",
-          "publishedAt": "2026-07-06"
+          "title": "Andy Burnham set to become UK Prime Minister after Starmer exit",
+          "summary": "Andy Burnham, former Mayor of Greater Manchester, is set to assume the role of Prime Minister following Keir Starmer's resignation as Labour leader on 22 June 2026. A Labour leadership election is underway with Burnham as the frontrunner.",
+          "source": "Yahoo Finance / Investing.com",
+          "url": "https://uk.finance.yahoo.com/news/andy-burnham-set-become-uk-015011301.html",
+          "publishedAt": "2026-07-07"
         },
         {
-          "title": "Trump Barely Knows Who Britain's Next Prime Minister Is",
-          "summary": "Little-known abroad, Andy Burnham faces questions about how he will handle Donald Trump and define a new era of US-UK relations.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/jul/06/dont-mention-the-special-relationship-how-should-uks-next-pm-handle-donald-trump",
-          "publishedAt": "2026-07-06"
+          "title": "Burnham recognised for London's role in UK growth at parliamentary reception",
+          "summary": "Andy Burnham MP attended a London Parliamentary reception, acknowledging London's central role in UK prosperity and growth as he prepares to take office.",
+          "source": "Instagram / Team London",
+          "url": "https://www.instagram.com/p/DagRmwFDOBF/",
+          "publishedAt": "2026-07-08"
         }
       ]
     },
@@ -35,18 +35,25 @@
       "description": "House of Commons, House of Lords, PMQs, debates, legislation",
       "stories": [
         {
-          "title": "National Security (State Threats) Bill Passes Commons with 394 Ayes",
-          "summary": "MPs voted 394-to-agree to Lords Amendment 1 of the National Security (State Threats) Bill on 6 July, progressing the legislation through Parliament.",
-          "source": "UK Parliament",
-          "url": "https://votes.parliament.uk/Votes/Commons/Division/2400",
+          "title": "National Security (State Threats) Bill passes Lords amendment in Commons",
+          "summary": "MPs voted to agree a Lords amendment to the National Security (State Threats) Bill, moving the legislation towards its final form. The Bill deals with espionage, foreign interference and state threats.",
+          "source": "Project Open Gov",
+          "url": "https://projectopengov.org/parliament-and-government-summary-6-july-2026/",
           "publishedAt": "2026-07-06"
         },
         {
-          "title": "Commons Business: Key Debates Scheduled for 6–10 July",
-          "summary": "The week's business includes e-petition debates in Westminster Hall and consideration of several government bills, including the Taxation (Energy and Vehicles) Bill.",
-          "source": "UK Parliament",
-          "url": "https://www.parliament.uk/business/news/2026/july-2026/coming-up-in-the-commons-6-10-july/",
-          "publishedAt": "2026-07-06"
+          "title": "UK Aid Policy: Global Funding Trends debated in Commons",
+          "summary": "MPs debated UK aid policy and global funding trends in the House of Commons on 7 July, with contributions touching on the Labour government's international development priorities.",
+          "source": "Hansard",
+          "url": "https://hansard.parliament.uk/commons/2026-07-07/debates/2A6EA16B-5650-489A-85EB-7B7750725677/UKAidPolicyGlobalFundingTrends",
+          "publishedAt": "2026-07-07"
+        },
+        {
+          "title": "Student Loans Committee Report: 'Broken and Unfair'",
+          "summary": "A House of Commons committee published a report concluding the student loans system is 'broken and unfair', agreeing with students and universities that fundamental reform is needed.",
+          "source": "UK Parliament Committees",
+          "url": "https://committees.parliament.uk/publications/54019/documents/301142/default/",
+          "publishedAt": "2026-07-07"
         }
       ]
     },
@@ -56,25 +63,25 @@
       "description": "Party news, policy, internal politics",
       "stories": [
         {
-          "title": "Andy Burnham Set to Succeed Starmer — 'The Herd is Stampeding'",
-          "summary": "Harriet Harman told Sky News that Andy Burnham will become the next Labour PM as momentum against Keir Starmer has become unstoppable.",
+          "title": "Political rivals vow to boycott Clacton by-election after Farage quits as MP",
+          "summary": "Labour joined the Conservatives, Liberal Democrats and Restore Britain in refusing to field candidates in the Clacton by-election triggered by Nigel Farage. The move amounts to an effective cross-party boycott of what critics called a cynical political manoeuvre.",
           "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/andyburnham",
-          "publishedAt": "2026-07-06"
+          "url": "https://www.theguardian.com/politics/2026/jul/07/nigel-farage-quits-as-mp-amid-scrunity-over-finances-clacton-reform",
+          "publishedAt": "2026-07-07"
         },
         {
-          "title": "Andy Burnham Opposes Second Scottish Independence Referendum",
-          "summary": "The Labour MP expected to succeed Sir Keir Starmer as PM has ruled out agreeing to a second independence vote, angering some Scottish Labour figures.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c74yy1yd340o",
-          "publishedAt": "2026-07-06"
+          "title": "Burnham urged to ditch 'dangerous' UK-US NHS drug deal",
+          "summary": "Andy Burnham is facing pressure ahead of taking office to abandon a controversial UK-US deal on NHS pharmaceutical pricing that critics have labelled dangerous to the health service.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/labour",
+          "publishedAt": "2026-07-07"
         },
         {
-          "title": "Celtic Leaders Doubt Burnham's Devolution Drive Will Go Beyond Words",
-          "summary": "Leaders from Wales, Scotland and Northern Ireland are sceptical about Burnham's devolution commitments after he made missteps in his early pitches to the nations.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/2026/jul/06/celtic-leaders-burnham-devolution-wales-scotland-northern-ireland",
-          "publishedAt": "2026-07-06"
+          "title": "Immigration and Asylum Bill introduced to Parliament",
+          "summary": "The Government introduced a new Immigration and Asylum Bill giving the Home Office powers to recover costs from asylum seekers who have received support, as part of ongoing efforts to reform migration policy.",
+          "source": "Instagram / Parliament coverage",
+          "url": "https://www.instagram.com/p/Dafv7zViuZA/",
+          "publishedAt": "2026-07-07"
         }
       ]
     },
@@ -84,18 +91,18 @@
       "description": "Party news, leadership, opposition",
       "stories": [
         {
-          "title": "Tougher Political Donation Rules Announced Amid Farage Funding Row",
-          "summary": "As the row over Nigel Farage's unregistered donations continues, the government has announced tougher rules on political donations, with Conservatives supporting stricter oversight.",
-          "source": "Sky News",
-          "url": "https://news.sky.com/story/politics-latest-tory-conference-badenoch-starmer-india-protests-terrorism-12593360",
-          "publishedAt": "2026-07-06"
+          "title": "Badenoch says Tories won't stand in 'fake' Clacton by-election",
+          "summary": "Conservative leader Kemi Badenoch called the Clacton by-election 'fake', announcing the party would not field a candidate and criticising Farage for using the public purse to avoid parliamentary scrutiny of his finances.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/live/2026/jul/07/nigel-farage-reform-uk-donations-investigations-parliament-electoral-commission-defence-nato-keir-starmer-latest-news-updates",
+          "publishedAt": "2026-07-07"
         },
         {
-          "title": "Kemi Badenoch Praised in US Press for 'Political Courage'",
-          "summary": "Conservative Party leader Kemi Badenoch is receiving attention in the American press for her principled approach to opposition politics.",
-          "source": "Baltimore Sun",
-          "url": "https://www.baltimoresun.com/2026/07/06/kemi-badenoch-britain-zirkin/",
-          "publishedAt": "2026-07-06"
+          "title": "Conservatives join cross-party boycott of Farage by-election",
+          "summary": "Along with Labour and the Liberal Democrats, the Conservatives have ruled out standing in the Clacton by-election — an unprecedented cross-party move that leaves Farage likely to face only minor party challengers.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c0ly51kzdz3o",
+          "publishedAt": "2026-07-07"
         }
       ]
     },
@@ -105,18 +112,18 @@
       "description": "Party news, policy positions",
       "stories": [
         {
-          "title": "Lib Dems Call on Farage to 'Be Straight with the British People' Over Gifts",
-          "summary": "The Liberal Democrats joined calls for transparency from the Reform UK leader after it emerged benefits from an ally had not been declared to Parliament.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cql11kk90zgo",
-          "publishedAt": "2026-07-06"
+          "title": "Ed Davey: Farage is 'trying to distract' with by-election",
+          "summary": "Liberal Democrat leader Ed Davey accused Nigel Farage of using the Clacton by-election as a distraction from scrutiny of his finances, calling for the by-election to be delayed until after parliamentary investigations into Farage are concluded.",
+          "source": "Sky News",
+          "url": "https://news.sky.com/video/lib-dem-leader-ed-davey-farage-is-trying-to-distract-13561380",
+          "publishedAt": "2026-07-07"
         },
         {
-          "title": "Do the Liberal Democrats Need to Add a Bit of Excitement?",
-          "summary": "Sky's Sam Coates and Politico's Anne McElvoy discussed whether Ed Davey's party needs to develop bolder policy positions to attract new voters.",
-          "source": "Sky News / Politico",
-          "url": "https://www.instagram.com/reel/DacMpxLAb2I/",
-          "publishedAt": "2026-07-06"
+          "title": "Lib Dems refuse to stand in Clacton by-election",
+          "summary": "The Liberal Democrats confirmed they will not field a candidate in the Clacton by-election, saying it would be wrong to spend taxpayers' money on a process Farage is using to evade accountability.",
+          "source": "Sky News",
+          "url": "https://news.sky.com/video/lib-dem-leader-calls-for-farage-by-election-to-take-place-after-investigation-13561375",
+          "publishedAt": "2026-07-07"
         }
       ]
     },
@@ -126,25 +133,25 @@
       "description": "Nigel Farage, party news and announcements",
       "stories": [
         {
-          "title": "Farage Faces Parliamentary Investigation Over £5m Unregistered Crypto Donation",
-          "summary": "The parliamentary standards commissioner is investigating Nigel Farage after a £5m donation from crypto backer Christopher Harborne was not declared; Farage claims the scrutiny is a 'hit job' by the establishment.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/live/2026/jul/06/nigel-farage-reform-unregistered-gift-crypto-christopher-harborne-keir-starmer-labour-andy-burnham-uk-politics-live",
-          "publishedAt": "2026-07-06"
+          "title": "Farage resigns as MP for Clacton and vows to fight by-election amid finances row",
+          "summary": "Nigel Farage announced his resignation as MP for Clacton following reports he failed to declare financial support from an ally and questions over an unregistered £5m interest in his finances. He framed the by-election as a 'people v establishment' contest, saying he would stand again.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c0ly51kzdz3o",
+          "publishedAt": "2026-07-07"
         },
         {
-          "title": "Fraudster George Cottrell Seen at Numerous Reform Events Despite 'No Formal Role'",
-          "summary": "Nigel Farage has been urged to clarify his 'dependence' on Cottrell, a convicted fraudster, who was also present with Farage at events in Abu Dhabi in December.",
+          "title": "Farage fact check: the truth behind five of his resignation statements",
+          "summary": "The Guardian fact-checked five major claims Farage made in his resignation video, finding that several of his accusations against political opponents and the media do not stand up to scrutiny.",
           "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/2026/jul/06/reform-uk-nigel-farage-george-cottrell",
-          "publishedAt": "2026-07-06"
+          "url": "https://www.theguardian.com/politics/2026/jul/07/nigel-farage-fact-check-truth-five-resignation-statements-reform",
+          "publishedAt": "2026-07-07"
         },
         {
-          "title": "Farage is on the Brink — But If He Goes, Labour Can't Rest Easy",
-          "summary": "Commentary suggests Reform's funding scandals could bring down its leader, but cautions that Labour should not be complacent about the political threat Reform represents.",
+          "title": "Electoral Commission to investigate Farage over undeclared gifts",
+          "summary": "Labour asked the Electoral Commission to investigate claims that Farage broke electoral law by not disclosing gifts and financial support from allies, adding to the pressure surrounding his departure from Parliament.",
           "source": "The Guardian",
-          "url": "https://www.theguardian.com/commentisfree/2026/jul/06/farage-on-brink-labour-cant-rest-easy-reform-funding-andy-burnham",
-          "publishedAt": "2026-07-06"
+          "url": "https://www.theguardian.com/politics/live/2026/jul/07/nigel-farage-reform-uk-donations-investigations-parliament-electoral-commission-defence-nato-keir-starmer-latest-news-updates",
+          "publishedAt": "2026-07-07"
         }
       ]
     },
@@ -154,25 +161,25 @@
       "description": "Scottish National Party, Scottish politics",
       "stories": [
         {
-          "title": "Scotland Could Freeze AI Datacentre Projects in Challenge to UK's AI Strategy",
-          "summary": "The Scottish government is considering a sweeping moratorium on new datacentre developments, putting a key plank of the UK's national AI strategy at risk.",
+          "title": "Scotland could freeze datacentre projects in challenge to UK's AI strategy",
+          "summary": "The Scottish Government is considering a sweeping moratorium on building new datacentres, which would put a key plank of the UK's AI strategy at risk and create tension between Holyrood and Westminster over tech investment.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com/uk-news/2026/jul/07/scotland-could-freeze-datacentre-projects-in-challenge-to-uks-ai-strategy",
           "publishedAt": "2026-07-07"
         },
         {
-          "title": "Scotland 'Risks Losing Billions' if AI Datacentre Ban Put in Place",
-          "summary": "Business leaders have slammed the SNP's backing for a temporary ban on AI datacentre developments, warning it could cost Scotland billions in investment.",
-          "source": "Herald Scotland",
-          "url": "https://www.heraldscotland.com/news/26257521.scotland-risks-losing-billions-ai-centre-ban-put-place/",
+          "title": "SNP calls Nigel Farage 'dangerous chancer' after resignation",
+          "summary": "The SNP condemned Farage's resignation and by-election move as the actions of a 'dangerous chancer', accusing him of treating Parliament and democratic institutions with contempt.",
+          "source": "The Herald Scotland",
+          "url": "https://www.heraldscotland.com/news/26260744.snp-call-nigel-farage-dangerous-chancer-chaos-continues-westminster/",
           "publishedAt": "2026-07-07"
         },
         {
-          "title": "Scottish Labour MSP Defies Burnham Over IndyRef2",
-          "summary": "Scottish Labour MSP Paul Sweeney has broken ranks with Andy Burnham after the would-be PM blocked a second independence referendum, deepening tensions in the party.",
-          "source": "Herald Scotland",
-          "url": "https://www.heraldscotland.com/news/26255850.scottish-labour-indyref2-split-msp-defies-burnham/",
-          "publishedAt": "2026-07-06"
+          "title": "SNP independence fund court case launched over donations",
+          "summary": "The SNP faces a legal challenge at the Court of Session as independence donors have launched group proceedings, arguing that donations to the independence fund were misused.",
+          "source": "The Herald Scotland",
+          "url": "https://www.heraldscotland.com/news/26260796.snp-independence-fund-court-case-launched-donations/",
+          "publishedAt": "2026-07-07"
         }
       ]
     },
@@ -182,18 +189,18 @@
       "description": "Government reshuffles, senior appointments, cross-department policy",
       "stories": [
         {
-          "title": "Rycroft Review: Government Responds to Foreign Financial Influence Report",
-          "summary": "The government has published its response to the Rycroft Review, which made recommendations to strengthen UK safeguards against foreign financial influence in political and public life.",
+          "title": "Government announces NHS 10 Year Capital Plan",
+          "summary": "The Government published its 10 Year Capital Plan to modernise NHS buildings, upgrade GP surgeries, and bring more care closer to patients' homes — a major cross-government health infrastructure commitment.",
           "source": "GOV.UK",
-          "url": "https://www.gov.uk/government/publications/the-rycroft-review-hm-government-response/the-rycroft-review-hm-government-response-accessible-version",
-          "publishedAt": "2026-07-06"
+          "url": "https://www.gov.uk/government/news/10-year-capital-plan-to-rebuild-nhs-and-bring-care-closer-to-home",
+          "publishedAt": "2026-07-07"
         },
         {
-          "title": "Yvette Cooper Floated as Potential Chancellor Under Burnham Government",
-          "summary": "Foreign Secretary Yvette Cooper has been publicly linked to the role of Chancellor in a future Burnham Cabinet, as preparations for the leadership transition continue.",
-          "source": "Sky News",
-          "url": "https://www.instagram.com/reel/DadIiR-PZvc/",
-          "publishedAt": "2026-07-06"
+          "title": "Government publishes response on Future of the Post Office",
+          "summary": "The Government issued its formal response to the consultation on the Future of the Post Office, setting out plans for a strategy to be implemented from summer 2026 documenting progress and future actions.",
+          "source": "GOV.UK",
+          "url": "https://www.gov.uk/government/consultations/green-paper-future-of-post-office/outcome/government-response-future-of-the-post-office",
+          "publishedAt": "2026-07-07"
         }
       ]
     },
@@ -203,18 +210,18 @@
       "description": "Upcoming or recent election results, polls",
       "stories": [
         {
-          "title": "June 2026 Polling Averages: Labour, Reform, Conservatives",
-          "summary": "YouGov, Opinium and Survation published their most recent June 2026 polls showing vote share averages across nine polling companies — Reform continuing to perform strongly.",
-          "source": "Electoral Reform Society",
-          "url": "https://electoral-reform.org.uk/what-did-the-yougov-opinium-and-survation-polling-say-for-june-2026/",
-          "publishedAt": "2026-07-06"
+          "title": "Farage's rivals rule out standing in Clacton by-election",
+          "summary": "In an unprecedented cross-party move, Labour, the Conservatives, the Liberal Democrats, and Restore Britain all announced they will not stand in the Clacton by-election triggered by Farage's resignation, leaving him likely to face only minor party challengers.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cjdg4y3g0z7o",
+          "publishedAt": "2026-07-07"
         },
         {
-          "title": "Trump Calls Farage to Congratulate Reform on 'Recent Success'",
-          "summary": "In a phone call, President Trump congratulated Nigel Farage on Reform UK's political performance, believing the chaos in British politics plays to Farage's advantage.",
-          "source": "The Times",
-          "url": "https://www.thetimes.com/us/american-politics/article/andy-burnham-trump-white-house-bad-things-v958kb0s6",
-          "publishedAt": "2026-07-06"
+          "title": "Ashcroft poll: How will Burnham compare to Starmer?",
+          "summary": "A new Lord Ashcroft poll examines public expectations of Andy Burnham as incoming Prime Minister, views on whether there should be a general election, and attitudes toward the new 'Restore Britain' party.",
+          "source": "Lord Ashcroft Polls",
+          "url": "https://lordashcroftpolls.com/2026/07/how-will-burnham-compare-to-starmer-should-there-be-an-election-and-what-do-we-think-of-restore-britain/",
+          "publishedAt": "2026-07-07"
         }
       ]
     },
@@ -224,18 +231,18 @@
       "description": "Lords debates, reform, appointments",
       "stories": [
         {
-          "title": "House of Lords: Second Reading of Armed Forces Bill",
-          "summary": "The Lords held a second reading debate on the Armed Forces Bill on 6 July, discussing proposed reforms to boost the size of the strategic reserve.",
-          "source": "BBC Parliament",
-          "url": "https://www.bbc.co.uk/programmes/m002yvgp",
+          "title": "Armed Forces Bill receives Lords second reading",
+          "summary": "Members of the House of Lords discussed the key principles of the Armed Forces Bill during its second reading on Monday 6 July. The Bill proposes to strengthen the Armed Forces Covenant by extending statutory duties to devolved and local government.",
+          "source": "UK Parliament",
+          "url": "https://www.parliament.uk/business/news/2026/july-2026/armed-forces-bill-has-lords-second-reading/",
           "publishedAt": "2026-07-06"
         },
         {
-          "title": "Lords Amendments to National Security (State Threats) Bill Agreed by Commons",
-          "summary": "The House of Commons voted to agree to Lords Amendment 1 of the National Security (State Threats) Bill, advancing the legislation towards Royal Assent.",
-          "source": "UK Parliament",
-          "url": "https://hansard.parliament.uk/Lords/2026-07-06/debates/FFF07A33-1A83-4DD0-812C-7C429B312BB4/ArmedForcesBill",
-          "publishedAt": "2026-07-06"
+          "title": "Railway Bill has Lords second reading debate",
+          "summary": "The House of Lords held a second reading debate on the Railway Bill on 7 July, covering the general principles of the legislation as peers examined the Government's plans for rail policy.",
+          "source": "BBC Parliament",
+          "url": "https://www.bbc.co.uk/programmes/m002yvf8",
+          "publishedAt": "2026-07-07"
         }
       ]
     }
