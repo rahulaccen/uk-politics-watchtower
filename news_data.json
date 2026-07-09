@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T16:00:00+10:00",
+  "lastUpdated": "2026-07-09T16:00:00+10:00",
   "topics": [
     {
       "id": "pm-no10",
@@ -7,24 +7,24 @@
       "description": "Prime Minister & Downing Street",
       "stories": [
         {
-          "title": "Starmer accuses Farage of 'desperate stunt' as he announces by-election",
-          "summary": "Outgoing PM Keir Starmer called Nigel Farage's resignation and by-election gambit a 'desperate stunt', saying the public should not be subjected to the cost of a political manoeuvre. Starmer had announced his own resignation as Labour leader on 22 June 2026, with Andy Burnham set to succeed him.",
+          "title": "Starmer to keep in touch with Trump after No 10",
+          "summary": "Prime Minister Keir Starmer has resigned from No. 10. At the NATO summit in Turkey, US President Trump wished him well during what was apparently a farewell meeting between the two leaders.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/crel4gzg94eo",
+          "publishedAt": "2026-07-08"
+        },
+        {
+          "title": "Andy Burnham's path to becoming prime minister",
+          "summary": "Labour MPs have begun nominating candidates to succeed Sir Keir Starmer following his resignation. Andy Burnham is so far the only declared candidate in the Labour leadership contest.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/crm0r94mv7jo",
+          "publishedAt": "2026-07-08"
+        },
+        {
+          "title": "England to get bank holiday if team win World Cup, Starmer expected to announce",
+          "summary": "In one of his final acts as PM, Keir Starmer was expected to announce that England will receive a bank holiday if the national football team wins the 2026 World Cup — the first such victory since 1966.",
           "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/live/2026/jul/07/nigel-farage-reform-uk-donations-investigations-parliament-electoral-commission-defence-nato-keir-starmer-latest-news-updates",
-          "publishedAt": "2026-07-07"
-        },
-        {
-          "title": "Andy Burnham set to become UK Prime Minister after Starmer exit",
-          "summary": "Andy Burnham, former Mayor of Greater Manchester, is set to assume the role of Prime Minister following Keir Starmer's resignation as Labour leader on 22 June 2026. A Labour leadership election is underway with Burnham as the frontrunner.",
-          "source": "Yahoo Finance / Investing.com",
-          "url": "https://uk.finance.yahoo.com/news/andy-burnham-set-become-uk-015011301.html",
-          "publishedAt": "2026-07-07"
-        },
-        {
-          "title": "Burnham recognised for London's role in UK growth at parliamentary reception",
-          "summary": "Andy Burnham MP attended a London Parliamentary reception, acknowledging London's central role in UK prosperity and growth as he prepares to take office.",
-          "source": "Instagram / Team London",
-          "url": "https://www.instagram.com/p/DagRmwFDOBF/",
+          "url": "https://www.theguardian.com/football/2026/jul/08/england-to-get-bank-holiday-if-team-win-world-cup-starmer-expected-to-announce",
           "publishedAt": "2026-07-08"
         }
       ]
@@ -32,217 +32,196 @@
     {
       "id": "parliament",
       "name": "Parliament",
-      "description": "House of Commons, House of Lords, PMQs, debates, legislation",
+      "description": "House of Commons, House of Lords, PMQs & Legislation",
       "stories": [
         {
-          "title": "National Security (State Threats) Bill passes Lords amendment in Commons",
-          "summary": "MPs voted to agree a Lords amendment to the National Security (State Threats) Bill, moving the legislation towards its final form. The Bill deals with espionage, foreign interference and state threats.",
-          "source": "Project Open Gov",
-          "url": "https://projectopengov.org/parliament-and-government-summary-6-july-2026/",
-          "publishedAt": "2026-07-06"
+          "title": "Reeves to approve Farage's resignation from Parliament",
+          "summary": "Chancellor Rachel Reeves is set to approve Nigel Farage's resignation from the House of Commons, ignoring Ed Davey's request to block it until a parliamentary standards inquiry into the £5m gift concludes.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/live/2026/jul/08/nigel-farage-reform-uk-clacton-5m-gift-crime-agency-labour-keir-starmer-pmqs-uk-politics-latest-news-updates",
+          "publishedAt": "2026-07-08"
         },
         {
-          "title": "UK Aid Policy: Global Funding Trends debated in Commons",
-          "summary": "MPs debated UK aid policy and global funding trends in the House of Commons on 7 July, with contributions touching on the Labour government's international development priorities.",
-          "source": "Hansard",
-          "url": "https://hansard.parliament.uk/commons/2026-07-07/debates/2A6EA16B-5650-489A-85EB-7B7750725677/UKAidPolicyGlobalFundingTrends",
-          "publishedAt": "2026-07-07"
-        },
-        {
-          "title": "Student Loans Committee Report: 'Broken and Unfair'",
-          "summary": "A House of Commons committee published a report concluding the student loans system is 'broken and unfair', agreeing with students and universities that fundamental reform is needed.",
-          "source": "UK Parliament Committees",
-          "url": "https://committees.parliament.uk/publications/54019/documents/301142/default/",
-          "publishedAt": "2026-07-07"
+          "title": "PMQs dominated by Farage £5m NCA referral and Clacton by-election",
+          "summary": "Prime Minister's Questions saw heated exchanges over Nigel Farage's resignation from Parliament and the referral of his £5m gift to the National Crime Agency. Labour called on Farage to cooperate with authorities.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/live/2026/jul/08/nigel-farage-reform-uk-clacton-5m-gift-crime-agency-labour-keir-starmer-pmqs-uk-politics-latest-news-updates?page=with%3Ablock-6a4dec748f0821c5ffb5b72d",
+          "publishedAt": "2026-07-08"
         }
       ]
     },
     {
       "id": "labour",
       "name": "Labour Party",
-      "description": "Party news, policy, internal politics",
+      "description": "Labour Party news, policy & internal politics",
       "stories": [
         {
-          "title": "Political rivals vow to boycott Clacton by-election after Farage quits as MP",
-          "summary": "Labour joined the Conservatives, Liberal Democrats and Restore Britain in refusing to field candidates in the Clacton by-election triggered by Nigel Farage. The move amounts to an effective cross-party boycott of what critics called a cynical political manoeuvre.",
+          "title": "Burnham promises Labour MPs he will not use party discipline to stifle debate",
+          "summary": "PM-in-waiting Andy Burnham has pledged to address backbench frustrations that built up under Keir Starmer's tight management style, vowing not to use the whipping system to suppress internal party debate.",
           "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/2026/jul/07/nigel-farage-quits-as-mp-amid-scrunity-over-finances-clacton-reform",
-          "publishedAt": "2026-07-07"
+          "url": "https://www.theguardian.com/politics/2026/jul/08/andy-burnham-labour-mps-party-discipline-stifle-debate",
+          "publishedAt": "2026-07-08"
         },
         {
-          "title": "Burnham urged to ditch 'dangerous' UK-US NHS drug deal",
-          "summary": "Andy Burnham is facing pressure ahead of taking office to abandon a controversial UK-US deal on NHS pharmaceutical pricing that critics have labelled dangerous to the health service.",
+          "title": "Report to National Crime Agency of £5m Farage gift is 'deeply serious'",
+          "summary": "Labour's party chair described the NCA referral over Nigel Farage's £5m gift as 'deeply serious' and called on the Reform UK leader to cooperate with authorities rather than use the Clacton by-election as a distraction.",
           "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/labour",
-          "publishedAt": "2026-07-07"
+          "url": "https://www.theguardian.com/politics/2026/jul/08/report-to-national-agency-of-5m-farage-gift-is-deeply-serious",
+          "publishedAt": "2026-07-08"
         },
         {
-          "title": "Immigration and Asylum Bill introduced to Parliament",
-          "summary": "The Government introduced a new Immigration and Asylum Bill giving the Home Office powers to recover costs from asylum seekers who have received support, as part of ongoing efforts to reform migration policy.",
-          "source": "Instagram / Parliament coverage",
-          "url": "https://www.instagram.com/p/Dafv7zViuZA/",
-          "publishedAt": "2026-07-07"
+          "title": "Labour vows to boycott 'circus' Clacton by-election",
+          "summary": "Labour confirmed it will not field a candidate in the Clacton by-election triggered by Farage's resignation, branding it a political stunt designed to distract from ongoing financial scrutiny.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/live/2026/jul/08/nigel-farage-reform-uk-clacton-5m-gift-crime-agency-labour-keir-starmer-pmqs-uk-politics-latest-news-updates",
+          "publishedAt": "2026-07-08"
         }
       ]
     },
     {
       "id": "conservatives",
       "name": "Conservative Party",
-      "description": "Party news, leadership, opposition",
+      "description": "Conservative Party news, leadership & opposition",
       "stories": [
         {
-          "title": "Badenoch says Tories won't stand in 'fake' Clacton by-election",
-          "summary": "Conservative leader Kemi Badenoch called the Clacton by-election 'fake', announcing the party would not field a candidate and criticising Farage for using the public purse to avoid parliamentary scrutiny of his finances.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/live/2026/jul/07/nigel-farage-reform-uk-donations-investigations-parliament-electoral-commission-defence-nato-keir-starmer-latest-news-updates",
-          "publishedAt": "2026-07-07"
+          "title": "Farage's rivals rule out standing in Clacton by-election",
+          "summary": "The Conservative Party joined other major parties in confirming they will not contest the Clacton by-election. Reform UK's Farage says he wants an 'establishment versus the people' contest, but the Conservatives and others have dismissed it as a circus.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cjdg4y3g0z7o",
+          "publishedAt": "2026-07-08"
         },
         {
-          "title": "Conservatives join cross-party boycott of Farage by-election",
-          "summary": "Along with Labour and the Liberal Democrats, the Conservatives have ruled out standing in the Clacton by-election — an unprecedented cross-party move that leaves Farage likely to face only minor party challengers.",
+          "title": "Jackdaw boss warns of winter fuel shortages if gas field not approved",
+          "summary": "The boss of Adura, operator of the Jackdaw gas field, warned the UK government must urgently approve North Sea production to avoid domestic supply shortages this winter — an issue the Conservative opposition has been pressing the government on.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c0ly51kzdz3o",
-          "publishedAt": "2026-07-07"
+          "url": "https://www.bbc.co.uk/news/articles/cdx78n4nkvyo",
+          "publishedAt": "2026-07-08"
         }
       ]
     },
     {
       "id": "lib-dems",
       "name": "Liberal Democrats",
-      "description": "Party news, policy positions",
+      "description": "Liberal Democrats news & policy",
       "stories": [
         {
-          "title": "Ed Davey: Farage is 'trying to distract' with by-election",
-          "summary": "Liberal Democrat leader Ed Davey accused Nigel Farage of using the Clacton by-election as a distraction from scrutiny of his finances, calling for the by-election to be delayed until after parliamentary investigations into Farage are concluded.",
-          "source": "Sky News",
-          "url": "https://news.sky.com/video/lib-dem-leader-ed-davey-farage-is-trying-to-distract-13561380",
-          "publishedAt": "2026-07-07"
+          "title": "Lib Dems tell Farage 'the game is up' as they boycott Clacton",
+          "summary": "The Liberal Democrats joined the political boycott of the Clacton by-election, with the party telling Farage that 'the game is up' amid the NCA investigation into his £5m financial gift.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/live/2026/jul/08/nigel-farage-reform-uk-clacton-5m-gift-crime-agency-labour-keir-starmer-pmqs-uk-politics-latest-news-updates?page=with%3Ablock-6a4dec748f0821c5ffb5b72d",
+          "publishedAt": "2026-07-08"
         },
         {
-          "title": "Lib Dems refuse to stand in Clacton by-election",
-          "summary": "The Liberal Democrats confirmed they will not field a candidate in the Clacton by-election, saying it would be wrong to spend taxpayers' money on a process Farage is using to evade accountability.",
-          "source": "Sky News",
-          "url": "https://news.sky.com/video/lib-dem-leader-calls-for-farage-by-election-to-take-place-after-investigation-13561375",
-          "publishedAt": "2026-07-07"
+          "title": "Ed Davey's request to block Farage's Commons resignation rejected",
+          "summary": "Chancellor Reeves rejected Lib Dem leader Ed Davey's call to block Nigel Farage's resignation from the House of Commons until the parliamentary standards inquiry into his £5m gift has concluded.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/live/2026/jul/08/nigel-farage-reform-uk-clacton-5m-gift-crime-agency-labour-keir-starmer-pmqs-uk-politics-latest-news-updates",
+          "publishedAt": "2026-07-08"
         }
       ]
     },
     {
       "id": "reform-uk",
       "name": "Reform UK",
-      "description": "Nigel Farage, party news and announcements",
+      "description": "Reform UK & Nigel Farage",
       "stories": [
         {
-          "title": "Farage resigns as MP for Clacton and vows to fight by-election amid finances row",
-          "summary": "Nigel Farage announced his resignation as MP for Clacton following reports he failed to declare financial support from an ally and questions over an unregistered £5m interest in his finances. He framed the by-election as a 'people v establishment' contest, saying he would stand again.",
+          "title": "Farage resigns as Clacton MP to trigger by-election over £5m gift scandal",
+          "summary": "Nigel Farage has resigned as MP for Clacton to force a by-election, framing it as 'the people versus the establishment' vote following the referral of a £5m gift he received to the National Crime Agency.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/jul/08/clacton-byelection-date-nigel-farage-resignation-reform",
+          "publishedAt": "2026-07-08"
+        },
+        {
+          "title": "The untold story of why Reform figures face NCA scrutiny",
+          "summary": "An exclusive investigation reveals the details behind financial transactions made by Reform UK figures that banks flagged to the National Crime Agency, providing background on the emerging scandal.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/jul/08/untold-story-why-reform-figures-face-nca-scrutiny-nigel-farage",
+          "publishedAt": "2026-07-08"
+        },
+        {
+          "title": "Nigel Farage denies his Clacton resignation is a publicity stunt",
+          "summary": "In a BBC interview, Farage defended his decision to resign and stand again, saying it is 'only fair' that the electorate judges him on his financial record rather than Parliament.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c0ly51kzdz3o",
-          "publishedAt": "2026-07-07"
-        },
-        {
-          "title": "Farage fact check: the truth behind five of his resignation statements",
-          "summary": "The Guardian fact-checked five major claims Farage made in his resignation video, finding that several of his accusations against political opponents and the media do not stand up to scrutiny.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/2026/jul/07/nigel-farage-fact-check-truth-five-resignation-statements-reform",
-          "publishedAt": "2026-07-07"
-        },
-        {
-          "title": "Electoral Commission to investigate Farage over undeclared gifts",
-          "summary": "Labour asked the Electoral Commission to investigate claims that Farage broke electoral law by not disclosing gifts and financial support from allies, adding to the pressure surrounding his departure from Parliament.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/live/2026/jul/07/nigel-farage-reform-uk-donations-investigations-parliament-electoral-commission-defence-nato-keir-starmer-latest-news-updates",
-          "publishedAt": "2026-07-07"
+          "url": "https://www.bbc.co.uk/news/articles/cdxd779gkv9o",
+          "publishedAt": "2026-07-08"
         }
       ]
     },
     {
       "id": "snp",
       "name": "SNP",
-      "description": "Scottish National Party, Scottish politics",
+      "description": "Scottish National Party & Scottish politics",
       "stories": [
         {
-          "title": "Scotland could freeze datacentre projects in challenge to UK's AI strategy",
-          "summary": "The Scottish Government is considering a sweeping moratorium on building new datacentres, which would put a key plank of the UK's AI strategy at risk and create tension between Holyrood and Westminster over tech investment.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/uk-news/2026/jul/07/scotland-could-freeze-datacentre-projects-in-challenge-to-uks-ai-strategy",
-          "publishedAt": "2026-07-07"
-        },
-        {
-          "title": "SNP calls Nigel Farage 'dangerous chancer' after resignation",
-          "summary": "The SNP condemned Farage's resignation and by-election move as the actions of a 'dangerous chancer', accusing him of treating Parliament and democratic institutions with contempt.",
+          "title": "Scottish parties react to Clacton by-election boycott",
+          "summary": "Malcolm Offord, a Reform UK figure in Scotland, claimed other parties were missing a chance to 'knock Farage out of the ring' by boycotting the Clacton by-election, sparking debate across Scottish political circles.",
           "source": "The Herald Scotland",
-          "url": "https://www.heraldscotland.com/news/26260744.snp-call-nigel-farage-dangerous-chancer-chaos-continues-westminster/",
-          "publishedAt": "2026-07-07"
-        },
-        {
-          "title": "SNP independence fund court case launched over donations",
-          "summary": "The SNP faces a legal challenge at the Court of Session as independence donors have launched group proceedings, arguing that donations to the independence fund were misused.",
-          "source": "The Herald Scotland",
-          "url": "https://www.heraldscotland.com/news/26260796.snp-independence-fund-court-case-launched-donations/",
-          "publishedAt": "2026-07-07"
+          "url": "https://www.heraldscotland.com/news/national/26261998.parties-missing-chance-knock-farage-ring-says-offord/",
+          "publishedAt": "2026-07-08"
         }
       ]
     },
     {
       "id": "cabinet-office",
       "name": "Cabinet Office",
-      "description": "Government reshuffles, senior appointments, cross-department policy",
+      "description": "Government reshuffles, senior appointments & cross-department policy",
       "stories": [
         {
-          "title": "Government announces NHS 10 Year Capital Plan",
-          "summary": "The Government published its 10 Year Capital Plan to modernise NHS buildings, upgrade GP surgeries, and bring more care closer to patients' homes — a major cross-government health infrastructure commitment.",
+          "title": "CAC expanded with 23 new members to support Employment Rights Act",
+          "summary": "The Central Arbitration Committee has recruited 23 new members to support implementation of changes introduced by the Employment Rights Act 2025, with new appointments starting on 8 July 2026.",
           "source": "GOV.UK",
-          "url": "https://www.gov.uk/government/news/10-year-capital-plan-to-rebuild-nhs-and-bring-care-closer-to-home",
-          "publishedAt": "2026-07-07"
-        },
-        {
-          "title": "Government publishes response on Future of the Post Office",
-          "summary": "The Government issued its formal response to the consultation on the Future of the Post Office, setting out plans for a strategy to be implemented from summer 2026 documenting progress and future actions.",
-          "source": "GOV.UK",
-          "url": "https://www.gov.uk/government/consultations/green-paper-future-of-post-office/outcome/government-response-future-of-the-post-office",
-          "publishedAt": "2026-07-07"
+          "url": "https://www.gov.uk/government/news/cac-expanded-to-support-employment-rights-act-changes",
+          "publishedAt": "2026-07-08"
         }
       ]
     },
     {
       "id": "elections",
       "name": "Elections & By-elections",
-      "description": "Upcoming or recent election results, polls",
+      "description": "Upcoming or recent election results & polls",
       "stories": [
         {
-          "title": "Farage's rivals rule out standing in Clacton by-election",
-          "summary": "In an unprecedented cross-party move, Labour, the Conservatives, the Liberal Democrats, and Restore Britain all announced they will not stand in the Clacton by-election triggered by Farage's resignation, leaving him likely to face only minor party challengers.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cjdg4y3g0z7o",
-          "publishedAt": "2026-07-07"
+          "title": "Clacton by-election likely to take place on 6 August",
+          "summary": "Reform UK is asking for the Clacton by-election to be held on 6 August following Farage's resignation. All major parties have announced a boycott, with Count Binface and Laurence Fox among the few declared candidates.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/live/2026/jul/08/nigel-farage-reform-uk-clacton-5m-gift-crime-agency-labour-keir-starmer-pmqs-uk-politics-latest-news-updates",
+          "publishedAt": "2026-07-08"
         },
         {
-          "title": "Ashcroft poll: How will Burnham compare to Starmer?",
-          "summary": "A new Lord Ashcroft poll examines public expectations of Andy Burnham as incoming Prime Minister, views on whether there should be a general election, and attitudes toward the new 'Restore Britain' party.",
-          "source": "Lord Ashcroft Polls",
-          "url": "https://lordashcroftpolls.com/2026/07/how-will-burnham-compare-to-starmer-should-there-be-an-election-and-what-do-we-think-of-restore-britain/",
-          "publishedAt": "2026-07-07"
+          "title": "Wednesday briefing: How Farage's by-election gambit may already have backfired",
+          "summary": "Analysis of how Reform UK's decision to resign and trigger a by-election over financial scandal may have already backfired, with the NCA investigation overshadowing the 'people v establishment' narrative.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jul/08/wednesday-briefing-how-farages-byelection-gambit-may-already-have-backfired",
+          "publishedAt": "2026-07-08"
+        },
+        {
+          "title": "Count Binface on Clacton byelection: likely to be two-man race against Farage",
+          "summary": "Parody candidate Count Binface is expected to be Reform leader's only challenger for the Clacton seat, after all serious political parties confirmed they will boycott the contest.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/jul/08/clacton-byelection-likely-to-be-two-man-race-between-reform-leader-and-binface",
+          "publishedAt": "2026-07-08"
         }
       ]
     },
     {
       "id": "house-of-lords",
       "name": "House of Lords",
-      "description": "Lords debates, reform, appointments",
+      "description": "Lords debates, reform & appointments",
       "stories": [
         {
-          "title": "Armed Forces Bill receives Lords second reading",
-          "summary": "Members of the House of Lords discussed the key principles of the Armed Forces Bill during its second reading on Monday 6 July. The Bill proposes to strengthen the Armed Forces Covenant by extending statutory duties to devolved and local government.",
+          "title": "Prisons Minister Lord Timpson on fostering, business and prison reform",
+          "summary": "Lord Timpson, the Prisons Minister, spoke to Lord Forsyth of Drumlean about fostering, business leadership and prison reform in the latest episode of Lord Speaker's Corner podcast.",
           "source": "UK Parliament",
-          "url": "https://www.parliament.uk/business/news/2026/july-2026/armed-forces-bill-has-lords-second-reading/",
-          "publishedAt": "2026-07-06"
+          "url": "https://www.parliament.uk/business/lords/house-of-lords-podcast/prisons-minister-lord-timpson-lord-speakers-corner/",
+          "publishedAt": "2026-07-08"
         },
         {
-          "title": "Railway Bill has Lords second reading debate",
-          "summary": "The House of Lords held a second reading debate on the Railway Bill on 7 July, covering the general principles of the legislation as peers examined the Government's plans for rail policy.",
-          "source": "BBC Parliament",
-          "url": "https://www.bbc.co.uk/programmes/m002yvf8",
-          "publishedAt": "2026-07-07"
+          "title": "Lords committee: Peter Mandelson appointment as US Ambassador 'disastrous'",
+          "summary": "A House of Commons foreign affairs committee report found the decision to appoint Peter Mandelson as British Ambassador to the United States has been 'nothing short of disastrous', raising questions about the appointments process.",
+          "source": "UK Parliament",
+          "url": "https://publications.parliament.uk/pa/cm5902/cmselect/cmfaff/504/report.html",
+          "publishedAt": "2026-07-08"
         }
       ]
     }
