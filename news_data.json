@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T16:00:00+10:00",
+  "lastUpdated": "2026-07-15T16:00:00+10:00",
   "topics": [
     {
       "id": "pm-no10",
@@ -7,53 +7,53 @@
       "description": "Prime Minister & Downing Street",
       "stories": [
         {
-          "title": "Andy Burnham Set to Become Next Prime Minister Next Week",
-          "summary": "Andy Burnham, MP for Makerfield, has secured the backing of 349 Labour MPs, making it impossible for any other candidate to challenge him for the Labour leadership. He is on track to become the UK's next Prime Minister within days.",
+          "title": "Starmer Becomes First UK PM to Receive France's Légion d'Honneur",
+          "summary": "Emmanuel Macron awarded Keir Starmer France's highest honour, praising his 'decency' and leadership in supporting Ukraine. Starmer is the first UK Prime Minister to receive the Légion d'honneur.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c05y3rj09qqo",
-          "publishedAt": "2026-07-13"
+          "url": "https://www.bbc.co.uk/news/articles/c33y3rxezxdo",
+          "publishedAt": "2026-07-14"
         },
         {
-          "title": "Olly Robbins Launches Legal Challenge to Dismissal from Foreign Office",
-          "summary": "Former FCDO top civil servant Olly Robbins has launched a legal challenge to his dismissal, claiming he was given 'irrational' reasons for being fired amid the Peter Mandelson vetting scandal.",
+          "title": "Ministers Salute Starmer's Long Service as He Prepares to Leave No. 10",
+          "summary": "David Lammy, the deputy prime minister, organised a ministerial send-off for the departing Labour leader. Starmer is set to hand over power to Andy Burnham next week.",
+          "source": "The Times",
+          "url": "https://www.thetimes.co.uk/uk/politics/article/keir-starmer-cabinet-colleagues-resignation-pm-3lrpdkgjm",
+          "publishedAt": "2026-07-14"
+        },
+        {
+          "title": "Andy Burnham Secures Labour Leadership with Landslide Support of MPs",
+          "summary": "Andy Burnham has won the Labour leadership contest with overwhelming parliamentary support, and is expected to enter Downing Street on Monday after the Commons begins its six-week summer recess.",
           "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/2026/jul/13/olly-robbins-legal-challenge-dismissal-foreign-office-keir-starmer-peter-mandelson",
-          "publishedAt": "2026-07-13"
-        },
-        {
-          "title": "Burnham's First Reshuffle: Experts Urge Caution on Sweeping Changes",
-          "summary": "The Institute for Government has advised Andy Burnham to resist making sweeping Cabinet changes in his first reshuffle, warning that unnecessarily moving effective ministers could delay government policy.",
-          "source": "Institute for Government",
-          "url": "https://www.instituteforgovernment.org.uk/comment/burnhams-first-reshuffle-resist-change",
-          "publishedAt": "2026-07-13"
+          "url": "https://www.theguardian.com/politics/keir-starmer",
+          "publishedAt": "2026-07-14"
         }
       ]
     },
     {
       "id": "parliament",
       "name": "Parliament",
-      "description": "House of Commons, Lords & Legislation",
+      "description": "House of Commons, House of Lords, PMQs & Legislation",
       "stories": [
         {
-          "title": "Immigration and Asylum Bill Receives Second Reading in House of Commons",
-          "summary": "On 13 July 2026, the Immigration and Asylum Bill received its second reading in the House of Commons. Public attention has focused on Part 2 of the bill, which deals with re-departmentalisation of asylum adjudication.",
-          "source": "UK Constitutional Law Association",
-          "url": "https://ukconstitutionallaw.org/2026/07/13/hleb-buziuk-independent-by-assertion-the-immigration-and-asylum-bill-and-the-re-departmentalisation-of-adjudication/",
-          "publishedAt": "2026-07-13"
-        },
-        {
-          "title": "Shabana Mahmood Makes Parliamentary Statement on Widdecombe Investigation",
-          "summary": "Home Secretary Shabana Mahmood updated Parliament after counter-terrorism police took over the investigation into the death of Ann Widdecombe, confirming the suspect was 'not known to Prevent'.",
+          "title": "MPs Vote on Hillsborough Amendment — Starmer Opens Third Reading Debate",
+          "summary": "Keir Starmer opened the third reading debate on the Hillsborough law bill in the House of Commons. The government stated it intends to make 'broad use' of the duty of candour provision.",
           "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/live/2026/jul/13/shabana-mahmood-migration-rochdale-grooming-gang-pakistan-visas-immigration-andy-burnham-labour",
-          "publishedAt": "2026-07-13"
+          "url": "https://www.theguardian.com/politics/live/2026/jul/14/ann-widdecombe-nigel-farage-reform-uk-security-protection-burnham-latest-news-updates",
+          "publishedAt": "2026-07-14"
         },
         {
-          "title": "Speaker Insists MPs Are 'Equal' on Security After Widdecombe Death",
-          "summary": "The Speaker of the House of Commons insisted that all MPs are treated equally when it comes to security, following criticism from Reform UK in the wake of Ann Widdecombe's murder.",
-          "source": "Sky News",
-          "url": "https://www.instagram.com/reel/Dav0gEROFQr/",
-          "publishedAt": "2026-07-13"
+          "title": "Cyber Security and Resilience (Network and Information Systems) Bill Debated",
+          "summary": "The House of Commons held a debate on the Cyber Security and Resilience Bill. The bill covers network and information systems resilience for critical infrastructure.",
+          "source": "BBC Parliament",
+          "url": "https://www.bbc.co.uk/schedules/p00fzl73",
+          "publishedAt": "2026-07-14"
+        },
+        {
+          "title": "Tories Accuse Labour of 'Running Scared' Over Burnham's Parliamentary Appearance",
+          "summary": "The Conservatives demanded Andy Burnham face MPs before Parliament's summer recess, but ministers blocked the attempt. The Commons begins its six-week recess on Thursday.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cj6g61y6lpro",
+          "publishedAt": "2026-07-14"
         }
       ]
     },
@@ -63,39 +63,53 @@
       "description": "Labour Party news, policy & internal politics",
       "stories": [
         {
-          "title": "Andy Burnham Secures Labour Leadership with Landslide Support from MPs",
-          "summary": "Andy Burnham has secured the Labour Party leadership after receiving additional nominations, making it impossible for any other candidate to launch a leadership challenge. He secured backing from 349 Labour MPs.",
+          "title": "Andy Burnham Wins Labour Leadership with Landslide MP Support",
+          "summary": "Andy Burnham secured the Labour leadership with dominant parliamentary backing. The former Greater Manchester Mayor is set to become the next Prime Minister when Starmer formally steps down.",
           "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/2026/jul/13/andy-burnham-confirmed-labour-leader-landslide-support",
-          "publishedAt": "2026-07-13"
+          "url": "https://www.theguardian.com/politics/keir-starmer",
+          "publishedAt": "2026-07-14"
         },
         {
-          "title": "Home Secretary Issues Visa Threat to Deport Rochdale Grooming Gang Leader",
-          "summary": "Home Secretary Shabana Mahmood signalled she will use visa threats to deport the Rochdale grooming gang leader to Pakistan, in a move that has sparked debate on immigration and justice policy.",
+          "title": "Hillsborough Law Symbolises New Era as Power Passes from Starmer to Burnham",
+          "summary": "The Hillsborough law — personally championed by Andy Burnham — is passing through Parliament as the political torch is handed over. Burnham's long campaign for justice for Hillsborough victims has become a defining moment in the leadership transition.",
           "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/labour/2026/jul/13/all",
-          "publishedAt": "2026-07-13"
+          "url": "https://www.theguardian.com/politics/2026/jul/14/hillsborough-law-new-era-starmer-burnham-labour",
+          "publishedAt": "2026-07-14"
+        },
+        {
+          "title": "Public Asked: What Do You Want from the Next Labour Leader and Prime Minister?",
+          "summary": "Ahead of Andy Burnham taking over from Keir Starmer, The Guardian is gathering public views on what qualities and priorities people want to see in the next prime minister.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/global/2026/jul/14/tell-us-what-do-you-want-from-the-next-labour-leader-and-uk-prime-minister",
+          "publishedAt": "2026-07-14"
         }
       ]
     },
     {
       "id": "conservatives",
       "name": "Conservative Party",
-      "description": "Conservative Party news, leadership & opposition",
+      "description": "Conservative Party, leadership & opposition",
       "stories": [
         {
-          "title": "Kemi Badenoch Insists Future Conservative Candidates Must Back Leaving ECHR and Ending Net Zero",
-          "summary": "Conservative leader Kemi Badenoch has made it a requirement that future Conservative candidates must support leaving the European Convention on Human Rights and abandoning the 2050 net zero target, in a shift aimed at making the party more ideologically consistent.",
-          "source": "The Times",
-          "url": "https://www.thetimes.com/comment/columnists/article/kemi-badenoch-tories-conservative-again-6hnhkpr0r",
-          "publishedAt": "2026-07-13"
+          "title": "Kemi Declares War on Net Zero — Purging Moderate Tory MPs",
+          "summary": "Kemi Badenoch is intensifying her ideological shift in the Conservative Party, targeting MPs who accept climate science and pushing net zero sceptics. Moderates are being cast out as the party edges toward the right.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/jul/14/kemi-badenoch-zeros-in-on-tory-mps-who-believe-in-climate-crisis-and-those-who-dont",
+          "publishedAt": "2026-07-14"
         },
         {
-          "title": "YouGov Study: 65% of Conservative Defectors Would Consider Returning",
-          "summary": "A major YouGov voter study for 2026 finds that immigration concerns and a perception the party hasn't learned from its 2024 defeat are central to ongoing Conservative losses, though 65% of defectors say they would consider returning.",
-          "source": "YouGov",
-          "url": "https://yougov.com/en-gb/articles/55152-big-yougov-voter-study-2026-what-has-happened-to-the-conservatives-2024-voters",
-          "publishedAt": "2026-07-13"
+          "title": "Lord Barwell Loses Conservative Party Whip — Tories Deny Purge",
+          "summary": "Former minister Gavin Barwell lost the Conservative party whip, which he says suggests 'intolerance of criticism.' The party denied it was purging centrists, citing conduct issues.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/jul/14/tories-deny-purge-lord-barwell-party-whip",
+          "publishedAt": "2026-07-14"
+        },
+        {
+          "title": "Tories Challenge Burnham to Face MPs Before Summer Recess",
+          "summary": "The Conservatives accused Labour of 'running scared' after ministers blocked a bid to have Andy Burnham appear before Parliament before the summer recess begins Thursday.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cj6g61y6lpro",
+          "publishedAt": "2026-07-14"
         }
       ]
     },
@@ -105,18 +119,18 @@
       "description": "Lib Dem news & policy positions",
       "stories": [
         {
-          "title": "Ed Davey Urges Andy Burnham to Change UK Voting System",
-          "summary": "Liberal Democrat leader Sir Ed Davey is expected to warn that Labour may be 'powerless to do anything' to change the UK's voting system after the next election, urging incoming PM Andy Burnham to act on electoral reform now.",
-          "source": "The Independent",
-          "url": "https://www.the-independent.com/news/uk/politics/burnham-uk-voting-system-davey-b3014043.html",
-          "publishedAt": "2026-07-13"
+          "title": "Ed Davey Urges Burnham to Change Voting System Before Next Election",
+          "summary": "Lib Dem leader Sir Ed Davey called on incoming PM Andy Burnham to 'be brave' and fulfil his promise to reform the voting system. Davey said this would be essential before the next general election.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c79y9qy9y2go",
+          "publishedAt": "2026-07-14"
         },
         {
-          "title": "YouGov Study Reveals How Lib Dem Voter Coalition Has Shifted Since 2024",
-          "summary": "A major YouGov 2026 voter study examines how the Liberal Democrat coalition has changed over the last two years, exploring what attracts voters to the party.",
-          "source": "YouGov",
-          "url": "https://yougov.com/en-gb/articles/55156-big-yougov-voter-study-2026-how-has-the-lib-dem-coalition-changed-over-the-last-two-years",
-          "publishedAt": "2026-07-13"
+          "title": "Davey Joins BBC Discussion on Iran Tensions and Farage Security",
+          "summary": "Sir Ed Davey appeared on BBC Radio to discuss the US-Iran situation in the Strait of Hormuz as well as the ongoing security concerns raised following Ann Widdecombe's death.",
+          "source": "BBC Sounds",
+          "url": "https://www.bbc.co.uk/sounds/play/m002yx3p",
+          "publishedAt": "2026-07-14"
         }
       ]
     },
@@ -126,25 +140,25 @@
       "description": "Reform UK & Nigel Farage",
       "stories": [
         {
-          "title": "Ann Widdecombe Murder: Counter-Terrorism Police Take Over Investigation",
-          "summary": "A 28-year-old man suspected of murdering former Conservative minister and Reform UK spokeswoman Ann Widdecombe, 78, has been re-arrested on terrorism charges. The suspect was not previously known to the Prevent programme.",
-          "source": "BBC News",
-          "url": "https://www.bbc.com/news/articles/c0mydjl12mwo",
-          "publishedAt": "2026-07-13"
-        },
-        {
-          "title": "Reform UK Row Erupts Over MP Safety After Widdecombe Death",
-          "summary": "Reform UK members have called out Parliament over MP security in the wake of Ann Widdecombe's murder, with Nigel Farage accused of using her death for propaganda. Mahmood offered Farage a personal meeting with the Home Office's security unit for high-profile politicians.",
+          "title": "Ann Widdecombe Killed in 'Targeted Attack', Police Say",
+          "summary": "Counter-terrorism police confirmed that former government minister and prominent Reform UK figure Ann Widdecombe was killed in a targeted attack. Police are still working to establish the motive.",
           "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/2026/jul/13/mahmood-offers-farage-security-meeting-after-ann-widdecombe-death",
-          "publishedAt": "2026-07-13"
+          "url": "https://www.theguardian.com/politics/live/2026/jul/14/ann-widdecombe-nigel-farage-reform-uk-security-protection-burnham-latest-news-updates",
+          "publishedAt": "2026-07-14"
         },
         {
-          "title": "Secretive Crypto Firm Backed by Farage's Biggest Donor Exposed",
-          "summary": "BBC News has revealed details of a secretive crypto firm backed by Nigel Farage's biggest financial donor, raising fresh questions about the funding networks behind Reform UK.",
+          "title": "Government Accused of Failing Farage Over Security",
+          "summary": "Robert Jenrick, Reform's Treasury spokesperson, criticised the government for only arranging security talks for Nigel Farage 'as a result' of Ann Widdecombe's death. The BBC also reported the government is 'failing Farage over security.'",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cg4w6wqye32o",
-          "publishedAt": "2026-07-13"
+          "url": "https://www.bbc.co.uk/news/articles/c4gyg9452qlo",
+          "publishedAt": "2026-07-14"
+        },
+        {
+          "title": "Reform Accused of Trying to Criminalise Gaelic and Scots in Election Material",
+          "summary": "The SNP called a Reform UK amendment to the Representation of the People Bill 'despicable' and 'anti-Scottish', claiming it would ban the use of Gaelic and Scots language in election material.",
+          "source": "Herald Scotland",
+          "url": "https://www.heraldscotland.com/news/national/26277695.reform-trying-criminalise-use-gaelic-scots-election-material---snp/",
+          "publishedAt": "2026-07-14"
         }
       ]
     },
@@ -154,25 +168,25 @@
       "description": "Scottish National Party & Scottish politics",
       "stories": [
         {
-          "title": "Nicola Sturgeon Will Not Release Police Statement on SNP Finances",
-          "summary": "Former SNP leader Nicola Sturgeon's lawyers have confirmed she will not release the written statement she gave to police investigating the party's finances. Sturgeon had been arrested in June 2023 as part of the investigation.",
+          "title": "Yes Scotland Hands Accounts to Police After 'Missing £1.5m' Claim",
+          "summary": "Yes Scotland, which campaigned for independence in the 2014 referendum, handed accounts to police amid claims of missing funds. The group insists all funds have been accounted for, with the case linked to former SNP chief Peter Murrell (recently jailed).",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c1wyrw55vxvo",
-          "publishedAt": "2026-07-13"
+          "url": "https://www.bbc.co.uk/news/articles/czrxrv3y13go",
+          "publishedAt": "2026-07-14"
         },
         {
-          "title": "SNP Government Bond Plans Labelled a 'Gimmick' by Ross Greer",
-          "summary": "Scottish Green co-leader Ross Greer has described the SNP's plans to issue government bonds as a 'gimmick', criticising the policy as failing to address an independent Scotland's underlying borrowing needs.",
+          "title": "SNP Condemns Reform's 'Despicable' Bid to Ban Gaelic in Election Material",
+          "summary": "The SNP condemned Reform UK's amendment to the Representation of the People Bill as 'anti-Scottish,' saying it would effectively criminalise the use of Gaelic and Scots language in election materials.",
           "source": "Herald Scotland",
-          "url": "https://www.heraldscotland.com/opinion/26273202.ross-greer-correct-label-snp-bonds-issue-gimmick/",
-          "publishedAt": "2026-07-13"
+          "url": "https://www.heraldscotland.com/news/national/26277695.reform-trying-criminalise-use-gaelic-scots-election-material---snp/",
+          "publishedAt": "2026-07-14"
         },
         {
-          "title": "Over 80 MPs and MSPs Sign Pledge to Oppose Rosebank Oil Field",
-          "summary": "A cross-party group of more than 80 MPs and MSPs have signed a pledge opposing the planned Rosebank oil field development, with an SNP MSP breaking party ranks to join the campaign.",
+          "title": "Yes Scotland Statement on Peter Murrell Dismissed as 'Weasel Words'",
+          "summary": "A statement released by former Yes Scotland boss Blair Jenkins regarding Peter Murrell — who was recently jailed for five years — was dismissed as 'weasel words' by lawyer Aamer Anwar.",
           "source": "Herald Scotland",
-          "url": "https://www.heraldscotland.com/news/26276265.group-mps-msps-sign-pledge-oppose-rosebank/",
-          "publishedAt": "2026-07-13"
+          "url": "https://www.heraldscotland.com/news/national/26280241.yes-scotland-statement-peter-murrell-dismissed-weasel-words/",
+          "publishedAt": "2026-07-14"
         }
       ]
     },
@@ -182,32 +196,39 @@
       "description": "Government reshuffles, appointments & cross-department policy",
       "stories": [
         {
-          "title": "Burnham Expected to Resist Sweeping Cabinet Reshuffle on Taking Office",
-          "summary": "Policy analysts are urging incoming Prime Minister Andy Burnham to avoid making sweeping Cabinet changes when he enters Downing Street, warning that major reshuffles risk disrupting effective government operations.",
-          "source": "Institute for Government",
-          "url": "https://www.instituteforgovernment.org.uk/comment/burnhams-first-reshuffle-resist-change",
-          "publishedAt": "2026-07-13"
+          "title": "Cyber Security Responsibility Transferred from Cabinet Office to DSIT",
+          "summary": "The government announced that responsibility for Cyber Security policy has transferred from the Cabinet Office to the Department for Science, Innovation and Technology (DSIT) to streamline delivery and strengthen national priorities.",
+          "source": "GOV.UK",
+          "url": "https://www.gov.uk/government/publications/dsit-accounting-officer-system-statement-2026/dsit-accounting-officer-system-statement-2026",
+          "publishedAt": "2026-07-14"
         }
       ]
     },
     {
       "id": "elections",
       "name": "Elections & By-elections",
-      "description": "UK elections, by-elections & polls",
+      "description": "Election results, by-elections & polls",
       "stories": [
         {
-          "title": "Makerfield By-Election to Be Called as Burnham Becomes PM",
-          "summary": "With Andy Burnham leaving his Makerfield seat to become Prime Minister, a by-election will be required. Reform UK has proposed an August date for the by-election, with Farage denying the timing suggestion is a political stunt.",
+          "title": "Sixth Arrest Made in Election Fraud Investigation",
+          "summary": "A 25-year-old man has been arrested on suspicion of conspiracy to defraud as part of an ongoing election fraud investigation. This is the sixth arrest in the case.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/topics/c8nq32jw5jpt",
-          "publishedAt": "2026-07-13"
+          "url": "https://www.bbc.co.uk/news/articles/cm2d289z6neo",
+          "publishedAt": "2026-07-14"
         },
         {
-          "title": "Andy Burnham Confirmed as Next Labour Leader With 349 MP Nominations",
-          "summary": "Andy Burnham is set to become both Labour leader and Prime Minister after securing nominations from 349 Labour MPs — the overwhelming majority of the parliamentary party.",
+          "title": "Lib Dems Push for Voting System Change Before Next Election",
+          "summary": "Ed Davey urged incoming PM Andy Burnham to reform the UK's voting system before the next general election, calling it a key democratic commitment.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c05y3rj09qqo",
-          "publishedAt": "2026-07-13"
+          "url": "https://www.bbc.co.uk/news/articles/c79y9qy9y2go",
+          "publishedAt": "2026-07-14"
+        },
+        {
+          "title": "Welsh Government Loses Budget Vote as Labour Refuses to Back Plaid Cymru",
+          "summary": "The Welsh Government suffered a budget vote defeat after Labour refused to support Plaid Cymru's spending plans. Plaid needed support from another party but could not broker a deal.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c74y4zpw8w1o",
+          "publishedAt": "2026-07-14"
         }
       ]
     },
@@ -217,18 +238,25 @@
       "description": "Lords debates, reform & appointments",
       "stories": [
         {
-          "title": "Lords Debate Government's Record on Education, Employment and Welfare",
-          "summary": "Members of the House of Lords pressed the government on its record across education, employment and welfare, alongside debates on regenerative agriculture, violence against retail workers, and the conflict in Sudan.",
-          "source": "UK Parliament",
-          "url": "https://lordsbusiness.parliament.uk/?sectionId=42&businessPaperDate=2026-07-13",
-          "publishedAt": "2026-07-13"
+          "title": "Lord Barwell Loses Conservative Party Whip After Criticising Leadership",
+          "summary": "Former Tory minister Lord Gavin Barwell lost the Conservative party whip after speaking out against the party leadership. He said the decision shows 'intolerance of criticism' under Badenoch.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/jul/14/tories-deny-purge-lord-barwell-party-whip",
+          "publishedAt": "2026-07-14"
         },
         {
-          "title": "Lords Discuss National Security, Financial Market Reforms and Healthcare",
-          "summary": "This week's House of Lords business includes discussions covering national security, financial market reforms, healthcare challenges, democratic resilience, social welfare, and employment opportunities.",
-          "source": "UK Parliament",
-          "url": "https://lordsbusiness.parliament.uk/?sectionId=42&businessPaperDate=2026-07-13",
-          "publishedAt": "2026-07-13"
+          "title": "House of Lords Debates Taxation (Energy and Vehicles) Bill",
+          "summary": "All stages of the Taxation (Energy and Vehicles) Bill were debated in the House of Lords. The debate covered energy and vehicle taxation reform as part of broader government economic policy.",
+          "source": "BBC Parliament",
+          "url": "https://www.bbc.co.uk/iplayer/guide/bbcparliament",
+          "publishedAt": "2026-07-14"
+        },
+        {
+          "title": "Tories Deny Purge as Multiple Peers Push Back Against Badenoch's Direction",
+          "summary": "The Conservative Party denied orchestrating a purge of centrist members, even as multiple figures lost or faced pressure over their party positions. The row follows Badenoch's ideological shift against net zero and centrist positions.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/jul/14/tories-deny-purge-lord-barwell-party-whip",
+          "publishedAt": "2026-07-14"
         }
       ]
     }
