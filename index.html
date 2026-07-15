@@ -185,6 +185,98 @@
     border-top: 1px solid var(--border); margin-top: 2rem;
   }
 
+  /* ── Archive picker ── */
+  .archive-select {
+    font-size: 0.75rem; color: var(--text);
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 8px; padding: 0.3rem 0.6rem;
+    cursor: pointer; outline: none;
+  }
+  .archive-select:focus { border-color: var(--primary); }
+
+  /* ── Chatbot ── */
+  .chat-fab {
+    position: fixed; bottom: 1.75rem; right: 1.75rem; z-index: 600;
+    width: 54px; height: 54px; border-radius: 50%;
+    background: var(--primary); color: #fff;
+    border: none; cursor: pointer; font-size: 1.4rem;
+    box-shadow: 0 4px 16px rgba(124,58,237,0.4);
+    display: flex; align-items: center; justify-content: center;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  .chat-fab:hover { transform: scale(1.07); box-shadow: 0 6px 20px rgba(124,58,237,0.5); }
+  .chat-panel {
+    position: fixed; bottom: 0; right: 0;
+    width: 390px; height: 580px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 16px 16px 0 0;
+    box-shadow: -4px 0 32px rgba(0,0,0,0.14);
+    z-index: 599; display: none; flex-direction: column; overflow: hidden;
+  }
+  .chat-panel.open { display: flex; }
+  .chat-head {
+    padding: 0.875rem 1rem;
+    background: var(--primary); color: #fff;
+    font-size: 0.9rem; font-weight: 700;
+    display: flex; align-items: center; justify-content: space-between; gap: 0.5rem;
+  }
+  .chat-head-left { display: flex; align-items: center; gap: 0.5rem; }
+  .chat-close-btn {
+    background: none; border: none; color: rgba(255,255,255,0.8);
+    font-size: 1.1rem; cursor: pointer; padding: 0 0.2rem; line-height: 1;
+  }
+  .chat-close-btn:hover { color: #fff; }
+  .chat-messages {
+    flex: 1; overflow-y: auto; padding: 1rem;
+    display: flex; flex-direction: column; gap: 0.75rem;
+  }
+  .chat-bubble {
+    max-width: 88%; padding: 0.6rem 0.875rem;
+    border-radius: 12px; font-size: 0.82rem; line-height: 1.55;
+  }
+  .chat-bubble.user {
+    background: var(--primary); color: #fff;
+    align-self: flex-end; border-radius: 14px 14px 2px 14px;
+  }
+  .chat-bubble.bot {
+    background: var(--surface2); color: var(--text);
+    align-self: flex-start; border-radius: 14px 14px 14px 2px;
+    border: 1px solid var(--border);
+  }
+  .chat-bubble.thinking { color: var(--text-muted); font-style: italic; }
+  .chat-key-wrap {
+    padding: 1.25rem; display: flex; flex-direction: column; gap: 0.875rem;
+  }
+  .chat-key-wrap p { font-size: 0.82rem; color: var(--text-muted); line-height: 1.55; }
+  .chat-key-inp {
+    font-size: 0.82rem; border: 1px solid var(--border); border-radius: 8px;
+    padding: 0.5rem 0.75rem; outline: none; width: 100%; color: var(--text); background: var(--surface);
+  }
+  .chat-key-inp:focus { border-color: var(--primary); }
+  .chat-key-go {
+    background: var(--primary); color: #fff; border: none;
+    border-radius: 8px; padding: 0.55rem 1rem;
+    font-size: 0.82rem; font-weight: 600; cursor: pointer;
+  }
+  .chat-key-go:hover { opacity: 0.9; }
+  .chat-input-row {
+    display: flex; gap: 0.5rem; padding: 0.75rem 1rem;
+    border-top: 1px solid var(--border);
+  }
+  .chat-text-inp {
+    flex: 1; font-size: 0.82rem; border: 1px solid var(--border);
+    border-radius: 8px; padding: 0.45rem 0.7rem; outline: none;
+    color: var(--text); background: var(--surface);
+  }
+  .chat-text-inp:focus { border-color: var(--primary); }
+  .chat-send-btn {
+    background: var(--primary); color: #fff; border: none;
+    border-radius: 8px; padding: 0.45rem 0.875rem;
+    font-size: 0.82rem; font-weight: 600; cursor: pointer;
+  }
+  .chat-send-btn:hover { opacity: 0.9; }
+
   @media (max-width: 768px) {
     main { padding: 1rem; }
     .stats-row { grid-template-columns: repeat(2, 1fr); }
@@ -204,6 +296,9 @@
       </div>
     </div>
     <div class="header-meta">
+      <select class="archive-select" id="archiveSelect" onchange="switchEdition(this.value)">
+        <option value="today">📅 Today</option>
+      </select>
       <span class="last-updated" id="lastUpdated">Loading...</span>
       <span class="live-badge"><span class="live-dot"></span>Daily scan</span>
     </div>
@@ -271,10 +366,58 @@ const TOPIC_META = {
   'house-of-lords': { icon: '👑', desc: 'House of Lords debates & reform' },
 };
 
+let currentNewsData = null;
+
+async function fetchData(date) {
+  const url = (!date || date === 'today')
+    ? 'news_data.json?t=' + Date.now()
+    : 'archive/' + date + '.json?t=' + Date.now();
+  const res = await fetch(url);
+  return res.json();
+}
+
+async function loadArchiveIndex() {
+  try {
+    const res = await fetch('archive_index.json?t=' + Date.now());
+    if (!res.ok) return;
+    const data = await res.json();
+    const sel = document.getElementById('archiveSelect');
+    if (!sel) return;
+    const today = new Date().toISOString().slice(0, 10);
+    const dates = (data.dates || []).filter(d => d !== today);
+    dates.forEach(d => {
+      const opt = document.createElement('option');
+      opt.value = d;
+      opt.textContent = new Date(d + 'T12:00:00').toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
+      sel.appendChild(opt);
+    });
+  } catch(e) { /* no archive yet */ }
+}
+
+async function switchEdition(date) {
+  try {
+    const data = await fetchData(date);
+    currentNewsData = data;
+    renderData(data);
+  } catch(e) { alert('Could not load edition for ' + date); }
+}
+
 async function loadData() {
   try {
-    const res = await fetch('news_data.json?t=' + Date.now());
-    const data = await res.json();
+    const data = await fetchData('today');
+    currentNewsData = data;
+    loadArchiveIndex();
+    renderData(data);
+  } catch(e) {
+    document.getElementById('summaryText').textContent = 'Unable to load news data. Check back after the next scheduled scan at 4:00 PM Sydney time.';
+    document.getElementById('topicsGrid').innerHTML =
+      '<div style="grid-column:1/-1;text-align:center;padding:3rem;color:var(--text-muted);">Data will appear after the first scan.</div>';
+  }
+}
+
+function renderData(data) {
+  try {
+    const dummy = data;
 
     const d = new Date(data.lastUpdated);
     document.getElementById('lastUpdated').textContent =
