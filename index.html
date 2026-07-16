@@ -277,6 +277,15 @@
   }
   .chat-send-btn:hover { opacity: 0.9; }
 
+  /* ── Date sections ── */
+  .date-section { margin-bottom: 1.75rem; border: 1px solid var(--border); border-radius: 14px; overflow: hidden; }
+  .date-header { display: flex; align-items: center; gap: 0.75rem; padding: 0.9rem 1.25rem; background: var(--surface2); cursor: pointer; user-select: none; }
+  .date-header:hover { background: #e8eaf2; }
+  .date-header-label { font-weight: 600; font-size: 0.9rem; color: var(--text); flex: 1; }
+  .date-header-count { font-size: 0.8rem; color: var(--text-muted); background: var(--border); padding: 0.2rem 0.6rem; border-radius: 99px; }
+  .date-chevron { font-size: 0.75rem; color: var(--text-muted); }
+  .date-body { padding: 1rem; }
+
   @media (max-width: 768px) {
     main { padding: 1rem; }
     .stats-row { grid-template-columns: repeat(2, 1fr); }
@@ -296,9 +305,7 @@
       </div>
     </div>
     <div class="header-meta">
-      <select class="archive-select" id="archiveSelect" onchange="switchEdition(this.value)">
-        <option value="today">📅 Today</option>
-      </select>
+      <span class="archive-label" style="font-size:0.82rem;color:var(--text-muted);font-weight:500;">📅 All Editions</span>
       <span class="last-updated" id="lastUpdated">Loading...</span>
       <span class="live-badge"><span class="live-dot"></span>Daily scan</span>
     </div>
@@ -353,6 +360,9 @@
 </footer>
 
 <script>
+const WEBHOOK_URL = 'WEBHOOK_URL_PLACEHOLDER';
+const SOURCE = 'uk-politics';
+
 const TOPIC_META = {
   'pm-no10':        { icon: '🏠', desc: 'Prime Minister & Downing Street' },
   'parliament':     { icon: '🏛️', desc: 'House of Commons & Lords' },
@@ -366,87 +376,42 @@ const TOPIC_META = {
   'house-of-lords': { icon: '👑', desc: 'House of Lords debates & reform' },
 };
 
-let currentNewsData = null;
-
-async function fetchData(date) {
-  const url = (!date || date === 'today')
-    ? 'news_data.json?t=' + Date.now()
-    : 'archive/' + date + '.json?t=' + Date.now();
-  const res = await fetch(url);
-  return res.json();
-}
-
-async function loadArchiveIndex() {
+async function loadAllEditions() {
+  const editions = [];
   try {
-    const res = await fetch('archive_index.json?t=' + Date.now());
-    if (!res.ok) return;
-    const data = await res.json();
-    const sel = document.getElementById('archiveSelect');
-    if (!sel) return;
-    const today = new Date().toISOString().slice(0, 10);
-    const dates = (data.dates || []).filter(d => d !== today);
-    dates.forEach(d => {
-      const opt = document.createElement('option');
-      opt.value = d;
-      opt.textContent = new Date(d + 'T12:00:00').toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
-      sel.appendChild(opt);
-    });
-  } catch(e) { /* no archive yet */ }
-}
-
-async function switchEdition(date) {
-  try {
-    const data = await fetchData(date);
-    currentNewsData = data;
-    renderData(data);
-  } catch(e) { alert('Could not load edition for ' + date); }
-}
-
-async function loadData() {
-  try {
-    const data = await fetchData('today');
-    currentNewsData = data;
-    loadArchiveIndex();
-    renderData(data);
+    const idxRes = await fetch('archive_index.json?t=' + Date.now());
+    if (!idxRes.ok) throw new Error('no index');
+    const idx = await idxRes.json();
+    const dates = (idx.dates || []).slice(0, 30);
+    const results = await Promise.all(dates.map(async d => {
+      try {
+        const r = await fetch('archive/' + d + '.json?t=' + Date.now());
+        if (!r.ok) return null;
+        return { date: d, data: await r.json() };
+      } catch(e) { return null; }
+    }));
+    results.filter(Boolean).forEach(e => editions.push(e));
   } catch(e) {
-    document.getElementById('summaryText').textContent = 'Unable to load news data. Check back after the next scheduled scan at 4:00 PM Sydney time.';
-    document.getElementById('topicsGrid').innerHTML =
-      '<div style="grid-column:1/-1;text-align:center;padding:3rem;color:var(--text-muted);">Data will appear after the first scan.</div>';
+    try {
+      const r = await fetch('news_data.json?t=' + Date.now());
+      const data = await r.json();
+      editions.push({ date: new Date().toISOString().slice(0, 10), data });
+    } catch(e2) {}
   }
+  return editions;
 }
 
-function renderData(data) {
-  try {
-    const dummy = data;
+function formatDate(d) {
+  return new Date(d + 'T12:00:00').toLocaleDateString('en-GB', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
+}
 
-    const d = new Date(data.lastUpdated);
-    document.getElementById('lastUpdated').textContent =
-      'Updated ' + d.toLocaleDateString('en-GB', { day:'numeric', month:'short', year:'numeric' }) +
-      ' at ' + d.toLocaleTimeString('en-GB', { hour:'2-digit', minute:'2-digit' });
-
-    const topics = data.topics || [];
-    let totalStories = 0;
-    let activeTopics = 0;
-
-    const topicSummaries = [];
-
-    const grid = document.getElementById('topicsGrid');
-    grid.innerHTML = '';
-
-    topics.forEach(topic => {
-      const stories = topic.stories || [];
-      totalStories += stories.length;
-      if (stories.length > 0) {
-        activeTopics++;
-        topicSummaries.push(`${topic.name}: ${stories[0].title}`);
-      }
-
-      const meta = TOPIC_META[topic.id] || { icon: '📌', desc: topic.description || '' };
-      const card = document.createElement('div');
-      card.className = 'topic-card';
-
-      const countClass = stories.length === 0 ? 'zero' : '';
-      card.innerHTML = `
+function renderTopicsGrid(topics) {
+  return topics.map(topic => {
+    const stories = topic.stories || [];
+    const meta = TOPIC_META[topic.id] || { icon: '📌', desc: topic.description || '' };
+    const countClass = stories.length === 0 ? 'zero' : '';
+    return `
+      <div class="topic-card">
         <div class="topic-header">
           <div class="topic-icon">${meta.icon}</div>
           <div class="topic-info">
@@ -461,34 +426,150 @@ function renderData(data) {
             : stories.map(s => `
               <div class="story-item">
                 <div class="story-title">${s.title}</div>
-                <div class="story-summary">${s.summary}</div>
+                <div class="story-summary">${s.summary || ''}</div>
                 <div class="story-meta">
                   <a class="story-source" href="${s.url}" target="_blank" rel="noopener">${s.source}</a>
                   <span class="story-date">${s.publishedAt || ''}</span>
                 </div>
               </div>`).join('')}
-        </div>`;
-      grid.appendChild(card);
-    });
+        </div>
+      </div>`;
+  }).join('');
+}
 
+function toggleDateSection(header) {
+  const body = header.nextElementSibling;
+  const chevron = header.querySelector('.date-chevron');
+  const open = body.style.display !== 'none';
+  body.style.display = open ? 'none' : 'block';
+  chevron.textContent = open ? '▼' : '▲';
+}
+
+function renderEditions(editions) {
+  const container = document.getElementById('topicsGrid');
+  container.innerHTML = '';
+
+  // Update stats + summary from today's edition
+  const todayData = editions[0]?.data;
+  if (todayData) {
+    const topics = todayData.topics || [];
+    const totalStories = topics.reduce((s, t) => s + (t.stories?.length || 0), 0);
+    const activeTopics = topics.filter(t => t.stories?.length > 0).length;
     document.getElementById('totalStories').textContent = totalStories;
     document.getElementById('activeTopics').textContent = activeTopics;
 
-    if (topicSummaries.length > 0) {
-      document.getElementById('summaryText').textContent =
-        "Today's top political stories: " + topicSummaries.slice(0, 3).join(' · ') +
-        (topicSummaries.length > 3 ? ` · and ${topicSummaries.length - 3} more.` : '.');
+    try {
+      const d = new Date(todayData.lastUpdated);
+      document.getElementById('lastUpdated').textContent =
+        'Updated ' + d.toLocaleDateString('en-GB', { day:'numeric', month:'short', year:'numeric' }) +
+        ' at ' + d.toLocaleTimeString('en-GB', { hour:'2-digit', minute:'2-digit' });
+    } catch(e) {}
+
+    const topicSummaries = topics.filter(t => t.stories?.length > 0).map(t => `${t.name}: ${t.stories[0].title}`);
+    document.getElementById('summaryText').textContent = topicSummaries.length
+      ? "Today's top political stories: " + topicSummaries.slice(0, 3).join(' · ') + (topicSummaries.length > 3 ? ` · and ${topicSummaries.length - 3} more.` : '.')
+      : 'No major political stories found in the last 24 hours.';
+  }
+
+  // Render all editions as date sections
+  editions.forEach(({ date, data }, idx) => {
+    const topics = data.topics || [];
+    const totalStories = topics.reduce((s, t) => s + (t.stories?.length || 0), 0);
+    const isToday = idx === 0;
+
+    const section = document.createElement('div');
+    section.className = 'date-section';
+    section.style.gridColumn = '1 / -1';
+    section.innerHTML = `
+      <div class="date-header" onclick="toggleDateSection(this)">
+        <span class="date-header-label">${isToday ? '📅 Today — ' : '📁 '}${formatDate(date)}</span>
+        <span class="date-header-count">${totalStories} stor${totalStories === 1 ? 'y' : 'ies'}</span>
+        <span class="date-chevron">${isToday ? '▲' : '▼'}</span>
+      </div>
+      <div class="date-body" style="display:${isToday ? 'block' : 'none'}">
+        <div class="topics-grid" style="margin:0">
+          ${renderTopicsGrid(topics)}
+        </div>
+      </div>`;
+    container.appendChild(section);
+  });
+}
+
+async function init() {
+  try {
+    const editions = await loadAllEditions();
+    if (editions.length > 0) {
+      renderEditions(editions);
     } else {
-      document.getElementById('summaryText').textContent = 'No major political stories found in the last 24 hours.';
+      document.getElementById('summaryText').textContent = 'No data yet. Check back after the 4 PM Sydney scan.';
     }
   } catch(e) {
-    document.getElementById('summaryText').textContent = 'Unable to load news data. Check back after the next scheduled scan at 4:00 PM Sydney time.';
-    document.getElementById('topicsGrid').innerHTML =
-      '<div style="grid-column:1/-1;text-align:center;padding:3rem;color:var(--text-muted);">Data will appear after the first scan.</div>';
+    document.getElementById('summaryText').textContent = 'Unable to load news data.';
   }
 }
 
-loadData();
+init();
+
+/* ── Chatbot (webhook) ── */
+function toggleChat() {
+  document.getElementById('chatPanel').classList.toggle('open');
+}
+
+function addMsg(text, cls, isHtml) {
+  const msgs = document.getElementById('chatMessages');
+  const div = document.createElement('div');
+  div.className = 'chat-bubble ' + cls;
+  if (isHtml) div.innerHTML = text; else div.innerHTML = text.replace(/\n/g, '<br>');
+  msgs.appendChild(div);
+  msgs.scrollTop = msgs.scrollHeight;
+}
+
+async function sendChat() {
+  const inp = document.getElementById('chatTextInp');
+  const emailInp = document.getElementById('chatEmailInp');
+  const text = inp.value.trim();
+  const email = emailInp.value.trim();
+  if (!text) return;
+  if (!email || !email.includes('@')) {
+    emailInp.focus();
+    emailInp.style.borderColor = '#dc2626';
+    addMsg('⚠️ Please enter your email address so we can send your answer.', 'bot', false);
+    return;
+  }
+  emailInp.style.borderColor = '';
+  inp.value = '';
+  addMsg(text, 'user', false);
+  addMsg('⏳ Sending to AI… your answer will arrive at <strong>' + email + '</strong> within a minute.', 'bot', true);
+  try {
+    await fetch(WEBHOOK_URL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ question: text, reply_to: email, source: SOURCE })
+    });
+  } catch(e) {
+    addMsg('⚠️ Could not reach the AI service. Please try again shortly.', 'bot', false);
+  }
+}
 </script>
+
+<button class="chat-fab" onclick="toggleChat()" title="Ask AI — answers sent to your email">💬</button>
+
+<div class="chat-panel" id="chatPanel">
+  <div class="chat-head">
+    <div class="chat-head-left">🏛️ AI Politics Assistant</div>
+    <button class="chat-close-btn" onclick="toggleChat()">✕</button>
+  </div>
+  <div class="chat-messages" id="chatMessages">
+    <div class="chat-bubble bot">👋 Hi! Ask me anything about UK politics news — across all editions.<br><br>💡 <em>Your answer will be emailed to you. Enter your email below.</em></div>
+  </div>
+  <div style="padding:0.5rem 1rem 0;border-top:1px solid var(--border)">
+    <input class="chat-text-inp" id="chatEmailInp" type="email" placeholder="Your email address…" style="width:100%;margin-bottom:0.4rem" />
+  </div>
+  <div class="chat-input-row">
+    <input class="chat-text-inp" id="chatTextInp" placeholder="Ask about any edition…" onkeydown="if(event.key==='Enter')sendChat()" />
+    <button class="chat-send-btn" onclick="sendChat()">Send</button>
+  </div>
+</div>
+
 </body>
 </html>
