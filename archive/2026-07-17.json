@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T09:52:00+10:00",
+  "lastUpdated": "2026-07-17T16:00:00+10:00",
   "topics": [
     {
       "id": "pm-no10",
@@ -7,24 +7,24 @@
       "description": "Prime Minister & Downing Street",
       "stories": [
         {
-          "title": "'Continuity Keir': Burnham keeping on many of Starmer's No. 10 advisers",
-          "summary": "Andy Burnham is retaining many of Keir Starmer's key Downing Street advisers, raising concerns among some Labour supporters that next week's policy announcements may lack the radicalism they had hoped for.",
+          "title": "Andy Burnham to promise to 'fix the big things' as incoming Prime Minister",
+          "summary": "Andy Burnham will be confirmed as Labour leader at a special party conference in London before taking over from Sir Keir Starmer as prime minister on Monday. He has promised to 'fix the big things' and has selected senior No 10 advisers.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com/politics/2026/jul/16/andy-burnham-keir-starmer-no-10-advisers",
           "publishedAt": "2026-07-16"
         },
         {
           "title": "Keir Starmer makes Sadiq Khan a peer in the House of Lords",
-          "summary": "Outgoing Prime Minister Keir Starmer has awarded Sadiq Khan a peerage in his resignation honours list, potentially opening the door for the London mayor to join Andy Burnham's cabinet.",
+          "summary": "In one of his final acts as Prime Minister, Starmer has elevated London Mayor Sadiq Khan to the Lords, potentially opening the door for him to join the Burnham cabinet. 26 new peers were created in total.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com/politics/2026/jul/16/keir-starmer-makes-sadiq-khan-a-peer-in-the-house-of-lords",
           "publishedAt": "2026-07-16"
         },
         {
-          "title": "Andy Burnham to promise 'new path' when he becomes Prime Minister",
-          "summary": "Andy Burnham will be confirmed as Labour leader at a special party conference in London before taking over from Sir Keir Starmer as Prime Minister. He is expected to signal a new direction for his government.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c2lq12z1xdlo",
+          "title": "Starmer calls for Fifa investigation into Argentina over Falklands banner at World Cup",
+          "summary": "The outgoing Prime Minister has backed calls for Fifa to investigate Argentina players who displayed a banner asserting their country's claim to the Falkland Islands following their World Cup semi-final victory over England.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/16/keir-starmer-fifa-investigation-argentina-players-falklands-banner-malvinas-england-world-cup",
           "publishedAt": "2026-07-16"
         }
       ]
@@ -32,27 +32,27 @@
     {
       "id": "parliament",
       "name": "Parliament",
-      "description": "House of Commons, Lords, PMQs & Legislation",
+      "description": "House of Commons, House of Lords, PMQs & Legislation",
       "stories": [
         {
-          "title": "House of Commons sits on 16 July — Business of the House debate",
-          "summary": "The House of Commons held its regular Business of the House debate on 16 July 2026, with the Backbench Business Committee determining the weekly schedule. Upcoming business includes remaining stages of the Representation of the People Bill.",
-          "source": "UK Parliament (Hansard)",
+          "title": "Business of the House debate outlines remaining stages of Representation of the People Bill",
+          "summary": "In the House of Commons, the Business of the House debate on 16 July outlined upcoming parliamentary schedule, including remaining stages of the Representation of the People Bill set for September.",
+          "source": "Hansard / UK Parliament",
           "url": "https://hansard.parliament.uk/commons/2026-07-16/debates/7214B6AD-D715-43A5-8E7D-41E27BCBB509/BusinessOfTheHouse",
           "publishedAt": "2026-07-16"
         },
         {
-          "title": "Commons Chamber debate: Local Government Reorganisation and NHS",
-          "summary": "MPs debated local government reorganisation and raised urgent questions including calls for a new North Tees hospital. Reform UK MPs were noted as 'not interested in fixing local issues' during exchanges.",
-          "source": "UK Parliament (Hansard)",
-          "url": "https://hansard.parliament.uk/html/commons/2026-07-16/CommonsChamber",
+          "title": "Reform UK scrutinised in Public Bill Committee over anti-vaccine conspiracy theories",
+          "summary": "Parliament's Public Bill Committee session on 16 July saw Reform UK's leadership come under scrutiny, with members raising concerns about the party platforming anti-vaccine conspiracy theories at conferences.",
+          "source": "Hansard / UK Parliament",
+          "url": "https://hansard.parliament.uk/pdf/commons/2026-07-16/9c3d17ac-47a4-45a7-8609-378283660077",
           "publishedAt": "2026-07-16"
         },
         {
-          "title": "Representation of the People Bill: remaining stages scheduled",
-          "summary": "The Representation of the People Bill has been scheduled for its remaining Commons stages in September, signalling continued parliamentary focus on electoral reform legislation.",
-          "source": "UK Parliament (Hansard)",
-          "url": "https://hansard.parliament.uk/commons/2026-07-16/debates/7214B6AD-D715-43A5-8E7D-41E27BCBB509/BusinessOfTheHouse",
+          "title": "Political Peerages July 2026 announced by government",
+          "summary": "The government published the full list of political peerages for July 2026, with nominations from the Labour, Liberal Democrat, and Conservative party leaders.",
+          "source": "GOV.UK",
+          "url": "https://www.gov.uk/government/news/political-peerages-july-2026",
           "publishedAt": "2026-07-16"
         }
       ]
@@ -60,27 +60,27 @@
     {
       "id": "labour",
       "name": "Labour Party",
-      "description": "Labour Party news, policy & internal politics",
+      "description": "Labour Party news & policy",
       "stories": [
         {
-          "title": "Andy Burnham to promise 'fix the big things' in first speech as Labour leader",
-          "summary": "Incoming PM Andy Burnham will address a special Labour conference in London to be confirmed as party leader, pledging to 'fix the big things' and chart a course distinct from Starmer's tenure.",
+          "title": "Andy Burnham confirmed as Labour leader at special conference",
+          "summary": "Andy Burnham pledged to be 'unashamedly Labour' as he was confirmed as the new party leader, set to enter No 10 on Monday. He promised a 'new path' for the government.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/c2lq12z1xdlo",
           "publishedAt": "2026-07-16"
         },
         {
-          "title": "Burnham 'too influenced by vested interests' to offer real change, Greens say",
-          "summary": "Green Party co-leader Zack Polanski has challenged the notion that Andy Burnham will pursue a more left-leaning agenda than Starmer, accusing the incoming PM of being too close to vested interests.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/2026/jul/16/andy-burnham-labour-green-party-zack-polanski",
+          "title": "Burnham planning summer listening tour of UK in his first weeks as PM",
+          "summary": "The new prime minister-in-waiting is planning to travel across the UK throughout August while MPs break for the summer, framing it as a 'listening tour' to reconnect the government with voters.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c62v3w45199o",
           "publishedAt": "2026-07-16"
         },
         {
-          "title": "From Cambridge 'impostor' to New Labour star: Andy Burnham's winding path to power",
-          "summary": "A two-part Guardian profile traces Burnham's early political career and his rise from New Labour backbencher to becoming the incoming Prime Minister.",
+          "title": "Greens accuse Burnham of being too influenced by 'vested interests' to offer real change",
+          "summary": "The Green Party's Zack Polanski pushed back against the narrative that Burnham would offer a more left-leaning agenda than Starmer, accusing the incoming PM of being captured by vested interests.",
           "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/ng-interactive/2026/jul/16/new-labour-andy-burnham-winding-path-to-power",
+          "url": "https://www.theguardian.com/politics/2026/jul/16/andy-burnham-labour-green-party-zack-polanski",
           "publishedAt": "2026-07-16"
         }
       ]
@@ -88,27 +88,20 @@
     {
       "id": "conservatives",
       "name": "Conservative Party",
-      "description": "Conservative Party, Kemi Badenoch & opposition",
+      "description": "Conservative Party news & opposition",
       "stories": [
         {
-          "title": "Liz Truss assembles rightwing speakers for UK's own CPAC event in London",
-          "summary": "Former PM Liz Truss has organised a UK version of the US Conservative Political Action Conference (CPAC) in London, with keynote speakers including US influencer Jack Posobiec, as she aims to build influence on the British right.",
+          "title": "Kemi Badenoch urges Burnham to back North Sea oil and gas drilling",
+          "summary": "Conservative leader Kemi Badenoch, speaking during a visit to Aberdeen and hosting an oil and gas industry roundtable, said the incoming PM should back increased drilling 'if he has any common sense'.",
+          "source": "Herald Scotland / The Independent",
+          "url": "https://www.heraldscotland.com/news/national/26287543.burnham-must-back-oil-gas-drilling-common-sense---badenoch/",
+          "publishedAt": "2026-07-17"
+        },
+        {
+          "title": "Liz Truss assembles host of rightwing speakers for UK's CPAC conference in London",
+          "summary": "Former Prime Minister Liz Truss has assembled a roster of rightwing speakers including US influencer Jack Posobiec for the UK's CPAC event in London, as she seeks to gain influence among the British right.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com/uk-news/2026/jul/16/liz-truss-rightwing-speakers-uk-cpac-london",
-          "publishedAt": "2026-07-16"
-        },
-        {
-          "title": "Badenoch: Burnham must back oil and gas drilling 'if he has any common sense'",
-          "summary": "Conservative leader Kemi Badenoch has called on incoming PM Andy Burnham to reverse Labour's North Sea drilling restrictions, warning that abandoning fossil fuels prematurely would harm the economy.",
-          "source": "Herald Scotland",
-          "url": "https://www.heraldscotland.com/news/national/26287543.burnham-must-back-oil-gas-drilling-common-sense---badenoch/",
-          "publishedAt": "2026-07-16"
-        },
-        {
-          "title": "Burnham planning summer 'listening tour' of UK in early weeks as PM",
-          "summary": "Andy Burnham plans to travel across the UK during August while MPs are in summer recess, in what is being described as a 'listening tour' — a move that has drawn mixed reactions from Conservatives.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c62v3w45199o",
           "publishedAt": "2026-07-16"
         }
       ]
@@ -116,20 +109,13 @@
     {
       "id": "lib-dems",
       "name": "Liberal Democrats",
-      "description": "Lib Dem news & policy",
+      "description": "Liberal Democrat news & policy",
       "stories": [
         {
-          "title": "Five new Liberal Democrat peers created in Starmer's resignation honours",
-          "summary": "Keir Starmer's resignation honours list includes five new Liberal Democrat peers, alongside the more prominent appointments of Sadiq Khan and broadcaster June Sarpong.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cglj25k94r9o",
-          "publishedAt": "2026-07-16"
-        },
-        {
-          "title": "Ed Davey calls for Argentina World Cup players to be suspended over Falklands banner",
-          "summary": "Lib Dem leader Ed Davey has called for Argentina players who held a Falklands-related banner during the World Cup to be suspended by FIFA ahead of Sunday's final against Spain.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/football/live/2026/jul/16/world-cup-2026-argentina-break-england-hearts-and-head-for-final-with-spain-live",
+          "title": "Five new Liberal Democrat peers appointed to House of Lords",
+          "summary": "Ed Davey welcomed five new Lib Dem members of the Lords: Julia Aglionby, Hannah Kitching, Tim Leunig, Dave McCobb, and Mark Valladares, bolstering the party's presence in the upper chamber.",
+          "source": "Liberal Democrats",
+          "url": "https://www.libdems.org.uk/news/article/2026-peers",
           "publishedAt": "2026-07-16"
         }
       ]
@@ -140,24 +126,24 @@
       "description": "Reform UK & Nigel Farage",
       "stories": [
         {
-          "title": "Liz Truss hosts CPAC-style event attracting figures from Reform UK orbit",
-          "summary": "A UK Conservative Political Action Conference organised by Liz Truss drew speakers from the broader British right including figures associated with Reform UK's political space, reflecting ongoing competition on the right of British politics.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/uk-news/2026/jul/16/liz-truss-rightwing-speakers-uk-cpac-london",
+          "title": "Counter-terrorism police take over investigation into Ann Widdecombe's murder",
+          "summary": "Former Conservative minister and Reform UK spokeswoman Ann Widdecombe was found dead at her Devon home on 9 July with serious injuries. Counter-terrorism police have now taken charge of the murder investigation.",
+          "source": "The Independent",
+          "url": "https://www.the-independent.com/news/uk/crime/ann-widdecombe-death-suspect-police-b3015973.html",
+          "publishedAt": "2026-07-17"
+        },
+        {
+          "title": "Man arrested for threatening to shoot Nigel Farage",
+          "summary": "Police have arrested a man who threatened to shoot Reform UK party leader Nigel Farage, amid growing concerns over politician security following the murder of Ann Widdecombe.",
+          "source": "CBN News",
+          "url": "https://cbn.com/news/world/police-arrest-man-who-threatened-shoot-reform-uk-party-leader-nigel-farage",
           "publishedAt": "2026-07-16"
         },
         {
-          "title": "Reform UK MPs attack government over failure to address local priorities",
-          "summary": "During Commons Chamber exchanges on 16 July, Reform UK was criticised for being 'not interested in fixing the issues that local people care about', pointing to ongoing tensions between the party's national messaging and local governance.",
-          "source": "UK Parliament (Hansard)",
-          "url": "https://hansard.parliament.uk/html/commons/2026-07-16/CommonsChamber",
-          "publishedAt": "2026-07-16"
-        },
-        {
-          "title": "Suella Braverman column on reparations and colonialism draws backlash",
-          "summary": "A Guardian commentary challenges Suella Braverman's argument that former colonies should pay reparations to former colonisers, describing the position — gaining traction in Reform-adjacent circles — as having 'the telescope the wrong way round'.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/commentisfree/2026/jul/16/suella-braverman-reparations-colonialism-reform-race",
+          "title": "Reform UK under scrutiny in Parliament over anti-vaccine conspiracy theories",
+          "summary": "MPs raised concerns in a Public Bill Committee session that Reform UK leader Nigel Farage has platformed prominent anti-vaccine conspiracy theorists at party conferences, calling for accountability.",
+          "source": "Hansard / UK Parliament",
+          "url": "https://hansard.parliament.uk/pdf/commons/2026-07-16/9c3d17ac-47a4-45a7-8609-378283660077",
           "publishedAt": "2026-07-16"
         }
       ]
@@ -168,17 +154,24 @@
       "description": "Scottish National Party & Scottish politics",
       "stories": [
         {
-          "title": "Sturgeon 'stitched up' Salmond to cover up Murrell fraud, says senior Tory MP",
-          "summary": "Senior Conservative MP David Davis has accused former SNP leader Nicola Sturgeon of lying about her knowledge of her husband Peter Murrell's embezzlement, claiming she orchestrated a cover-up.",
+          "title": "David Davis MP accuses Nicola Sturgeon of lying to cover up Murrell embezzlement",
+          "summary": "Senior Conservative MP David Davis claimed Nicola Sturgeon 'stitched up' Alex Salmond to cover up her husband Peter Murrell's fraud, alleging she lied about her knowledge of the embezzlement.",
           "source": "Herald Scotland",
           "url": "https://www.heraldscotland.com/news/26286977.nicola-sturgeon-lied-murrell-snp-fraud-mp-claims/",
           "publishedAt": "2026-07-16"
         },
         {
-          "title": "Starmer's final foreign trip: Ukraine visit before handing over to Burnham",
-          "summary": "Outgoing PM Keir Starmer made a final visit to Ukraine to meet President Zelensky before leaving office, a trip covered extensively in Scottish media amid the broader transition of power.",
+          "title": "What does Andy Burnham mean for Scottish Labour?",
+          "summary": "With Anas Sarwar having turned on Keir Starmer, analysis of whether Burnham's elevation as the 'King of the North' could be good or bad news for Scottish Labour's electoral fortunes.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c1m107d32e5o",
+          "publishedAt": "2026-07-16"
+        },
+        {
+          "title": "Scottish MPs and MSPs call on Danish shipyard to stop servicing Russian tankers",
+          "summary": "Scottish MPs and MSPs have joined over 100 parliamentarians from across Europe to demand a Danish shipyard cease servicing tankers linked to Russia, amid ongoing concerns over sanctions evasion.",
           "source": "Herald Scotland",
-          "url": "https://www.heraldscotland.com/news/national/26285623.starmer-meets-zelensky-final-visit-ukraine-leaving-office/",
+          "url": "https://www.heraldscotland.com/news/26286223.mps-msps-call-shipyard-stop-servicing-russian-tankers/",
           "publishedAt": "2026-07-16"
         }
       ]
@@ -189,24 +182,17 @@
       "description": "Government reshuffles, appointments & cross-department policy",
       "stories": [
         {
-          "title": "Starmer creates 26 new peers — including Sadiq Khan, June Sarpong and Christina McAnea",
-          "summary": "Outgoing PM Keir Starmer has announced 26 new life peerages in his resignation honours list, including London Mayor Sadiq Khan, broadcaster June Sarpong, and former union chief Christina McAnea.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cglj25k94r9o",
+          "title": "Starmer's final political peerages list published — 26 new Lords",
+          "summary": "The Cabinet Office published the full political peerages list for July 2026, including 16 Labour nominees, 5 Liberal Democrats, 3 Conservatives and 2 cross-benchers, including former Cabinet Secretary Sir Chris Wormald and retired judge Sir Brian Leveson.",
+          "source": "GOV.UK",
+          "url": "https://www.gov.uk/government/news/political-peerages-july-2026",
           "publishedAt": "2026-07-16"
         },
         {
-          "title": "Chancellor announces steps toward Digital Gilt Instrument (DIGIT) pilot expansion",
-          "summary": "Following the Chancellor's Mansion House speech on 14 July, the government has published an update on the Digital Gilt Instrument pilot, setting out steps to prepare for potential further issuances.",
-          "source": "HM Government (gov.uk)",
+          "title": "Government publishes update on Digital Gilt Instrument (DIGIT) pilot following Chancellor's Mansion House speech",
+          "summary": "Following the Chancellor's Mansion House speech on 14 July, the government published an update on steps to prepare for potential further issuance of the Digital Gilt Instrument, the UK's blockchain-based government bond pilot.",
+          "source": "GOV.UK",
           "url": "https://www.gov.uk/government/publications/update-on-the-digital-gilt-instrument-digit-pilot-issuance/update-on-the-digital-gilt-instrument-digit-pilot-issuance",
-          "publishedAt": "2026-07-16"
-        },
-        {
-          "title": "JCVI publishes new recommendation on adolescent MenB vaccination",
-          "summary": "The Joint Committee on Vaccination and Immunisation (JCVI) has published a recommendation to the Government on expanding MenB vaccination to adolescents; the Department of Health and Social Care will now consider the advice.",
-          "source": "HM Government (gov.uk)",
-          "url": "https://www.gov.uk/government/news/jcvi-publishes-new-recommendation-to-government-on-adolescent-menb-vaccination",
           "publishedAt": "2026-07-16"
         }
       ]
@@ -214,21 +200,28 @@
     {
       "id": "elections",
       "name": "Elections & By-elections",
-      "description": "Upcoming elections, by-elections & polls",
+      "description": "UK elections, by-elections & polls",
       "stories": [
         {
-          "title": "Representation of the People Bill: remaining stages scheduled for September",
-          "summary": "The Representation of the People Bill — a key piece of electoral reform legislation — has been scheduled for its remaining Commons stages in September 2026, keeping electoral reform on the parliamentary agenda.",
-          "source": "UK Parliament (Hansard)",
-          "url": "https://hansard.parliament.uk/commons/2026-07-16/debates/7214B6AD-D715-43A5-8E7D-41E27BCBB509/BusinessOfTheHouse",
+          "title": "Manor Ward By-Election: Labour wins in Stafford on 16 July",
+          "summary": "Labour's Aaron Thurstance was elected in the Manor Ward by-election on Thursday 16 July, defeating Reform UK and Conservative candidates. Reform came second with 414 votes, Conservatives third with 237.",
+          "source": "Stafford Borough Council",
+          "url": "https://www.facebook.com/StaffordBCouncil/posts/manor-ward-by-election-resultthursday-16-july-2026aaron-thurstance-lab-electedfu/1436943448460527/",
           "publishedAt": "2026-07-16"
         },
         {
-          "title": "Burnham confirmed as Labour leader at special party conference — becomes PM",
-          "summary": "Andy Burnham's formal election as Labour leader at a special London conference marks the end of Starmer's leadership and triggers the transfer of power; the process highlights Labour's internal electoral mechanism for leadership succession.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c2lq12z1xdlo",
+          "title": "Old Catton Division Norfolk County Council by-election held on 16 July",
+          "summary": "A Norfolk County Council by-election took place in the Old Catton division on 16 July 2026, alongside a Norfolk Police and Crime Commissioner election.",
+          "source": "South Norfolk and Broadland Council",
+          "url": "https://www.southnorfolkandbroadland.gov.uk/council/elections/upcoming-elections/norfolk-county-council-old-catton-division-by-election-16-july-2026",
           "publishedAt": "2026-07-16"
+        },
+        {
+          "title": "New voting intention poll shows Conservatives at highest sustained average since April 2025",
+          "summary": "A new Find Out Now voting intention poll (15 July) shows the Conservatives at their highest sustained voting average since April 2025, though Labour and Reform UK remain competitive.",
+          "source": "Find Out Now",
+          "url": "https://findoutnow.co.uk/blog/voting-intention-15th-july-2026/",
+          "publishedAt": "2026-07-15"
         }
       ]
     },
@@ -238,25 +231,25 @@
       "description": "Lords debates, reform & appointments",
       "stories": [
         {
-          "title": "Sadiq Khan among 26 new peers created by Starmer in resignation honours",
-          "summary": "London Mayor Sadiq Khan heads the list of 26 new life peers created by outgoing PM Keir Starmer. The appointments also include broadcaster June Sarpong and former TUC general secretary Christina McAnea.",
+          "title": "Sadiq Khan among 26 new peers given seats in the Lords by outgoing PM Starmer",
+          "summary": "London Mayor Sir Sadiq Khan has been elevated to the House of Lords in one of Keir Starmer's final acts as Prime Minister. The full list includes broadcaster June Sarpong, former union chief Christina McAnea, former Cabinet Secretary Sir Chris Wormald, and judge Sir Brian Leveson.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cglj25k94r9o",
           "publishedAt": "2026-07-16"
         },
         {
-          "title": "Keir Starmer makes Sadiq Khan a peer — potentially for Burnham cabinet role",
-          "summary": "Starmer's decision to elevate Sadiq Khan to the Lords is seen as a strategic move that could allow the former London Mayor to join Andy Burnham's cabinet in a Lords-based ministerial role.",
+          "title": "Five new Liberal Democrat peers join the Lords",
+          "summary": "The Lib Dems gain five new Lords: Julia Aglionby, Hannah Kitching, Tim Leunig, Dave McCobb, and Mark Valladares, as part of the July 2026 political peerages list.",
+          "source": "Liberal Democrats",
+          "url": "https://www.libdems.org.uk/news/article/2026-peers",
+          "publishedAt": "2026-07-16"
+        },
+        {
+          "title": "Ann Widdecombe death prompts commentary on British political culture and Lords reform",
+          "summary": "The Guardian's Gaby Hinsliff wrote that Ann Widdecombe's killing should prompt Britain to ask what kind of political culture it wants, as the murder investigation enters counter-terrorism hands.",
           "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/2026/jul/16/keir-starmer-makes-sadiq-khan-a-peer-in-the-house-of-lords",
-          "publishedAt": "2026-07-16"
-        },
-        {
-          "title": "Five new Liberal Democrat and three new Conservative peers among Starmer's 26 appointments",
-          "summary": "Alongside high-profile Labour appointments, Starmer's resignation honours list includes five Liberal Democrat peers, three Conservatives, and two cross-bench members, reflecting a cross-party tradition in Lords appointments.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cglj25k94r9o",
-          "publishedAt": "2026-07-16"
+          "url": "https://www.theguardian.com/commentisfree/2026/jul/17/ann-widdecombe-death-britain-political-culture",
+          "publishedAt": "2026-07-17"
         }
       ]
     }
