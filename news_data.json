@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21T16:01:51+10:00",
+  "lastUpdated": "2026-07-21T08:14:09+10:00",
   "topics": [
     {
       "id": "pm-no10",
@@ -7,22 +7,22 @@
       "description": "Prime Minister & Downing Street",
       "stories": [
         {
-          "title": "Andy Burnham becomes UK's new Prime Minister, replacing Keir Starmer",
-          "summary": "Andy Burnham entered No. 10 on 20 July 2026 as the UK's seventh Prime Minister in a decade, after Keir Starmer formally resigned to the King at Buckingham Palace. Burnham, former Mayor of Greater Manchester, pledged to be a 'circuit breaker' and promised a new economic model.",
+          "title": "Key takeaways as Andy Burnham becomes PM",
+          "summary": "Andy Burnham has replaced Sir Keir Starmer as UK Prime Minister, becoming the seventh PM in a decade. He delivered his first Downing Street speech without a lectern, pledging to 'bring back hope' and be a 'circuit breaker' for Britain.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/c80nln7zgp7o",
           "publishedAt": "2026-07-20"
         },
         {
-          "title": "Starmer leaves No. 10 with 'good grace and a smile'",
-          "summary": "Keir Starmer gave a final speech from Downing Street praising Britons' 'resolve, grit, decency and compassion', saying Britain is 'stronger and fairer than it was 2 years ago'. He then formally resigned to the King before Burnham took the keys to No. 10.",
+          "title": "Burnham promises 'circuit breaker' moment for UK as he becomes PM",
+          "summary": "After meeting King Charles, Burnham pledged to tackle the cost of living crisis and rebuild public trust in politics. He described his arrival in No. 10 as a moment to reset the relationship between government and the people.",
           "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/2026/jul/20/keir-starmer-andy-burnham-no-10-prime-minister-rapid-turnover",
+          "url": "https://www.theguardian.com/politics/2026/jul/20/andy-burnham-uk-prime-minister-meeting-king-charles",
           "publishedAt": "2026-07-20"
         },
         {
-          "title": "Burnham pledges to end rough sleeping and deliver cost of living support",
-          "summary": "In his first words as PM, Burnham said his first instruction would be to 'end rough sleeping in our country', and pledged to make announcements this week to 'give people some breathing space' on the cost of living.",
+          "title": "Burnham pledges to 'bring back hope' as he makes Healey chancellor",
+          "summary": "John Healey was appointed Chancellor in a surprise move, with Ed Miliband named Foreign Secretary. Burnham also announced VAT on household electricity will be cut from 5% to 0% from October as part of his cost of living package.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/cvg9w2e29eno",
           "publishedAt": "2026-07-20"
@@ -30,48 +30,27 @@
       ]
     },
     {
-      "id": "parliament",
-      "name": "Parliament",
-      "description": "House of Commons, Lords, PMQs & Legislation",
+      "id": "burnham-intel",
+      "name": "Burnham Gov Intelligence",
+      "description": "Procurement, tech/AI, spending, vendor & priority signals",
       "stories": [
         {
-          "title": "Burnham returned to Parliament via Makerfield by-election ahead of Labour leadership win",
-          "summary": "Andy Burnham had been parachuted back into the House of Commons via the Makerfield special election in June 2026 in order to pursue the Labour leadership, having previously served as Mayor of Greater Manchester.",
-          "source": "Reason / Multiple Sources",
-          "url": "https://reason.com/2026/07/20/britains-new-prime-minister-andy-burnham-promises-stronger-public-control-of-stagnating-economy/",
-          "publishedAt": "2026-07-20"
-        },
-        {
-          "title": "New Parliament session awaits under Burnham government",
-          "summary": "With Burnham's formation of a new cabinet, Parliament is expected to reconvene with a fresh legislative agenda focused on economic reform, devolution, and cost of living measures.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c3r0x5nzg0eo",
+          "title": "\ud83d\udea6 Burnham plans to restructure government AI strategy department",
+          "summary": "Reports indicate the new PM is planning to gut the government department leading Britain's AI strategy, signalling a major structural shift in how UK AI policy will be managed and resourced going forward.",
+          "source": "The Daily Telegraph",
+          "url": "https://www.facebook.com/TELEGRAPH.CO.UK/posts/andy-burnhams-plan-to-gut-the-government-department-leading-britains-ai-strategy/1487321910109103/",
           "publishedAt": "2026-07-21"
-        }
-      ]
-    },
-    {
-      "id": "labour",
-      "name": "Labour Party",
-      "description": "Labour Party news & policy",
-      "stories": [
-        {
-          "title": "Who's in Andy Burnham's new Labour cabinet?",
-          "summary": "Burnham appointed John Healey as Chancellor, Ed Miliband as Foreign Secretary, Yvette Cooper as Health Secretary, Angela Rayner (back) as Housing Secretary, Wes Streeting as Defence Secretary, and Shabana Mahmood stays as Home Secretary. Starmer ally Darren Jones was sacked.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/ckg4we9g58do",
-          "publishedAt": "2026-07-20"
         },
         {
-          "title": "Burnham's policy choices reveal what kind of PM he wants to be",
-          "summary": "Analysis suggests Burnham's cabinet picks and early policy signals — ending rough sleeping, cost of living support, and devolution pledges — indicate a populist-left, community-focused agenda distinct from the Starmer era.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c3r0x5nzg0eo",
-          "publishedAt": "2026-07-20"
+          "title": "\ud83e\udd16 UK businesses not deepening AI use as Burnham era begins",
+          "summary": "The FT warns that Burnham's tenure begins amid troubling signals: UK businesses are not deepening their use of AI, adding pressure on the new government's technology and digital transformation agenda.",
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/1197682a-c72d-4ae2-a8f2-f0fd3f867439",
+          "publishedAt": "2026-07-21"
         },
         {
-          "title": "Burnham to set out cost of living support this week",
-          "summary": "The new PM has promised to announce cost of living measures this week to 'give people some breathing space', with Healey as chancellor expected to outline financial support.",
+          "title": "\ud83d\udcb0 Burnham to remove VAT from electricity bills and set out cost of living support",
+          "summary": "The new PM will cut VAT on household electricity from 5% to 0% in October. Burnham has committed to sticking to current debt and spending rules, constraining his room for additional investment in public services.",
           "source": "BBC News",
           "url": "https://www.bbc.co.uk/news/articles/c2lqdd44d0do",
           "publishedAt": "2026-07-20"
@@ -79,43 +58,85 @@
       ]
     },
     {
-      "id": "conservatives",
-      "name": "Conservative Party",
-      "description": "Conservative Party news & opposition",
+      "id": "parliament",
+      "name": "Parliament",
+      "description": "House of Commons, House of Lords, PMQs, Legislation",
       "stories": [
         {
-          "title": "Kemi Badenoch congratulates Burnham and offers to work with him on benefits cuts",
-          "summary": "Conservative leader Kemi Badenoch wrote to Burnham wishing him success, and said Conservatives would vote with the government on benefits bill savings if agreement is reached. She had previously mocked Burnham as 'a pair of eyelashes and a black T-shirt'.",
-          "source": "Conservatives / Facebook",
-          "url": "https://www.facebook.com/conservatives/posts/kemi-badenoch-has-written-to-andy-burnhami-wish-andy-burnham-every-success-as-pr/1630040878479184/",
+          "title": "Burnham's policy choices reveal what kind of PM he wants to be",
+          "summary": "BBC analysis of Burnham's early policy signals covers housing, social care, rough sleeping and fiscal discipline. He has pledged to prevent 40,000 people from becoming homeless, a move estimated to save taxpayers \u00a3370m.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c3r0x5nzg0eo",
+          "publishedAt": "2026-07-21"
+        },
+        {
+          "title": "MPs vote on Hillsborough amendment as Starmer and Burnham address Commons",
+          "summary": "A historic day in the House of Commons saw both outgoing PM Starmer and incoming PM Burnham address MPs. The Commons also voted on a Hillsborough amendment during the transition.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/live/2026/jul/20/andy-burnham-new-prime-minister-pm-keir-starmer-labour-no-10-downing-street-speech-cabinet-uk-politics-latest-news-updates",
           "publishedAt": "2026-07-20"
         },
         {
-          "title": "Burnham becomes UK's seventh PM in a decade — a challenge for opposition",
-          "summary": "With yet another change of leadership, the Conservatives face the challenge of holding a new PM to account as Burnham promises a 'circuit breaker' from recent political instability.",
-          "source": "CNN",
-          "url": "https://www.cnn.com/2026/07/20/world/live-news/andy-burnham-uk-prime-minister-intl",
+          "title": "Tuesday briefing: Inside Andy Burnham's first day",
+          "summary": "The Guardian's briefing covers Burnham's first 24 hours as PM, including his Downing Street speech, cabinet formation and early policy announcements as junior ministerial appointments continue.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jul/21/tuesday-briefing-inside-andy-burnhams-first-day",
+          "publishedAt": "2026-07-21"
+        }
+      ]
+    },
+    {
+      "id": "labour",
+      "name": "Labour Party",
+      "description": "Labour Party news, policy and internal politics",
+      "stories": [
+        {
+          "title": "Andy Burnham's first Labour cabinet: who's in and who's out?",
+          "summary": "Detailed profiles of Burnham's new cabinet team, including notable departures of Reeves and Lammy, and surprise picks. Ed Miliband described as 'a great survivor in the Labour party' in his new Foreign Secretary role.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/jul/20/andy-burnham-labour-cabinet-profiles",
           "publishedAt": "2026-07-20"
+        },
+        {
+          "title": "Who's in Andy Burnham's new Labour cabinet?",
+          "summary": "BBC's in-depth look at Burnham's new cabinet: John Healey as Chancellor, Ed Miliband as Foreign Secretary, Angela Rayner returns to housing, Shabana Mahmood stays as Home Secretary, Wes Streeting moves to Defence.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ckg4we9g58do",
+          "publishedAt": "2026-07-20"
+        },
+        {
+          "title": "Scottish Labour should be allowed to debate different ideas, says McConnell",
+          "summary": "Lord McConnell called for Scottish Labour to debate its relationship with the wider UK party as Burnham takes power with a devolution agenda. He raised the question hours before Burnham officially became PM.",
+          "source": "Herald Scotland",
+          "url": "https://www.heraldscotland.com/news/national/26293483.scottish-labour-allowed-debate-different-ideas-says-mcconnell/",
+          "publishedAt": "2026-07-20"
+        }
+      ]
+    },
+    {
+      "id": "conservatives",
+      "name": "Conservative Party",
+      "description": "Conservative Party news, leadership and opposition",
+      "stories": [
+        {
+          "title": "Kemi declares war on net zero \u2014 targeting Tory MPs over climate",
+          "summary": "Kemi Badenoch is sharpening the Conservatives' ideological positioning on net zero, drawing a clear line between Tory MPs who accept the climate crisis and those who do not, in a move to define the opposition's identity.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/jul/14/kemi-badenoch-zeros-in-on-tory-mps-who-believe-in-climate-crisis-and-those-who-dont",
+          "publishedAt": "2026-07-14"
         }
       ]
     },
     {
       "id": "lib-dems",
       "name": "Liberal Democrats",
-      "description": "Liberal Democrats news & policy",
+      "description": "Lib Dem news and policy positions",
       "stories": [
         {
-          "title": "Lib Dems: Burnham 'has a very short window to turn this government around'",
-          "summary": "The Liberal Democrats acknowledged Burnham's arrival as PM but warned he faces a tight window to deliver real change, saying the new PM must 'end the chaos' of recent years.",
-          "source": "Liberal Democrats / Facebook",
-          "url": "https://www.facebook.com/libdems/posts/andy-burnham-has-a-very-short-window-to-turn-this-government-around-end-the-chao/1619925576158771/",
-          "publishedAt": "2026-07-20"
-        },
-        {
-          "title": "Lib Dem Voice: 'Burnham has made a promising start — now comes the hard part'",
-          "summary": "Lib Dem commentator Mathew Hulbert wrote that while Burnham's first speech was encouraging, the hard work of governing begins now, with many uncosted policy priorities stacking up.",
-          "source": "Lib Dem Voice",
-          "url": "https://www.libdemvoice.org/mathew-on-monday-burnham-has-made-a-promising-start-now-comes-the-hard-part-80139.html",
+          "title": "Man, 28, charged with murder of former MP Ann Widdecombe",
+          "summary": "A 28-year-old man named Joshua Kerry has been charged with the murder of former Conservative MP Ann Widdecombe. Lib Dem leader Ed Davey said he was 'shocked and distressed' by the news; police are investigating a possible left-wing motivation.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cn4n2erympvo",
           "publishedAt": "2026-07-20"
         }
       ]
@@ -123,55 +144,48 @@
     {
       "id": "reform-uk",
       "name": "Reform UK",
-      "description": "Reform UK & Nigel Farage",
+      "description": "Reform UK and Nigel Farage",
       "stories": [
         {
-          "title": "Farage investigation over undeclared gifts branded 'kangaroo court' by Reform MP",
-          "summary": "Reform MP Sarah Pochin (Runcorn) defended Farage, calling the parliamentary investigation into millions of pounds in undeclared gifts a 'vicious and desperate campaign' by the establishment to stop Reform UK.",
+          "title": "Investigation of Nigel Farage over undeclared gifts is 'kangaroo court', says Reform MP",
+          "summary": "Reform MP Sarah Pochin has described the parliamentary investigation into Farage for undeclared gifts as a 'kangaroo court', as the financial scandal surrounding the party leader deepens amid a series of related allegations.",
           "source": "The Guardian",
           "url": "https://www.theguardian.com/politics/2026/jul/20/investigation-nigel-farage-undeclared-gifts-kangaroo-court-reform-mp-sarah-pochin",
           "publishedAt": "2026-07-20"
         },
         {
-          "title": "Clacton by-election set for early August with 30+ candidates, major parties boycotting",
-          "summary": "Farage resigned his Clacton seat over the donations scandal, triggering a by-election in which he is re-contesting. All major parties have boycotted the contest. Candidates include Count Binface and an Australian, Daniel Pocock.",
-          "source": "SBS News",
-          "url": "https://www.sbs.com.au/news/article/australian-daniel-pocock-nigel-farage-clacton-by-election/hdlqy0x79",
-          "publishedAt": "2026-07-20"
-        },
-        {
-          "title": "YouGov poll: Reform voters split on Farage resignation — 57% support, 16% oppose",
-          "summary": "Among the general public, 24% support Farage's resignation and 43% oppose it. Among Reform voters, 57% support the move versus 16% who oppose, suggesting strong backing from his base for the by-election gamble.",
-          "source": "Sky News / YouGov",
-          "url": "https://www.instagram.com/reel/DbBT7fuOfY2/",
-          "publishedAt": "2026-07-20"
+          "title": "Nigel Farage says questions over his finances are part of 'coordinated pile-on'",
+          "summary": "Farage has dismissed the growing financial scandal as a politically motivated 'coordinated pile-on', as the Guardian's investigation into Reform's finances continues to generate pressure on the party.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/brexit-party",
+          "publishedAt": "2026-07-16"
         }
       ]
     },
     {
       "id": "snp",
       "name": "SNP",
-      "description": "Scottish National Party & Scottish politics",
+      "description": "Scottish National Party and Scottish politics",
       "stories": [
         {
-          "title": "Douglas Alexander to remain Scottish Secretary under Burnham",
-          "summary": "Despite major cabinet changes, Douglas Alexander confirmed he is 'very happy' to stay on as Scottish Secretary under PM Burnham, providing continuity in Scotland's relationship with Westminster.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c07r97mde4go",
-          "publishedAt": "2026-07-20"
-        },
-        {
-          "title": "Jack McConnell urges Scottish Labour to debate split from UK party",
-          "summary": "Former First Minister Lord McConnell said Scottish Labour should be allowed to debate different ideas, including greater autonomy from the UK party, as Burnham enters No. 10 promising devolution.",
+          "title": "Jack McConnell urges Scottish Labour to debate split with UK party",
+          "summary": "Lord McConnell urged Scottish Labour to openly debate its autonomy from the UK party, as Andy Burnham enters No. 10 promising greater devolution and decentralisation to the nations and regions.",
           "source": "Herald Scotland",
           "url": "https://www.heraldscotland.com/news/26293688.jack-mcconnell-urges-scottish-labour-debate-split-uk-party/",
           "publishedAt": "2026-07-20"
         },
         {
-          "title": "Burnham pledges to 'carry power to every postcode'",
-          "summary": "New PM Andy Burnham promised in his first speech to build 'a national sense of unity' and devolve power across the UK — a signal that Scottish and regional interests will be central to his agenda.",
+          "title": "Douglas Alexander to remain Scottish Secretary as Burnham takes over",
+          "summary": "Douglas Alexander confirmed he is staying on as Scottish Secretary in Burnham's cabinet, even as a host of Starmer-era ministers departed. He said he was 'very happy' to continue in the role.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c07r97mde4go",
+          "publishedAt": "2026-07-20"
+        },
+        {
+          "title": "Yes Scotland chief had no knowledge of post about missing \u00a31.5m",
+          "summary": "Aamer Anwar stated that a social media post on the Yes Scotland account about missing funds of \u00a31.5m was made without Blair Jenkins' knowledge or consent, adding to ongoing scrutiny of the independence campaign's finances.",
           "source": "Herald Scotland",
-          "url": "https://www.heraldscotland.com/news/26294614.burnham-pledges-carry-power-every-postcode/",
+          "url": "https://www.heraldscotland.com/news/national/26296036.yes-scotland-chief-no-knowledge-post-missing-gbp1-5m---lawyer/",
           "publishedAt": "2026-07-20"
         }
       ]
@@ -179,27 +193,27 @@
     {
       "id": "cabinet-office",
       "name": "Cabinet Office",
-      "description": "Government reshuffles, appointments & cross-department policy",
+      "description": "Government reshuffles, senior appointments, cross-department policy",
       "stories": [
         {
-          "title": "Healey made Chancellor, Miliband Foreign Secretary in Burnham's new cabinet",
-          "summary": "John Healey takes over as Chancellor and Ed Miliband becomes Foreign Secretary in a major reshaping of Labour's top team. The surprise pick of Healey as Chancellor — a political veteran — drew attention.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/live/2026/jul/20/andy-burnham-new-prime-minister-pm-keir-starmer-labour-no-10-downing-street-speech-cabinet-uk-politics-latest-news-updates",
-          "publishedAt": "2026-07-20"
-        },
-        {
-          "title": "Rayner returns as Housing Secretary; Streeting named Defence Secretary",
-          "summary": "Angela Rayner returns to government as Housing Secretary, while Wes Streeting takes on the Defence brief. Shabana Mahmood stays on as Home Secretary, providing some continuity.",
+          "title": "Healey appointed chancellor and Miliband becomes foreign secretary as Burnham picks cabinet",
+          "summary": "Major reshuffle sees Rachel Reeves and David Lammy exit the cabinet. John Healey takes the Treasury, Ed Miliband the Foreign Office. Angela Rayner returns to housing, Wes Streeting moves to defence, Shabana Mahmood stays as Home Secretary.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/live/cgrkv8e8l9qt?page=2",
+          "url": "https://www.bbc.co.uk/news/live/cgrkv8e8l9qt",
           "publishedAt": "2026-07-20"
         },
         {
-          "title": "Lord Hermer departs as Attorney-General; Darren Jones sacked",
-          "summary": "Lord Hermer has left his role as Attorney-General, and Darren Jones — a close Starmer ally — was sacked from the new cabinet, signalling a clean break from the previous administration's inner circle.",
+          "title": "Andy Burnham's first Labour cabinet: who's in and who's out?",
+          "summary": "A comprehensive look at the full Burnham ministerial team, with profiles of key appointments. Junior ministerial appointments are expected to continue on Tuesday.",
           "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/live/2026/jul/20/andy-burnham-new-prime-minister-pm-keir-starmer-labour-no-10-downing-street-speech-cabinet-uk-politics-latest-news-updates",
+          "url": "https://www.theguardian.com/politics/2026/jul/20/andy-burnham-labour-cabinet-profiles",
+          "publishedAt": "2026-07-20"
+        },
+        {
+          "title": "Six highlights from Andy Burnham's first Downing Street speech",
+          "summary": "Analysis of Burnham's opening speech outside No. 10, including his pledges on the cost of living, national unity, and governing style as he sets out his priorities for the country.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/jul/20/six-highlights-andy-burnham-first-downing-street-speech",
           "publishedAt": "2026-07-20"
         }
       ]
@@ -207,41 +221,19 @@
     {
       "id": "elections",
       "name": "Elections & By-elections",
-      "description": "Upcoming & recent elections, polls",
-      "stories": [
-        {
-          "title": "Clacton by-election: Farage re-contests seat vacated over donations scandal",
-          "summary": "Nigel Farage resigned his Clacton seat to force a by-election, asking voters to judge him directly over the undeclared gifts scandal. The contest in early August has attracted 30+ candidates but all major parties are boycotting.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/2026/jul/20/investigation-nigel-farage-undeclared-gifts-kangaroo-court-reform-mp-sarah-pochin",
-          "publishedAt": "2026-07-20"
-        },
-        {
-          "title": "Count Binface and Australian Daniel Pocock among Clacton candidates",
-          "summary": "The Clacton by-election has drawn an eclectic field including Count Binface, three Monster Raving Loony Party candidates, and Melbourne-born Daniel Pocock, who says he has 'an equally good chance of winning'.",
-          "source": "SBS News",
-          "url": "https://www.sbs.com.au/news/article/australian-daniel-pocock-nigel-farage-clacton-by-election/hdlqy0x79",
-          "publishedAt": "2026-07-20"
-        }
-      ]
+      "description": "Upcoming or recent election results and polls",
+      "stories": []
     },
     {
       "id": "house-of-lords",
       "name": "House of Lords",
-      "description": "Lords debates, reform & appointments",
+      "description": "Lords debates, reform and appointments",
       "stories": [
         {
-          "title": "Lord Hermer departs as Attorney-General with Burnham government",
-          "summary": "Lord Hermer has left his post as Attorney-General following the change of PM, with new appointments to the Lords-based legal roles expected as Burnham builds his ministerial team.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/politics/live/2026/jul/20/andy-burnham-new-prime-minister-pm-keir-starmer-labour-no-10-downing-street-speech-cabinet-uk-politics-latest-news-updates",
-          "publishedAt": "2026-07-20"
-        },
-        {
-          "title": "Lord McConnell calls for Scottish Labour to debate greater autonomy",
-          "summary": "Former First Minister Lord McConnell used a BBC Radio Scotland interview to urge Scottish Labour to openly debate separating from the UK party structure, as Burnham's devolution agenda reshapes centre-left politics.",
+          "title": "Burnham cabinet reshuffle includes Lords appointments",
+          "summary": "As part of Burnham's government formation, Lord McConnell commented on Scottish Labour's relationship with the UK party. Burnham is expected to make further Lords appointments as he completes building his ministerial team.",
           "source": "Herald Scotland",
-          "url": "https://www.heraldscotland.com/news/national/26293483.scottish-labour-allowed-debate-different-ideas-says-mcconnell/",
+          "url": "https://www.heraldscotland.com/news/26293483.scottish-labour-allowed-debate-different-ideas-says-mcconnell/",
           "publishedAt": "2026-07-20"
         }
       ]
