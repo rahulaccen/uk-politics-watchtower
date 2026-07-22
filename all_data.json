@@ -1,6 +1,269 @@
 {
-  "lastUpdated": "2026-07-21T08:14:09+10:00",
+  "lastUpdated": "2026-07-22T16:00:00+10:00",
   "editions": [
+    {
+      "date": "2026-07-22",
+      "lastUpdated": "2026-07-22T16:00:00+10:00",
+      "topics": [
+        {
+          "id": "pm-no10",
+          "name": "PM & No. 10",
+          "description": "Prime Minister & Downing Street",
+          "stories": [
+            {
+              "title": "Sackings, cabinet surprises and policies: Burnham's first 24 hours as PM",
+              "summary": "Andy Burnham sacked key Starmer allies, appointed John Healey as Chancellor in a surprise move, and announced VAT cut on electricity bills as his first major policy. The government's stated priority is cost of living.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/c4gjz907pppo",
+              "publishedAt": "2026-07-22"
+            },
+            {
+              "title": "Whitehall officials offered move to No 10 North in Manchester",
+              "summary": "PM Burnham has established 'No 10 North' in Manchester as a northern devolution hub, to be overseen by Louise Haigh. Burnham promised it would be the 'nerve centre of a rewired Britain.'",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/c9d8p0l29pxo",
+              "publishedAt": "2026-07-22"
+            },
+            {
+              "title": "Burnham tells cabinet to tackle living costs at first meeting",
+              "summary": "At his first cabinet meeting, Burnham declared his would be a 'cost of living government', asking ministers to find 'all possible ways' to lower household costs and promising fiscal discipline.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cx2vp4x7gkxo",
+              "publishedAt": "2026-07-22"
+            }
+          ]
+        },
+        {
+          "id": "burnham-intel",
+          "name": "Burnham Gov Intelligence",
+          "description": "Procurement, tech/AI, spending, vendor & priority signals",
+          "stories": [
+            {
+              "title": "\ud83e\udd16 AI minister role boosted but tech department axed in Burnham shake-up",
+              "summary": "Burnham abolished DSIT, splitting its functions across a new Office for the PM, strengthened DCMS, and a renamed Department for Business, Innovation, Science and Trade. AI minister Kanishka Narayan gets a Cabinet seat, but tech leaders raised alarm about the disruption.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cz97x8k4zqzo",
+              "publishedAt": "2026-07-22"
+            },
+            {
+              "title": "\ud83e\udd16 Axing UK science department risks slower policymaking, say tech leaders",
+              "summary": "Burnham's decision to scrap DSIT alarmed UK tech leaders who fear the restructuring will slow policymaking just as AI advances speed up. A Cabinet Office-led AI task force will be established to 'unlock opportunities for growth and public sector transformation.'",
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/08779c55-de8a-4a91-8200-7e47d71f961c",
+              "publishedAt": "2026-07-22"
+            },
+            {
+              "title": "\ud83e\udd16 TechMarketView: Burnham redraws the digital state",
+              "summary": "TechMarketView analysis notes that abolishing DSIT redistributes AI responsibility to the Cabinet Office and creates significant disruption at a time when digital innovation should be scaling. Implications for technology suppliers are significant and uncertain.",
+              "source": "TechMarketView",
+              "url": "https://www.techmarketview.com/news/archive/2026/07/21/ukhotviewsextra-burnham-redraws-the-digital-state",
+              "publishedAt": "2026-07-21"
+            },
+            {
+              "title": "\ud83e\udd16 UK AI adoption has tripled since 2023 but barely deepened",
+              "summary": "ONS data shows 35% of UK businesses (10+ employees) now use AI\u2014up from 12% in 2023\u2014but average number of AI tools used per business has barely moved (1.4 to 1.6). Shadow AI (employees using AI without formal approval) is a growing organisational challenge.",
+              "source": "TechMarketView",
+              "url": "https://www.techmarketview.com/ukhotviews/archive/2026/07/21/ukhotviewsextra-uk-ai-adoption-has-tripled-since-2023-but-barely-deepened",
+              "publishedAt": "2026-07-21"
+            },
+            {
+              "title": "\ud83d\udcb0 Burnham cuts VAT on household electricity bills",
+              "summary": "VAT on household electricity reduced from 5% to zero from October, saving ~\u00a345/year per household. Funded by scrapping Starmer's digital ID scheme, but critics including the shadow chancellor questioned whether the funding was adequate.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/global/live/2026/jul/21/burnham-cuts-vat-electricity-bills-uk-borrowing-debt-economy-news-latest",
+              "publishedAt": "2026-07-21"
+            },
+            {
+              "title": "\ud83d\udea6 Burnham to accelerate national care service timetable",
+              "summary": "PM Burnham plans to accelerate the timetable for rolling out a national care service, signalling it as an early priority. Further cost of living measures are expected in the coming days.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/jul/21/defence-uplift-national-care-service-andy-burnham-policies-funding",
+              "publishedAt": "2026-07-21"
+            }
+          ]
+        },
+        {
+          "id": "parliament",
+          "name": "Parliament",
+          "description": "House of Commons, House of Lords, PMQs, debates, legislation",
+          "stories": [
+            {
+              "title": "House of Lords debates Commercial Payments Bill committee stage",
+              "summary": "The House of Lords debated the committee stage of the Commercial Payments Bill on Tuesday 21 July, with detailed line-by-line scrutiny of the legislation.",
+              "source": "BBC iPlayer / Parliament",
+              "url": "https://www.bbc.co.uk/iplayer/episode/m002zfs0/house-of-lords-commercial-payments-bill-part-2",
+              "publishedAt": "2026-07-21"
+            }
+          ]
+        },
+        {
+          "id": "labour",
+          "name": "Labour Party",
+          "description": "Labour party news, policy, internal politics",
+          "stories": [
+            {
+              "title": "Miliband promoted to Foreign Secretary amid net zero controversy",
+              "summary": "Ed Miliband, who faced sustained attacks over net zero policy under Starmer, has been promoted to Foreign Secretary under Burnham. Questions remain about how renewable energy planning policy will evolve under the new PM.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/jul/21/labour-briefed-against-ed-miliband-success-popularity",
+              "publishedAt": "2026-07-21"
+            },
+            {
+              "title": "Anas Sarwar to quit as Scottish Labour leader for Burnham ministerial role",
+              "summary": "Scottish Labour leader Anas Sarwar is set to be elevated to the House of Lords and appointed as a business minister under Burnham, leaving Scottish Labour without a leader at Holyrood.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/live/2026/jul/21/andy-burnham-pm-labour-energy-bills-cost-of-living-cabinet-latest-news-updates",
+              "publishedAt": "2026-07-21"
+            },
+            {
+              "title": "Burnham faces defining test for the centre-left",
+              "summary": "Commentary examines Burnham's elevation as a test case for the international centre-left, with progressive governments in Australia and elsewhere watching closely whether his 'Manchesterism' can deliver at the national level.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/commentisfree/2026/jul/21/andy-burnham-new-uk-pm-australia-view",
+              "publishedAt": "2026-07-21"
+            }
+          ]
+        },
+        {
+          "id": "conservatives",
+          "name": "Conservative Party",
+          "description": "Conservative party news, leadership, opposition",
+          "stories": [
+            {
+              "title": "Badenoch: Burnham's plans are 'airy-fairy stuff'",
+              "summary": "Kemi Badenoch criticised PM Burnham's cost of living plans as lacking substance or credible funding, as the Conservatives set out their opposition stall in Burnham's first days in office.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/live/cgrkv8e8l9qt",
+              "publishedAt": "2026-07-22"
+            },
+            {
+              "title": "Shadow Chancellor Stride attacks Burnham's energy bills funding",
+              "summary": "Conservative shadow chancellor Sir Mel Stride accused Burnham of playing 'fast and loose with the public finances' over the VAT cut on electricity bills, saying 'only one day in and already Labour are playing fast and loose.'",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cx2vp4x7gkxo",
+              "publishedAt": "2026-07-22"
+            },
+            {
+              "title": "Burnham's appeal to Farage voters poses challenge for Conservatives",
+              "summary": "Politico analysis notes Burnham has repeatedly flirted with Reform UK-leaning voters, posing a significant strategic challenge for the Conservative opposition who face pressure from both the new PM and Reform UK.",
+              "source": "Politico",
+              "url": "https://www.politico.eu/article/7-times-andy-burnham-flirted-with-nigel-farages-voters/",
+              "publishedAt": "2026-07-21"
+            }
+          ]
+        },
+        {
+          "id": "lib-dems",
+          "name": "Liberal Democrats",
+          "description": "Liberal Democrat party news and policy positions",
+          "stories": []
+        },
+        {
+          "id": "reform-uk",
+          "name": "Reform UK",
+          "description": "Nigel Farage, Reform UK party news and announcements",
+          "stories": [
+            {
+              "title": "Farage stands by Reform stance amid Pride flag protests",
+              "summary": "Nigel Farage defended the Reform UK-run Norfolk council's decision to remove the Pride Progress flag from County Hall, as the party's local government record faces increased scrutiny.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/c8enwy4548po",
+              "publishedAt": "2026-07-22"
+            },
+            {
+              "title": "Farage makes low-key public appearance after period of financial scrutiny",
+              "summary": "After weeks of relative quiet amid questions over his personal finances, Farage made an appearance with Reform supporters. The Guardian described it as an 'aimless speech to a few mega-fans.'",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/jul/21/nigel-farage-speech-fans-reform",
+              "publishedAt": "2026-07-21"
+            },
+            {
+              "title": "French far-right leader Bardella to address Reform UK conference in September",
+              "summary": "National Rally president Jordan Bardella will give a speech in English to Reform UK members at their conference in September, deepening the party's ties with European far-right movements.",
+              "source": "Politico",
+              "url": "https://www.politico.eu/article/jordan-bardella-nigel-farage-reform-uk-conference/",
+              "publishedAt": "2026-07-21"
+            }
+          ]
+        },
+        {
+          "id": "snp",
+          "name": "SNP",
+          "description": "Scottish National Party, Scottish politics",
+          "stories": [
+            {
+              "title": "Burnham tells Swinney 'agree to disagree' on Scottish independence",
+              "summary": "New PM Andy Burnham called SNP First Minister John Swinney and made clear they will have to 'agree to disagree' on Scottish independence, as the SNP retained the largest party position at Holyrood despite losing seats in May's election.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cn0n8r2p22ro",
+              "publishedAt": "2026-07-22"
+            },
+            {
+              "title": "Sarwar quits as Scottish Labour leader to join Burnham's government",
+              "summary": "Anas Sarwar's departure from the Scottish Labour leadership to take a Lords ministerial role under Burnham creates a significant vacancy. The SNP is likely to capitalise on the ensuing Scottish Labour leadership contest.",
+              "source": "Herald Scotland",
+              "url": "https://www.heraldscotland.com/news/national/26300275.anas-sarwar-quit-scottish-labour-leader-join-burnhams-government/",
+              "publishedAt": "2026-07-22"
+            }
+          ]
+        },
+        {
+          "id": "cabinet-office",
+          "name": "Cabinet Office",
+          "description": "Government reshuffles, senior appointments, cross-department policy",
+          "stories": [
+            {
+              "title": "Sir Chris Bryant appointed new Northern Ireland Secretary",
+              "summary": "Chris Bryant (MP for Rhondda and Ogmore) replaces Hilary Benn as NI Secretary in Burnham's reshuffle, bringing a new approach to Northern Ireland at a critical time for devolved finances.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/c20e5x4dy9lo",
+              "publishedAt": "2026-07-22"
+            },
+            {
+              "title": "Hamish Falconer appointed UK's new Brexit minister",
+              "summary": "Labour MP Hamish Falconer has been appointed as the UK's new EU relations minister to lead Brexit negotiations, with the EU reset moving back to the FCDO from the Cabinet Office.",
+              "source": "Politico",
+              "url": "https://www.politico.eu/article/hamish-falconer-appointed-uk-brexit-minister/",
+              "publishedAt": "2026-07-21"
+            },
+            {
+              "title": "Louise Haigh leads Cabinet Office as First Secretary of State",
+              "summary": "Burnham ally Louise Haigh has been appointed First Secretary of State, Chancellor of the Duchy of Lancaster, and Cabinet Office Minister \u2014 making her the de facto deputy PM overseeing the centre of government and No 10 North.",
+              "source": "Politico",
+              "url": "https://www.politico.eu/newsletter/london-playbook/burnham-through-money/",
+              "publishedAt": "2026-07-21"
+            }
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "Elections & By-elections",
+          "description": "Upcoming or recent election results, polls",
+          "stories": []
+        },
+        {
+          "id": "house-of-lords",
+          "name": "House of Lords",
+          "description": "Lords debates, reform, appointments",
+          "stories": [
+            {
+              "title": "House of Lords debates Commercial Payments Bill",
+              "summary": "The House of Lords debated the committee stage of the Commercial Payments Bill on 21 July, with detailed scrutiny of provisions affecting commercial payment terms and practices.",
+              "source": "BBC iPlayer / Parliament",
+              "url": "https://www.bbc.co.uk/iplayer/episode/m002zfs0/house-of-lords-commercial-payments-bill-part-2",
+              "publishedAt": "2026-07-21"
+            },
+            {
+              "title": "Anas Sarwar to be elevated to Lords for Burnham ministerial role",
+              "summary": "Scottish Labour leader Anas Sarwar is set to receive a life peerage so he can join Burnham's government as a business minister, marking a significant Lords appointment in the new administration.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/live/2026/jul/21/andy-burnham-pm-labour-energy-bills-cost-of-living-cabinet-latest-news-updates",
+              "publishedAt": "2026-07-21"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-07-21",
       "lastUpdated": "2026-07-21T08:14:09+10:00",
