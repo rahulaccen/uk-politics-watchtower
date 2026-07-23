@@ -1,6 +1,288 @@
 {
-  "lastUpdated": "2026-07-22T16:00:00+10:00",
+  "lastUpdated": "2026-07-23T16:00:00+10:00",
   "editions": [
+    {
+      "date": "2026-07-23",
+      "lastUpdated": "2026-07-23T16:00:00+10:00",
+      "topics": [
+        {
+          "id": "pm-no10",
+          "name": "PM & No. 10",
+          "description": "Prime Minister & Downing Street",
+          "stories": [
+            {
+              "title": "The Guardian view on Andy Burnham and devolution",
+              "summary": "The Guardian view on Andy Burnham and devolution: it takes a powerful centre to decentralise power Before entering Downing Street, Andy Burnham cited the overcentralisation of power as a cause of Brit",
+              "source": "theguardian.com",
+              "url": "https://www.theguardian.com/commentisfree/2026/jul/22/the-guardian-view-on-andy-burnham-and-devolution-it-takes-a-powerful-centre-to-decentralise-power",
+              "publishedAt": "2026-07-23"
+            },
+            {
+              "title": "'He knows what he's doing': Burnham's off-the-cuff remarks ...",
+              "summary": "‘He knows what he’s doing’: Burnham’s off-the-cuff remarks inspire headlines and headaches In the last two days, the prime minister has been accused of performing U-turns over raising the income tax t",
+              "source": "theguardian.com",
+              "url": "https://www.theguardian.com/politics/2026/jul/22/andy-burnham-off-the-cuff-remarks-inspire-headlines-and-headaches",
+              "publishedAt": "2026-07-23"
+            },
+            {
+              "title": "All the Keir Starmer critics landing big jobs under Andy Burnham",
+              "summary": "Britain's new prime minister has handed key roles to the people who helped oust his predecessor.",
+              "source": "politico.eu",
+              "url": "https://www.politico.eu/article/keir-starmer-critics-landing-plum-jobs-under-andy-burnham/",
+              "publishedAt": "2026-07-23"
+            }
+          ]
+        },
+        {
+          "id": "burnham-intel",
+          "name": "Burnham Gov Intelligence",
+          "description": "Procurement, tech/AI, spending, vendor & priority signals",
+          "stories": [
+            {
+              "title": "Andy Burnham could easily ignore the UK's falling aid ...",
+              "summary": "Andy Burnham could easily ignore the UK’s falling aid commitment. He would be wise not to Anyone asking whether the new PM, Andy Burnham, will – or even can – restore Britain’s 0.7% aid commitment sho",
+              "source": "theguardian.com",
+              "url": "https://www.theguardian.com/global-development/2026/jul/23/andy-burnham-could-easily-ignore-the-uks-falling-aid-commitment-he-would-be-wise-not-to",
+              "publishedAt": "2026-07-23",
+              "tag": "🤖 Tech / AI / Digital"
+            },
+            {
+              "title": "The Guardian view on Andy Burnham and devolution",
+              "summary": "The Guardian view on Andy Burnham and devolution: it takes a powerful centre to decentralise power At this dangerous time - Andy Burnham",
+              "source": "theguardian.com",
+              "url": "https://www.theguardian.com/commentisfree/2026/jul/22/the-guardian-view-on-andy-burnham-and-devolution-it-takes-a-powerful-centre-to-decentralise-power",
+              "publishedAt": "2026-07-23",
+              "tag": "🤖 Tech / AI / Digital"
+            },
+            {
+              "title": "Can 'Brand Burnham' survive the move to Number 10?",
+              "summary": "Can ‘Brand Burnham’ survive the move to Number 10? Latest on Andy Burnham - UK public policy - UK Government",
+              "source": "ft.com",
+              "url": "https://www.ft.com/content/1fbc6768-8d86-44c5-b673-db11587ba5ed?syn-25a6b1a6=1",
+              "publishedAt": "2026-07-23",
+              "tag": "🤖 Tech / AI / Digital"
+            },
+            {
+              "title": "Research Report: Building No. 10 North (Re:State, July 2026)",
+              "summary": "Re:State think tank proposes ready-to-implement Civil Service reforms for Burnham's government, including 'No. 10 North' as an institutional shift. Key workstreams: Re:Imagining Whitehall and Re:Imagining the Local State.",
+              "source": "re-state.co.uk",
+              "url": "https://re-state.co.uk/wp-content/uploads/2026/07/Building-No-10-North.pdf",
+              "publishedAt": "2026-07-23",
+              "tag": "🚦 Priority / Pause / Cancel"
+            }
+          ]
+        },
+        {
+          "id": "parliament",
+          "name": "Parliament",
+          "description": "House of Commons, Lords, PMQs, debates, legislation",
+          "stories": [
+            {
+              "title": "House of Commons - Hansard",
+              "summary": "Our use of cookies - UK Parliament - Commons: 23 July 2026",
+              "source": "hansard.parliament.uk",
+              "url": "https://hansard.parliament.uk/commons",
+              "publishedAt": "2026-07-23"
+            }
+          ]
+        },
+        {
+          "id": "labour",
+          "name": "Labour Party",
+          "description": "Labour party news, policy, internal politics",
+          "stories": [
+            {
+              "title": "Keir Starmer",
+              "summary": "Keir Starmer Keir Starmer says farewell to MPs in his final PMQs - video - Labour - Reform UK",
+              "source": "theguardian.com",
+              "url": "https://www.theguardian.com/politics/keir-starmer",
+              "publishedAt": "2026-07-23"
+            },
+            {
+              "title": "Scottish Labour at a crossroads again as Sarwar jumps ship",
+              "summary": "Anas Sarwar has never made a secret of his desire to hold high office, but where does it leave Scottish Labour?",
+              "source": "bbc.co.uk",
+              "url": "https://www.bbc.co.uk/news/articles/cy078g8g2pvo",
+              "publishedAt": "2026-07-23"
+            },
+            {
+              "title": "Opinion + Labour",
+              "summary": "The Guardian view on Andy Burnham and devolution: it takes a powerful centre to decentralise power · Larry Elliott. The Treasury will check Andy Burnham's ...",
+              "source": "theguardian.com",
+              "url": "https://www.theguardian.com/commentisfree/commentisfree+politics/labour",
+              "publishedAt": "2026-07-23"
+            }
+          ]
+        },
+        {
+          "id": "conservatives",
+          "name": "Conservative Party",
+          "description": "Conservative party news, Kemi Badenoch, opposition",
+          "stories": [
+            {
+              "title": "Labour",
+              "summary": "Labour - Nobody in Europe knows or cares what Kemi Badenoch thinks. That’s a big mistake double quotation markNobody in Europe knows or cares what Kemi Badenoch thinks. That’s a big mistake **22 July ",
+              "source": "theguardian.com",
+              "url": "https://www.theguardian.com/politics/labour",
+              "publishedAt": "2026-07-23"
+            },
+            {
+              "title": "Andy Burnham says £2 bus fare cap in England being paid ...",
+              "summary": "Summary - 0:50Burnham VAT cut 'already fallen apart' - Badenoch. 00:00:50, play videoBurnham VAT cut 'already fallen apart' - Badenoch!Kemi Badenoch in a brown shirt and grey jacket",
+              "source": "bbc.co.uk",
+              "url": "https://www.bbc.co.uk/news/live/cdx7z2wwe7qt",
+              "publishedAt": "2026-07-23"
+            },
+            {
+              "title": "London Playbook PM: Rolling back the Keirs - POLITICO",
+              "summary": "London Playbook TOP OF THE NEWSLIST | | |-| | |",
+              "source": "politico.eu",
+              "url": "https://www.politico.eu/newsletter/london-playbook/london-playbook-pm-rolling-back-the-keirs/",
+              "publishedAt": "2026-07-23"
+            }
+          ]
+        },
+        {
+          "id": "lib-dems",
+          "name": "Liberal Democrats",
+          "description": "Lib Dem news and policy positions",
+          "stories": []
+        },
+        {
+          "id": "reform-uk",
+          "name": "Reform UK",
+          "description": "Nigel Farage and Reform UK party news",
+          "stories": [
+            {
+              "title": "Tories ask HMRC to investigate whether Nigel Farage ...",
+              "summary": "Skip to main content Skip to navigation !Nigel Farage View image in fullscreen Tories ask HMRC to investigate whether Nigel Farage owes tax on £5m gift The Guardian, however, reported this month that ",
+              "source": "theguardian.com",
+              "url": "https://www.theguardian.com/politics/2026/jul/22/tories-hmrc-investigate-nigel-farage-tax-5m-gift",
+              "publishedAt": "2026-07-23"
+            },
+            {
+              "title": "Reform UK",
+              "summary": "Reform UK - Tories ask HMRC to investigate whether Nigel Farage owes tax on £5m gift !Nigel Farage Guardian Opinion cartoon Ben Jennings on Nigel Farage’s deadliest foe – cartoon - Big, brave Nige app",
+              "source": "theguardian.com",
+              "url": "https://www.theguardian.com/politics/brexit-party",
+              "publishedAt": "2026-07-23"
+            },
+            {
+              "title": "Count Binface",
+              "summary": "July 2026 · Count Binface on Clacton byelection: 'I didn't know old Farage was going to self-detonate' · The politics sketch · Nigel Farage accused of 'desperate ...",
+              "source": "theguardian.com",
+              "url": "https://www.theguardian.com/politics/count-binface",
+              "publishedAt": "2026-07-23"
+            }
+          ]
+        },
+        {
+          "id": "snp",
+          "name": "SNP & Scottish Politics",
+          "description": "Scottish National Party and Scottish politics",
+          "stories": [
+            {
+              "title": "Scottish Labour's rivals decry 'chancer' Anas Sarwar for ...",
+              "summary": "Scottish Labour’s rivals decry ‘chancer’ Anas Sarwar for resigning to join Andy Burnham’s government At this dangerous time - news",
+              "source": "theguardian.com",
+              "url": "https://www.theguardian.com/politics/2026/jul/22/scottish-labours-rivals-decry-chancer-anas-sarwar-for-resigning-to-join-andy-burnhams-government",
+              "publishedAt": "2026-07-23"
+            },
+            {
+              "title": "Politics",
+              "summary": "How could Britain look under proportional representation? See the results for your area · Liberal Democrats · Plaid Cymru · Labour · Green party · Scottish National ...",
+              "source": "theguardian.com",
+              "url": "https://www.theguardian.com/politics/brexit-party/2026/jul/22/all",
+              "publishedAt": "2026-07-23"
+            },
+            {
+              "title": "Politics",
+              "summary": "Live. Transport secretary '100% sure' new cap on bus fares in England is fully funded – UK politics live · Here's how Andy Burnham really could end homelessness.",
+              "source": "theguardian.com",
+              "url": "https://www.theguardian.com/politics/labour/2026/jul/22/all",
+              "publishedAt": "2026-07-23"
+            }
+          ]
+        },
+        {
+          "id": "cabinet-office",
+          "name": "Cabinet Office",
+          "description": "Government reshuffles, appointments, cross-department policy",
+          "stories": [
+            {
+              "title": "Ministerial Appointments: July 2026",
+              "summary": "Cookies on GOV.UK Skip to main content Ministerial Appointments: July 2026 The King has been pleased to approve the following appointments. From:Prime Minister's Office, 10 Downing StreetPublished:20 ",
+              "source": "gov.uk",
+              "url": "https://www.gov.uk/government/news/ministerial-appointments-july-2026",
+              "publishedAt": "2026-07-23"
+            },
+            {
+              "title": "Former defence minister Al Carns turns down ministerial offer",
+              "summary": "Carns quit following the resignation of John Healey as defence secretary in a row over military funding.",
+              "source": "bbc.co.uk",
+              "url": "https://www.bbc.co.uk/news/articles/c74geex0k82o",
+              "publishedAt": "2026-07-23"
+            },
+            {
+              "title": "Home Office",
+              "summary": "Home Office Our ministers Our management Gareth Davies CB Simon Ridley CB Dr Rannia Leontaridi OBE Phil Douglas CB Duncan Capps CBE Rupert Soames OBE Liz Cohen",
+              "source": "gov.uk",
+              "url": "https://www.gov.uk/government/organisations/home-office",
+              "publishedAt": "2026-07-23"
+            }
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "Elections & By-elections",
+          "description": "Upcoming or recent election results, polls",
+          "stories": [
+            {
+              "title": "Who is Anas Sarwar? The Scottish Labour leader returning ...",
+              "summary": "The Glasgow MSP is expected to be confirmed for role in Andy Burnham's government after taking a seat in the house of Lords.",
+              "source": "bbc.co.uk",
+              "url": "https://www.bbc.co.uk/news/articles/crl73yzrnzpo",
+              "publishedAt": "2026-07-23"
+            },
+            {
+              "title": "Scottish Labour leader Anas Sarwar 'delighted' to accept ...",
+              "summary": "Sarwar will leave the Scottish Parliament and his leader role, and take up a seat in the House of Lords.",
+              "source": "bbc.co.uk",
+              "url": "http://www.bbc.co.uk/news/articles/clyez682nevo",
+              "publishedAt": "2026-07-23"
+            },
+            {
+              "title": "Count Binface",
+              "summary": "July 2026 · Count Binface on Clacton byelection: 'I didn't know old Farage was going to self-detonate' · The politics sketch · Nigel Farage accused of 'desperate ...",
+              "source": "theguardian.com",
+              "url": "https://www.theguardian.com/politics/count-binface",
+              "publishedAt": "2026-07-23"
+            }
+          ]
+        },
+        {
+          "id": "house-of-lords",
+          "name": "House of Lords",
+          "description": "Lords debates, reform, appointments",
+          "stories": [
+            {
+              "title": "Lord Forsyth's speech to the Hansard Society",
+              "summary": "At this Hansard Society event on July 16, 2026, the Lord Speaker, Lord Forsyth of Drumlean, set out his thoughts on the constitutional role of the House of ...",
+              "source": "parliament.uk",
+              "url": "https://www.parliament.uk/business/lords/lord-speaker/events/lord-forsyths-speech-to-the-hansard-society/",
+              "publishedAt": "2026-07-23"
+            },
+            {
+              "title": "Work and Pensions Committee - Summary",
+              "summary": "Our use of cookies - UK Parliament Work and Pensions Committee Commons Select Committee - News",
+              "source": "committees.parliament.uk",
+              "url": "https://committees.parliament.uk/committee/164/work-and-pensions-committee/",
+              "publishedAt": "2026-07-23"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-07-22",
       "lastUpdated": "2026-07-22T16:00:00+10:00",
@@ -39,42 +321,42 @@
           "description": "Procurement, tech/AI, spending, vendor & priority signals",
           "stories": [
             {
-              "title": "\ud83e\udd16 AI minister role boosted but tech department axed in Burnham shake-up",
+              "title": "🤖 AI minister role boosted but tech department axed in Burnham shake-up",
               "summary": "Burnham abolished DSIT, splitting its functions across a new Office for the PM, strengthened DCMS, and a renamed Department for Business, Innovation, Science and Trade. AI minister Kanishka Narayan gets a Cabinet seat, but tech leaders raised alarm about the disruption.",
               "source": "BBC News",
               "url": "https://www.bbc.co.uk/news/articles/cz97x8k4zqzo",
               "publishedAt": "2026-07-22"
             },
             {
-              "title": "\ud83e\udd16 Axing UK science department risks slower policymaking, say tech leaders",
+              "title": "🤖 Axing UK science department risks slower policymaking, say tech leaders",
               "summary": "Burnham's decision to scrap DSIT alarmed UK tech leaders who fear the restructuring will slow policymaking just as AI advances speed up. A Cabinet Office-led AI task force will be established to 'unlock opportunities for growth and public sector transformation.'",
               "source": "Financial Times",
               "url": "https://www.ft.com/content/08779c55-de8a-4a91-8200-7e47d71f961c",
               "publishedAt": "2026-07-22"
             },
             {
-              "title": "\ud83e\udd16 TechMarketView: Burnham redraws the digital state",
+              "title": "🤖 TechMarketView: Burnham redraws the digital state",
               "summary": "TechMarketView analysis notes that abolishing DSIT redistributes AI responsibility to the Cabinet Office and creates significant disruption at a time when digital innovation should be scaling. Implications for technology suppliers are significant and uncertain.",
               "source": "TechMarketView",
               "url": "https://www.techmarketview.com/news/archive/2026/07/21/ukhotviewsextra-burnham-redraws-the-digital-state",
               "publishedAt": "2026-07-21"
             },
             {
-              "title": "\ud83e\udd16 UK AI adoption has tripled since 2023 but barely deepened",
-              "summary": "ONS data shows 35% of UK businesses (10+ employees) now use AI\u2014up from 12% in 2023\u2014but average number of AI tools used per business has barely moved (1.4 to 1.6). Shadow AI (employees using AI without formal approval) is a growing organisational challenge.",
+              "title": "🤖 UK AI adoption has tripled since 2023 but barely deepened",
+              "summary": "ONS data shows 35% of UK businesses (10+ employees) now use AI—up from 12% in 2023—but average number of AI tools used per business has barely moved (1.4 to 1.6). Shadow AI (employees using AI without formal approval) is a growing organisational challenge.",
               "source": "TechMarketView",
               "url": "https://www.techmarketview.com/ukhotviews/archive/2026/07/21/ukhotviewsextra-uk-ai-adoption-has-tripled-since-2023-but-barely-deepened",
               "publishedAt": "2026-07-21"
             },
             {
-              "title": "\ud83d\udcb0 Burnham cuts VAT on household electricity bills",
-              "summary": "VAT on household electricity reduced from 5% to zero from October, saving ~\u00a345/year per household. Funded by scrapping Starmer's digital ID scheme, but critics including the shadow chancellor questioned whether the funding was adequate.",
+              "title": "💰 Burnham cuts VAT on household electricity bills",
+              "summary": "VAT on household electricity reduced from 5% to zero from October, saving ~£45/year per household. Funded by scrapping Starmer's digital ID scheme, but critics including the shadow chancellor questioned whether the funding was adequate.",
               "source": "The Guardian",
               "url": "https://www.theguardian.com/global/live/2026/jul/21/burnham-cuts-vat-electricity-bills-uk-borrowing-debt-economy-news-latest",
               "publishedAt": "2026-07-21"
             },
             {
-              "title": "\ud83d\udea6 Burnham to accelerate national care service timetable",
+              "title": "🚦 Burnham to accelerate national care service timetable",
               "summary": "PM Burnham plans to accelerate the timetable for rolling out a national care service, signalling it as an early priority. Further cost of living measures are expected in the coming days.",
               "source": "The Guardian",
               "url": "https://www.theguardian.com/politics/2026/jul/21/defence-uplift-national-care-service-andy-burnham-policies-funding",
@@ -228,7 +510,7 @@
             },
             {
               "title": "Louise Haigh leads Cabinet Office as First Secretary of State",
-              "summary": "Burnham ally Louise Haigh has been appointed First Secretary of State, Chancellor of the Duchy of Lancaster, and Cabinet Office Minister \u2014 making her the de facto deputy PM overseeing the centre of government and No 10 North.",
+              "summary": "Burnham ally Louise Haigh has been appointed First Secretary of State, Chancellor of the Duchy of Lancaster, and Cabinet Office Minister — making her the de facto deputy PM overseeing the centre of government and No 10 North.",
               "source": "Politico",
               "url": "https://www.politico.eu/newsletter/london-playbook/burnham-through-money/",
               "publishedAt": "2026-07-21"
@@ -302,21 +584,21 @@
           "description": "Procurement, tech/AI, spending, vendor & priority signals",
           "stories": [
             {
-              "title": "\ud83d\udea6 Burnham plans to restructure government AI strategy department",
+              "title": "🚦 Burnham plans to restructure government AI strategy department",
               "summary": "Reports indicate the new PM is planning to gut the government department leading Britain's AI strategy, signalling a major structural shift in how UK AI policy will be managed and resourced going forward.",
               "source": "The Daily Telegraph",
               "url": "https://www.facebook.com/TELEGRAPH.CO.UK/posts/andy-burnhams-plan-to-gut-the-government-department-leading-britains-ai-strategy/1487321910109103/",
               "publishedAt": "2026-07-21"
             },
             {
-              "title": "\ud83e\udd16 UK businesses not deepening AI use as Burnham era begins",
+              "title": "🤖 UK businesses not deepening AI use as Burnham era begins",
               "summary": "The FT warns that Burnham's tenure begins amid troubling signals: UK businesses are not deepening their use of AI, adding pressure on the new government's technology and digital transformation agenda.",
               "source": "Financial Times",
               "url": "https://www.ft.com/content/1197682a-c72d-4ae2-a8f2-f0fd3f867439",
               "publishedAt": "2026-07-21"
             },
             {
-              "title": "\ud83d\udcb0 Burnham to remove VAT from electricity bills and set out cost of living support",
+              "title": "💰 Burnham to remove VAT from electricity bills and set out cost of living support",
               "summary": "The new PM will cut VAT on household electricity from 5% to 0% in October. Burnham has committed to sticking to current debt and spending rules, constraining his room for additional investment in public services.",
               "source": "BBC News",
               "url": "https://www.bbc.co.uk/news/articles/c2lqdd44d0do",
@@ -331,7 +613,7 @@
           "stories": [
             {
               "title": "Burnham's policy choices reveal what kind of PM he wants to be",
-              "summary": "BBC analysis of Burnham's early policy signals covers housing, social care, rough sleeping and fiscal discipline. He has pledged to prevent 40,000 people from becoming homeless, a move estimated to save taxpayers \u00a3370m.",
+              "summary": "BBC analysis of Burnham's early policy signals covers housing, social care, rough sleeping and fiscal discipline. He has pledged to prevent 40,000 people from becoming homeless, a move estimated to save taxpayers £370m.",
               "source": "BBC News",
               "url": "https://www.bbc.co.uk/news/articles/c3r0x5nzg0eo",
               "publishedAt": "2026-07-21"
@@ -386,7 +668,7 @@
           "description": "Conservative Party news, leadership and opposition",
           "stories": [
             {
-              "title": "Kemi declares war on net zero \u2014 targeting Tory MPs over climate",
+              "title": "Kemi declares war on net zero — targeting Tory MPs over climate",
               "summary": "Kemi Badenoch is sharpening the Conservatives' ideological positioning on net zero, drawing a clear line between Tory MPs who accept the climate crisis and those who do not, in a move to define the opposition's identity.",
               "source": "The Guardian",
               "url": "https://www.theguardian.com/politics/2026/jul/14/kemi-badenoch-zeros-in-on-tory-mps-who-believe-in-climate-crisis-and-those-who-dont",
@@ -449,8 +731,8 @@
               "publishedAt": "2026-07-20"
             },
             {
-              "title": "Yes Scotland chief had no knowledge of post about missing \u00a31.5m",
-              "summary": "Aamer Anwar stated that a social media post on the Yes Scotland account about missing funds of \u00a31.5m was made without Blair Jenkins' knowledge or consent, adding to ongoing scrutiny of the independence campaign's finances.",
+              "title": "Yes Scotland chief had no knowledge of post about missing £1.5m",
+              "summary": "Aamer Anwar stated that a social media post on the Yes Scotland account about missing funds of £1.5m was made without Blair Jenkins' knowledge or consent, adding to ongoing scrutiny of the independence campaign's finances.",
               "source": "Herald Scotland",
               "url": "https://www.heraldscotland.com/news/national/26296036.yes-scotland-chief-no-knowledge-post-missing-gbp1-5m---lawyer/",
               "publishedAt": "2026-07-20"
@@ -532,7 +814,7 @@
             },
             {
               "title": "Can Burnham win back Labour bases lost by Starmer?",
-              "summary": "Guardian data analysis reveals the fissures with Labour's traditional supporters \u2014 from leftwing voters to unions \u2014 and the political traps Burnham will need to avoid.",
+              "summary": "Guardian data analysis reveals the fissures with Labour's traditional supporters — from leftwing voters to unions — and the political traps Burnham will need to avoid.",
               "source": "The Guardian",
               "url": "https://www.theguardian.com/politics/2026/jul/19/from-leftwing-voters-to-unions-can-burnham-win-back-labour-bases-lost-by-starmer-visualised",
               "publishedAt": "2026-07-19"
@@ -552,7 +834,7 @@
               "publishedAt": "2026-07-20"
             },
             {
-              "title": "Coming up in the Commons: 6\u201310 July session",
+              "title": "Coming up in the Commons: 6–10 July session",
               "summary": "Parliament published the schedule for the week's Commons business including Prime Minister's Questions and key legislative debates.",
               "source": "UK Parliament",
               "url": "https://www.parliament.uk/business/news/2026/july-2026/coming-up-in-the-commons-6-10-july/",
@@ -637,13 +919,13 @@
           "stories": [
             {
               "title": "Farage admits fraudster George Cottrell paid for filming and let him use home",
-              "summary": "Nigel Farage has acknowledged that George Cottrell \u2014 who was convicted of fraud \u2014 paid for filming and allowed Farage use of his home before the last election, saying the support is 'totally undeclarable in every single way'.",
+              "summary": "Nigel Farage has acknowledged that George Cottrell — who was convicted of fraud — paid for filming and allowed Farage use of his home before the last election, saying the support is 'totally undeclarable in every single way'.",
               "source": "The Guardian",
               "url": "https://www.theguardian.com/politics/2026/jul/19/nigel-farage-admits-george-cottrell-paid-for-filming-and-let-him-use-his-home",
               "publishedAt": "2026-07-19"
             },
             {
-              "title": "Clacton by-election set for 13 August \u2014 Farage to face record 34 candidates",
+              "title": "Clacton by-election set for 13 August — Farage to face record 34 candidates",
               "summary": "Nigel Farage resigned his Clacton seat and is standing again in an August by-election, where he will face a record field of 34 candidates. Main parties are not fielding candidates against him.",
               "source": "ITV News",
               "url": "https://www.itv.com/news/2026-07-17/nigel-farage-to-compete-with-record-33-candidates-in-clacton-by-election",
@@ -922,7 +1204,7 @@
           "description": "Government reshuffles, appointments & cross-department policy",
           "stories": [
             {
-              "title": "Starmer's final political peerages list published \u2014 26 new Lords",
+              "title": "Starmer's final political peerages list published — 26 new Lords",
               "summary": "The Cabinet Office published the full political peerages list for July 2026, including 16 Labour nominees, 5 Liberal Democrats, 3 Conservatives and 2 cross-benchers, including former Cabinet Secretary Sir Chris Wormald and retired judge Sir Brian Leveson.",
               "source": "GOV.UK",
               "url": "https://www.gov.uk/government/news/political-peerages-july-2026",
@@ -1033,7 +1315,7 @@
           "description": "House of Commons, House of Lords, PMQs & Legislation",
           "stories": [
             {
-              "title": "Starmer's final PMQs \u2014 tributes, jokes and a standing ovation",
+              "title": "Starmer's final PMQs — tributes, jokes and a standing ovation",
               "summary": "MPs from across parties paid tribute to the outgoing PM at his final PMQs on 15 July, with the session marked by rare cross-party warmth. The Hillsborough amendment also cleared the Commons in Starmer's final days.",
               "source": "The Guardian",
               "url": "https://www.theguardian.com/politics/houseofcommons",
@@ -1124,15 +1406,15 @@
           "description": "Reform UK & Nigel Farage",
           "stories": [
             {
-              "title": "Farage's \u00a35m crypto gift: Bank of England governor says he would have delayed meeting",
-              "summary": "The Bank of England governor said he would have put off a meeting with Nigel Farage last autumn had he known about the Reform UK leader's \u00a35m cryptocurrency gift. The donation's origins continue to attract scrutiny.",
+              "title": "Farage's £5m crypto gift: Bank of England governor says he would have delayed meeting",
+              "summary": "The Bank of England governor said he would have put off a meeting with Nigel Farage last autumn had he known about the Reform UK leader's £5m cryptocurrency gift. The donation's origins continue to attract scrutiny.",
               "source": "The Guardian",
               "url": "https://www.theguardian.com/politics/2026/jul/15/bank-of-england-governor-nigel-farage-meeting-andrew-bailey",
               "publishedAt": "2026-07-15"
             },
             {
-              "title": "Reform proposes \u00a3100m 'round-the-clock' security plan for Farage",
-              "summary": "Reform UK has proposed a \u00a3100m security package for Nigel Farage, claiming he 'lives under the ever-present threat of mortal danger'. The plan has drawn criticism as excessive.",
+              "title": "Reform proposes £100m 'round-the-clock' security plan for Farage",
+              "summary": "Reform UK has proposed a £100m security package for Nigel Farage, claiming he 'lives under the ever-present threat of mortal danger'. The plan has drawn criticism as excessive.",
               "source": "BBC News",
               "url": "https://www.bbc.co.uk/news/articles/clyey3re402o",
               "publishedAt": "2026-07-15"
@@ -1153,7 +1435,7 @@
           "stories": [
             {
               "title": "SNP comments on Andy Burnham's path to No. 10",
-              "summary": "The SNP has raised questions about the Westminster power transition, noting that ordinary Labour party members did not get a vote in choosing Burnham as leader \u2014 a democratic process concern highlighted by SNP figures.",
+              "summary": "The SNP has raised questions about the Westminster power transition, noting that ordinary Labour party members did not get a vote in choosing Burnham as leader — a democratic process concern highlighted by SNP figures.",
               "source": "SNP (Facebook / Herald Scotland)",
               "url": "https://www.facebook.com/theSNP/videos/from-burnham-to-binface-westminster-is-a-riot-and-always-will-be/2817605128614996/",
               "publishedAt": "2026-07-15"
@@ -1209,7 +1491,7 @@
           "stories": [
             {
               "title": "Burnham plans sweeping changes to House of Lords including elected mayors",
-              "summary": "Andy Burnham is reportedly planning an early announcement on devolution reforms, with one option being the appointment of indirectly elected mayors to the House of Lords \u2014 a significant constitutional change.",
+              "summary": "Andy Burnham is reportedly planning an early announcement on devolution reforms, with one option being the appointment of indirectly elected mayors to the House of Lords — a significant constitutional change.",
               "source": "The i Paper",
               "url": "https://www.pressreader.com/uk/the-i-paper/20260716/281788520822472",
               "publishedAt": "2026-07-16"
