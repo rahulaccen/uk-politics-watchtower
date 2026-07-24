@@ -1,6 +1,263 @@
 {
-  "lastUpdated": "2026-07-23T16:00:00+10:00",
+  "lastUpdated": "2026-07-24T16:00:00+10:00",
   "editions": [
+    {
+      "date": "2026-07-24",
+      "lastUpdated": "2026-07-24T16:00:00+10:00",
+      "topics": [
+        {
+          "id": "pm-no10",
+          "name": "PM & No. 10",
+          "description": "Prime Minister & Downing Street",
+          "stories": [
+            {
+              "title": "Burnham to spend first day working from No 10 North",
+              "summary": "PM Andy Burnham announced he will base himself and senior ministers at a new northern hub of No. 10 in Manchester, with Greater Manchester Combined Authority staff recruited to the operation.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/ckgvyr76973o",
+              "publishedAt": "2026-07-24"
+            },
+            {
+              "title": "Regional mayors to take key roles in UK policy decisions as part of No 10 North plans",
+              "summary": "Burnham said 'no one in government loses when power is shared,' with regional mayors set to participate directly in national policy-making.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/jul/23/regional-mayors-to-take-key-roles-in-uk-policy-decisions-as-part-of-no-10-north-plans",
+              "publishedAt": "2026-07-24"
+            },
+            {
+              "title": "Burnham plans to collaborate with social media creators",
+              "summary": "Andy Burnham is pursuing an active social media strategy as PM, planning to work with content creators — a continuation of the approach he honed as Greater Manchester Mayor.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cy4k74xj9lyo",
+              "publishedAt": "2026-07-24"
+            }
+          ]
+        },
+        {
+          "id": "burnham-intel",
+          "name": "Burnham Gov Intelligence",
+          "description": "Procurement, tech/AI, spending, vendor & priority signals",
+          "stories": [
+            {
+              "title": "🚦 PRIORITY/PAUSE: Early prisoner release scheme paused by Burnham for urgent review",
+              "summary": "Andy Burnham paused the early release scheme set for September and ordered an urgent review. No prisoners will be released until review is complete.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cx2lpjw516eo",
+              "publishedAt": "2026-07-24"
+            },
+            {
+              "title": "💰 SPENDING: Business rates slashed 20% for pubs, clubs and music venues",
+              "summary": "A 20% business rates cut for hospitality and live music venues was announced from April. Burnham called it a 'first step,' reversing the previous administration's planned hike.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/live/cdewkelwrgjt",
+              "publishedAt": "2026-07-24"
+            },
+            {
+              "title": "🤖 TECH: Technology department closed, replaced with single AI Cabinet minister",
+              "summary": "Burnham abolished the Technology Department, placing AI responsibility with a single Cabinet minister — criticised by Kemi Badenoch as a downgrade of digital government ambitions.",
+              "source": "Herald Scotland",
+              "url": "https://www.heraldscotland.com/news/national/26404541.badenoch-criticises-move-close-department-put-one-guy-cabinet-ai/",
+              "publishedAt": "2026-07-24"
+            }
+          ]
+        },
+        {
+          "id": "parliament",
+          "name": "Parliament",
+          "description": "House of Commons, House of Lords, PMQs, debates, legislation",
+          "stories": [
+            {
+              "title": "House of Commons in session — 23 July 2026",
+              "summary": "Parliament was in session on 23 July, with Hansard recording debates as Burnham faces his first weeks at the despatch box as Prime Minister.",
+              "source": "UK Parliament Hansard",
+              "url": "https://hansard.parliament.uk/commons",
+              "publishedAt": "2026-07-23"
+            },
+            {
+              "title": "House of Lords debates — Young People and Gambling Harm (23 July 2026)",
+              "summary": "The Lords held a dedicated debate on gambling harm for children and young people, pressing the government on plans to strengthen protections for minors.",
+              "source": "UK Parliament Hansard",
+              "url": "https://hansard.parliament.uk/Lords/2026-07-23/debates/AEDC737E-B6BB-4D27-B301-45541371C33F/YoungPeopleGamblingHarm",
+              "publishedAt": "2026-07-23"
+            }
+          ]
+        },
+        {
+          "id": "labour",
+          "name": "Labour Party",
+          "description": "Labour party news, policy, internal politics",
+          "stories": [
+            {
+              "title": "Burnham shakes up Whitehall with new government departmental structure",
+              "summary": "Andy Burnham announced a major restructure of Whitehall departments, including abolishing the Technology Department and creating new cross-departmental mission structures.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/labour",
+              "publishedAt": "2026-07-24"
+            },
+            {
+              "title": "What will Keir Starmer do next?",
+              "summary": "With Burnham now PM, speculation grows about what former Labour PM Keir Starmer will do next in politics, law or international affairs.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/keir-starmer",
+              "publishedAt": "2026-07-24"
+            }
+          ]
+        },
+        {
+          "id": "conservatives",
+          "name": "Conservative Party",
+          "description": "Tory party news, leadership, opposition",
+          "stories": [
+            {
+              "title": "Badenoch criticises closing of technology department — \"one guy in Cabinet\" for AI",
+              "summary": "Kemi Badenoch criticised Burnham's decision to close the Technology Department, calling it a downgrade of digital government ambitions and warning of reduced Whitehall capacity.",
+              "source": "Herald Scotland",
+              "url": "https://www.heraldscotland.com/news/national/26404541.badenoch-criticises-move-close-department-put-one-guy-cabinet-ai/",
+              "publishedAt": "2026-07-24"
+            },
+            {
+              "title": "Badenoch demands Burnham rule out tax rises",
+              "summary": "After the business rates cut, Badenoch called on Burnham to rule out tax rises more broadly, framing herself as guardian of business against Labour fiscal plans.",
+              "source": "Sky News",
+              "url": "https://news.sky.com/story/politics-latest-andy-burnham-keir-starmer-labour-12593360",
+              "publishedAt": "2026-07-24"
+            },
+            {
+              "title": "Dame Maureen Lipman backs Badenoch for first time",
+              "summary": "Long-time Labour supporter Dame Maureen Lipman said she is backing Kemi Badenoch, calling her a 'truthful politician' who 'held the House during the Starmer years.'",
+              "source": "Sky News",
+              "url": "https://news.sky.com/story/politics-latest-andy-burnham-keir-starmer-labour-12593360",
+              "publishedAt": "2026-07-24"
+            }
+          ]
+        },
+        {
+          "id": "lib-dems",
+          "name": "Liberal Democrats",
+          "description": "Lib Dem party news, Ed Davey, policy positions",
+          "stories": []
+        },
+        {
+          "id": "reform-uk",
+          "name": "Reform UK",
+          "description": "Nigel Farage, Reform UK party news and announcements",
+          "stories": [
+            {
+              "title": "Inquiry launched into Farage poster row at anti-racism music event",
+              "summary": "An investigation was launched after claims Reform UK councillors tried to shut down a music event that displayed anti-racism posters featuring Nigel Farage.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/c4gjz1jqwpdo",
+              "publishedAt": "2026-07-24"
+            },
+            {
+              "title": "Met Police investigating Reform UK donations linked to convicted fraudster George Cottrell",
+              "summary": "The Metropolitan Police are investigating donations to Reform UK by Fiona Cottrell, mother of fraudster 'Posh George' who has been funding Farage. Reform told councillors to call it a 'smear.'",
+              "source": "The Times",
+              "url": "https://www.thetimes.co.uk/uk/politics/article/reform-nigel-farage-investigation-donations-george-cottrell-j0vxtchsn",
+              "publishedAt": "2026-07-24"
+            },
+            {
+              "title": "Count Binface: Farage 'self-detonated' in Clacton by-election",
+              "summary": "Post-election commentary suggests Farage encountered significant difficulties in his own Clacton constituency seat during a by-election.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/count-binface",
+              "publishedAt": "2026-07-24"
+            }
+          ]
+        },
+        {
+          "id": "snp",
+          "name": "SNP",
+          "description": "Scottish National Party, Scottish politics",
+          "stories": [
+            {
+              "title": "Burnham tells Swinney indyref2 is 'off limits'",
+              "summary": "On his first Scotland visit as PM, Burnham told First Minister John Swinney a second independence referendum is off the table, while agreeing to 'engage' on further devolution.",
+              "source": "Herald Scotland",
+              "url": "https://www.heraldscotland.com/news/26405541.andy-burnham-tells-john-swinney-indyref2-off-limits/",
+              "publishedAt": "2026-07-24"
+            },
+            {
+              "title": "Burnham's Scotland visit hands Swinney a political opportunity",
+              "summary": "Burnham's decision not to speak to media during his Scotland visit gave the SNP First Minister room to press devolution demands and highlight tensions with the new government.",
+              "source": "Herald Scotland",
+              "url": "https://www.heraldscotland.com/news/26404470.andy-burnhams-scotland-visit-hands-john-swinney-goal/",
+              "publishedAt": "2026-07-24"
+            },
+            {
+              "title": "Scottish Labour needs 'big changes' after Anas Sarwar exit",
+              "summary": "Michael Marra, widely tipped to succeed Sarwar as Scottish Labour leader, said the party needs significant changes to rebuild its position north of the border.",
+              "source": "Herald Scotland",
+              "url": "https://www.heraldscotland.com/news/26403662.scottish-labour-needs-big-changes-anas-sarwar-exit/",
+              "publishedAt": "2026-07-24"
+            }
+          ]
+        },
+        {
+          "id": "cabinet-office",
+          "name": "Cabinet Office",
+          "description": "Government reshuffles, senior appointments, cross-department policy",
+          "stories": [
+            {
+              "title": "Burnham announces major Whitehall departmental restructure",
+              "summary": "As part of his No 10 North agenda, Burnham restructured Whitehall departments, abolishing the Technology Department and aligning government machinery with his mission-led approach.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/labour",
+              "publishedAt": "2026-07-24"
+            },
+            {
+              "title": "UK diplomatic staff withdrawn from Tehran",
+              "summary": "UK diplomatic staff, including the ambassador, have been withdrawn from Tehran amid rising regional tensions, signalling a significant deterioration in UK-Iran relations.",
+              "source": "POLITICO London Playbook",
+              "url": "https://www.politico.eu/newsletter/london-playbook/off-to-the-pub/",
+              "publishedAt": "2026-07-24"
+            }
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "Elections & By-elections",
+          "description": "Upcoming or recent election results, polls",
+          "stories": [
+            {
+              "title": "Clacton by-election: Farage reported to face major difficulties",
+              "summary": "Post-election commentary suggests Nigel Farage encountered significant difficulties in the Clacton by-election, with Count Binface saying Farage 'self-detonated' in his own seat.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/count-binface",
+              "publishedAt": "2026-07-24"
+            },
+            {
+              "title": "Greater Manchester mayoral election debate held",
+              "summary": "Candidates debated skills and growth for the city region, as the race heats up to succeed Burnham who has moved to No 10.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/live/clyvn9g523pt",
+              "publishedAt": "2026-07-24"
+            }
+          ]
+        },
+        {
+          "id": "house-of-lords",
+          "name": "House of Lords",
+          "description": "Lords debates, reform, appointments",
+          "stories": [
+            {
+              "title": "House of Lords Chamber in session — 23 July 2026",
+              "summary": "The Lords held their regular chamber session on 23 July, with debates across a range of policy areas as Parliament heads towards summer recess.",
+              "source": "UK Parliament Hansard",
+              "url": "https://hansard.parliament.uk/Lords/2026-07-23/debates/1a3958ac-1087-4132-a702-c039b7487b23/LordsChamber",
+              "publishedAt": "2026-07-23"
+            },
+            {
+              "title": "Lords debate: Young People and Gambling Harm",
+              "summary": "Peers debated government plans to reduce gambling harm among children and young people, with calls for stronger regulatory protections for minors.",
+              "source": "UK Parliament Hansard",
+              "url": "https://hansard.parliament.uk/Lords/2026-07-23/debates/AEDC737E-B6BB-4D27-B301-45541371C33F/YoungPeopleGamblingHarm",
+              "publishedAt": "2026-07-23"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-07-23",
       "lastUpdated": "2026-07-23T16:00:00+10:00",
