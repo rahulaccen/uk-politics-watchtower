@@ -1,6 +1,206 @@
 {
-  "lastUpdated": "2026-07-24T16:00:00+10:00",
+  "lastUpdated": "2026-07-27T06:00:00+10:00",
   "editions": [
+    {
+      "date": "2026-07-27",
+      "lastUpdated": "2026-07-27T06:00:00+10:00",
+      "topics": [
+        {
+          "id": "pm-no10",
+          "name": "PM & No. 10",
+          "description": "Prime Minister & Downing Street",
+          "stories": [
+            {
+              "title": "Burnham Says He Will Disagree with Trump in Public if Necessary",
+              "summary": "In his first major TV interview as PM with the BBC's Laura Kuenssberg, Andy Burnham signalled he will publicly challenge US President Donald Trump where UK interests diverge, while confirming he will meet President Zelenskyy at a UK naval base to show 'unwavering' support for Ukraine.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/jul/26/andy-burnham-interview-bbc-donald-trump-wes-streeting",
+              "publishedAt": "2026-07-26"
+            },
+            {
+              "title": "NHS 'Will Collapse' Without Social Care Reform, PM Tells BBC",
+              "summary": "Burnham warned in his BBC interview that without fundamental reform of adult social care, the NHS would 'collapse under the weight of trying to manage' an ageing population — framing healthcare integration as a signature first-term priority.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cn0n5xpzlz2o",
+              "publishedAt": "2026-07-26"
+            },
+            {
+              "title": "Burnham v Starmer: One Week In — How Do Their Leadership Styles Compare?",
+              "summary": "Analysis in The Guardian contrasts Burnham's first week as PM with Keir Starmer's early tenure, exploring differences in cabinet dynamics, governing style, and political strategy as the new government settles in.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/jul/26/andy-burnham-keir-starmer-leadership-styles-compare",
+              "publishedAt": "2026-07-26"
+            }
+          ]
+        },
+        {
+          "id": "burnham-intel",
+          "name": "Burnham Gov Intelligence",
+          "description": "Procurement, tech/AI, spending, vendor & priority signals",
+          "stories": [
+            {
+              "title": "🤖 Chips and Drones at Heart of Burnham's Reindustrialisation Push, AI Minister Says",
+              "summary": "The Financial Times reports that AI minister Kanishka Narayan has confirmed chips and drones will be central to Burnham's reindustrialisation agenda, signalling the government's tech-industrial policy direction.",
+              "source": "Financial Times",
+              "url": "https://www.ft.com/news-feed",
+              "publishedAt": "2026-07-26"
+            },
+            {
+              "title": "🤖 TechMarketView: Burnham Redraws the Digital State (Update)",
+              "summary": "TechMarketView's updated UKHotViewsExtra analysis examines Burnham's digital government vision, covering tech procurement reform, AI deployment in public services, and the likely impact on suppliers to government.",
+              "source": "TechMarketView (UKHotViewsExtra)",
+              "url": "https://www.techmarketview.com/news/archive/2026/07/22/ukhotviewsextra-burnham-redraws-the-digital-state-update",
+              "publishedAt": "2026-07-22"
+            },
+            {
+              "title": "💰 City Gears Up for a Fight on Bank Tax Under Burnham",
+              "summary": "Britain's banking sector is bracing for a potential bank tax raid as Burnham takes office facing large gaps in government finances. The City is readying lobbying efforts against what bankers fear could be a significant new levy in the autumn budget.",
+              "source": "Politico Europe",
+              "url": "https://www.politico.eu/article/uk-bankers-fear-andy-burnham-bank-tax-raid-fall-budget/",
+              "publishedAt": "2026-07-26"
+            }
+          ]
+        },
+        {
+          "id": "parliament",
+          "name": "Parliament",
+          "description": "House of Commons, House of Lords, PMQs, debates, legislation",
+          "stories": [
+            {
+              "title": "Parliament in Summer Recess",
+              "summary": "The House of Commons is currently in summer recess. No major legislative or PMQ activity found in the last 24 hours. Parliament is expected to return in September 2026.",
+              "source": "UK Parliament / Hansard",
+              "url": "https://hansard.parliament.uk/commons",
+              "publishedAt": "2026-07-27"
+            }
+          ]
+        },
+        {
+          "id": "labour",
+          "name": "Labour Party",
+          "description": "Party news, policy, internal politics",
+          "stories": [
+            {
+              "title": "Burnham Apologises for Labour's Initial Response to Gaza War — Enough to Win Back Muslim Voters?",
+              "summary": "PM Burnham has issued a formal apology for Labour's initial response to the Gaza conflict in an attempt to rebuild trust with Muslim communities who drifted from Labour. Analysis questions whether the apology will be sufficient to repair fractured voter relationships.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/c33045vjey4o",
+              "publishedAt": "2026-07-26"
+            },
+            {
+              "title": "'Burnham Bounce' Risks Deflating Without Focus on Struggling Households",
+              "summary": "An economics commentary in The Guardian warns that the early positive sentiment around Burnham's government could fade unless it maintains sharp focus on cost-of-living pressures facing ordinary households.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/politics+tone/comment",
+              "publishedAt": "2026-07-26"
+            },
+            {
+              "title": "The Saturday Read: Growing Up Near Andy Burnham — What Shaped the UK's New PM",
+              "summary": "A profile piece exploring Burnham's working-class Leigh upbringing and how it has shaped his political identity and governing priorities as he enters Downing Street.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/labour",
+              "publishedAt": "2026-07-24"
+            }
+          ]
+        },
+        {
+          "id": "conservatives",
+          "name": "Conservative Party",
+          "description": "Party news, leadership, opposition",
+          "stories": [
+            {
+              "title": "Kemi Badenoch Tells PM Not to Raise Taxes to Fund Social Care",
+              "summary": "Conservative leader Kemi Badenoch has written to PM Burnham offering cross-party cooperation on adult social care reform, but warning against tax increases as the funding mechanism — a signal of the Tories' planned opposition strategy.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/c0jlzqe9z9vo",
+              "publishedAt": "2026-07-26"
+            },
+            {
+              "title": "Kemi Badenoch 'Has to Adapt' Her Rhetoric to Take On Andy Burnham",
+              "summary": "Analysis suggests the Conservative leader is becoming more confident and developing a clearer opposition message, but needs to adapt her rhetoric and positioning to effectively challenge a Burnham-led government with a different political style to Starmer.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/tone/analysis",
+              "publishedAt": "2026-07-26"
+            }
+          ]
+        },
+        {
+          "id": "lib-dems",
+          "name": "Liberal Democrats",
+          "description": "Party news, policy positions",
+          "stories": []
+        },
+        {
+          "id": "reform-uk",
+          "name": "Reform UK",
+          "description": "Nigel Farage, party news and announcements",
+          "stories": [
+            {
+              "title": "Farage's Latest Gamble Clouds Reform's Path to Power",
+              "summary": "Politico reports that Nigel Farage's decision to fight a Clacton by-election risks becoming a political own goal for Reform UK, potentially distracting from the party's broader national strategy at a critical moment for the opposition.",
+              "source": "Politico Europe",
+              "url": "https://www.politico.eu/article/nigel-farage-latest-gamble-clouds-reforms-path-to-power-clacton-by-election/",
+              "publishedAt": "2026-07-26"
+            },
+            {
+              "title": "Manchester Mayor Battle: Farage's Clacton Focus Shifts as Labour's Bev Craig Fights Burnham's Old Seat",
+              "summary": "With Farage's attention diverted to Clacton, the contest to become Manchester's next mayor heats up, with Labour's Bev Craig the frontrunner for Burnham's former role as Greater Manchester Combined Authority faces a leadership transition.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/uk-news/2026/jul/26/manchester-mayor-battle-bev-craig-burnham-labour-reform-greens",
+              "publishedAt": "2026-07-26"
+            }
+          ]
+        },
+        {
+          "id": "snp",
+          "name": "SNP",
+          "description": "Scottish National Party, Scottish politics",
+          "stories": [
+            {
+              "title": "Monica Lennon to Stand in Scottish Labour Leadership Contest After Sarwar Quit",
+              "summary": "Former MSP Monica Lennon has become the first candidate to enter the Scottish Labour leadership race, following Anas Sarwar's resignation as Scottish Labour leader. SNP are watching the contest closely as it reshapes the Holyrood opposition landscape.",
+              "source": "Herald Scotland",
+              "url": "https://www.heraldscotland.com/news/national/26410771.monica-lennon-stand-scottish-labour-leadership-contest/",
+              "publishedAt": "2026-07-26"
+            }
+          ]
+        },
+        {
+          "id": "cabinet-office",
+          "name": "Cabinet Office",
+          "description": "Government reshuffles, senior appointments, cross-department policy",
+          "stories": [
+            {
+              "title": "City Braces for Potential Bank Tax as Burnham Faces Budget Gap",
+              "summary": "With the Burnham government facing a significant shortfall in public finances, the City is preparing for a potential new bank levy in the autumn budget. Politico reports senior bankers are already lobbying against what they fear could be a multi-billion pound tax bill.",
+              "source": "Politico Europe",
+              "url": "https://www.politico.eu/article/uk-bankers-fear-andy-burnham-bank-tax-raid-fall-budget/",
+              "publishedAt": "2026-07-26"
+            }
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "Elections & By-elections",
+          "description": "Upcoming or recent election results, polls",
+          "stories": [
+            {
+              "title": "Clacton By-Election: Farage's High-Stakes Gamble",
+              "summary": "Nigel Farage is fighting a by-election in Clacton — a seat he previously held — in what analysts describe as a high-stakes personal gamble. Politico notes Reform UK's path to power is being clouded by Farage's focus on a single constituency rather than national strategy.",
+              "source": "Politico Europe",
+              "url": "https://www.politico.eu/article/nigel-farage-latest-gamble-clouds-reforms-path-to-power-clacton-by-election/",
+              "publishedAt": "2026-07-26"
+            }
+          ]
+        },
+        {
+          "id": "house-of-lords",
+          "name": "House of Lords",
+          "description": "Lords debates, reform, appointments",
+          "stories": []
+        }
+      ]
+    },
     {
       "date": "2026-07-24",
       "lastUpdated": "2026-07-24T16:00:00+10:00",
