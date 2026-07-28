@@ -1,6 +1,233 @@
 {
-  "lastUpdated": "2026-07-27T06:00:00+10:00",
+  "lastUpdated": "2026-07-28T18:30:00+10:00",
   "editions": [
+    {
+      "date": "2026-07-28",
+      "lastUpdated": "2026-07-28T18:30:00+10:00",
+      "topics": [
+        {
+          "id": "pm-no10",
+          "name": "PM & No. 10",
+          "description": "Prime Minister & Downing Street",
+          "stories": [
+            {
+              "title": "Burnham's Ukraine gambit is a symbolic start for PM who wants to look inward",
+              "summary": "Just seven days into office, Burnham met his first world leader (Ukraine), even as critics accuse him of prioritising international trips over domestic delivery.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/jul/27/andy-burnham-ukraine-symbolic-start-pm-home",
+              "publishedAt": "2026-07-27"
+            },
+            {
+              "title": "Burnham appoints Bridget Phillipson as Labour Party chair",
+              "summary": "Part of a wider set of appointments as Burnham builds his team in No. 10.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cjd4zl0v8kvo",
+              "publishedAt": "2026-07-27"
+            },
+            {
+              "title": "Burnham brings members of Socialist Campaign Group into government",
+              "summary": "New PPS appointments signal a shift in the internal balance of Burnham's top team.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/jul/27/burnham-brings-members-of-socialist-campaign-group-into-government",
+              "publishedAt": "2026-07-27"
+            }
+          ]
+        },
+        {
+          "id": "burnham-intel",
+          "name": "Burnham Gov Intelligence",
+          "description": "Procurement, tech/AI, spending, vendor & priority signals",
+          "stories": [
+            {
+              "title": "🤖 Tech/AI: Lord Vallance to chair AI Taskforce",
+              "summary": "A new government AI taskforce gets a chair, signalling continued momentum on the AI agenda under the new administration.",
+              "source": "TechMarketView",
+              "url": "https://www.techmarketview.com/ukhotviews/archive/2026/07/27/lord-vallance-to-chair-ai-taskforce",
+              "publishedAt": "2026-07-27"
+            },
+            {
+              "title": "🤝 Consulting: Scottish Water taps into Accenture for applications management",
+              "summary": "A fresh public-sector-adjacent contract win for Accenture in applications management.",
+              "source": "TechMarketView",
+              "url": "https://www.techmarketview.com/ukhotviews/archive/2026/07/27/scottish-water-taps-into-accenture-for-applications-management",
+              "publishedAt": "2026-07-27"
+            },
+            {
+              "title": "🏢 Vendor signal: Atos expands Met Police partnership",
+              "summary": "Atos deepens its footprint with the Metropolitan Police, an example of vendor consolidation in UK public sector contracts.",
+              "source": "TechMarketView",
+              "url": "https://www.techmarketview.com/ukhotviews/archive/2026/07/22/atos-expands-met-police-partnership",
+              "publishedAt": "2026-07-22"
+            },
+            {
+              "title": "📄 Research Report — Building No. 10 North (re-state.co.uk)",
+              "summary": "Re:State think tank report (July 2026) sets out how Burnham should structure his 'Number 10 North' institution as a reform engine, warning it risks becoming another Whitehall silo without focused design, and proposing it act partly as an internal consultancy aligning spending decisions with regional priorities.",
+              "source": "Re:State",
+              "url": "https://re-state.co.uk/wp-content/uploads/2026/07/Building-No-10-North.pdf",
+              "publishedAt": "2026-07-01"
+            }
+          ]
+        },
+        {
+          "id": "parliament",
+          "name": "Parliament",
+          "description": "House of Commons, House of Lords, PMQs, debates, legislation",
+          "stories": [
+            {
+              "title": "Commons: 26 July 2026 (Hansard)",
+              "summary": "Latest House of Commons sitting record now published.",
+              "source": "Hansard",
+              "url": "https://hansard.parliament.uk/commons",
+              "publishedAt": "2026-07-26"
+            }
+          ]
+        },
+        {
+          "id": "labour",
+          "name": "Labour Party",
+          "description": "Party news, policy, internal politics",
+          "stories": [
+            {
+              "title": "Burnham appoints Bridget Phillipson as Labour Party chair",
+              "summary": "Signals Burnham consolidating control over party machinery early in his premiership.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cjd4zl0v8kvo",
+              "publishedAt": "2026-07-27"
+            },
+            {
+              "title": "Labour overtakes Reform in voter poll for first time since March 2025",
+              "summary": "A boost for Burnham after a strong first week, including an energy bill tax cut announcement.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/jul/27/labour-overtakes-reform-in-voter-poll-andy-burnham",
+              "publishedAt": "2026-07-27"
+            },
+            {
+              "title": "Polanski's Greens brace for the 'Burnham bounce'",
+              "summary": "The Green Party is sharpening attack lines after losing ground to Labour under Burnham.",
+              "source": "POLITICO",
+              "url": "https://www.politico.eu/article/uk-andy-burnham-labour-green-party-zack-polanski-poll-surge/",
+              "publishedAt": "2026-07-27"
+            }
+          ]
+        },
+        {
+          "id": "conservatives",
+          "name": "Conservative Party",
+          "description": "Party news, leadership, opposition",
+          "stories": []
+        },
+        {
+          "id": "lib-dems",
+          "name": "Liberal Democrats",
+          "description": "Party news, policy positions",
+          "stories": [
+            {
+              "title": "Andy Burnham seeks cross-party agreement on future of social care",
+              "summary": "Senior Labour and Lib Dem figures are working toward consensus, with the Conservatives' stipulations on funding cited as a sticking point.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/society/2026/jul/27/andy-burnham-cross-party-agreement-social-care",
+              "publishedAt": "2026-07-27"
+            },
+            {
+              "title": "Ed Davey says Lib Dems want to help Burnham find 'real and lasting consensus' on social care",
+              "summary": "Part of the live politics coverage of the PM's social care push.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/live/2026/jul/27/andy-burnham-social-care-politics-live-latest-news-defence-nhs-reform-uk-tories-updates",
+              "publishedAt": "2026-07-27"
+            }
+          ]
+        },
+        {
+          "id": "reform-uk",
+          "name": "Reform UK",
+          "description": "Nigel Farage, party news and announcements",
+          "stories": [
+            {
+              "title": "Reform UK reports Zack Polanski to police over guillotine T-shirt post",
+              "summary": "Nigel Farage's party has escalated a social media row with the Green leader to a police complaint.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/c5y063yqlleo",
+              "publishedAt": "2026-07-27"
+            },
+            {
+              "title": "Police make inquiries after Farage reports Polanski post for 'inciting murder'",
+              "summary": "Follow-up on the escalating row between Farage and Polanski.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/jul/27/police-make-inquiries-after-farage-reports-polanski-post-for-inciting",
+              "publishedAt": "2026-07-27"
+            },
+            {
+              "title": "Labour overtakes Reform in voter poll for first time since March 2025",
+              "summary": "Comes after weeks of negative headlines for Reform over undeclared gifts to Farage.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/jul/27/labour-overtakes-reform-in-voter-poll-andy-burnham",
+              "publishedAt": "2026-07-27"
+            }
+          ]
+        },
+        {
+          "id": "snp",
+          "name": "SNP",
+          "description": "Scottish National Party, Scottish politics",
+          "stories": [
+            {
+              "title": "'PM must legislate for national care service if he's serious'",
+              "summary": "An expert says Burnham must legislate for a national care service by the end of this Parliament.",
+              "source": "The Herald",
+              "url": "https://www.heraldscotland.com/news/national/26411990.pm-must-legislate-national-care-service-serious-social-care/",
+              "publishedAt": "2026-07-27"
+            },
+            {
+              "title": "Labour plans for 'Greater Glasgow' are little more than spin",
+              "summary": "Viewpoint arguing Labour lacks a comprehensive reorganisation plan without diminishing the Scottish Parliament's role.",
+              "source": "The Herald",
+              "url": "https://www.heraldscotland.com/politics/viewpoint/26407723.labour-plans-greater-glasgow-little-anti-snp-spin/",
+              "publishedAt": "2026-07-27"
+            },
+            {
+              "title": "Unison Scotland to boycott Reform UK party conferences",
+              "summary": "Scottish union will not attend any Reform UK conferences at UK or Scottish level.",
+              "source": "The Herald",
+              "url": "https://www.heraldscotland.com/news/26412897.unison-scotland-boycott-reform-uk-party-conferences/",
+              "publishedAt": "2026-07-27"
+            }
+          ]
+        },
+        {
+          "id": "cabinet-office",
+          "name": "Cabinet Office",
+          "description": "Government reshuffles, senior appointments, cross-department policy",
+          "stories": []
+        },
+        {
+          "id": "elections",
+          "name": "Elections & By-elections",
+          "description": "Upcoming or recent election results, polls",
+          "stories": [
+            {
+              "title": "Labour overtakes Reform in voter poll for first time since March 2025",
+              "summary": "Landmark shift in the polls following Burnham's first week of announcements.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/jul/27/labour-overtakes-reform-in-voter-poll-andy-burnham",
+              "publishedAt": "2026-07-27"
+            },
+            {
+              "title": "Polanski's Greens brace for the 'Burnham bounce'",
+              "summary": "Greens losing ground as Labour's ratings recover.",
+              "source": "POLITICO",
+              "url": "https://www.politico.eu/article/uk-andy-burnham-labour-green-party-zack-polanski-poll-surge/",
+              "publishedAt": "2026-07-27"
+            }
+          ]
+        },
+        {
+          "id": "house-of-lords",
+          "name": "House of Lords",
+          "description": "Lords debates, reform, appointments",
+          "stories": []
+        }
+      ]
+    },
     {
       "date": "2026-07-27",
       "lastUpdated": "2026-07-27T06:00:00+10:00",
