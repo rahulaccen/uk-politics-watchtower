@@ -1,6 +1,262 @@
 {
-  "lastUpdated": "2026-07-28T18:30:00+10:00",
+  "lastUpdated": "2026-07-29T16:05:57+10:00",
   "editions": [
+    {
+      "date": "2026-07-29",
+      "lastUpdated": "2026-07-29T16:05:57+10:00",
+      "topics": [
+        {
+          "id": "pm-no10",
+          "name": "PM & No. 10",
+          "description": "Prime Minister & Downing Street",
+          "stories": [
+            {
+              "title": "Burnham to seek cross-party consensus on social care reform",
+              "summary": "The PM has invited Kemi Badenoch and Ed Davey (but not Nigel Farage) for talks on fixing the social care crisis, facing criticism the invite was short-notice.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/society/2026/jul/28/andy-burnham-cross-party-consensus-reforms-social-care",
+              "publishedAt": "2026-07-28"
+            },
+            {
+              "title": "Burnham invites Tories and Lib Dems to social care talks",
+              "summary": "A Conservative source called the short-notice invite \"almost like it's only being done for show\"; a Tory spokesman said their rep was ready to engage if not reliant on tax rises or borrowing.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/c1k1vgx08gko",
+              "publishedAt": "2026-07-28"
+            },
+            {
+              "title": "What voters really think of Britain's new PM",
+              "summary": "The POLITICO Poll finds Burnham is popular after one week in office, though a majority still think he should call a general election to secure his own mandate.",
+              "source": "POLITICO",
+              "url": "https://www.politico.eu/article/what-voters-really-think-of-britains-new-pm-andy-burnham/",
+              "publishedAt": "2026-07-28"
+            }
+          ]
+        },
+        {
+          "id": "burnham-intel",
+          "name": "Burnham Gov Intelligence",
+          "description": "Procurement, tech/AI, spending, vendor & priority signals",
+          "stories": [
+            {
+              "title": "Scottish Water taps into Accenture for applications management",
+              "summary": "Accenture won a competitively tendered ~£100m applications management contract with Scottish Water, initial four-year term extendable to eight years — a private-sector/consulting signal.",
+              "source": "TechMarketView",
+              "url": "https://www.techmarketview.com/ukhotviews/archive/2026/07/27/scottish-water-taps-into-accenture-for-applications-management",
+              "publishedAt": "2026-07-27"
+            },
+            {
+              "title": "Lord Vallance to chair AI Taskforce",
+              "summary": "Science minister Lord Vallance named to chair a new UK AI Taskforce, a tech/AI/digital policy signal for the Burnham government.",
+              "source": "TechMarketView",
+              "url": "https://www.techmarketview.com/ukhotviews/archive/2026/07/27/lord-vallance-to-chair-ai-taskforce",
+              "publishedAt": "2026-07-27"
+            },
+            {
+              "title": "\"Burnham redraws the digital state\"",
+              "summary": "TechMarketView's UKHotViewsExtra series analysed how the new PM is reshaping the UK's approach to digital government and public sector technology.",
+              "source": "TechMarketView",
+              "url": "https://www.techmarketview.com/news/archive/2026/07/22/ukhotviewsextra-burnham-redraws-the-digital-state-update",
+              "publishedAt": "2026-07-22"
+            },
+            {
+              "title": "Atos expands Met Police partnership",
+              "summary": "Atos extended its technology partnership with the Metropolitan Police, one of several recent UK public-sector tech deals.",
+              "source": "TechMarketView",
+              "url": "https://www.techmarketview.com/ukhotviews/archive/2026/07/22/atos-expands-met-police-partnership",
+              "publishedAt": "2026-07-22"
+            },
+            {
+              "title": "Research Report — Building No. 10 North (re-state.co.uk)",
+              "summary": "Re:State's July 2026 paper argues No 10 North must have critical mass (like Darlington Economic Campus) and proposes four core units (Devolution, Subnational Investment & Growth, System Democratisation, Local Public Services Innovation) plus a Transformation Directorate, with annual departmental 'Devolution Assessments'.",
+              "source": "Re:State",
+              "url": "https://re-state.co.uk/wp-content/uploads/2026/07/Building-No-10-North.pdf",
+              "publishedAt": "2026-07-01"
+            }
+          ]
+        },
+        {
+          "id": "parliament",
+          "name": "Parliament",
+          "description": "House of Commons, House of Lords, PMQs, debates, legislation",
+          "stories": [
+            {
+              "title": "House of Commons — Hansard record",
+              "summary": "Commons sitting record for the week of 26 July 2026; no standalone major legislative story beyond ongoing Burnham government coverage.",
+              "source": "Hansard",
+              "url": "https://hansard.parliament.uk/commons",
+              "publishedAt": "2026-07-26"
+            }
+          ]
+        },
+        {
+          "id": "labour",
+          "name": "Labour Party",
+          "description": "Party news, policy, internal politics",
+          "stories": [
+            {
+              "title": "Labour overtakes Reform in polls",
+              "summary": "Labour has overtaken Reform UK for the first time since March last year, according to new polling.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/labour+politics",
+              "publishedAt": "2026-07-28"
+            },
+            {
+              "title": "Home Office blocking evacuation of dozens of women and children from Gaza",
+              "summary": "Reported as a point of pressure on the Labour government amid ongoing Gaza-related policy scrutiny.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/politics+uk/uk",
+              "publishedAt": "2026-07-28"
+            }
+          ]
+        },
+        {
+          "id": "conservatives",
+          "name": "Conservative Party",
+          "description": "Party news, leadership, opposition",
+          "stories": [
+            {
+              "title": "Badenoch says PM must rule out tax rises to fund social care reform",
+              "summary": "Badenoch has set conditions for Conservative cooperation with Burnham's cross-party social care talks.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/c0jlzqe9z9vo",
+              "publishedAt": "2026-07-28"
+            },
+            {
+              "title": "Tory MP accuses French navy of firing \"warning\" shots near him in Channel",
+              "summary": "Chris Philp alleged a Channel incident involving French naval vessels; the claim was disputed.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/uk-news/2026/jul/28/tory-mp-chris-philp-accuses-french-navy-of-firing-shots-in-channel-incident",
+              "publishedAt": "2026-07-28"
+            },
+            {
+              "title": "\"Above all, it's the symbolism that matters\" — Polly Toynbee Q&A",
+              "summary": "Guardian columnist Polly Toynbee answered reader questions on Burnham's first week as PM, touching on opposition dynamics.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/community/live/2026/jul/28/andy-burnham-first-week-prime-minister-ask-polly-toynbee-reader-questions",
+              "publishedAt": "2026-07-28"
+            }
+          ]
+        },
+        {
+          "id": "lib-dems",
+          "name": "Liberal Democrats",
+          "description": "Party news, policy positions",
+          "stories": [
+            {
+              "title": "Burnham invites Tories and Lib Dems to social care talks",
+              "summary": "Ed Davey has been invited to cross-party social care discussions alongside the Conservatives.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/c1k1vgx08gko",
+              "publishedAt": "2026-07-28"
+            },
+            {
+              "title": "Burnham to seek cross-party consensus over urgent social care reforms",
+              "summary": "Confirms Ed Davey's involvement in the PM's social care reform push.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/society/2026/jul/28/andy-burnham-cross-party-consensus-reforms-social-care",
+              "publishedAt": "2026-07-28"
+            }
+          ]
+        },
+        {
+          "id": "reform-uk",
+          "name": "Reform UK",
+          "description": "Nigel Farage, party news and announcements",
+          "stories": [
+            {
+              "title": "UK Green leader reported to police over Farage guillotine post",
+              "summary": "Green Party leader Zack Polanski was reported to police after a controversial post about Nigel Farage; Farage said Polanski should be arrested.",
+              "source": "POLITICO",
+              "url": "https://www.politico.eu/article/zack-polanski-nigel-farage-post-controversy-police-investigation/",
+              "publishedAt": "2026-07-29"
+            },
+            {
+              "title": "\"Farage's got to come clean or clear off\": what voters on the ground think",
+              "summary": "On-the-ground reporting from Clacton ahead of the by-election triggered by Farage's resignation amid the Christopher Harborne donation scandal.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/jul/29/nigel-farage-come-clean-or-clear-off-voters-clacton",
+              "publishedAt": "2026-07-29"
+            },
+            {
+              "title": "Reform accuse Unison of ignoring workers who support the party",
+              "summary": "Reform UK criticised the Unison union in Scotland over its stance toward Reform-supporting members.",
+              "source": "The Herald (Scotland)",
+              "url": "https://www.heraldscotland.com/news/26417154.reform-accuse-unison-ignoring-workers-support-party/",
+              "publishedAt": "2026-07-28"
+            }
+          ]
+        },
+        {
+          "id": "snp",
+          "name": "SNP",
+          "description": "Scottish National Party, Scottish politics",
+          "stories": [
+            {
+              "title": "Two further MSPs announce intention to stand in Scottish Labour leadership race",
+              "summary": "Michael Marra and Joe Fagan have joined Monica Lennon in the race to lead Scottish Labour, with a new leader to be elected by 19 September.",
+              "source": "The Herald (Scotland)",
+              "url": "https://www.heraldscotland.com/news/national/26414633.two-msps-announce-intention-stand-scottish-labour-leadership-race/",
+              "publishedAt": "2026-07-28"
+            },
+            {
+              "title": "Government told to pause \"costly distraction\" walk-in clinics",
+              "summary": "The Scottish Government has been urged to pause its rollout of 20 new GP walk-in clinics after mixed attendance figures.",
+              "source": "The Herald (Scotland)",
+              "url": "https://www.heraldscotland.com/news/26416965.government-told-pause-costly-distraction-walk-in-clinics/",
+              "publishedAt": "2026-07-28"
+            },
+            {
+              "title": "Reform accuse Unison of ignoring workers who support party",
+              "summary": "SNP remains a minority government in Holyrood after winning 58 seats, as Reform UK courts union members north of the border.",
+              "source": "The Herald (Scotland)",
+              "url": "https://www.heraldscotland.com/news/26417154.reform-accuse-unison-ignoring-workers-support-party/",
+              "publishedAt": "2026-07-28"
+            }
+          ]
+        },
+        {
+          "id": "cabinet-office",
+          "name": "Cabinet Office",
+          "description": "Government reshuffles, senior appointments, cross-department policy",
+          "stories": []
+        },
+        {
+          "id": "elections",
+          "name": "Elections & By-elections",
+          "description": "Upcoming or recent election results, polls",
+          "stories": [
+            {
+              "title": "\"Farage's got to come clean or clear off\": Clacton voters weigh in",
+              "summary": "On-the-ground reporting ahead of the Clacton by-election, triggered by Farage's resignation following the Christopher Harborne donation scandal.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/jul/29/nigel-farage-come-clean-or-clear-off-voters-clacton",
+              "publishedAt": "2026-07-29"
+            },
+            {
+              "title": "Count Binface on the Clacton by-election",
+              "summary": "Satirical candidate Count Binface commented that he \"didn't know old Farage was going to self-detonate,\" as the by-election campaign continues.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/count-binface",
+              "publishedAt": "2026-07-28"
+            },
+            {
+              "title": "What voters really think of Britain's new PM",
+              "summary": "POLITICO poll shows a majority still want Burnham to call a general election despite his early popularity.",
+              "source": "POLITICO",
+              "url": "https://www.politico.eu/article/what-voters-really-think-of-britains-new-pm-andy-burnham/",
+              "publishedAt": "2026-07-28"
+            }
+          ]
+        },
+        {
+          "id": "house-of-lords",
+          "name": "House of Lords",
+          "description": "Lords debates, reform, appointments",
+          "stories": []
+        }
+      ]
+    },
     {
       "date": "2026-07-28",
       "lastUpdated": "2026-07-28T18:30:00+10:00",
