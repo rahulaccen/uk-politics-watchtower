@@ -1,6 +1,291 @@
 {
-  "lastUpdated": "2026-07-29T16:05:57+10:00",
+  "lastUpdated": "2026-07-30T16:00:00+10:00",
   "editions": [
+    {
+      "date": "2026-07-30",
+      "lastUpdated": "2026-07-30T16:00:00+10:00",
+      "topics": [
+        {
+          "id": "pm-no10",
+          "name": "PM & No. 10",
+          "description": "Prime Minister & Downing Street",
+          "stories": [
+            {
+              "title": "Burnham the crowd-pleaser knows how to make friends, but he'll be defined by how he makes enemies",
+              "summary": "Andy Burnham, in his first weeks as PM, has focused on unity and positivity, but commentators note he will be judged by harder decisions ahead. Labour has moved ahead of Reform UK in the polls for the first time in 18 months.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/commentisfree/2026/jul/30/andy-burnham-prime-minister-politics-change",
+              "publishedAt": "2026-07-30"
+            },
+            {
+              "title": "Trident renewal central to defence spending, says Andy Burnham",
+              "summary": "PM Burnham has confirmed Trident renewal will be central to the government's defence and reindustrialisation spending plans.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/jul/29/trident-renewal-central-defence-reindustrialised-britain-andy-burnham",
+              "publishedAt": "2026-07-29"
+            },
+            {
+              "title": "Andy Burnham does not rule out income tax rise to fund social care",
+              "summary": "PM Burnham gave a speech on social care reform, signalling willingness to raise taxes to fund a new National Care Service, while fast-tracking the Louise Casey review.",
+              "source": "The Times",
+              "url": "https://www.thetimes.co.uk/uk/politics/article/andy-burnham-latest-news-death-tax-social-care-funding-nk3p755wm",
+              "publishedAt": "2026-07-30"
+            }
+          ]
+        },
+        {
+          "id": "burnham-intel",
+          "name": "Burnham Gov Intelligence",
+          "description": "Procurement, tech/AI, spending, vendor & priority signals",
+          "stories": [
+            {
+              "title": "🤖 Science and tech committee chair: 'Scrapping DSIT risks overloading other departments'",
+              "summary": "Chi Onwurah, chair of the Science and Technology Committee, has raised concerns about the Burnham government's overhaul of digital government, warning that scrapping DSIT risks overloading other departments.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/07/28/government-and-politics/science-and-tech-committee-chair-scrapping-dsit-risks-overloading-other-departments/",
+              "publishedAt": "2026-07-28"
+            },
+            {
+              "title": "🤖 Companies House deploys AI to handle 300 chats a day and thousands of email responses",
+              "summary": "The government business registry has deployed AI tools in its annual report, with use of common commercial and AI tools playing a growing role in citizen communications.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/07/29/business-and-industry/companies-house-deploys-ai-to-help-handle-300-chats-a-day-and-thousands-of-email-responses/",
+              "publishedAt": "2026-07-29"
+            },
+            {
+              "title": "🏗️ Post Office: Signing of Horizon replacement deal set back a further three weeks",
+              "summary": "The standstill period for the Post Office's Horizon IT replacement contract has now reached a total of three months, having been extended six separate times amid challenges to the choice of supplier.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/07/29/business-and-industry/post-office-signing-of-horizon-replacement-deal-set-back-a-further-three-weeks/",
+              "publishedAt": "2026-07-29"
+            },
+            {
+              "title": "🤖 Judge's AI hallucination warning on Home Office evidence",
+              "summary": "A tribunal judge has warned that AI may have 'hallucinated' evidence used by the Home Office to refuse an asylum claim, after a document central to the case was found to not exist.",
+              "source": "UKAuthority",
+              "url": "https://www.ukauthority.com/articles/judges-ai-hallucination-warning-on-home-office-evidence",
+              "publishedAt": "2026-07-30"
+            },
+            {
+              "title": "🤖 Social engineering attack hits DfE helpdesk systems — 600,000 records stolen",
+              "summary": "Cybercriminals used a social engineering attack on a Department for Education helpdesk to steal more than 600,000 records, with data subsequently posted on the dark web.",
+              "source": "UKAuthority",
+              "url": "https://www.ukauthority.com/articles/social-engineering-attack-hits-dfe-helpdesk-systems",
+              "publishedAt": "2026-07-30"
+            },
+            {
+              "title": "🤝 Scottish Water taps into Accenture for applications management — c.£100m deal",
+              "summary": "Scottish Water has awarded Accenture a competitive contract worth approximately £100m for applications management, with an initial four-year term and extensions possible up to eight years.",
+              "source": "TechMarketView",
+              "url": "https://www.techmarketview.com/ukhotviews/archive/2026/07/27/scottish-water-taps-into-accenture-for-applications-management",
+              "publishedAt": "2026-07-27"
+            }
+          ]
+        },
+        {
+          "id": "parliament",
+          "name": "Parliament",
+          "description": "House of Commons, Lords, PMQs, debates & legislation",
+          "stories": [
+            {
+              "title": "Keir Starmer delivers his final PMQs as Prime Minister",
+              "summary": "Sir Keir Starmer appeared at PMQs for the last time as Prime Minister following Andy Burnham's assumption of office after Starmer's resignation.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/iplayer/episode/m002znrc/newscast-what-is-andy-burnhams-plan-to-fix-social-care",
+              "publishedAt": "2026-07-29"
+            },
+            {
+              "title": "Cross-party talks held on social care reform",
+              "summary": "PM Burnham convened cross-party talks on social care reform, with Liberal Democrat leader Ed Davey attending but Kemi Badenoch sending a deputy in her place.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/ckg6d21zdyro",
+              "publishedAt": "2026-07-29"
+            }
+          ]
+        },
+        {
+          "id": "labour",
+          "name": "Labour Party",
+          "description": "Labour party news, policy, internal politics",
+          "stories": [
+            {
+              "title": "Bridget Phillipson appointed Labour Party chair after cabinet demotion",
+              "summary": "PM Burnham appointed Bridget Phillipson, a Starmer loyalist who lost her cabinet position, as the new Labour Party chair — seen as an olive branch to Starmer allies to restore party unity.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/jul/29/bridget-phillipson-starmer-loyalist-labour-cabinet-demotion",
+              "publishedAt": "2026-07-29"
+            },
+            {
+              "title": "Labour leads Reform UK in polls for first time in 18 months",
+              "summary": "For the first time in 18 months, Labour has moved ahead of Reform UK in the polls, boosted by Burnham's honeymoon period as PM.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/commentisfree/2026/jul/30/andy-burnham-prime-minister-politics-change",
+              "publishedAt": "2026-07-30"
+            },
+            {
+              "title": "Ed Miliband takes on Brexit reset role as Foreign Office reboots",
+              "summary": "Ed Miliband has been given the Brexit reset brief as part of the Burnham government's Foreign Office restructuring, with Hamish Falconer appointed as Europe minister.",
+              "source": "Politico",
+              "url": "https://www.politico.eu/article/ed-miliband-uk-brexit-reset-foreign-office/",
+              "publishedAt": "2026-07-30"
+            }
+          ]
+        },
+        {
+          "id": "conservatives",
+          "name": "Conservative Party",
+          "description": "Conservative Party news, leadership, opposition",
+          "stories": [
+            {
+              "title": "British right feels political chill as Burnham's shadow grows",
+              "summary": "Analysis suggests the Conservatives under Kemi Badenoch face a renewed challenge with Burnham as PM, who is a harder target to pin down than Starmer was.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/commentisfree/2026/jul/29/british-right-political-chill-andy-burnham-tories-reform-keir-starmer",
+              "publishedAt": "2026-07-30"
+            },
+            {
+              "title": "Badenoch refuses to back tax rises or borrowing for social care",
+              "summary": "Conservative leader Kemi Badenoch has said she will not back tax increases or additional borrowing to fund social care reform, opposing Burnham's cross-party approach.",
+              "source": "Politico",
+              "url": "https://www.politico.eu/newsletter/london-playbook/care-to-vote-for-us/",
+              "publishedAt": "2026-07-30"
+            }
+          ]
+        },
+        {
+          "id": "lib-dems",
+          "name": "Liberal Democrats",
+          "description": "Lib Dem party news, policy positions",
+          "stories": [
+            {
+              "title": "Ed Davey joins cross-party talks on social care reform",
+              "summary": "Liberal Democrat leader Sir Ed Davey participated in PM Burnham's cross-party social care talks, in contrast to the Conservatives who sent a deputy.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/ckg6d21zdyro",
+              "publishedAt": "2026-07-29"
+            },
+            {
+              "title": "Lib Dem MP calls for investigation into Reform deputy leader's £80,000 loan",
+              "summary": "A Liberal Democrat MP has called for a parliamentary investigation into an £80,000 loan received by Reform UK's deputy leader Richard Tice, though the watchdog decided against an inquiry.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/uk-news/2026/jul/29/richard-tice-reform-loan-george-cottrell-investigation-standards-watchdog",
+              "publishedAt": "2026-07-29"
+            }
+          ]
+        },
+        {
+          "id": "reform-uk",
+          "name": "Reform UK",
+          "description": "Reform UK, Nigel Farage, party news",
+          "stories": [
+            {
+              "title": "George Cottrell transferred $2m to mother days before her donations to Reform UK",
+              "summary": "The Guardian has revealed that George Cottrell, a Reform UK official, transferred $2 million to his mother shortly before she made significant donations to the party, with police investigating payments.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/jul/29/george-cottrell-transferred-2m-mother-beforer-reform-uk-donations",
+              "publishedAt": "2026-07-29"
+            },
+            {
+              "title": "Reform UK councillor charged after alleged racist social media post",
+              "summary": "A Reform UK councillor has been charged following an alleged racist post on social media.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/uk-news/2026/jul/29/reform-uk-councillor-charged-after-alleged-racist-social-media-post",
+              "publishedAt": "2026-07-29"
+            },
+            {
+              "title": "Clacton by-election looms as Farage faces questions over funding",
+              "summary": "Farage faces a by-election in his Clacton constituency after the Guardian's investigations into Reform UK's crypto finances; voters are divided about Farage's future amid the scandal.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/jul/29/nigel-farage-come-clean-or-clear-off-voters-clacton",
+              "publishedAt": "2026-07-29"
+            }
+          ]
+        },
+        {
+          "id": "snp",
+          "name": "SNP",
+          "description": "Scottish National Party, Scottish politics",
+          "stories": [
+            {
+              "title": "SNP attacks Burnham for leaving party out of social care talks",
+              "summary": "The SNP has criticised PM Burnham for excluding them from cross-party social care talks, warning against a tax hike on Scottish people to fund reforms to English social care.",
+              "source": "Herald Scotland",
+              "url": "https://www.heraldscotland.com/news/national/26418811.snp-attacks-burnham-leaving-party-talks-english-social-care/",
+              "publishedAt": "2026-07-29"
+            },
+            {
+              "title": "SNP branded 'stupid' over 48p income tax rate by ex-government adviser",
+              "summary": "Tax Policy Associates founder Dan Neidle, a former member of the Scottish Government's Tax Advisory Group, has criticised the SNP's 48p income tax rate, saying the SNP never sought his advice on the policy.",
+              "source": "Herald Scotland",
+              "url": "https://www.heraldscotland.com/news/26419343.snp-stupid-48p-tax-rate-says-ex-government-adviser/",
+              "publishedAt": "2026-07-29"
+            },
+            {
+              "title": "Scotland's experience with social care shows Burnham what to avoid",
+              "summary": "Analysis suggests Scotland's troubled attempts at creating a National Care Service provide a cautionary tale for PM Burnham as he pursues social care reform in England.",
+              "source": "Herald Scotland",
+              "url": "https://www.heraldscotland.com/news/26420691.scotland-shows-andy-burnham-not-social-care/",
+              "publishedAt": "2026-07-30"
+            }
+          ]
+        },
+        {
+          "id": "cabinet-office",
+          "name": "Cabinet Office",
+          "description": "Government reshuffles, senior appointments, cross-department policy",
+          "stories": [
+            {
+              "title": "Ed Miliband takes Brexit reset role in Foreign Office restructure",
+              "summary": "Ed Miliband has been appointed to lead the UK's Brexit reset negotiations under Burnham's government, with Hamish Falconer named as both Europe minister and minister for inter-governmental relations.",
+              "source": "Politico",
+              "url": "https://www.politico.eu/article/ed-miliband-uk-brexit-reset-foreign-office/",
+              "publishedAt": "2026-07-30"
+            },
+            {
+              "title": "Civil Service Statistics 2026 published",
+              "summary": "The Cabinet Office has published its annual Civil Service Statistics for 2026, covering workforce policy development across the Civil Service.",
+              "source": "GOV.UK",
+              "url": "https://www.gov.uk/government/statistics/civil-service-statistics-2026/quality-and-methodology-information-for-civil-service-statistics-2026",
+              "publishedAt": "2026-07-30"
+            }
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "Elections & By-elections",
+          "description": "Upcoming or recent election results, polls",
+          "stories": [
+            {
+              "title": "Greater Manchester Mayoral election — Burnham's successor to be decided today",
+              "summary": "Voters across Greater Manchester are today choosing a new mayor to replace Andy Burnham, who vacated the role upon becoming Prime Minister. Labour's Bev Craig is the frontrunner against a field including Reform and Green candidates.",
+              "source": "Politico",
+              "url": "https://www.politico.eu/article/greater-manchester-mayor-election-2026-andy-burnham-successor/",
+              "publishedAt": "2026-07-30"
+            },
+            {
+              "title": "Clacton by-election: Farage's seat up for grabs amid scandal",
+              "summary": "A by-election looms in Clacton — Nigel Farage's own constituency — triggered by the Guardian's investigation into Reform UK's finances. With 34 candidates including Laurence Fox and Count Binface, the race is drawing national attention.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/jul/29/nigel-farage-come-clean-or-clear-off-voters-clacton",
+              "publishedAt": "2026-07-29"
+            },
+            {
+              "title": "Labour moves ahead of Reform UK in polls for the first time in 18 months",
+              "summary": "New polling shows Labour has edged ahead of Reform UK following Burnham's honeymoon period as PM and his social care reform agenda.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/live/2026/jul/27/andy-burnham-social-care-politics-live-latest-news-defence-nhs-reform-uk-tories-updates",
+              "publishedAt": "2026-07-27"
+            }
+          ]
+        },
+        {
+          "id": "house-of-lords",
+          "name": "House of Lords",
+          "description": "Lords debates, reform, appointments",
+          "stories": []
+        }
+      ]
+    },
     {
       "date": "2026-07-29",
       "lastUpdated": "2026-07-29T16:05:57+10:00",
