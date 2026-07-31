@@ -1,6 +1,277 @@
 {
-  "lastUpdated": "2026-07-30T16:00:00+10:00",
+  "lastUpdated": "2026-07-31T16:10:00+10:00",
   "editions": [
+    {
+      "date": "2026-07-31",
+      "lastUpdated": "2026-07-31T16:10:00+10:00",
+      "topics": [
+        {
+          "id": "pm-no10",
+          "name": "PM & No. 10",
+          "description": "Prime Minister & Downing Street",
+          "stories": [
+            {
+              "title": "Andy Burnham to give regional mayors share of income tax",
+              "summary": "PM Andy Burnham is preparing a 'No 10 North' plan to devolve fiscal powers, including a share of income tax and business rates, to regional mayors, as part of a rebalancing of power away from Whitehall.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o",
+              "publishedAt": "2026-07-31"
+            },
+            {
+              "title": "Burnham to free mayors from ‘Treasury death grip’ with new devolved powers",
+              "summary": "The PM is pushing ahead with plans to hand mayors greater fiscal autonomy, part of his wider devolution agenda since taking office.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/jul/30/burnham-mayors-income-tax-business-rates-devolution",
+              "publishedAt": "2026-07-31"
+            },
+            {
+              "title": "Burnham the crowd-pleaser knows how to make friends, but he’ll be defined by how he makes enemies",
+              "summary": "Comment piece assessing Burnham’s early style as PM and the challenges of turning popularity into durable political change.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/commentisfree/2026/jul/30/andy-burnham-prime-minister-politics-change",
+              "publishedAt": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "id": "burnham-intel",
+          "name": "Burnham Gov Intelligence",
+          "description": "Procurement, tech/AI, spending, vendor & priority signals",
+          "stories": [
+            {
+              "title": "🤖 New AI Taskforce names Patrick Vallance as chair",
+              "summary": "The UK government has named Sir Patrick Vallance to chair a new AI Taskforce, signalling continued central focus on AI policy and adoption under the new administration.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/07/31/education-and-skills/new-ai-taskforce-names-patrick-vallance-as-chair/",
+              "publishedAt": "2026-07-31"
+            },
+            {
+              "title": "🏢 London buys vote counting tools and plans tourist tax IT system in £17.5m tech deals",
+              "summary": "City Hall has signed £17.5m worth of technology contracts covering vote-counting tools and a new tourist tax IT system, among the latest public sector tech procurement activity.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/07/30/communities-housing-and-planning/london-buys-vote-counting-tools-and-plans-tourist-tax-it-system-in-17-5m-tech-deals/",
+              "publishedAt": "2026-07-31"
+            },
+            {
+              "title": "🤖 Companies House deploys AI to help handle 300 chats a day",
+              "summary": "Companies House has rolled out AI tools to manage around 300 daily chat interactions and large volumes of email correspondence, part of wider public sector AI adoption.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/07/29/business-and-industry/companies-house-deploys-ai-to-help-handle-300-chats-a-day-and-thousands-of-email-responses/",
+              "publishedAt": "2026-07-31"
+            },
+            {
+              "title": "🤝 Google dropped from DfE’s AI tutoring pilot, replaced by PA Consulting",
+              "summary": "The Department for Education has removed Google from its AI tutoring pilot programme, replacing it with UK consultancy PA Consulting — a notable vendor/consulting signal.",
+              "source": "TechMarketView (UKHotViews)",
+              "url": "https://www.techmarketview.com/ukhotviews/archive/2026/07/29/google-dropped-from-dfes-ai-tutoring-pilot-replaced-by-pa-consulting",
+              "publishedAt": "2026-07-31"
+            },
+            {
+              "title": "🏢 MoD awards BAE AI, software and augmented reality deal",
+              "summary": "The Ministry of Defence has awarded BAE Systems a £708 million deal covering AI, software and augmented reality to accelerate next-generation air combat technology development.",
+              "source": "UKAuthority",
+              "url": "https://www.ukauthority.com/articles/mod-awards-bae-ai-software-and-augmented-reality-deal",
+              "publishedAt": "2026-07-31"
+            },
+            {
+              "title": "💰 Post Office: Signing of Horizon replacement deal set back a further three weeks",
+              "summary": "The long-running Horizon IT replacement programme at the Post Office faces further delay, with the contract signing pushed back another three weeks — a public sector spending/delivery signal.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/07/29/business-and-industry/post-office-signing-of-horizon-replacement-deal-set-back-a-further-three-weeks/",
+              "publishedAt": "2026-07-31"
+            },
+            {
+              "title": "🤖 Judge’s AI hallucination warning on Home Office evidence",
+              "summary": "A tribunal judge warned that AI may have ‘hallucinated’ evidence used to refuse an asylum claim after a document central to the case was found not to exist — raising fresh questions about AI use in government decision-making.",
+              "source": "UKAuthority",
+              "url": "https://www.ukauthority.com/articles/judges-ai-hallucination-warning-on-home-office-evidence",
+              "publishedAt": "2026-07-31"
+            },
+            {
+              "title": "📄 Research Report — Building No. 10 North (re-state.co.uk)",
+              "summary": "Re:State think tank paper (Dr Simon Kaye, July 2026) sets out a blueprint for Burnham’s ‘No 10 North’: (1) it must avoid being mere symbolism, too small, or business-as-usual — physical relocation alone won’t create institutional change; (2) proposes four core units — Devolution, Subnational Investment & Growth, System Democratisation, and Local Public Services Innovation — plus a Transformation Directorate; (3) draws a comparison to the Darlington Economic Campus, arguing critical mass and recruiting diverse talent are key to success; (4) warns No 10 North must not become another Whitehall silo coordinating sign-off, but should genuinely shift power to Strategic Authorities/mayors; (5) frames the mission explicitly around devolving power, resources and decisions to subnational government — directly relevant to Burnham’s reindustrialisation and devolution agenda.",
+              "source": "re-state.co.uk (PDF)",
+              "url": "https://re-state.co.uk/wp-content/uploads/2026/07/Building-No-10-North.pdf",
+              "publishedAt": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "id": "parliament",
+          "name": "Parliament",
+          "description": "",
+          "stories": [
+            {
+              "title": "House of Commons — Hansard record, 29–30 July sittings",
+              "summary": "Commons proceedings continued this week with debates recorded in Hansard; BBC Parliament carried live coverage of Thursday’s sittings.",
+              "source": "UK Parliament / BBC",
+              "url": "https://hansard.parliament.uk/commons",
+              "publishedAt": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "id": "labour",
+          "name": "Labour Party",
+          "description": "",
+          "stories": [
+            {
+              "title": "Diane Abbott and Joani Reid readmitted as Labour MPs",
+              "summary": "Diane Abbott and Joani Reid have been readmitted to the Labour Party following earlier suspensions, in a move seen as part of efforts to unify the party under new PM Andy Burnham.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/jul/30/diane-abbott-and-joani-reid-readmitted-as-labour-mps",
+              "publishedAt": "2026-07-31"
+            },
+            {
+              "title": "MP Diane Abbott readmitted into Labour Party after suspension",
+              "summary": "Abbott said the party leadership \"obviously\" wants her out despite her reinstatement, highlighting ongoing internal tensions.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cy5dwd1p374o",
+              "publishedAt": "2026-07-31"
+            },
+            {
+              "title": "Labour asks Electoral Commission to investigate Reform UK over donations",
+              "summary": "Labour has formally asked the Electoral Commission to investigate donations to Reform UK linked to George Cottrell, an ally and adviser to Nigel Farage.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/jul/30/electoral-commission-reform-uk-donations-george-cottrell",
+              "publishedAt": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "id": "conservatives",
+          "name": "Conservative Party",
+          "description": "",
+          "stories": [
+            {
+              "title": "Jenrick urges Burnham to rule out tax rises to fund social care",
+              "summary": "Tory frontbencher Robert Jenrick has called on PM Burnham to rule out tax increases to fund social care reform, after Kemi Badenoch wrote to Burnham on the issue.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cx2mj4768k5o",
+              "publishedAt": "2026-07-31"
+            },
+            {
+              "title": "Burnham says he told Trump UK will be pragmatic about North Sea oil",
+              "summary": "Burnham said he told Donald Trump the UK would take a pragmatic approach on North Sea oil, a reversal Conservative leader Kemi Badenoch had previously called for and once branded \"absurd\" to expect from Labour.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/c70gr75xzg5o",
+              "publishedAt": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "id": "lib-dems",
+          "name": "Liberal Democrats",
+          "description": "",
+          "stories": [
+            {
+              "title": "Lib Dem leader Ed Davey says he’ll boycott Trump’s state visit",
+              "summary": "Ed Davey has said he will boycott Donald Trump’s upcoming state visit, a stance that could put pressure on other party leaders to follow suit.",
+              "source": "BBC (Newsnight)",
+              "url": "https://www.bbc.co.uk/iplayer/episode/m002zkd4/newsnight-abbott-back-in-the-labour-party?seriesId=unsliced&page=7",
+              "publishedAt": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "id": "reform-uk",
+          "name": "Reform UK",
+          "description": "",
+          "stories": [
+            {
+              "title": "Labour asks Electoral Commission to investigate Reform UK over donations",
+              "summary": "Donations to Reform UK linked to George Cottrell — a close ally and adviser to Nigel Farage — are under scrutiny, with the Met also investigating related payments.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/jul/30/electoral-commission-reform-uk-donations-george-cottrell",
+              "publishedAt": "2026-07-31"
+            },
+            {
+              "title": "Even GB News cringes as Reform turns dementia patients into a political football",
+              "summary": "Reform UK faced criticism, including from sympathetic outlets, over its handling of a social care/dementia-related political attack line.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/jul/30/gb-news-robert-jenrick-reform-uk-social-care",
+              "publishedAt": "2026-07-31"
+            },
+            {
+              "title": "‘Farage’s got to come clean or clear off’: what voters in Clacton think",
+              "summary": "Voters in Farage’s Clacton constituency weigh in on the ongoing donations controversy and his self-imposed by-election, ahead of the vote.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/jul/29/nigel-farage-come-clean-or-clear-off-voters-clacton",
+              "publishedAt": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "id": "snp",
+          "name": "SNP",
+          "description": "",
+          "stories": [
+            {
+              "title": "SNP kept tax advisory group alive to avoid bad headlines",
+              "summary": "Members of the Scottish Government’s Tax Advisory Group privately told officials the body had no real bearing on tax decisions, raising questions about its purpose.",
+              "source": "The Herald (Scotland)",
+              "url": "https://www.heraldscotland.com/news/26424965.snp-kept-tax-advisory-group-alive-avoid-bad-headlines/",
+              "publishedAt": "2026-07-31"
+            },
+            {
+              "title": "Sturgeon’s book tour resumes — the SNP won’t be happy",
+              "summary": "Nicola Sturgeon’s paperback book tour is resuming, again drawing attention to the SNP and the ongoing Operation Branchform case.",
+              "source": "The Herald (Scotland)",
+              "url": "https://www.heraldscotland.com/news/26423516.snp-wont-happy-sturgeons-book-tour-resumes/",
+              "publishedAt": "2026-07-31"
+            },
+            {
+              "title": "Senior councillor cautions against ‘anti-SNP’ Princes Street framing",
+              "summary": "An SNP group leader called for all parties to show \"actual leadership\" over ongoing Edinburgh tram disruption rather than politicising it.",
+              "source": "The Herald (Scotland)",
+              "url": "https://www.heraldscotland.com/news/26423745.senior-councillor-cautions-anti-snp-princes-street-fire-fury/",
+              "publishedAt": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "id": "cabinet-office",
+          "name": "Cabinet Office",
+          "description": "",
+          "stories": [
+            {
+              "title": "Department for Business and Trade renamed Department for Business, Innovation, Science and Trade",
+              "summary": "DBT was formally renamed to the Department for Business, Innovation, Science and Trade (BIST) as of 20 July 2026, reflecting a machinery-of-government change under the new administration.",
+              "source": "Civil Service Jobs / GOV.UK",
+              "url": "https://www.civilservicejobs.service.gov.uk/csr/index.cgi",
+              "publishedAt": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "Elections & By-elections",
+          "description": "",
+          "stories": [
+            {
+              "title": "Polls open in Greater Manchester mayoral by-election",
+              "summary": "Voters went to the polls today in the Greater Manchester mayoral by-election, triggered by Andy Burnham’s move to No. 10; Labour’s Bev Craig was tipped for a comfortable win over Reform, with results due Friday.",
+              "source": "The Guardian / BBC",
+              "url": "https://www.theguardian.com/politics/2026/jul/30/greater-manchester-mayoral-byelection-overshadowed-labour-andy-burnham-bev-craig",
+              "publishedAt": "2026-07-31"
+            },
+            {
+              "title": "Polling gives Bev Craig a 20-point lead over Reform in Greater Manchester",
+              "summary": "A More in Common poll ahead of the vote gave Labour’s Bev Craig, leader of Manchester City Council, a 20-percentage-point lead over Reform UK’s Sian Astley.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/jul/30/greater-manchester-mayoral-byelection-overshadowed-labour-andy-burnham-bev-craig",
+              "publishedAt": "2026-07-31"
+            }
+          ]
+        },
+        {
+          "id": "house-of-lords",
+          "name": "House of Lords",
+          "description": "",
+          "stories": []
+        }
+      ]
+    },
     {
       "date": "2026-07-30",
       "lastUpdated": "2026-07-30T16:00:00+10:00",
