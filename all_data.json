@@ -1,6 +1,231 @@
 {
-  "lastUpdated": "2026-08-03T16:15:00+10:00",
+  "lastUpdated": "2026-08-04T16:00:00+10:00",
   "editions": [
+    {
+      "date": "2026-08-04",
+      "lastUpdated": "2026-08-04T16:00:00+10:00",
+      "topics": [
+        {
+          "id": "pm-no10",
+          "name": "PM & No. 10",
+          "description": "Prime Minister & Downing Street",
+          "stories": [
+            {
+              "title": "Andy Burnham's 6 most shameless Manchester plugs",
+              "summary": "POLITICO rounds up the PM's repeated references to Manchester, including his vow to work regularly from \"No. 10 North.\"",
+              "source": "POLITICO",
+              "url": "https://www.politico.eu/article/andy-burnhams-uk-politics-manchester-plugs/",
+              "publishedAt": "2026-08-03"
+            },
+            {
+              "title": "Does Andy Burnham really hate London?",
+              "summary": "Comment piece questioning the PM's relationship with the capital amid his Manchester-first messaging.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/commentisfree/2026/aug/03/does-andy-burnham-really-hate-london-he-wouldnt-be-the-only-one",
+              "publishedAt": "2026-08-03"
+            },
+            {
+              "title": "Burnham unveils new 14-24 education and bursary plans",
+              "summary": "New technical education routes for 14-year-olds and bursaries worth up to \u00a34,500 a year for households, as Farage seeks to make immigration \"the battle of the summer.\"",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/live/2026/aug/03/reform-immigration-small-boats-nigel-farage-restore-clacton-latest-news-updates",
+              "publishedAt": "2026-08-03"
+            }
+          ]
+        },
+        {
+          "id": "burnham-intel",
+          "name": "Burnham Gov Intelligence",
+          "description": "Procurement, tech/AI, spending, vendor & priority signals",
+          "stories": [
+            {
+              "title": "\ud83e\udd16 DSIT dissolved, digital state redrawn",
+              "summary": "Following DSIT's dissolution on 21 July: AI strategy/adoption now sits with the Cabinet Office and a new AI Taskforce inside OPMC; science/innovation moves to DBIST; GDS and i.AI move to a strengthened DCMS.",
+              "source": "TechMarketView",
+              "url": "https://www.techmarketview.com/ukhotviews-extra/archive/2026/07/21/burnham-redraws-the-digital-state",
+              "publishedAt": "2026-07-21"
+            },
+            {
+              "title": "\ud83e\udd16 New AI Taskforce names Patrick Vallance as chair",
+              "summary": "The taskforce created out of the DSIT split has named the government's former chief scientific adviser as its chair.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/07/31/education-and-skills/new-ai-taskforce-names-patrick-vallance-as-chair/",
+              "publishedAt": "2026-07-31"
+            },
+            {
+              "title": "\ud83e\udd1d Google dropped from DfE's AI tutoring pilot, replaced by PA Consulting",
+              "summary": "A consulting-firm win over a US tech vendor on a flagship education AI pilot.",
+              "source": "TechMarketView",
+              "url": "https://www.techmarketview.com/ukhotviews/archive/2026/07/29/google-dropped-from-dfes-ai-tutoring-pilot-replaced-by-pa-consulting",
+              "publishedAt": "2026-07-29"
+            },
+            {
+              "title": "\ud83e\udd16 Time for Andy Burnham to smile on UK science",
+              "summary": "FT View urges the PM to engage more visibly with the UK science and AI/semiconductor agenda.",
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/1419a5f5-1bd7-4b89-b667-45c2789769ef",
+              "publishedAt": "2026-08-03"
+            },
+            {
+              "title": "\ud83e\udd16 East Kent Hospitals declare critical incident over ongoing IT issues",
+              "summary": "NHS trust declares a critical incident amid persistent IT problems.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/07/31/health-and-social-care/east-kent-hospitals-declare-critical-incident-over-ongoing-it-issues/",
+              "publishedAt": "2026-07-31"
+            },
+            {
+              "title": "\ud83e\udd16 DfE and police organisation hit by cyberattack",
+              "summary": "A cyberattack has hit the Department for Education and a police organisation.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/07/30/news/dfe-and-police-organisation-hit-by-cyberattack/",
+              "publishedAt": "2026-07-30"
+            },
+            {
+              "title": "\ud83e\udd16 New zero click threat identified by NCSC",
+              "summary": "The National Cyber Security Centre identifies a new zero-click cyber threat, attributed to Russia.",
+              "source": "UKAuthority",
+              "url": "https://www.ukauthority.com/articles/new-zero-click-threat-identified-by-ncsc",
+              "publishedAt": "2026-08-03"
+            },
+            {
+              "title": "\ud83d\udcb0 Youth unemployment crisis frames fiscal pressure on Burnham government",
+              "summary": "Roughly 1 million 16-24 year-olds (about one in eight) are not in jobs, training or education, adding a growing spending/value-for-money pressure point.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/business/live/2026/aug/03/uk-economy-recession-strait-hormuz-closed-oil-latest-news-updates",
+              "publishedAt": "2026-08-03"
+            },
+            {
+              "title": "\ud83d\udcc4 Research Report \u2014 Building No. 10 North (re-state.co.uk)",
+              "summary": "No 10 North's mission is to strengthen the executive core of Government while devolving power to subnational government. Proposed structure: four core units (Devolution, Subnational Investment & Growth, System Democratisation, Local Public Services Innovation) plus a Transformation Directorate. Flagship recommendation: let mayoral strategic authorities retain 2.5p of locally raised income tax instead of the integrated settlement. Warns against symbolism-only, too-small (vs. Darlington Economic Campus benchmark), business-as-usual, or substitute-for-Whitehall-reform outcomes. Sets a 'first nine weeks' implementation roadmap.",
+              "source": "Re:State",
+              "url": "https://re-state.co.uk/wp-content/uploads/2026/07/Building-No-10-North.pdf",
+              "publishedAt": "2026-07-01"
+            }
+          ]
+        },
+        {
+          "id": "parliament",
+          "name": "Parliament",
+          "description": "House of Commons, House of Lords, PMQs, debates, legislation",
+          "stories": []
+        },
+        {
+          "id": "labour",
+          "name": "Labour Party",
+          "description": "Party news, policy, internal politics",
+          "stories": []
+        },
+        {
+          "id": "conservatives",
+          "name": "Conservative Party",
+          "description": "Party news, leadership, opposition",
+          "stories": [
+            {
+              "title": "Former neo-Nazi activist selected as Tory candidate for Somerset council election",
+              "summary": "Renews criticism of the party's candidate vetting and reignites scrutiny of chief whip Rebecca Harris; Reform UK accused Kemi Badenoch of hypocrisy on antisemitism.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/03/former-neo-nazi-activist-selected-as-tory-candidate-for-somerset-council-election",
+              "publishedAt": "2026-08-03"
+            }
+          ]
+        },
+        {
+          "id": "lib-dems",
+          "name": "Liberal Democrats",
+          "description": "Party news, policy positions",
+          "stories": []
+        },
+        {
+          "id": "reform-uk",
+          "name": "Reform UK",
+          "description": "Nigel Farage, party news and announcements",
+          "stories": [
+            {
+              "title": "Farage admission over timing of Reform leadership talks raises fresh doubts over \u00a35m gift",
+              "summary": "Reports Farage negotiated a return-to-leadership deal in March/April 2024 involving Reform repaying/writing off \u00a31m+ in loans to Richard Tice's company.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/03/nigel-farage-admits-discussed-returning-reform-leader-months-earlier",
+              "publishedAt": "2026-08-03"
+            },
+            {
+              "title": "Standards watchdog investigating Reform UK's Richard Tice",
+              "summary": "A parliamentary standards watchdog has opened an investigation into Reform UK's Richard Tice.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/uk-news/2026/aug/03/standards-watchdog-investigating-reform-richard-tice",
+              "publishedAt": "2026-08-03"
+            },
+            {
+              "title": "Rupert Lowe's 'olive branch' to Farage piles more pressure on Reform leader",
+              "summary": "Restore Britain leader Lowe suggests a pact; Farage says he'll negotiate 'if he genuinely wants talks,' while Restore accuses Farage of 'outright lying' about the offer.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/03/rupert-lowe-restore-britain-olive-branch-reform-uk",
+              "publishedAt": "2026-08-03"
+            }
+          ]
+        },
+        {
+          "id": "snp",
+          "name": "SNP",
+          "description": "Scottish National Party, Scottish politics",
+          "stories": [
+            {
+              "title": "Nicola Sturgeon attack on John Swinney leaves SNP 'exposed'",
+              "summary": "Sturgeon argues Swinney's direction has bled support to the Scottish Greens.",
+              "source": "HeraldScotland",
+              "url": "https://www.heraldscotland.com/news/26432227.nicola-sturgeon-attack-john-swinney-leaves-snp-exposed/",
+              "publishedAt": "2026-08-03"
+            },
+            {
+              "title": "Written constitution must include method to leave union, says SNP",
+              "summary": "The party says any future codified UK constitution must set out a mechanism for Scottish secession.",
+              "source": "HeraldScotland",
+              "url": "https://www.heraldscotland.com/news/national/26432124.written-constitution-must-include-method-leave-union-says-snp/",
+              "publishedAt": "2026-08-03"
+            },
+            {
+              "title": "Can Andy Burnham and John Swinney share power without going to war?",
+              "summary": "Analysis on how enhanced devolution to Holyrood will be negotiated between the new PM and Scotland's First Minister.",
+              "source": "HeraldScotland",
+              "url": "https://www.heraldscotland.com/politics/viewpoint/26427183.can-burnham-swinney-really-share-power-without-going-war/",
+              "publishedAt": "2026-08-01"
+            }
+          ]
+        },
+        {
+          "id": "cabinet-office",
+          "name": "Cabinet Office",
+          "description": "Government reshuffles, senior appointments, cross-department policy",
+          "stories": []
+        },
+        {
+          "id": "elections",
+          "name": "Elections & By-elections",
+          "description": "Upcoming or recent election results, polls",
+          "stories": [
+            {
+              "title": "Clacton by-election: independent candidates take on Nigel Farage and Count Binface",
+              "summary": "Profile of independents arguing \"Clacton voters need a serious person.\"",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/03/clacton-byelection-independent-candidates-nigel-farage-count-binface",
+              "publishedAt": "2026-08-03"
+            },
+            {
+              "title": "Reform UK finished third in the Makerfield by-election",
+              "summary": "Its strongest Westminster electoral performance to date, per analysis of Rupert Lowe's pact overture.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/03/rupert-lowe-restore-britain-olive-branch-reform-uk",
+              "publishedAt": "2026-08-03"
+            }
+          ]
+        },
+        {
+          "id": "house-of-lords",
+          "name": "House of Lords",
+          "description": "Lords debates, reform, appointments",
+          "stories": []
+        }
+      ]
+    },
     {
       "date": "2026-08-03",
       "lastUpdated": "2026-08-03T16:15:00+10:00",
