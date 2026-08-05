@@ -1,6 +1,313 @@
 {
-  "lastUpdated": "2026-08-04T16:00:00+10:00",
+  "lastUpdated": "2026-08-05T16:20:00+10:00",
   "editions": [
+    {
+      "date": "2026-08-05",
+      "lastUpdated": "2026-08-05T16:20:00+10:00",
+      "topics": [
+        {
+          "id": "pm-no10",
+          "name": "PM & No. 10",
+          "description": "Prime Minister & Downing Street",
+          "stories": [
+            {
+              "title": "Government to operate as normal while Burnham on holiday",
+              "summary": "Andy Burnham's government will continue to function normally while the new prime minister is away on holiday, Downing Street has said.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/czjlp0vrpk9o",
+              "publishedAt": "2026-08-04"
+            },
+            {
+              "title": "Prisoner early release scheme gives Burnham his first taste of unpopularity",
+              "summary": "The early prisoner release scheme, which excludes those convicted of rape, serious child sexual offences and grooming, has proven politically difficult for the new PM.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/04/prisoner-early-release-scheme-burnham-first-taste-unpopularity",
+              "publishedAt": "2026-08-04"
+            },
+            {
+              "title": "Burnham's difficult choices begin",
+              "summary": "POLITICO's London Playbook examines the tough decisions facing PM Andy Burnham as his premiership gets underway, including questions for opposition leader Kemi Badenoch.",
+              "source": "POLITICO",
+              "url": "https://www.politico.eu/newsletter/london-playbook/burnhams-difficult-choices-begin/",
+              "publishedAt": "2026-08-04"
+            }
+          ]
+        },
+        {
+          "id": "burnham-intel",
+          "name": "Burnham Gov Intelligence",
+          "description": "Procurement, tech/AI, spending, vendor & priority signals",
+          "stories": [
+            {
+              "title": "\ud83c\udfd7\ufe0f Procurement signal \u2014 Government contracts to require job creation instead of green targets under new rules",
+              "summary": "New procurement rules will require the ~\u00a390bn of annual government contracts to prioritise job creation; contracts under \u00a31m will be exempt.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/society/2026/aug/04/government-contracts-to-require-job-creation-instead-of-green-targets-under-new-rules",
+              "publishedAt": "2026-08-04"
+            },
+            {
+              "title": "\ud83e\udd16 Tech / AI / Digital \u2014 NHS admits Palantir engineers have access to identifiable patient data",
+              "summary": "NHS apologises after admitting that Palantir engineers have access to identifiable patient data, raising fresh scrutiny of the vendor's UK public sector role.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/08/03/health-and-social-care/nhs-apologises-and-admits-palantir-engineers-have-access-to-identifiable-patient-data/",
+              "publishedAt": "2026-08-03"
+            },
+            {
+              "title": "\ud83e\udd16 Tech / AI / Digital \u2014 Government agrees lessons-learned exercise for major digital schemes",
+              "summary": "Government has agreed to a lessons-learned review process for major digital transformation schemes following past failures.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/08/03/government-and-politics/government-agrees-lessons-learned-exercise-for-major-digital-schemes/",
+              "publishedAt": "2026-08-03"
+            },
+            {
+              "title": "\ud83e\udd16 Tech / AI / Digital \u2014 New AI Taskforce names Patrick Vallance as chair",
+              "summary": "A new government AI Taskforce has named Sir Patrick Vallance as chair, signalling continued momentum on AI policy under the Burnham government.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/07/31/education-and-skills/new-ai-taskforce-names-patrick-vallance-as-chair/",
+              "publishedAt": "2026-07-31"
+            },
+            {
+              "title": "\ud83c\udfe2 Vendor signal \u2014 Europe looks to kick its Palantir habit",
+              "summary": "POLITICO reports the Burnham government may face a choice in Feb 2027 on whether to cut off Palantir's \u00a3330m NHS contract amid growing European scrutiny of the vendor.",
+              "source": "POLITICO",
+              "url": "https://www.politico.eu/newsletter/forecast/europe-looks-to-kick-its-palantir-habit/",
+              "publishedAt": "2026-08-04"
+            },
+            {
+              "title": "\ud83e\udd16 Tech / AI / Digital \u2014 Cognizant joins Cosine Lumen Sovereign AI coalition",
+              "summary": "Cognizant has joined the Cosine Lumen Sovereign AI coalition, a UK-focused sovereign AI initiative relevant to public sector technology strategy.",
+              "source": "TechMarketView",
+              "url": "https://www.techmarketview.com/ukhotviews/archive/2026/08/04/cognizant-joins-cosine-lumen-sovereign-ai-coalition",
+              "publishedAt": "2026-08-04"
+            },
+            {
+              "title": "\ud83c\udfe2 Vendor signal \u2014 Palantir delivers \"otherworldly\" quarter",
+              "summary": "Palantir reported an exceptionally strong quarter, underscoring the vendor's growing footprint across UK and global public sector contracts.",
+              "source": "TechMarketView",
+              "url": "https://www.techmarketview.com/ukhotviews/archive/2026/08/04/palantir-delivers-otherworldly-quarter",
+              "publishedAt": "2026-08-04"
+            },
+            {
+              "title": "\ud83e\udd1d Private sector / Consulting \u2014 UK's ability to make medicines and missiles hit by decline of skilled trades",
+              "summary": "FT reports on how the decline of skilled trades in the UK is affecting critical manufacturing capacity, with implications for government industrial strategy and private-sector partnerships.",
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/8cd8ba50-cd90-4ce6-ba06-e0ce98b10511",
+              "publishedAt": "2026-08-04"
+            },
+            {
+              "title": "\ud83d\udcc4 Research Report \u2014 Building No. 10 North (re-state.co.uk)",
+              "summary": "Key insights: (1) No 10 North must avoid being symbolic-only, too small, or 'business as usual' \u2014 it must expand real operational capacity, not just relocate staff; (2) it should be structured around four core units plus a Prime Minister's Transformation Directorate to drive mission delivery; (3) it needs new intergovernmental machinery to genuinely coordinate with Strategic Authorities and devolved administrations, learning from the Darlington Economic Campus's critical-mass approach; (4) success should ultimately mean Whitehall's centralised functions shrink as devolution matures; (5) the report stresses the 'first nine weeks' of operationalising No 10 North are critical to avoid the project failing without ever looking like a failure \u2014 a signal for how procurement, digital, and consulting engagements tied to the initiative may be structured early.",
+              "source": "Re:State (re-state.co.uk)",
+              "url": "https://re-state.co.uk/wp-content/uploads/2026/07/Building-No-10-North.pdf",
+              "publishedAt": "2026-07-01"
+            }
+          ]
+        },
+        {
+          "id": "parliament",
+          "name": "Parliament",
+          "description": "House of Commons, House of Lords, PMQs, debates, legislation",
+          "stories": [
+            {
+              "title": "Commons Hansard \u2014 3 August 2026 sitting",
+              "summary": "Hansard record of Commons proceedings covering recent debates and questions.",
+              "source": "UK Parliament (Hansard)",
+              "url": "https://hansard.parliament.uk/commons",
+              "publishedAt": "2026-08-03"
+            },
+            {
+              "title": "No major additional Parliament news in the last 24 hours",
+              "summary": "Searches returned only Hansard/procedural listings beyond the stories captured under other topics.",
+              "source": "N/A",
+              "url": "",
+              "publishedAt": "2026-08-05"
+            }
+          ]
+        },
+        {
+          "id": "labour",
+          "name": "Labour Party",
+          "description": "Party news, policy, internal politics",
+          "stories": [
+            {
+              "title": "Wait goes on for result in Greater Manchester mayoral by-election",
+              "summary": "The Guardian's live coverage of the ongoing Greater Manchester mayoral by-election count, a significant test for Labour under Burnham.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/labour/2026/aug/05/all",
+              "publishedAt": "2026-08-05"
+            },
+            {
+              "title": "Labour members 'have tougher view on welfare than you might think', poll suggests",
+              "summary": "A new poll suggests Labour party members hold tougher views on welfare, health and the economy than commonly assumed.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/04/labour-members-view-welfare-health-economy-poll-survey",
+              "publishedAt": "2026-08-04"
+            },
+            {
+              "title": "Prisoner early release scheme gives Burnham his first taste of unpopularity",
+              "summary": "The scheme's rollout has proven politically costly for the new Labour government.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/04/prisoner-early-release-scheme-burnham-first-taste-unpopularity",
+              "publishedAt": "2026-08-04"
+            }
+          ]
+        },
+        {
+          "id": "conservatives",
+          "name": "Conservative Party",
+          "description": "Party news, leadership, opposition",
+          "stories": [
+            {
+              "title": "Kemi Badenoch defends selection of man jailed for harassing Jewish MP in council election",
+              "summary": "Conservative leader Kemi Badenoch faced awkward questions defending her party's selection of a candidate jailed for a campaign of antisemitic abuse against an MP.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/live/2026/aug/04/pc-harper-prisoner-early-release-andy-burnham-labour-conservatives-badenoch-latest-news-updates",
+              "publishedAt": "2026-08-04"
+            },
+            {
+              "title": "Ex-MP urges Tories to drop candidate jailed for antisemitic abuse campaign",
+              "summary": "A former MP has called on the Conservatives to withdraw support for the candidate at the centre of the controversy.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/04/ex-mp-urges-tories-to-drop-candidate-jailed-for-campaign-of-antisemitic-abuse-against-her",
+              "publishedAt": "2026-08-04"
+            },
+            {
+              "title": "Burnham's difficult choices begin \u2014 questions for Badenoch too",
+              "summary": "POLITICO's London Playbook notes Badenoch faces her own pressure over what she would do differently from Burnham, including on immigration.",
+              "source": "POLITICO",
+              "url": "https://www.politico.eu/newsletter/london-playbook/burnhams-difficult-choices-begin/",
+              "publishedAt": "2026-08-04"
+            }
+          ]
+        },
+        {
+          "id": "lib-dems",
+          "name": "Liberal Democrats",
+          "description": "Party news, policy positions",
+          "stories": [
+            {
+              "title": "Ed Davey suggests oil company profits as revenue source",
+              "summary": "Liberal Democrat leader Ed Davey has suggested Andy Burnham look at record oil company profits as a potential revenue source to ease cost pressures.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/live/2026/aug/04/pc-harper-prisoner-early-release-andy-burnham-labour-conservatives-badenoch-latest-news-updates",
+              "publishedAt": "2026-08-04"
+            }
+          ]
+        },
+        {
+          "id": "reform-uk",
+          "name": "Reform UK",
+          "description": "Nigel Farage, party news and announcements",
+          "stories": [
+            {
+              "title": "The Farage and Lowe drama that's consuming the British right",
+              "summary": "Reform UK and Restore Britain leaders Nigel Farage and Rupert Lowe have flirted with a rapprochement, though talks remain complicated.",
+              "source": "POLITICO",
+              "url": "https://www.politico.eu/article/nigel-farage-reform-uk-rupert-lowe-restore-britain-rift/",
+              "publishedAt": "2026-08-04"
+            },
+            {
+              "title": "Nigel Farage and the \u00a35m question that won't go away",
+              "summary": "A Guardian podcast episode examines lingering questions over Nigel Farage's finances.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/news/series/todayinfocus/2026/aug/04/all",
+              "publishedAt": "2026-08-04"
+            },
+            {
+              "title": "Reform UK in talks on possible electoral alliance with Restore Britain",
+              "summary": "The Telegraph reports Nigel Farage is in talks to strike an electoral alliance with Restore Britain, led by former Reform MP Rupert Lowe.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/live/2026/aug/04/pc-harper-prisoner-early-release-andy-burnham-labour-conservatives-badenoch-latest-news-updates?page=with%3Ablock-6a7190a58f08c722cfd31558",
+              "publishedAt": "2026-08-04"
+            }
+          ]
+        },
+        {
+          "id": "snp",
+          "name": "SNP",
+          "description": "Scottish National Party, Scottish politics",
+          "stories": [
+            {
+              "title": "Nicola Sturgeon comments on SNP campaign branded 'nonsense'",
+              "summary": "Scotland's education secretary has rejected Nicola Sturgeon's claims that the SNP's election campaign lacked vision or big-picture thinking.",
+              "source": "The Herald (Scotland)",
+              "url": "https://www.heraldscotland.com/news/26435298.nicola-sturgeon-comments-snp-campaign-branded-nonsense/",
+              "publishedAt": "2026-08-04"
+            },
+            {
+              "title": "Sturgeon's attacks on SNP's election campaign are 'wrong', says Constance",
+              "summary": "The Health Secretary has become the latest SNP minister to publicly rebuke former leader Nicola Sturgeon over her campaign criticism.",
+              "source": "The Herald (Scotland)",
+              "url": "https://www.heraldscotland.com/news/national/26437094.nicola-sturgeons-attacks-snps-election-campaign-wrong-constance/",
+              "publishedAt": "2026-08-04"
+            },
+            {
+              "title": "The Guardian view on Burnham and the devolved nations",
+              "summary": "An editorial examines Burnham's new English devolution plans and their unclear implications for Scotland, Wales and Northern Ireland.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/commentisfree/2026/aug/04/the-guardian-view-on-burnham-and-the-devolved-nations-a-test-for-the-new-politics-in-westminster",
+              "publishedAt": "2026-08-04"
+            }
+          ]
+        },
+        {
+          "id": "cabinet-office",
+          "name": "Cabinet Office",
+          "description": "Government reshuffles, senior appointments, cross-department policy",
+          "stories": [
+            {
+              "title": "Government Chief IT Operations Officer role advertised",
+              "summary": "Civil Service Jobs listing for a Government Chief IT Operations Officer (\u00a386,000\u2013\u00a3117,800), reflecting ongoing digital/tech leadership recruitment across Whitehall.",
+              "source": "Civil Service Jobs",
+              "url": "https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=2007988",
+              "publishedAt": "2026-08-04"
+            },
+            {
+              "title": "Land Registry names new chief exec to 'modernise' organisation",
+              "summary": "Land Registry has appointed a new chief executive with a mandate to modernise the organisation, signalling continued public sector leadership change.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/08/04/economics-and-finance/land-registry-names-new-chief-exec-to-modernise-organisation/",
+              "publishedAt": "2026-08-04"
+            }
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "Elections & By-elections",
+          "description": "Upcoming or recent election results, polls",
+          "stories": [
+            {
+              "title": "Wait goes on for result in Greater Manchester mayoral by-election",
+              "summary": "Vote counting continues in the Greater Manchester mayoral by-election, closely watched as an early test for Labour under PM Burnham.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/labour/2026/aug/05/all",
+              "publishedAt": "2026-08-05"
+            },
+            {
+              "title": "The Farage and Lowe drama \u2014 Restore Britain vs Reform vote share",
+              "summary": "Restore Britain took 6.8% against Reform's 34.5% in a recent contest, illustrating fragmentation on the British right.",
+              "source": "POLITICO",
+              "url": "https://www.politico.eu/article/nigel-farage-reform-uk-rupert-lowe-restore-britain-rift/",
+              "publishedAt": "2026-08-04"
+            }
+          ]
+        },
+        {
+          "id": "house-of-lords",
+          "name": "House of Lords",
+          "description": "Lords debates, reform, appointments",
+          "stories": [
+            {
+              "title": "Deputy mayor backs early prisoner release plans",
+              "summary": "A deputy mayor has voiced support for early prisoner release proposals, which exclude those convicted of rape, grooming, and serious child sex offences.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cewr4jgepkyo",
+              "publishedAt": "2026-08-04"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-08-04",
       "lastUpdated": "2026-08-04T16:00:00+10:00",
