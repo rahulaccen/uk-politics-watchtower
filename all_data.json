@@ -1,6 +1,275 @@
 {
-  "lastUpdated": "2026-08-05T16:20:00+10:00",
+  "lastUpdated": "2026-08-06T16:10:00+10:00",
   "editions": [
+    {
+      "date": "2026-08-06",
+      "lastUpdated": "2026-08-06T16:10:00+10:00",
+      "topics": [
+        {
+          "id": "pm-no10",
+          "name": "PM & No. 10",
+          "description": "Prime Minister & Downing Street",
+          "stories": [
+            {
+              "title": "Bank battle: history suggests Burnham faces fight if he opts for windfall tax",
+              "summary": "History suggests Burnham faces a fight if he pursues a windfall tax on bank profits to help fund cost-of-living support; campaign group Positive Money is urging him to break with predecessors.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/business/2026/aug/05/bank-windfall-tax-history-andy-burnham-cost-of-living",
+              "publishedAt": "2026-08-05"
+            },
+            {
+              "title": "Andy Burnham promises new mental health A&Es",
+              "summary": "Burnham promised new mental health A&Es as part of a \u00a3343m programme aimed at ending long waits in general emergency departments.",
+              "source": "The Times",
+              "url": "https://www.thetimes.co.uk/uk/healthcare/article/andy-burnham-promises-mental-health-a-and-es-fbjgrglfq",
+              "publishedAt": "2026-08-05"
+            },
+            {
+              "title": "Kemi Badenoch: I'll never form a coalition with 'woke' Reform",
+              "summary": "Badenoch questioned Burnham's decision to make a speech outside No.10, as part of wider criticism of his approach to leadership.",
+              "source": "The Times",
+              "url": "https://www.thetimes.co.uk/uk/politics/article/kemi-badenoch-tory-reform-robert-jenrick-suella-braverman-rsgdcspfb",
+              "publishedAt": "2026-08-05"
+            }
+          ]
+        },
+        {
+          "id": "burnham-intel",
+          "name": "Burnham Gov Intelligence",
+          "description": "Procurement, tech/AI, spending, vendor & priority signals",
+          "stories": [
+            {
+              "title": "Whitehall contract requirements to be streamlined",
+              "summary": "\ud83c\udfd7\ufe0f Procurement signal \u2014 Burnham's de facto deputy PM says requirements for businesses vying for Whitehall contracts will be streamlined.",
+              "source": "Financial Times",
+              "url": "https://www.ft.com/stream/3f74186b-57e2-4dc6-b70b-5380c1c784ea",
+              "publishedAt": "2026-08-05"
+            },
+            {
+              "title": "Government contracts to require job creation instead of green targets",
+              "summary": "\ud83d\udea6 Priority signal \u2014 New rules will require government contracts to prioritise job creation over green targets under new procurement rules.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/live/2026/aug/05/pc-andrew-harper-police-prisoner-early-release-andy-burnham-kemi-badenoch-labour-conservatives-uk-politics-latest-news-updates",
+              "publishedAt": "2026-08-05"
+            },
+            {
+              "title": "Burnham does not rule out tax rises for social care reform",
+              "summary": "\ud83d\udcb0 Spending / VfM signal \u2014 Burnham has not ruled out tax rises to fund social care reform, amid ongoing tax-and-spending debate.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/taxandspending",
+              "publishedAt": "2026-08-05"
+            },
+            {
+              "title": "NHS apologises and admits Palantir engineers have access to identifiable patient data",
+              "summary": "\ud83e\udd16 Tech / AI / Digital \u2014 NHS acknowledges Palantir engineers have access to identifiable patient data, raising vendor data-access questions.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/08/03/health-and-social-care/nhs-apologises-and-admits-palantir-engineers-have-access-to-identifiable-patient-data/",
+              "publishedAt": "2026-08-03"
+            },
+            {
+              "title": "Government agrees lessons-learned exercise for major digital schemes",
+              "summary": "\ud83e\udd16 Tech / AI / Digital \u2014 Government agrees a lessons-learned exercise for major digital schemes, following a string of troubled programmes.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/08/03/government-and-politics/government-agrees-lessons-learned-exercise-for-major-digital-schemes/",
+              "publishedAt": "2026-08-03"
+            },
+            {
+              "title": "DWP doubles digital spend to \u00a32bn in FY26",
+              "summary": "\ud83e\udd16 Tech / AI / Digital \u2014 DWP has doubled its digital spend to \u00a32bn in FY26, signalling continued investment in digital transformation.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/07/24/society-and-welfare/dwp-doubles-digital-spend-to-2bn-in-fy26/",
+              "publishedAt": "2026-07-24"
+            },
+            {
+              "title": "DCMS perm sec Storey confirmed as head of digital profession",
+              "summary": "\ud83e\udd16 Tech / AI / Digital \u2014 DCMS permanent secretary Susannah Storey confirmed as head of the government digital profession.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/08/04/education-and-skills/dcms-perm-sec-storey-confirmed-as-head-of-digital-profession/",
+              "publishedAt": "2026-08-04"
+            },
+            {
+              "title": "GDS trials new transformation team formation route",
+              "summary": "\ud83e\udd16 Tech / AI / Digital \u2014 GDS is trialling a new transformation team formation route, moving away from conventional recruitment practices.",
+              "source": "UKAuthority",
+              "url": "https://www.ukauthority.com/articles/gds-trials-new-transformation-team-formation-route",
+              "publishedAt": "2026-08-06"
+            },
+            {
+              "title": "BP urges Burnham to make use of UK oil and gas resources",
+              "summary": "\ud83c\udfe2 Vendor signal \u2014 BP's chief executive urged Burnham to make greater use of UK oil and gas resources, even as BP prepares to sell its North Sea business.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/live/2026/aug/05/pc-andrew-harper-police-prisoner-early-release-andy-burnham-kemi-badenoch-labour-conservatives-uk-politics-latest-news-updates",
+              "publishedAt": "2026-08-05"
+            },
+            {
+              "title": "Research Report \u2014 Building No. 10 North (re-state.co.uk)",
+              "summary": "\ud83d\udcc4 Re:State's 'Plan for Government' paper (Dr Simon Kaye, July 2026) sets out a structure for Burnham's 'No 10 North' hub, proposing four core units (Devolution, Subnational Investment & Growth, System Democratisation, Local Public Services Innovation) and warning against 'symbolism alone' or being 'too small' to achieve critical mass.",
+              "source": "re-state.co.uk",
+              "url": "https://re-state.co.uk/wp-content/uploads/2026/07/Building-No-10-North.pdf",
+              "publishedAt": "2026-07-01"
+            }
+          ]
+        },
+        {
+          "id": "parliament",
+          "name": "Parliament",
+          "description": "House of Commons, House of Lords, PMQs, debates, legislation",
+          "stories": []
+        },
+        {
+          "id": "labour",
+          "name": "Labour Party",
+          "description": "Party news, policy, internal politics",
+          "stories": [
+            {
+              "title": "Andy Burnham reveals wife's reaction to third Labour leadership bid",
+              "summary": "Burnham discussed his wife Marie-France van Heel's reaction to his third run at the Labour leadership, offering personal insight ahead of his premiership.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/05/andy-burnham-wife-marie-france-van-heel-reaction-third-labour-leadership-bid",
+              "publishedAt": "2026-08-05"
+            },
+            {
+              "title": "Burnham failing public over heat threats, says Green leader",
+              "summary": "Zack Polanski accused ministers of a 'dereliction of duty' in their response to this summer's heatwaves.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cvg9jnqd3pgo",
+              "publishedAt": "2026-08-05"
+            },
+            {
+              "title": "Trident renewal central to defence spending, says Andy Burnham",
+              "summary": "Burnham said Trident renewal remains central to defence spending as part of a 'reindustrialised Britain' push.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/jul/29/trident-renewal-central-defence-reindustrialised-britain-andy-burnham",
+              "publishedAt": "2026-07-29"
+            }
+          ]
+        },
+        {
+          "id": "conservatives",
+          "name": "Conservative Party",
+          "description": "Party news, leadership, opposition",
+          "stories": [
+            {
+              "title": "Kemi Badenoch gives former neo-Nazi advisory role",
+              "summary": "Kemi Badenoch has given a former neo-Nazi activist, Joshua Bonehill-Paine, an advisory role after he withdrew as a Conservative council candidate; Reform UK called the move 'alarming.'",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/05/former-neo-nazi-activist-withdraws-as-conservative-election-candidate-joshua-bonehill-paine",
+              "publishedAt": "2026-08-05"
+            },
+            {
+              "title": "Kemi Badenoch: I'll never form a coalition with 'woke' Reform",
+              "summary": "Badenoch said she would 'never' form a coalition with what she called Nigel Farage's 'woke' nationalist party, accusing Reform of a 'victim mentality.'",
+              "source": "The Times",
+              "url": "https://www.thetimes.co.uk/uk/politics/article/kemi-badenoch-tory-reform-robert-jenrick-suella-braverman-rsgdcspfb",
+              "publishedAt": "2026-08-05"
+            },
+            {
+              "title": "Right turn on green: is the Telegraph changing its tune on net zero?",
+              "summary": "Analysis of whether the Telegraph is softening its stance on climate policy under pressure from the Conservative Party's internal net-zero debate.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/media/2026/aug/05/telegraph-climate-tories-kemi-badenoch-net-zero",
+              "publishedAt": "2026-08-05"
+            }
+          ]
+        },
+        {
+          "id": "lib-dems",
+          "name": "Liberal Democrats",
+          "description": "Party news, policy positions",
+          "stories": []
+        },
+        {
+          "id": "reform-uk",
+          "name": "Reform UK",
+          "description": "Nigel Farage, party news and announcements",
+          "stories": [
+            {
+              "title": "The serial candidates standing against Farage in Clacton",
+              "summary": "A look at the field of perennial candidates standing against Nigel Farage in his Clacton seat.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cd69q4yg0ggo",
+              "publishedAt": "2026-08-05"
+            },
+            {
+              "title": "Restore leader accuses Farage of 'outright lying' over pact offer",
+              "summary": "A minor-party leader accused Farage of misrepresenting a proposed electoral pact, while saying his own party 'remains open' to a deal.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/live/2026/aug/05/pc-andrew-harper-police-prisoner-early-release-andy-burnham-kemi-badenoch-labour-conservatives-uk-politics-latest-news-updates",
+              "publishedAt": "2026-08-05"
+            },
+            {
+              "title": "Kemi Badenoch rejects future coalition with Reform",
+              "summary": "Badenoch said she would 'never' form a coalition with Farage's party, accusing Reform of a 'victim mentality.'",
+              "source": "The Times",
+              "url": "https://www.thetimes.co.uk/uk/politics/article/kemi-badenoch-tory-reform-robert-jenrick-suella-braverman-rsgdcspfb",
+              "publishedAt": "2026-08-05"
+            }
+          ]
+        },
+        {
+          "id": "snp",
+          "name": "SNP",
+          "description": "Scottish National Party, Scottish politics",
+          "stories": [
+            {
+              "title": "Is Nicola Sturgeon leaving the SNP for the Greens?",
+              "summary": "Speculation follows the SNP's fifth Holyrood term win without a majority, amid a surge in Scottish Greens support.",
+              "source": "The Herald",
+              "url": "https://www.heraldscotland.com/news/26438736.nicola-sturgeon-leaving-snp-greens/",
+              "publishedAt": "2026-08-05"
+            },
+            {
+              "title": "Swinney defends SNP election campaign after Sturgeon attack",
+              "summary": "First Minister John Swinney pushed back after Nicola Sturgeon criticised the SNP's Holyrood election campaign in her memoir.",
+              "source": "The Herald",
+              "url": "https://www.heraldscotland.com/news/26439193.swinney-defends-snp-election-campaign-sturgeon-attack/",
+              "publishedAt": "2026-08-05"
+            }
+          ]
+        },
+        {
+          "id": "cabinet-office",
+          "name": "Cabinet Office",
+          "description": "Government reshuffles, senior appointments, cross-department policy",
+          "stories": [
+            {
+              "title": "Global Talent visa expanded to attract world's brightest researchers",
+              "summary": "The government expanded the Global Talent visa route to attract top researchers to boost British innovation.",
+              "source": "GOV.UK",
+              "url": "https://www.gov.uk/government/news/global-talent-visa-expanded-to-attract-worlds-brightest-researchers-to-power-british-innovation",
+              "publishedAt": "2026-08-05"
+            },
+            {
+              "title": "Government Chief IT Operations Officer role advertised",
+              "summary": "Civil Service Jobs listings show active recruitment for a Government Chief IT Operations Officer (\u00a386k\u2013\u00a3117.8k), pointing to continued digital capability build-out at the centre of government.",
+              "source": "Civil Service Jobs",
+              "url": "https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=2007988",
+              "publishedAt": "2026-08-05"
+            }
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "Elections & By-elections",
+          "description": "Upcoming or recent election results, polls",
+          "stories": [
+            {
+              "title": "The serial candidates standing against Farage in Clacton",
+              "summary": "A look at the field of perennial candidates standing against Nigel Farage in his Clacton seat; no major UK by-election results in the last 24 hours.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cd69q4yg0ggo",
+              "publishedAt": "2026-08-05"
+            }
+          ]
+        },
+        {
+          "id": "house-of-lords",
+          "name": "House of Lords",
+          "description": "Lords debates, reform, appointments",
+          "stories": []
+        }
+      ]
+    },
     {
       "date": "2026-08-05",
       "lastUpdated": "2026-08-05T16:20:00+10:00",
