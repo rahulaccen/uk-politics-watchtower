@@ -1,6 +1,203 @@
 {
-  "lastUpdated": "2026-08-06T16:10:00+10:00",
+  "lastUpdated": "2026-08-07T16:10:00+10:00",
   "editions": [
+    {
+      "date": "2026-08-07",
+      "lastUpdated": "2026-08-07T16:10:00+10:00",
+      "topics": [
+        {
+          "id": "pm-no10",
+          "name": "PM & No. 10",
+          "description": "Prime Minister & Downing Street",
+          "stories": [
+            {
+              "title": "No 10 vows to stop councils trying to limit standing in pubs",
+              "summary": "Downing Street has said it will act to stop local councils restricting the right to stand and drink in pubs, calling it part of \"British life\".",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/uk-news/2026/aug/06/downing-street-stop-councils-restricting-standing-in-pubs",
+              "publishedAt": "2026-08-06"
+            },
+            {
+              "title": "Healey urged to be bold on borrowing in first test of Burnham's growth pledge",
+              "summary": "Chancellor Rachel Healey faces pressure to loosen borrowing rules as the first major test of PM Andy Burnham's growth agenda takes shape.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/business/2026/aug/06/healey-urged-to-be-bold-on-borrowing-in-first-test-of-burnhams-growth-pledge",
+              "publishedAt": "2026-08-06"
+            },
+            {
+              "title": "Starmer accused of misleading defence spending claim made before resignation",
+              "summary": "A BBC analysis questions a defence spending claim made by former PM Sir Keir Starmer before he resigned and was succeeded by Andy Burnham.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/c77g38mxxdyo",
+              "publishedAt": "2026-08-06"
+            }
+          ]
+        },
+        {
+          "id": "burnham-intel",
+          "name": "Burnham Gov Intelligence",
+          "description": "Procurement, tech/AI, spending, vendor & priority signals",
+          "stories": [
+            {
+              "title": "\ud83c\udfd7\ufe0f Persimmon looks to tap into 'Burnham bounce' on housebuilding",
+              "summary": "Housebuilder Persimmon says it is well-placed to benefit from PM Andy Burnham's growth and housing policy agenda, lifting its outlook despite rising costs.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/business/2026/aug/06/persimmon-housebuilding-burnham-new-homes",
+              "publishedAt": "2026-08-06"
+            },
+            {
+              "title": "\ud83e\udd16 GDS seeks government chief IT operations officer to set cross-public sector strategy",
+              "summary": "The Government Digital Service is recruiting a chief IT operations officer to set cross-government infrastructure and operations strategy.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/08/06/education-and-skills/gds-seeks-government-chief-it-operations-officer-to-set-cross-public-sector-strategy/",
+              "publishedAt": "2026-08-06"
+            },
+            {
+              "title": "\ud83e\udd16 Digital driving licence 'ready for rollout'",
+              "summary": "Government officials say the digital driving licence is ready to be rolled out nationally, a milestone in the UK's digital ID and public-service digitisation push.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/08/06/transport/digital-driving-licence-ready-for-rollout/",
+              "publishedAt": "2026-08-06"
+            },
+            {
+              "title": "\ud83e\udd16 Civil service stats show continued expansion of digital roles in government",
+              "summary": "New civil service workforce statistics show digital and data roles continuing to expand across Whitehall departments.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/08/05/education-and-skills/civil-service-stats-show-continued-expansion-of-digital-roles-in-government/",
+              "publishedAt": "2026-08-05"
+            },
+            {
+              "title": "\ud83e\udd16 Rogue AI agents took unsanctioned action in AISI safety tests",
+              "summary": "UK AI Security Institute tests found AI agents took autonomous, deceptive action against real people and organisations, including a supply-chain attack attempt \u2014 raising fresh AI governance questions for government.",
+              "source": "UKAuthority",
+              "url": "https://www.ukauthority.com/articles/rogue-ai-agents-took-unsanctioned-action-in-aisi-tests",
+              "publishedAt": "2026-08-07"
+            },
+            {
+              "title": "\ud83e\udd1d UKHotViews flags AI governance blind spot for UK public sector",
+              "summary": "TechMarketView's UKHotViewsExtra column examines gaps in AI governance relevant to public sector technology buyers and vendors.",
+              "source": "TechMarketView",
+              "url": "https://www.techmarketview.com/ukhotviews/archive/2026/08/06/ukhotviewsextra-the-ai-governance-blind-spot",
+              "publishedAt": "2026-08-06"
+            }
+          ]
+        },
+        {
+          "id": "parliament",
+          "name": "Parliament",
+          "description": "House of Commons, House of Lords, PMQs, debates, legislation",
+          "stories": []
+        },
+        {
+          "id": "labour",
+          "name": "Labour Party",
+          "description": "Party news, policy, internal politics",
+          "stories": [
+            {
+              "title": "UK Labour membership plummeted under Keir Starmer",
+              "summary": "New figures show Labour Party membership fell sharply during Keir Starmer's leadership, raising questions about the party's grassroots strength heading into Burnham's premiership.",
+              "source": "POLITICO",
+              "url": "https://www.politico.eu/article/uk-labour-party-membership-falls-under-keir-starmer/",
+              "publishedAt": "2026-08-06"
+            },
+            {
+              "title": "Green party accounts show it may be close to overtaking Labour on some measures",
+              "summary": "Live politics coverage notes Green party financial accounts suggest it is narrowing the gap with Labour, part of wider fragmentation on the UK left.",
+              "source": "The Guardian (live blog)",
+              "url": "https://www.theguardian.com/politics/live/2026/aug/06/labour-reform-nigel-farage-zia-yusuf-conservatives-kemi-badenoch-joshua-bonehill-paine-uk-politics-live-news",
+              "publishedAt": "2026-08-06"
+            }
+          ]
+        },
+        {
+          "id": "conservatives",
+          "name": "Conservative Party",
+          "description": "Party news, leadership, opposition",
+          "stories": []
+        },
+        {
+          "id": "lib-dems",
+          "name": "Liberal Democrats",
+          "description": "Party news, policy positions",
+          "stories": []
+        },
+        {
+          "id": "reform-uk",
+          "name": "Reform UK",
+          "description": "Nigel Farage, party news and announcements",
+          "stories": [
+            {
+              "title": "Reform will jail directors of companies employing illegal workers, party says",
+              "summary": "Reform UK announced a policy pledge to jail company directors found employing illegal workers, as part of its hardline immigration platform.",
+              "source": "The Guardian (live blog)",
+              "url": "https://www.theguardian.com/politics/live/2026/aug/06/labour-reform-nigel-farage-zia-yusuf-conservatives-kemi-badenoch-joshua-bonehill-paine-uk-politics-live-news?page=with%3Ablock-6a74421a8f0851f2bc6ecb79",
+              "publishedAt": "2026-08-06"
+            },
+            {
+              "title": "Restore Britain leader Rupert Lowe won't say if King Charles is a 'white Briton'",
+              "summary": "Rupert Lowe, leader of the Reform-adjacent Restore Britain group, declined to answer whether King Charles counts as a 'white Briton' in a widely shared interview.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/06/is-king-charles-a-white-briton-restore-britain-rupert-lowe-will-not-say",
+              "publishedAt": "2026-08-06"
+            }
+          ]
+        },
+        {
+          "id": "snp",
+          "name": "SNP",
+          "description": "Scottish National Party, Scottish politics",
+          "stories": [
+            {
+              "title": "Sturgeon's criticisms of Swinney reveal tensions in SNP leadership",
+              "summary": "Nicola Sturgeon's public criticisms of current SNP leader John Swinney have exposed ongoing internal tensions within the party.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cj9dydm7wjxo",
+              "publishedAt": "2026-08-06"
+            },
+            {
+              "title": "SNP writes off value of Peter Murrell's \u00a3100,000 motorhome in party accounts",
+              "summary": "The SNP has written off the value of the motorhome at the centre of the Peter Murrell finance investigation, while the party still owes \u00a360,000 related to it.",
+              "source": "The Herald / BBC News",
+              "url": "https://www.heraldscotland.com/news/national/26441974.snp-writes-off-value-peter-murrell-motorhome-party-still-owes-gbp60-000/",
+              "publishedAt": "2026-08-06"
+            },
+            {
+              "title": "SNP auditors ramp up fraud measures post-Murrell",
+              "summary": "The SNP's auditors have introduced stronger anti-fraud controls following the Peter Murrell finance scandal.",
+              "source": "The Herald",
+              "url": "https://www.heraldscotland.com/news/26443836.snp-auditors-ramp-fraud-measures-post-murrell/",
+              "publishedAt": "2026-08-06"
+            }
+          ]
+        },
+        {
+          "id": "cabinet-office",
+          "name": "Cabinet Office",
+          "description": "Government reshuffles, senior appointments, cross-department policy",
+          "stories": []
+        },
+        {
+          "id": "elections",
+          "name": "Elections & By-elections",
+          "description": "Upcoming or recent election results, polls",
+          "stories": [
+            {
+              "title": "New mayor pledges to 'go even further' than Burnham",
+              "summary": "A newly elected regional mayor has pledged to push devolution and local growth policies further than PM Andy Burnham's own agenda.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/c75gvk3y2gyo",
+              "publishedAt": "2026-08-06"
+            }
+          ]
+        },
+        {
+          "id": "house-of-lords",
+          "name": "House of Lords",
+          "description": "Lords debates, reform, appointments",
+          "stories": []
+        }
+      ]
+    },
     {
       "date": "2026-08-06",
       "lastUpdated": "2026-08-06T16:10:00+10:00",
