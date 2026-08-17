@@ -1,6 +1,276 @@
 {
-  "lastUpdated": "2026-08-14T16:00:00+10:00",
+  "lastUpdated": "2026-08-17T16:00:00+10:00",
   "editions": [
+    {
+      "date": "2026-08-17",
+      "lastUpdated": "2026-08-17T16:00:00+10:00",
+      "topics": [
+        {
+          "id": "pm-no10",
+          "name": "PM & No. 10",
+          "description": "Prime Minister & Downing Street",
+          "stories": [
+            {
+              "title": "Government to function as normal while Burnham on holiday",
+              "summary": "Burnham's government continues normally during his summer break, despite opposition taunts about 'bunking off' after his first-week spending commitments.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/czjlp0vrpk9o",
+              "publishedAt": "2026-08-15"
+            },
+            {
+              "title": "Burnham chairs emergency Cobra on disposable barbecues amid wildfires",
+              "summary": "PM Burnham chaired an emergency Cobra meeting over the weekend over wildfire risks linked to disposable barbecues, urging retailers to act voluntarily.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/labour",
+              "publishedAt": "2026-08-15"
+            },
+            {
+              "title": "Who's in Andy Burnham's new Labour cabinet?",
+              "summary": "Burnham's full cabinet includes Mahmood (Home), Healey (Chancellor), Miliband (Foreign), Streeting (Defence), and Haigh as First Secretary \u2014 a significant reshuffle from the Starmer era.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/ckg4we9g58do",
+              "publishedAt": "2026-07-20"
+            }
+          ]
+        },
+        {
+          "id": "burnham-intel",
+          "name": "Burnham Gov Intelligence",
+          "description": "Procurement, tech/AI, spending, vendor & priority signals",
+          "stories": [
+            {
+              "title": "\ud83e\udd16 AI minister role boosted but DSIT axed in Burnham shake-up",
+              "summary": "Burnham has scrapped DSIT, redistributing its functions to BIST and DCMS, while establishing a Cabinet Office-led AI task force. Tech leaders warn of slower policymaking.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cz97x8k4zqzo",
+              "publishedAt": "2026-07-21"
+            },
+            {
+              "title": "\ud83e\udd16 GDS to keep name and controls remit",
+              "summary": "The Government Digital Service will retain its brand and oversight functions under the new DCMS-led structure, providing continuity for digital public services.",
+              "source": "PublicTechnology",
+              "url": "https://www.publictechnology.net/2026/08/14/government-and-politics/gds-to-keep-name-and-controls-remit/",
+              "publishedAt": "2026-08-14"
+            },
+            {
+              "title": "\ud83e\udd16 Stephanie Peacock confirmed as digital government minister",
+              "summary": "Peacock takes on oversight of GDS, data infrastructure, and digital public services under the restructured DCMS.",
+              "source": "PublicTechnology",
+              "url": "https://www.publictechnology.net/2026/08/13/government-and-politics/stephanie-peacock-confirmed-as-digital-government-minister/",
+              "publishedAt": "2026-08-13"
+            },
+            {
+              "title": "\ud83e\udd16 UK government has awarded over 2,000 AI contracts",
+              "summary": "AI procurement is accelerating with 2,000+ contracts awarded, though AI accounts for just 4% of the total value of government tech procurement.",
+              "source": "UKAuthority",
+              "url": "https://www.ukauthority.com/articles/uk-government-has-awarded-over-2000-ai-contracts",
+              "publishedAt": "2026-08-14"
+            },
+            {
+              "title": "\ud83e\udd16 HM Treasury: AI adoption has moved from experimentation to organisation-wide use",
+              "summary": "Treasury confirms its internal AI tools are now deployed organisation-wide, signalling growing government confidence in scaling AI.",
+              "source": "PublicTechnology",
+              "url": "https://www.publictechnology.net/2026/08/14/economics-and-finance/hm-treasury-ai-adoption-has-moved-from-early-experimentation-to-organisation-wide-use/",
+              "publishedAt": "2026-08-14"
+            },
+            {
+              "title": "\ud83c\udfd7\ufe0f UK to strip back procurement rules to focus on job creation",
+              "summary": "First Secretary Louise Haigh signals procurement requirements for Whitehall contracts will be revised to prioritise job creation \u2014 a significant policy shift.",
+              "source": "Financial Times",
+              "url": "https://www.ft.com/uk-government-spending",
+              "publishedAt": "2026-08-14"
+            },
+            {
+              "title": "\ud83e\udd1d Consultants to lose \u00a33bn of UK government work under Burnham",
+              "summary": "The Burnham government is planning to cut \u00a33bn from consulting spend across Deloitte, EY, KPMG, PwC, McKinsey, BCG, Bain and Accenture.",
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/81682cbd-4e74-4db7-b72e-63d65200b113",
+              "publishedAt": "2026-07-22"
+            },
+            {
+              "title": "\ud83c\udfe2 'Tech Prosperity Deal' Binds UK to US AI Dominance Strategy",
+              "summary": "Analysis warns the UK's Tech Prosperity Deal \u2014 including Microsoft's \u00a322bn and Amazon's \u00a38bn commitments \u2014 locks the UK into US-led AI infrastructure with strategic dependency risks.",
+              "source": "Tech Policy Press",
+              "url": "https://techpolicy.press/tech-prosperity-deal-binds-uk-to-us-ai-dominance-strategy",
+              "publishedAt": "2026-08-10"
+            },
+            {
+              "title": "\ud83d\udcb0 Burnham's first-week pledges: \u00a31.5bn in commitments, some unfunded",
+              "summary": "BBC Verify found Burnham's first-week commitments total ~\u00a31.5bn, with the largest item (\u00a3850m VAT cut on electricity) flagged as unfunded.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cy078kj0ezyo",
+              "publishedAt": "2026-07-27"
+            }
+          ]
+        },
+        {
+          "id": "parliament",
+          "name": "Parliament",
+          "description": "House of Commons, Lords, PMQs & legislation",
+          "stories": []
+        },
+        {
+          "id": "labour",
+          "name": "Labour Party",
+          "description": "Labour party news, policy, internal politics",
+          "stories": [
+            {
+              "title": "Burnham chairs Cobra on disposable barbecue wildfire risk",
+              "summary": "An emergency Cobra was convened over the weekend as wildfires linked to disposable barbecues prompted urgent government action, with retailers urged to stop selling them voluntarily.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/labour",
+              "publishedAt": "2026-08-15"
+            },
+            {
+              "title": "Benefits ban for foreign nationals would include EU citizens",
+              "summary": "Labour's planned benefits restrictions for foreign nationals are confirmed to include EU citizens, raising questions about the policy's compatibility with UK-EU relations.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/politics",
+              "publishedAt": "2026-08-15"
+            }
+          ]
+        },
+        {
+          "id": "conservatives",
+          "name": "Conservative Party",
+          "description": "Conservative party news, Kemi Badenoch, opposition",
+          "stories": [
+            {
+              "title": "Kemi Badenoch's 'weird week': ex-neo-Nazi candidate raises questions over Tory vetting",
+              "summary": "A former neo-Nazi was selected as a Tory candidate in Somerset; Badenoch's defence prompted widespread criticism about whether the party has truly changed.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/07/kemi-badenoch-joshua-bonehill-paine-conservatives-weird-week",
+              "publishedAt": "2026-08-07"
+            },
+            {
+              "title": "Badenoch overtakes Farage as favourite to be next PM",
+              "summary": "Betting markets now place Badenoch as more likely than Farage to be next PM. Her combination of ideological clarity and political fluency is building opposition credibility.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/commentisfree/2026/aug/07/farage-fading-threat-no-10-kemi-badenoch-conservative-party",
+              "publishedAt": "2026-08-07"
+            },
+            {
+              "title": "Badenoch announces foreign nationals social housing ban",
+              "summary": "Conservatives announced they would evict foreign nationals with leave to remain from social housing \u2014 condemned by charities and accused by Reform of being policy plagiarism.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/society/2026/aug/07/tory-plan-ban-foreign-nationals-social-housing-condemned-divisive",
+              "publishedAt": "2026-08-07"
+            }
+          ]
+        },
+        {
+          "id": "lib-dems",
+          "name": "Liberal Democrats",
+          "description": "Lib Dem party news and policy positions",
+          "stories": [
+            {
+              "title": "Lib Dem council to ask for election delay",
+              "summary": "A local Liberal Democrat council is seeking a delay to scheduled elections, weeks after Ed Davey raised concerns about council readiness for electoral processes.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/topics/cz317k9pd9rt",
+              "publishedAt": "2026-08-15"
+            }
+          ]
+        },
+        {
+          "id": "reform-uk",
+          "name": "Reform UK",
+          "description": "Nigel Farage, Reform UK party news",
+          "stories": [
+            {
+              "title": "Farage wins Clacton by-election with 22,239 votes; major parties boycotted",
+              "summary": "Reform UK leader Nigel Farage returned to Parliament via a self-triggered Clacton by-election, winning easily against novelty candidates after Labour, Conservatives and Lib Dems boycotted.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/live/c5y40d11zewt",
+              "publishedAt": "2026-08-15"
+            },
+            {
+              "title": "Farage faces renewed parliamentary watchdog probe and Metropolitan Police investigation",
+              "summary": "Parliamentary authorities resumed a probe into Farage's failure to register a \u00a35m gift from a billionaire donor. The Met Police is also investigating Reform UK donations.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/c62x1gr62m1o",
+              "publishedAt": "2026-08-15"
+            },
+            {
+              "title": "Questions over Farage's summer absence and Reform's direction",
+              "summary": "Reports suggest Farage was largely absent from public life through July\u2013August, raising questions about Reform UK's ability to sustain momentum without its leader's active media presence.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/01/nigel-farage-reform-uk-return-press-conference-london",
+              "publishedAt": "2026-08-01"
+            }
+          ]
+        },
+        {
+          "id": "snp",
+          "name": "SNP",
+          "description": "Scottish National Party, Scottish politics",
+          "stories": [
+            {
+              "title": "Scottish Conservatives win Aberdeen South in shock by-election loss for SNP",
+              "summary": "The SNP lost Aberdeen South to the Scottish Conservatives in a by-election, the latest blow to the party struggling with the Murrell embezzlement fallout.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/snp",
+              "publishedAt": "2026-06-19"
+            },
+            {
+              "title": "SNP accused of 'embezzling voters' over Peter Murrell's misuse of funds",
+              "summary": "Opposition leaders accused the SNP of betraying voters after Peter Murrell, former party chief executive, was convicted of embezzling \u00a3400,000 in party funds.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/may/26/snp-embezzling-voters-peter-murrell",
+              "publishedAt": "2026-05-26"
+            }
+          ]
+        },
+        {
+          "id": "cabinet-office",
+          "name": "Cabinet Office",
+          "description": "Government reshuffles, senior appointments, cross-department policy",
+          "stories": [
+            {
+              "title": "Full ministerial appointments published: Burnham's July 2026 cabinet",
+              "summary": "The King approved a comprehensive list of ministerial appointments on 20 July 2026, including Healey as Chancellor, Miliband as Foreign Secretary, and Haigh as First Secretary and Cabinet Office minister.",
+              "source": "GOV.UK",
+              "url": "https://www.gov.uk/government/news/ministerial-appointments-july-2026",
+              "publishedAt": "2026-07-20"
+            },
+            {
+              "title": "Louise Haigh confirmed as de facto deputy PM and Cabinet Office minister",
+              "summary": "Haigh is serving as First Secretary of State, Chancellor of the Duchy of Lancaster, and Cabinet Office minister \u2014 making her the operational hub of cross-departmental coordination.",
+              "source": "GOV.UK",
+              "url": "https://www.gov.uk/government/news/ministerial-appointments-july-2026",
+              "publishedAt": "2026-07-20"
+            }
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "Elections & By-elections",
+          "description": "Upcoming or recent election results, polls",
+          "stories": [
+            {
+              "title": "Farage wins Clacton by-election; Count Binface comes second with 9,455 votes",
+              "summary": "Farage won the Clacton by-election with 22,239 votes after triggering it himself. With major parties absent, Count Binface came second in what analysts called 'one of the most surreal election nights' in recent British politics.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/live/c5y40d11zewt",
+              "publishedAt": "2026-08-15"
+            },
+            {
+              "title": "2026 local election results: Reform gains, Conservative wipeout in some areas",
+              "summary": "The 2026 local elections showed Labour holding ground, Reform making gains, and Conservatives losing councillors in several boroughs including Havering.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/election/2026/england/results",
+              "publishedAt": "2026-05-07"
+            }
+          ]
+        },
+        {
+          "id": "house-of-lords",
+          "name": "House of Lords",
+          "description": "Lords debates, reform, appointments",
+          "stories": []
+        }
+      ]
+    },
     {
       "date": "2026-08-14",
       "lastUpdated": "2026-08-14T16:00:00+10:00",
