@@ -1,6 +1,248 @@
 {
-  "lastUpdated": "2026-08-18T16:00:00+10:00",
+  "lastUpdated": "2026-08-19T16:00:00+10:00",
   "editions": [
+    {
+      "date": "2026-08-19",
+      "lastUpdated": "2026-08-19T16:00:00+10:00",
+      "topics": [
+        {
+          "id": "pm-no10",
+          "name": "PM & No. 10",
+          "description": "Prime Minister & Downing Street",
+          "stories": [
+            {
+              "title": "Burnham declares almost £350,000 in donations before becoming PM",
+              "summary": "Andy Burnham has declared nearly £350,000 in donations received in the months prior to becoming Prime Minister, raising transparency questions.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/18/burnham-declares-almost-350000-in-donations-in-months-before-becoming-pm",
+              "publishedAt": "2026-08-18"
+            },
+            {
+              "title": "Burnham launches 'national drive' to get rough sleepers off streets by Christmas",
+              "summary": "The PM announced a national campaign to eliminate rough sleeping by Christmas, pledging local community partnerships and emergency housing support.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/society/2026/aug/18/burnham-national-drive-rough-sleepers-christmas",
+              "publishedAt": "2026-08-18"
+            },
+            {
+              "title": "Starmer allies see 'hint of retribution' in Burnham reshuffle",
+              "summary": "Allies of former PM Keir Starmer have suggested some of Burnham's reshuffling decisions appear politically motivated, reflecting tensions within Labour's leadership transition.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/keir-starmer",
+              "publishedAt": "2026-08-18"
+            }
+          ]
+        },
+        {
+          "id": "burnham-intel",
+          "name": "Burnham Gov Intelligence",
+          "description": "Procurement, tech/AI, spending, vendor & priority signals",
+          "stories": [
+            {
+              "title": "🏗️ West Midlands bus network to go into public control",
+              "summary": "PM Andy Burnham confirmed the West Midlands bus network will be brought into public ownership — a major procurement and public sector signal.",
+              "source": "gov.uk",
+              "url": "https://www.gov.uk/government/news/prime-minister-supports-west-midlands-to-take-public-control-of-local-bus-network",
+              "publishedAt": "2026-08-19"
+            },
+            {
+              "title": "🤖 HMRC seeks £4.5m partner to replace legacy metadata system with AI platform",
+              "summary": "HMRC is procuring a new AI-powered platform to replace a legacy metadata system — a significant contract for tech vendors in HMRC/CDIO markets.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/08/18/education-and-skills/hmrc-seeks-4-5m-partner-to-replace-legacy-metadata-system-with-new-ai-powered-platform/",
+              "publishedAt": "2026-08-18"
+            },
+            {
+              "title": "🏢 MoD signs £16m Microsoft deal to 'detect and disrupt' cyber and espionage threats",
+              "summary": "The Ministry of Defence has signed a £16m Microsoft cybersecurity deal focused on detecting and disrupting cyber and espionage threats.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/08/17/news/mod-signs-16m-microsoft-deal-to-detect-and-disrupt-cyber-and-espionage-threats/",
+              "publishedAt": "2026-08-17"
+            },
+            {
+              "title": "🤖 GDS to keep name and controls remit under Burnham government",
+              "summary": "The Government Digital Service will retain its current name and existing controls mandate, providing continuity for digital governance.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/08/14/government-and-politics/gds-to-keep-name-and-controls-remit/",
+              "publishedAt": "2026-08-14"
+            },
+            {
+              "title": "🤖 AI to help tackle backlog of government emails — GDS prototype",
+              "summary": "GDS is developing an AI-powered prototype to assist Knowledge and Information Management teams with email overload across Whitehall.",
+              "source": "UKAuthority",
+              "url": "https://www.ukauthority.com/articles/ai-to-help-tackle-backlog-of-government-emails",
+              "publishedAt": "2026-08-18"
+            },
+            {
+              "title": "📄 Research Report: Building No. 10 North — blueprint for Burnham's devolution hub",
+              "summary": "Re:State think tank proposes four core units for No. 10 North: Devolution, Investment & Growth, System Democratisation, and Local Public Services Innovation — with a PM Transformation Directorate to drive reform.",
+              "source": "Re:State",
+              "url": "https://re-state.co.uk/wp-content/uploads/2026/07/Building-No-10-North.pdf",
+              "publishedAt": "2026-07-01"
+            }
+          ]
+        },
+        {
+          "id": "parliament",
+          "name": "Parliament",
+          "description": "House of Commons, Lords, PMQs, debates, legislation",
+          "stories": [
+            {
+              "title": "Parliament in session — legislative business continues",
+              "summary": "Parliament is sitting with ongoing legislative proceedings covered by BBC Parliament; no major PMQs or debate highlights emerged in the last 24 hours.",
+              "source": "BBC iPlayer",
+              "url": "https://www.bbc.co.uk/iplayer/guide/bbcparliament",
+              "publishedAt": "2026-08-18"
+            }
+          ]
+        },
+        {
+          "id": "labour",
+          "name": "Labour Party",
+          "description": "Party news, policy, internal politics",
+          "stories": [
+            {
+              "title": "Burnham declares almost £350,000 in donations before becoming PM",
+              "summary": "Labour is facing transparency scrutiny over large donations declared by PM Andy Burnham in the months before he took office.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/18/burnham-declares-almost-350000-in-donations-in-months-before-becoming-pm",
+              "publishedAt": "2026-08-18"
+            },
+            {
+              "title": "Labour urges Gambling Commission to investigate firms linked to Reform UK donors",
+              "summary": "Labour has called on the Gambling Commission to investigate companies allegedly linked to Reform UK donors who are accused of operating without licences.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/18/labour-gambling-commission-investigate-firms-linked-reform-uk-donors",
+              "publishedAt": "2026-08-18"
+            },
+            {
+              "title": "Burnham gives Labour a second chance in Scotland",
+              "summary": "Scottish Secretary Douglas Alexander says Andy Burnham's new leadership creates an opportunity for Labour to rebuild credibility north of the border.",
+              "source": "Herald Scotland",
+              "url": "https://www.heraldscotland.com/news/national/26476030.burnham-gives-labour-second-chance-make-first-impression-says-alexander/",
+              "publishedAt": "2026-08-19"
+            }
+          ]
+        },
+        {
+          "id": "conservatives",
+          "name": "Conservative Party",
+          "description": "Party news, leadership, opposition",
+          "stories": [
+            {
+              "title": "Kemi Badenoch's defence of ex-neo-Nazi raises questions over Tory direction",
+              "summary": "Badenoch gave an advisory role to a former neo-Nazi who withdrew as a Conservative candidate, sparking fierce internal and external criticism about the party's rightward drift.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/conservatives",
+              "publishedAt": "2026-08-19"
+            },
+            {
+              "title": "Labour's net zero plans will add £500 to bills, Tories claim",
+              "summary": "Kemi Badenoch has argued net zero by 2050 is impossible without serious living standards impacts, launching a renewed Conservative attack on Labour's energy transition plans.",
+              "source": "The Times",
+              "url": "https://www.thetimes.co.uk/uk/politics/article/labours-net-zero-plans-bills-tories-pdzxdvsnc",
+              "publishedAt": "2026-08-19"
+            }
+          ]
+        },
+        {
+          "id": "lib-dems",
+          "name": "Liberal Democrats",
+          "description": "Party news, policy positions",
+          "stories": [
+            {
+              "title": "Join EU migration pact to tackle small boats, says Ed Davey",
+              "summary": "Liberal Democrat leader Ed Davey has called for the UK to join an EU migration partnership as the most effective solution to Channel crossings.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/c8dn3n6pvyvo",
+              "publishedAt": "2026-08-19"
+            },
+            {
+              "title": "Lib Dems back removing 'performative hostility' to EU",
+              "summary": "A Politico report notes the Lib Dems are strategically positioning for closer UK-EU relations, shedding performative anti-EU rhetoric from their policy approach.",
+              "source": "Politico EU",
+              "url": "https://www.politico.eu/newsletter/london-playbook/busmans-holiday/",
+              "publishedAt": "2026-08-19"
+            }
+          ]
+        },
+        {
+          "id": "reform-uk",
+          "name": "Reform UK",
+          "description": "Nigel Farage, party news and announcements",
+          "stories": [
+            {
+              "title": "Poverty and weariness in Nigel Farage's Clacton",
+              "summary": "A Guardian report from Clacton highlights acute economic deprivation in Farage's constituency, with residents described as in genuine need of parliamentary support.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/18/poverty-and-weariness-in-nigel-farage-clacton",
+              "publishedAt": "2026-08-18"
+            },
+            {
+              "title": "Reform suspends Tory defector after criticism of senior figures",
+              "summary": "Reform UK has suspended a recent Conservative defector following their public criticism of senior party figures, highlighting ongoing internal tensions.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/ce34rrq30l2o",
+              "publishedAt": "2026-08-19"
+            },
+            {
+              "title": "Labour urges Gambling Commission to investigate firms linked to Reform UK donors",
+              "summary": "Labour has called on the Gambling Commission to investigate companies connected to Reform UK's donor network, accused of operating without licences.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/18/labour-gambling-commission-investigate-firms-linked-reform-uk-donors",
+              "publishedAt": "2026-08-18"
+            }
+          ]
+        },
+        {
+          "id": "snp",
+          "name": "SNP",
+          "description": "Scottish National Party, Scottish politics",
+          "stories": [
+            {
+              "title": "Sturgeon: 'I was never even considered for prosecution'",
+              "summary": "Former First Minister Nicola Sturgeon told the Edinburgh Book Festival she was fully cleared in the SNP finances investigation (Operation Branchform) that jailed her husband.",
+              "source": "Herald Scotland",
+              "url": "https://www.heraldscotland.com/news/national/26475840.sturgeon-says-never-even-considered-prosecution-snp-cash/",
+              "publishedAt": "2026-08-19"
+            },
+            {
+              "title": "Burnham gives Labour a second chance to make a first impression in Scotland",
+              "summary": "Scottish Secretary Douglas Alexander says Burnham's new leadership presents Labour with a fresh opportunity to rebuild trust and support in Scotland.",
+              "source": "Herald Scotland",
+              "url": "https://www.heraldscotland.com/news/national/26476030.burnham-gives-labour-second-chance-make-first-impression-says-alexander/",
+              "publishedAt": "2026-08-19"
+            }
+          ]
+        },
+        {
+          "id": "cabinet-office",
+          "name": "Cabinet Office",
+          "description": "Government reshuffles, senior appointments, cross-department policy",
+          "stories": [
+            {
+              "title": "Prime Minister supports West Midlands to take public control of bus network",
+              "summary": "Downing Street and the Cabinet Office announced support for the West Midlands' transition of bus services to public control — a key policy delivery milestone.",
+              "source": "gov.uk",
+              "url": "https://www.gov.uk/government/news/prime-minister-supports-west-midlands-to-take-public-control-of-local-bus-network",
+              "publishedAt": "2026-08-19"
+            }
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "Elections & By-elections",
+          "description": "Upcoming or recent UK election results, polls",
+          "stories": []
+        },
+        {
+          "id": "house-of-lords",
+          "name": "House of Lords",
+          "description": "Lords debates, reform, appointments",
+          "stories": []
+        }
+      ]
+    },
     {
       "date": "2026-08-18",
       "lastUpdated": "2026-08-18T16:00:00+10:00",
