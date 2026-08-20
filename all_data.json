@@ -1,6 +1,278 @@
 {
-  "lastUpdated": "2026-08-19T16:00:00+10:00",
+  "lastUpdated": "2026-08-20T16:00:00+10:00",
   "editions": [
+    {
+      "date": "2026-08-20",
+      "lastUpdated": "2026-08-20T16:00:00+10:00",
+      "topics": [
+        {
+          "id": "pm-no10",
+          "name": "PM & No. 10",
+          "description": "Prime Minister & Downing Street",
+          "stories": [
+            {
+              "title": "Burnham Unveils £442m Rough Sleeping Plan",
+              "summary": "PM Andy Burnham announces a £442m package providing emergency accommodation and health support to end rough sleeping in England.",
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/iplayer/episodes/l0058r3l/burnham-unveils-rough-sleeping-plan",
+              "publishedAt": "2026-08-20"
+            },
+            {
+              "title": "Burnham Set to Disappoint Labour MPs on Donation Caps",
+              "summary": "Downing Street signals it will not pursue a cap on political donations despite pressure from Labour MPs concerned about Reform UK's big-money backers.",
+              "source": "Politico",
+              "url": "https://www.politico.eu/article/uk-political-donations-cap-labour-andy-burnham-nigel-farage/",
+              "publishedAt": "2026-08-19"
+            },
+            {
+              "title": "Poll: British Voters Mixed on Burnham's First Week",
+              "summary": "A POLITICO poll shows Burnham generating interest but a majority of voters want him to call an early election rather than continuing the inherited mandate.",
+              "source": "Politico",
+              "url": "https://www.politico.eu/article/poll-british-voters-andy-burnham-underwhelmed-response-drought-and-wildfires/",
+              "publishedAt": "2026-08-19"
+            }
+          ]
+        },
+        {
+          "id": "burnham-intel",
+          "name": "Burnham Gov Intelligence",
+          "description": "Procurement, tech/AI, spending, vendor & priority signals",
+          "stories": [
+            {
+              "title": "🏗️ Police Floats £90m Contract for New Public Digital Channels",
+              "summary": "A new £90m contract to support public-facing digital channels across policing has emerged — a significant procurement signal in the public safety tech space.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/08/19/public-order-justice-and-rights/police-floats-90m-contract-to-support-new-public-digital-channels/",
+              "publishedAt": "2026-08-19"
+            },
+            {
+              "title": "🤖 Government Uses Image Recognition AI to Tackle EV Grant Fraud",
+              "summary": "Government agencies are deploying AI image recognition tools to detect fraud in EV grant applications, signalling broader AI adoption in public sector enforcement.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/08/19/transport/government-agencies-use-image-recognition-ai-to-tackle-ev-grant-fraud/",
+              "publishedAt": "2026-08-19"
+            },
+            {
+              "title": "🏗️ HMRC Seeks £4.5m Partner to Replace Legacy Metadata System with AI Platform",
+              "summary": "HMRC is sourcing a supplier to replace a legacy metadata system with an AI-powered platform — a key digital transformation and procurement signal.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/08/18/education-and-skills/hmrc-seeks-4-5m-partner-to-replace-legacy-metadata-system-with-new-ai-powered-platform/",
+              "publishedAt": "2026-08-18"
+            },
+            {
+              "title": "🏢 MoD Signs £16m Microsoft Deal for Cyber and Espionage Defence",
+              "summary": "The Ministry of Defence has contracted Microsoft for £16m to detect and disrupt cyber and espionage threats — a notable vendor signal for US tech in UK defence.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/08/17/news/mod-signs-16m-microsoft-deal-to-detect-and-disrupt-cyber-and-espionage-threats/",
+              "publishedAt": "2026-08-17"
+            },
+            {
+              "title": "🏗️ HMRC Selects Atos, Coforge and Cognizant as Low Code Partners (DALAS Framework)",
+              "summary": "HMRC has selected three suppliers under the DALAS framework for low-code platform delivery — a significant procurement decision for government digital services.",
+              "source": "UKAuthority",
+              "url": "https://www.ukauthority.com/articles/hmrc-selects-trio-low-code-partners",
+              "publishedAt": "2026-08-19"
+            },
+            {
+              "title": "🤖 Government Chief Data Officer: Time to Get Public Sector Data Working Together",
+              "summary": "The Government Chief Data Officer highlights the urgent need for NHS and public sector data interoperability, flagging that siloed systems are failing citizens.",
+              "source": "UKAuthority",
+              "url": "https://www.ukauthority.com/articles/getting-data-to-work-together",
+              "publishedAt": "2026-08-19"
+            },
+            {
+              "title": "🚦 What Has Burnham Promised Since Becoming PM — and When Will It Happen?",
+              "summary": "The Guardian tracks Burnham's growing list of pledges — from housing costs to public ownership of utilities — raising delivery timeline questions with ~3 years left in Parliament.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/19/since-becoming-pm-what-has-burnham-promised-and-when-will-it-happen",
+              "publishedAt": "2026-08-19"
+            }
+          ]
+        },
+        {
+          "id": "parliament",
+          "name": "Parliament",
+          "description": "House of Commons, House of Lords, PMQs, debates, legislation",
+          "stories": [
+            {
+              "title": "Parliament in Summer Recess — Recorded Proceedings on BBC",
+              "summary": "Parliament is in summer recess with BBC Parliament airing recorded sessions. No new live debates or legislation until Parliament returns in September.",
+              "source": "BBC iPlayer",
+              "url": "https://www.bbc.co.uk/iplayer/guide/bbcparliament",
+              "publishedAt": "2026-08-19"
+            }
+          ]
+        },
+        {
+          "id": "labour",
+          "name": "Labour Party",
+          "description": "Party news, policy, internal politics",
+          "stories": [
+            {
+              "title": "Labour 'Could Lose Up to 50 Seats' to Greens Over North Sea Drilling",
+              "summary": "Environmental groups warn that permitting any new North Sea drilling could cost Labour up to 50 seats to the Green Party at the next general election.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/19/labour-could-lose-seats-greens-new-drilling-north-sea",
+              "publishedAt": "2026-08-19"
+            },
+            {
+              "title": "Labour Demands Tice Apologise to Firefighters Over 'Enjoy It' Heat Remark",
+              "summary": "Labour has called on Reform UK's Richard Tice to apologise after he appeared to tell firefighters to 'enjoy' the extreme heatwave, calling the remark irresponsible.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/uk-news/2026/aug/19/richard-tice-enjoy-it-remark-extreme-heat-labour",
+              "publishedAt": "2026-08-19"
+            },
+            {
+              "title": "Starmer Allies See 'Hint of Retribution' in Burnham Reshuffle",
+              "summary": "Former PM Keir Starmer's allies have voiced concern that Andy Burnham's cabinet reshuffle contained elements of political payback against Starmer loyalists.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/keir-starmer",
+              "publishedAt": "2026-08-19"
+            }
+          ]
+        },
+        {
+          "id": "conservatives",
+          "name": "Conservative Party",
+          "description": "Party news, leadership, opposition",
+          "stories": [
+            {
+              "title": "Badenoch Attacks Burnham's Economic Plans — PM Responds with Comebacks",
+              "summary": "Conservative leader Kemi Badenoch challenged PM Burnham over his economic programme, though Burnham reportedly had strong prepared responses to her attacks.",
+              "source": "Politico",
+              "url": "https://www.politico.eu/person/ed-davey/",
+              "publishedAt": "2026-08-19"
+            }
+          ]
+        },
+        {
+          "id": "lib-dems",
+          "name": "Liberal Democrats",
+          "description": "Party news, policy positions",
+          "stories": [
+            {
+              "title": "Davey Calls for UK to Join EU Migration and Asylum Framework",
+              "summary": "Lib Dem leader Ed Davey has called on Burnham to tackle small boat crossings by joining the EU's new migration and asylum framework, and wants a Commons vote on the matter.",
+              "source": "Politico",
+              "url": "https://www.politico.eu/newsletter/london-playbook/burnhams-rough-sleeping-test/",
+              "publishedAt": "2026-08-19"
+            },
+            {
+              "title": "Westminster Constituency Becomes Lib Dem Target Seat",
+              "summary": "Politico reports that Westminster constituency has been identified as a new Lib Dem target seat — a notable development in the heart of British politics.",
+              "source": "Politico",
+              "url": "https://www.politico.eu/newsletter/london-playbook/london-playbook-pm-rough-around-the-pledges/",
+              "publishedAt": "2026-08-19"
+            }
+          ]
+        },
+        {
+          "id": "reform-uk",
+          "name": "Reform UK",
+          "description": "Nigel Farage, party news and announcements",
+          "stories": [
+            {
+              "title": "Farage's Clacton By-Election Gamble Backfires — Described as 'Futile'",
+              "summary": "The Guardian's analysis concludes that Nigel Farage's decision to trigger the Clacton by-election was a miscalculation, bringing him 'full circle' without meaningful political gain.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/news/2026/aug/19/farages-futile-election-gamble-inside-the-21-august-guardian-weekly",
+              "publishedAt": "2026-08-19"
+            },
+            {
+              "title": "Reform UK Ridiculed: 'They Deserve a Slot on the Edinburgh Fringe'",
+              "summary": "A Guardian opinion piece argues Reform politicians have become a political joke, with their controversies increasingly compared to comedy festival material.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/19/reform-uk-joke-edinburgh-fringe",
+              "publishedAt": "2026-08-19"
+            },
+            {
+              "title": "Richard Tice Under Fire for 'Enjoy It' Remark to Firefighters During Heatwave",
+              "summary": "Reform UK's Richard Tice faces calls to apologise after remarks appearing to dismiss the danger of extreme heat conditions to fire and emergency service personnel.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/uk-news/2026/aug/19/richard-tice-enjoy-it-remark-extreme-heat-labour",
+              "publishedAt": "2026-08-19"
+            }
+          ]
+        },
+        {
+          "id": "snp",
+          "name": "SNP",
+          "description": "Scottish National Party, Scottish politics",
+          "stories": [
+            {
+              "title": "Analysis: The Dangers of Politicians Being 'Too Online' — or Not Online Enough",
+              "summary": "A BBC piece examines how Scottish and UK parties (including the SNP) navigate social media strategy, and whether being too online or too offline can damage political credibility.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cn5nvkdwy74o",
+              "publishedAt": "2026-08-19"
+            },
+            {
+              "title": "Scottish Greens Back UNESCO Bid for Morning Roll Recognition",
+              "summary": "The Scottish Greens have thrown their weight behind a campaign to secure UNESCO recognition for Scotland's beloved morning roll — with Glasgow Southside MSP championing the cause.",
+              "source": "The Herald Scotland",
+              "url": "https://www.heraldscotland.com/news/26477430.scottish-greens-back-unesco-bid-morning-roll-recognition/",
+              "publishedAt": "2026-08-19"
+            }
+          ]
+        },
+        {
+          "id": "cabinet-office",
+          "name": "Cabinet Office",
+          "description": "Government reshuffles, senior appointments, cross-department policy",
+          "stories": [
+            {
+              "title": "Government Structure Confirmed Following Burnham Reshuffle",
+              "summary": "Government pages confirm the Burnham cabinet structure with Andy Burnham as PM and updated ministerial appointments across departments including the Home Office and FCDO.",
+              "source": "GOV.UK",
+              "url": "https://www.gov.uk/government/organisations/cabinet-office",
+              "publishedAt": "2026-08-19"
+            },
+            {
+              "title": "Government Signs Consultancy to Support Future Civil Service Initiative",
+              "summary": "A consultancy has been engaged to support the new Future Civil Service initiative, pointing to continued use of external private sector expertise in Whitehall reform efforts.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/08/19/education-and-skills/government-signs-consultancy-to-support-future-civil-service-initiative/",
+              "publishedAt": "2026-08-19"
+            }
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "Elections & By-Elections",
+          "description": "Upcoming or recent election results, polls",
+          "stories": [
+            {
+              "title": "Farage's Clacton By-Election Gamble Backfires",
+              "summary": "The Clacton by-election triggered by Nigel Farage has concluded with analysts calling it a 'futile' gamble — Reform UK's leader is said to be rattled by the outcome.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/news/2026/aug/19/farages-futile-election-gamble-inside-the-21-august-guardian-weekly",
+              "publishedAt": "2026-08-19"
+            },
+            {
+              "title": "Westminster Seat Becomes Lib Dem Target",
+              "summary": "Politico reports that Westminster constituency has been identified as a Lib Dem target seat, marking a significant shift in electoral geography.",
+              "source": "Politico",
+              "url": "https://www.politico.eu/newsletter/london-playbook/london-playbook-pm-rough-around-the-pledges/",
+              "publishedAt": "2026-08-19"
+            }
+          ]
+        },
+        {
+          "id": "house-of-lords",
+          "name": "House of Lords",
+          "description": "Lords debates, reform, appointments",
+          "stories": [
+            {
+              "title": "AUKUS Submarine Programme at Critical Juncture — Lords Implications",
+              "summary": "Analysis highlights that the first SSN-AUKUS class submarine must cut steel in 2027; delays would strain UK national security commitments and test the AUKUS defence partnership.",
+              "source": "Politico",
+              "url": "https://www.politico.eu/article/aukus-only-works-if-britains-submarine-town-does/",
+              "publishedAt": "2026-08-19"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-08-19",
       "lastUpdated": "2026-08-19T16:00:00+10:00",
