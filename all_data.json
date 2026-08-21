@@ -1,6 +1,234 @@
 {
-  "lastUpdated": "2026-08-20T16:00:00+10:00",
+  "lastUpdated": "2026-08-21T16:00:00+10:00",
   "editions": [
+    {
+      "date": "2026-08-21",
+      "lastUpdated": "2026-08-21T16:00:00+10:00",
+      "topics": [
+        {
+          "id": "pm-no10",
+          "name": "PM & No. 10",
+          "description": "Prime Minister & Downing Street",
+          "stories": [
+            {
+              "title": "Burnham to divert 'significant' resources out of civil service, says No. 10 North chief",
+              "summary": "Andy Burnham's new 'No. 10 North' initiative will divert significant civil service resources away from Whitehall to implement his devolution agenda, according to the head of the new body. The plan aims to fundamentally reshape how central government operates by establishing a nerve centre outside London.",
+              "source": "Politico",
+              "url": "https://www.politico.eu/article/burnham-will-divert-significant-resources-out-of-civil-service-says-no-10-north-chief/",
+              "publishedAt": "2026-08-21"
+            },
+            {
+              "title": "Burnham pledges fly-tippers will be forced to pay for illegal waste clean-up",
+              "summary": "PM Andy Burnham announced that fly-tippers will be made financially responsible for the cost of cleaning up illegal waste dumps. The announcement came amid wider government activity on environmental enforcement and public space management.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/live/2026/aug/20/andy-burnham-illegal-waste-dumps-labour-reform-conservatives-latest-news-updates",
+              "publishedAt": "2026-08-20"
+            },
+            {
+              "title": "Burnham issues 'rallying call' over rough sleeping pledge ahead of Christmas target",
+              "summary": "The Prime Minister acknowledged that government money alone may not be enough to achieve his pledge of getting rough sleepers off the streets by Christmas, and issued a call for broader societal action. The £442m commitment on homelessness remains a flagship Burnham policy.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/live/2026/aug/20/andy-burnham-illegal-waste-dumps-labour-reform-conservatives-latest-news-updates",
+              "publishedAt": "2026-08-20"
+            }
+          ]
+        },
+        {
+          "id": "burnham-intel",
+          "name": "Burnham Gov Intelligence",
+          "description": "Procurement, tech/AI, spending, vendor & priority signals",
+          "stories": [
+            {
+              "title": "🤖 Councils turn to AI in attempt to fill £4bn social care black hole",
+              "summary": "Dozens of UK councils are looking to deploy AI to make drastic savings in social care provision as they face a £4bn funding gap. PM Burnham has pledged broader social care reform but councils are acting now to avoid collapse of services.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cdx7r9467kno",
+              "publishedAt": "2026-08-21"
+            },
+            {
+              "title": "🤖 Home Office targets AI-generated savings with police non-emergency phone line",
+              "summary": "The Home Office is deploying AI on the 101 non-emergency police phone line to generate cost savings and improve response efficiency. The initiative is part of wider Home Office digital transformation efforts.",
+              "source": "PublicTechnology",
+              "url": "https://www.publictechnology.net/2026/08/21/public-order-justice-and-rights/home-office-targets-ai-generated-savings-with-police-non-emergency-phone-line/",
+              "publishedAt": "2026-08-21"
+            },
+            {
+              "title": "🏗️ DWP plans £1bn programme to consolidate use of digital freelancers",
+              "summary": "The Department for Work and Pensions is planning a major £1bn programme to consolidate and rationalise its use of digital contractors and freelancers. The move signals significant public sector digital procurement activity.",
+              "source": "PublicTechnology",
+              "url": "https://www.publictechnology.net/2026/08/20/education-and-skills/dwp-plans-1bn-programme-to-consolidate-use-of-digital-freelancers/",
+              "publishedAt": "2026-08-20"
+            },
+            {
+              "title": "🚦 Back on track: can Burnham fix the north's woeful rail services?",
+              "summary": "Analysis of PM Burnham's plans to overhaul northern rail services through his Bee Network integrated transport initiative. The article examines progress on the Manchester-centred integrated transport model and its national implications.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/business/2026/aug/21/back-on-track-can-burnham-fix-the-norths-woeful-rail-services",
+              "publishedAt": "2026-08-21"
+            },
+            {
+              "title": "🏗️ Police floats £90m contract to support new public digital channels",
+              "summary": "UK policing has floated a £90m contract to support the development of new public-facing digital channels. This represents a significant procurement signal for digital services suppliers to policing.",
+              "source": "PublicTechnology",
+              "url": "https://www.publictechnology.net/2026/08/19/public-order-justice-and-rights/police-floats-90m-contract-to-support-new-public-digital-channels/",
+              "publishedAt": "2026-08-19"
+            }
+          ]
+        },
+        {
+          "id": "parliament",
+          "name": "Parliament",
+          "description": "House of Commons, Lords, PMQs & Legislation",
+          "stories": [
+            {
+              "title": "Parliament in summer recess — limited activity this week",
+              "summary": "Parliament remains in summer recess with no major Commons or Lords debates scheduled. BBC Parliament broadcast schedule shows limited live proceedings during the recess period.",
+              "source": "BBC Parliament",
+              "url": "https://www.bbc.co.uk/iplayer/guide/bbcparliament",
+              "publishedAt": "2026-08-21"
+            }
+          ]
+        },
+        {
+          "id": "labour",
+          "name": "Labour Party",
+          "description": "Party news, policy & internal politics",
+          "stories": [
+            {
+              "title": "Working in Keir Starmer's No 10 was 'unbearable', says former aide",
+              "summary": "A former Downing Street insider has described the working culture under previous PM Keir Starmer as 'unbearable', adding to accounts of a difficult internal environment in his administration before Labour leadership changed to Burnham.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/labour",
+              "publishedAt": "2026-08-20"
+            },
+            {
+              "title": "Scottish Labour leadership: Marra says party must work for stronger role in Scotland",
+              "summary": "Scottish Labour leadership candidate Michael Marra outlined his vision for a reinvigorated Scottish Labour party with greater autonomy, as the contest to lead Labour in Scotland continues.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/videos/cp87ggnmvjeo",
+              "publishedAt": "2026-08-21"
+            },
+            {
+              "title": "Equalities minister Bridget Phillipson condemns normalisation of racism and sexism",
+              "summary": "Equalities minister Bridget Phillipson said racism and sexism have become normalised in Britain, accusing Reform UK and Conservative MPs of contributing to a toxic public discourse. Her remarks signal a renewed government focus on equality issues.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/20/racism-and-sexism-have-become-normalised-in-britain-says-equalities-minister-bridget-phillipson",
+              "publishedAt": "2026-08-20"
+            }
+          ]
+        },
+        {
+          "id": "conservatives",
+          "name": "Conservative Party",
+          "description": "Party news, leadership & opposition",
+          "stories": [
+            {
+              "title": "Kemi Badenoch's 'weird week': defence of ex-neo-Nazi raises questions over Tory direction",
+              "summary": "Conservative leader Kemi Badenoch faced questions about her party's direction after her defence of a figure with a neo-Nazi past divided party opinion. Some Tory MPs were alarmed while others backed Badenoch's stance as a sign of conviction politics.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/conservatives",
+              "publishedAt": "2026-08-20"
+            }
+          ]
+        },
+        {
+          "id": "lib-dems",
+          "name": "Liberal Democrats",
+          "description": "Party news & policy positions",
+          "stories": []
+        },
+        {
+          "id": "reform-uk",
+          "name": "Reform UK",
+          "description": "Nigel Farage, party news & announcements",
+          "stories": [
+            {
+              "title": "Richard Tice defends suspension of Reform UK activist who criticised Farage",
+              "summary": "Reform UK deputy leader Richard Tice defended the suspension of a party activist who had publicly criticised Nigel Farage, raising fresh questions about internal dissent and party discipline within Reform UK.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/20/tice-defends-suspension-reform-uk-activist-farage-criticism",
+              "publishedAt": "2026-08-20"
+            },
+            {
+              "title": "Reform's new economic adviser calls for end of pensioners' triple lock",
+              "summary": "Reform UK's newly appointed economic adviser Mitchell Palmer has called for abolishing the triple lock pension guarantee, a significant policy signal from the right-wing populist party that could prove controversial with older voters.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/20/reform-economic-adviser-mitchell-palmer-end-pensioners-triple-lock",
+              "publishedAt": "2026-08-20"
+            },
+            {
+              "title": "Bridget Phillipson condemns Tice's 'chilling attempt to silence free press' over activist suspension",
+              "summary": "Education Secretary Bridget Phillipson accused Reform UK's Richard Tice of attempting to silence media criticism following the suspension of a Reform activist who had spoken to journalists. The row intensified focus on free speech concerns within Reform.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/brexit-party",
+              "publishedAt": "2026-08-20"
+            }
+          ]
+        },
+        {
+          "id": "snp",
+          "name": "SNP",
+          "description": "Scottish National Party & Scottish politics",
+          "stories": [
+            {
+              "title": "Scotland's civil service grows despite SNP promise to cut workforce",
+              "summary": "Scotland's civil service headcount has grown despite repeated SNP government pledges to reduce the size of the public sector workforce, raising accountability questions for Holyrood.",
+              "source": "Herald Scotland",
+              "url": "https://www.heraldscotland.com/news/national/26481490.robbie-butler-named-stormont-health-minister/",
+              "publishedAt": "2026-08-20"
+            },
+            {
+              "title": "Reform leader in Scotland reveals cancer diagnosis on day of Holyrood election",
+              "summary": "Malcolm Offord, Reform UK's Scottish leader, revealed he was diagnosed with prostate cancer on the day of the Holyrood election. His personal disclosure came amid wider Scottish political activity.",
+              "source": "Herald Scotland",
+              "url": "https://www.heraldscotland.com/news/national/26482469.reform-leader-scotland-cancer-diagnosed-day-holyrood-election/",
+              "publishedAt": "2026-08-20"
+            }
+          ]
+        },
+        {
+          "id": "cabinet-office",
+          "name": "Cabinet Office",
+          "description": "Government reshuffles, appointments & cross-department policy",
+          "stories": [
+            {
+              "title": "MoD names new chief digital and information officer",
+              "summary": "The Ministry of Defence has appointed a new Chief Digital and Information Officer, a significant leadership change for defence's digital and technology agenda. The appointment signals continued focus on digital modernisation in defence.",
+              "source": "PublicTechnology",
+              "url": "https://www.publictechnology.net/2026/08/20/defence-and-security/mod-names-new-chief-digital-and-information-officer/",
+              "publishedAt": "2026-08-20"
+            },
+            {
+              "title": "Ed Miliband confirmed as Secretary of State for Foreign, Commonwealth and Development Affairs",
+              "summary": "Government records confirm Ed Miliband's role as Foreign Secretary under the Burnham administration, with his profile updated on GOV.UK alongside other senior appointments reflecting the current Cabinet makeup.",
+              "source": "GOV.UK",
+              "url": "https://www.gov.uk/government/ministers/secretary-of-state-for-foreign-commonwealth-and-development-affairs",
+              "publishedAt": "2026-08-21"
+            }
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "Elections & By-elections",
+          "description": "Upcoming or recent election results & polls",
+          "stories": [
+            {
+              "title": "Sheffield Reform UK councillor refuses to rejoin party after row",
+              "summary": "A Sheffield Reform UK councillor who polled 1,442 votes to beat the council leader in the Firth Park ward has refused to rejoin the party amid internal tensions. Reform took 12 seats in Sheffield in May, making this local rebellion significant.",
+              "source": "BBC News",
+              "url": "http://www.bbc.co.uk/news/articles/cr49y4e6k29o",
+              "publishedAt": "2026-08-21"
+            }
+          ]
+        },
+        {
+          "id": "house-of-lords",
+          "name": "House of Lords",
+          "description": "Lords debates, reform & appointments",
+          "stories": []
+        }
+      ]
+    },
     {
       "date": "2026-08-20",
       "lastUpdated": "2026-08-20T16:00:00+10:00",
