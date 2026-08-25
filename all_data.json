@@ -1,6 +1,256 @@
 {
-  "lastUpdated": "2026-08-24T06:00:00+10:00",
+  "lastUpdated": "2026-08-25T06:08:23.899Z",
   "editions": [
+    {
+      "date": "2026-08-25",
+      "lastUpdated": "2026-08-25T06:08:23.899Z",
+      "topics": [
+        {
+          "id": "pm-no10",
+          "name": "PM & No. 10",
+          "description": "Prime Minister & Downing Street",
+          "stories": [
+            {
+              "title": "Burnham visits Kyiv and pledges missile technology to Ukraine",
+              "summary": "Andy Burnham made his first official visit to Ukraine as Prime Minister, promising that the UK will help France set up assembly lines for long-range missiles in Ukraine. He declared the UK stands with Ukraine \"all the way\" despite Russia's \"outrageous threats\" against Britain.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/24/burnham-visit-kyiv-support-for-ukraine",
+              "publishedAt": "2026-08-24"
+            },
+            {
+              "title": "No. 10 condemns glorification of dangerous driving on social media",
+              "summary": "Downing Street repeated calls for social media platforms to review their content policies after videos glorifying dangerous driving spread online. No. 10 called the trend \"utterly disgraceful\" and urged platforms to uphold their legal duties.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/live/2026/aug/24/labour-andy-bunrham-social-media-firms-dangerous-driving-content-middlesborough-latest-news-updates",
+              "publishedAt": "2026-08-24"
+            },
+            {
+              "title": "Burnham met PM Frieden of Luxembourg and PM Luxon of New Zealand",
+              "summary": "The PM's official diary shows recent bilateral engagements with Luxembourg's Prime Minister Frieden (23 Aug) and New Zealand's Christopher Luxon (19 Aug), covering defence and trade issues.",
+              "source": "GOV.UK",
+              "url": "https://www.gov.uk/government/people/andy-burnham",
+              "publishedAt": "2026-08-24"
+            }
+          ]
+        },
+        {
+          "id": "burnham-intel",
+          "name": "Burnham Gov Intelligence",
+          "description": "Procurement, tech/AI, spending, vendor & priority signals",
+          "stories": [
+            {
+              "title": "🤖 Tech / AI / Digital — UK to use Ukraine battlefield data to train AI to protect sensitive sites",
+              "summary": "The government has announced that AI systems will be trained using real Ukrainian battlefield data to improve protection of sensitive UK sites, marking a significant expansion of defence-linked AI investment.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/24/uk-to-use-ukraine-battlefield-data-to-train-ai-to-protect-sensitive-sites",
+              "publishedAt": "2026-08-24"
+            },
+            {
+              "title": "🤖 Tech / AI / Digital — HMRC plans £500m deal to lay groundwork for innovation on major legacy tax platform",
+              "summary": "HMRC is preparing a £500m contract to modernise its major legacy tax platform, framed as laying the groundwork for innovation and digital transformation on one of government's oldest and most complex systems.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/08/24/economics-and-finance/hmrc-plans-500m-deal-to-lay-groundwork-for-innovation-on-major-legacy-tax-platform/",
+              "publishedAt": "2026-08-24"
+            },
+            {
+              "title": "🤖 Tech / AI / Digital — Digital leader Megan Lee-Devlin becomes Chief Executive of HMCTS",
+              "summary": "Megan Lee-Devlin, a senior digital transformation leader, has been appointed as the new Chief Executive of HM Courts and Tribunals Service, signalling continued focus on digital reform in the justice sector.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/08/24/public-order-justice-and-rights/digital-leader-megan-lee-devlin-becomes-chief-exec-of-hmcts/",
+              "publishedAt": "2026-08-24"
+            },
+            {
+              "title": "💰 Spending / VfM — Burnham appoints expert to lead independent business rates review",
+              "summary": "Prime Minister Burnham has appointed a business rates expert to lead an independent review, with a 20% cut for pubs, social clubs and live music venues from April next year.",
+              "source": "The Times",
+              "url": "https://www.thetimes.co.uk/business/companies-markets/article/andy-burnham-set-to-make-business-rates-fairer-for-pubs-and-hotels-ftvfh2wqb",
+              "publishedAt": "2026-08-24"
+            },
+            {
+              "title": "🏗️ Procurement signal — AI investment prioritised as UK companies automate amid trade uncertainty",
+              "summary": "New economic data shows UK companies are prioritising investment in automation and AI tools under the Burnham government's growth agenda, a positive signal for technology suppliers.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/business/live/2026/aug/24/canadian-dollar-dips-us-canada-talks-collapse-trade-war-oil-prices-fall-us-sanctions-on-iran-live-updates",
+              "publishedAt": "2026-08-24"
+            }
+          ]
+        },
+        {
+          "id": "parliament",
+          "name": "Parliament",
+          "description": "House of Commons, House of Lords, PMQs",
+          "stories": [
+            {
+              "title": "Parliament in summer recess — BBC Parliament covering archive content",
+              "summary": "The House of Commons is in summer recess. BBC Parliament is broadcasting archived programme content. No major legislative activity or PMQs this week. Next sitting expected in September.",
+              "source": "BBC iPlayer",
+              "url": "https://www.bbc.co.uk/iplayer/guide/bbcparliament",
+              "publishedAt": "2026-08-25"
+            }
+          ]
+        },
+        {
+          "id": "labour",
+          "name": "Labour Party",
+          "description": "Labour party news and policy",
+          "stories": [
+            {
+              "title": "Burnham pledges to get rough sleepers off streets by Christmas",
+              "summary": "The Today in Focus podcast highlights Burnham's personal commitment to ending visible rough sleeping by Christmas 2026, a flagship domestic pledge from the new Prime Minister.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/labour",
+              "publishedAt": "2026-08-24"
+            },
+            {
+              "title": "No. 10 urges social media firms to remove dangerous driving content",
+              "summary": "Downing Street has put pressure on social media companies to take down content glorifying dangerous driving, framing it as part of Burnham's wider online safety agenda.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/live/2026/aug/24/labour-andy-bunrham-social-media-firms-dangerous-driving-content-middlesborough-latest-news-updates",
+              "publishedAt": "2026-08-24"
+            }
+          ]
+        },
+        {
+          "id": "conservatives",
+          "name": "Conservative Party",
+          "description": "Conservative party news and opposition",
+          "stories": [
+            {
+              "title": "Badenoch rules out Reform-Conservative coalition pact",
+              "summary": "Tory leader Kemi Badenoch has explicitly ruled out any coalition pact with Reform UK, with Tice and Anderson facing questions about the \"monstrous\" prospect of a joint government.",
+              "source": "Politico EU",
+              "url": "https://www.politico.eu/newsletter/london-playbook/burnham-heads-abroad/",
+              "publishedAt": "2026-08-24"
+            },
+            {
+              "title": "\"As a Tory, I say things are looking up\" — Farage fading, Badenoch threat grows",
+              "summary": "Conservative commentators argue that Farage's internal problems leave Badenoch as the real long-term challenger to Burnham's No. 10, with the Tories eyeing a recovery path at the next general election.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/commentisfree/2026/aug/07/farage-fading-threat-no-10-kemi-badenoch-conservative-party",
+              "publishedAt": "2026-08-07"
+            }
+          ]
+        },
+        {
+          "id": "lib-dems",
+          "name": "Liberal Democrats",
+          "description": "Lib Dem news and policy",
+          "stories": [
+            {
+              "title": "Ed Davey condemns Reform UK's housing policy as \"vindictive\"",
+              "summary": "Lib Dem leader Ed Davey argued that Reform UK's proposal to bar single parents (among others) from social housing is \"vindictive,\" positioning the Liberal Democrats as a clear opponent of Reform's social policy agenda.",
+              "source": "Politico EU",
+              "url": "https://www.politico.eu/newsletter/london-playbook/london-playbook-pm-moscow-mouths-off/",
+              "publishedAt": "2026-08-24"
+            }
+          ]
+        },
+        {
+          "id": "reform-uk",
+          "name": "Reform UK",
+          "description": "Reform UK and Nigel Farage",
+          "stories": [
+            {
+              "title": "Investigation into Reform's \"Farage Fest\" party in Clacton",
+              "summary": "The organisers of \"Farage Fest\" — a victory party and rally held after Nigel Farage's Clacton by-election win — are being investigated by the council for failing to comply with local event regulations.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/crm9w702k1lo",
+              "publishedAt": "2026-08-25"
+            },
+            {
+              "title": "Rupert Lowe's 'olive branch' to Farage increases internal pressure",
+              "summary": "Former Reform MP Rupert Lowe has made a public overture to Farage, adding to ongoing internal tensions following the £5m donation controversy and Farage's admission over the timing of his return to the party leadership.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/brexit-party",
+              "publishedAt": "2026-08-24"
+            },
+            {
+              "title": "Reform proposes barring foreign nationals from social housing",
+              "summary": "Reform UK announced that foreign nationals would be barred from social housing under their policy, with those currently in homes given three months to find private accommodation or face deportation — drawing sharp criticism from across the political spectrum.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/society/2026/aug/23/reform-social-housing-uk-citizens",
+              "publishedAt": "2026-08-23"
+            }
+          ]
+        },
+        {
+          "id": "snp",
+          "name": "SNP",
+          "description": "Scottish National Party and Scottish politics",
+          "stories": [
+            {
+              "title": "Scottish National Investment Bank posts \"painful\" £138m net loss",
+              "summary": "The Scottish National Investment Bank revealed a £138m net loss last year, citing the collapse of three of its early-stage investments. The result has raised questions about the Bank's governance and risk management under the SNP government.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/clyl8kd9jn8o",
+              "publishedAt": "2026-08-25"
+            },
+            {
+              "title": "Scottish Labour leadership hopeful Marra open to coalition deals in local elections",
+              "summary": "Scottish Labour leadership candidate Michael Marra said he would be open to deals with other parties in Scotland's 2027 local elections, signalling a more pragmatic direction for the Scottish party.",
+              "source": "The Herald",
+              "url": "https://www.heraldscotland.com/news/national/26490346.scottish-labour-leader-candidate-marra-open-party-deals-local-elections/",
+              "publishedAt": "2026-08-25"
+            },
+            {
+              "title": "Speculation grows over Burnham calling an early general election",
+              "summary": "An analysis piece in The Herald explores whether Burnham might call an early general election, noting his careful use of tense when denying plans and pointing to a £2.56m Labour fundraising deficit and divisions in the Scottish party.",
+              "source": "The Herald",
+              "url": "https://www.heraldscotland.com/news/26491219.andy-burnham-going-call-early-general-election/",
+              "publishedAt": "2026-08-25"
+            }
+          ]
+        },
+        {
+          "id": "cabinet-office",
+          "name": "Cabinet Office",
+          "description": "Government reshuffles, appointments, cross-dept policy",
+          "stories": [
+            {
+              "title": "Burnham confirmed as PM, First Lord of the Treasury, and Minister for the Union",
+              "summary": "GOV.UK confirms Andy Burnham's full Cabinet Office roles, including responsibilities spanning the Cabinet Office and the Prime Minister's Office at 10 Downing Street. His official diary shows recent bilateral diplomacy.",
+              "source": "GOV.UK",
+              "url": "https://www.gov.uk/government/people/andy-burnham",
+              "publishedAt": "2026-08-25"
+            },
+            {
+              "title": "Home Office minister team confirmed; new senior civil service appointments visible",
+              "summary": "The Home Office's published minister and senior official listings confirm the current team including Ministers Dan Jarvis and Sarah Jones, and senior civil servants Gareth Davies CB and Simon Ridley CB.",
+              "source": "GOV.UK",
+              "url": "https://www.gov.uk/government/organisations/home-office",
+              "publishedAt": "2026-08-25"
+            }
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "Elections & By-elections",
+          "description": "Election results and polls",
+          "stories": [
+            {
+              "title": "Council investigates Reform UK's \"Farage Fest\" after Clacton by-election",
+              "summary": "Clacton council is investigating organisers of Farage Fest following Nigel Farage's re-election in the Clacton by-election on 13 August with an increased majority of 12,784. Event regulation compliance is under scrutiny.",
+              "source": "BBC News",
+              "url": "http://www.bbc.co.uk/news/articles/crm9w702k1lo",
+              "publishedAt": "2026-08-25"
+            },
+            {
+              "title": "Early general election speculation following Burnham's ambiguous language",
+              "summary": "With a £2.56m Labour fundraising deficit and speculation about Burnham's careful choice of words denying an early election, political commentators are watching for any signs of a snap election call.",
+              "source": "The Herald",
+              "url": "https://www.heraldscotland.com/news/26491219.andy-burnham-going-call-early-general-election/",
+              "publishedAt": "2026-08-25"
+            }
+          ]
+        },
+        {
+          "id": "house-of-lords",
+          "name": "House of Lords",
+          "description": "Lords debates, reform, appointments",
+          "stories": []
+        }
+      ]
+    },
     {
       "date": "2026-08-24",
       "lastUpdated": "2026-08-24T06:00:00+10:00",
