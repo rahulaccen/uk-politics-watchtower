@@ -1,6 +1,299 @@
 {
-  "lastUpdated": "2026-08-25T06:08:23.899Z",
+  "lastUpdated": "2026-08-26T16:00:00+10:00",
   "editions": [
+    {
+      "date": "2026-08-26",
+      "lastUpdated": "2026-08-26T16:00:00+10:00",
+      "topics": [
+        {
+          "id": "pm-no10",
+          "name": "PM & No. 10",
+          "description": "Prime Minister & Downing Street",
+          "stories": [
+            {
+              "title": "Burnham to Take Zelenskyy's Patriot Missile Pleas to Trump",
+              "summary": "UK Prime Minister Andy Burnham headed to New York for the UN General Assembly, aiming to raise Ukraine's request for more Patriot missiles directly with US President Trump. UK officials began preparations for a potential bilateral Burnham-Trump meeting on the sidelines of UNGA.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/25/andy-burnham-us-new-york-ukraine-patriot-missiles",
+              "publishedAt": "2026-08-25"
+            },
+            {
+              "title": "Burnham Mulls Insolvency Law Shake-Up to Bring Utilities Under Public Control",
+              "summary": "PM Andy Burnham is considering ripping up UK insolvency laws to make it easier to bring key utilities such as Thames Water under public control. In June, he had confirmed his preference for public ownership of Thames Water, which is struggling with £20bn of debt.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/business/2026/aug/25/burnham-mulls-insolvency-law-shake-up-to-help-bring-utilities-under-public-control",
+              "publishedAt": "2026-08-25"
+            },
+            {
+              "title": "Government Unveils £10bn Affordable Homes Plan as Burnham Backtracks on Social Renting Pledge",
+              "summary": "The Burnham government announced a nearly £10bn plan to boost 'genuinely affordable homes', but faced accusations of a 'massive backtrack' after only 60% — rather than the promised higher proportion — would be spent on council housing. Burnham said he would 'do what I can, but won't be unrealistic' given challenging fiscal conditions.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/live/2026/aug/25/housing-plans-andy-burnham-social-renting-pledge-ukraine-reform-tories-rupert-lowe-uk-politics-latest",
+              "publishedAt": "2026-08-25"
+            }
+          ]
+        },
+        {
+          "id": "burnham-intel",
+          "name": "Burnham Gov Intelligence",
+          "description": "Procurement, tech/AI, spending, vendor & priority signals",
+          "stories": [
+            {
+              "title": "🤖 London Robotaxi Launch Slips as Burnham Signals Cool Stance on Tech Companies",
+              "summary": "Progress on London's robotaxi rollout has slowed significantly, with the new Prime Minister Andy Burnham hinting at a less enthusiastic stance towards technology companies. Uncertainty over TfL's regulatory direction has further complicated timelines.",
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/a30e563e-0bbb-45ed-a7b3-55ff595d4e66",
+              "publishedAt": "2026-08-25"
+            },
+            {
+              "title": "🤖 UK Signs AI Partnership with Ukraine, Gaining Access to Battlefield AI Data",
+              "summary": "PM Burnham signed a landmark AI deal in Kyiv with President Zelenskyy, giving the UK access to Ukraine's Avengers AI Labs — a database built from millions of battlefield sensor images used to train AI models on tanks, drones and air defence systems. Three British firms (Sintela, Mind Foundry, Skyral) named as early beneficiaries.",
+              "source": "TechMarketView",
+              "url": "https://www.techmarketview.com/ukhotviews/archive/2026/08/25/uk-secures-access-to-ukraines-battlefield-ai-data",
+              "publishedAt": "2026-08-25"
+            },
+            {
+              "title": "🤖 Treasury Signs £280k Deal to Accelerate AI Adoption in Government Finance",
+              "summary": "Following a year in which the Treasury undertook a widespread rollout of AI tools, a new £280k deal has been signed to support broader AI implementation across government finance. This follows recent disclosures indicating FY2026 was a major AI rollout year for the department.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/08/25/economics-and-finance/treasury-signs-280k-deal-to-accelerate-ai-adoption-in-government-finance/",
+              "publishedAt": "2026-08-25"
+            },
+            {
+              "title": "🏗️ HMRC Plans £500m Deal to 'Lay Groundwork for Innovation' on Major Legacy Tax Platform",
+              "summary": "HMRC is seeking a supplier to help maintain the system underpinning National Insurance and PAYE administration, while also delivering upgrades and supporting new technology. The £500m deal signals significant investment in modernising legacy tax IT infrastructure.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/08/24/economics-and-finance/hmrc-plans-500m-deal-to-lay-groundwork-for-innovation-on-major-legacy-tax-platform/",
+              "publishedAt": "2026-08-24"
+            },
+            {
+              "title": "🤖 Office of the Public Guardian Develops Microsoft Azure AI Tool to Probe Financial Abuse",
+              "summary": "The government agency is using a Microsoft Azure-powered 'Investigations Assistant' to check spending decisions made on behalf of people covered by lasting powers of attorney. The AI tool checks for potential financial abuse concerns within protected accounts.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/08/26/society-and-welfare/office-of-the-public-guardian-develops-ai-tool-to-probe-financial-abuse-concerns/",
+              "publishedAt": "2026-08-26"
+            },
+            {
+              "title": "🏗️ Met Police Picks UK Reseller Heavyweights for £370m Deals",
+              "summary": "Two major UK-based tech providers have been chosen by the Metropolitan Police as primary providers of products including common software and hardware tools, in deals worth £370m. The contracts represent a significant public sector tech procurement win for UK-headquartered resellers.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/08/26/public-order-justice-and-rights/met-police-picks-uk-reseller-heavyweights-for-370m-deals/",
+              "publishedAt": "2026-08-26"
+            },
+            {
+              "title": "🤖 Land Registry and Ordnance Survey Team Up for Digital Property Market Initiative",
+              "summary": "The two government bodies announced a new partnership using data and technology tools to bring innovation to the housing market and deliver benefits to homebuyers. The initiative aligns with the Burnham government's broader housing programme announced on 25 August.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/08/26/society-and-welfare/land-registry-and-ordnance-survey-team-up-for-digital-property-market-initiative/",
+              "publishedAt": "2026-08-26"
+            },
+            {
+              "title": "💰 Government Announces £10bn Affordable Homes Programme with Backtrack on Council Housing Target",
+              "summary": "The Burnham government unveiled a nearly £10bn Affordable Homes Programme, but with only 60% allocated to social renting — falling short of earlier pledges for a higher proportion of council homes. Funding is backloaded outside this parliament's Spending Review, raising questions about delivery.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/live/2026/aug/25/housing-plans-andy-burnham-social-renting-pledge-ukraine-reform-tories-rupert-lowe-uk-politics-latest",
+              "publishedAt": "2026-08-25"
+            },
+            {
+              "title": "📄 Research Report — Building No. 10 North (re-state.co.uk)",
+              "summary": "Re:State think tank published a detailed blueprint for No. 10 North in July 2026. Key recommendations: (1) No 10 North must be more than symbolism — it should be a testbed for radically different governance; (2) Four core units proposed: Devolution Unit, Subnational Investment & Growth Unit, System Democratisation Unit, and Local Public Services Innovation Unit; (3) Must avoid replicating Whitehall culture — physical distance does not automatically create institutional difference; (4) Should use a 'devolve by default' framework requiring departments to produce annual Devolution Assessments; (5) Success will ultimately be measured by No. 10 North making much of its own functions unnecessary as power transfers to subnational governments.",
+              "source": "Re:State (re-state.co.uk)",
+              "url": "https://re-state.co.uk/wp-content/uploads/2026/07/Building-No-10-North.pdf",
+              "publishedAt": "2026-07-01"
+            }
+          ]
+        },
+        {
+          "id": "parliament",
+          "name": "Parliament",
+          "description": "House of Commons, House of Lords, PMQs, debates, legislation",
+          "stories": [
+            {
+              "title": "Parliament in Summer Recess — Returns in September",
+              "summary": "Both the House of Commons and House of Lords remain in summer recess. BBC Parliament is broadcasting archived content. Parliament is expected to return in September when opposition parties plan to intensify scrutiny of Burnham's first months in office.",
+              "source": "BBC iPlayer / UK Parliament",
+              "url": "https://www.bbc.co.uk/iplayer/guide/bbcparliament",
+              "publishedAt": "2026-08-26"
+            }
+          ]
+        },
+        {
+          "id": "labour",
+          "name": "Labour Party",
+          "description": "Party news, policy, internal politics",
+          "stories": [
+            {
+              "title": "Labour MPs Will Push Burnham to Back Voting Reform in First 100 Days",
+              "summary": "A significant group of Labour MPs are preparing to formally push PM Andy Burnham to commit to electoral reform within his first 100 days in office. Despite the policy not being in Labour's 2024 manifesto, Burnham is facing growing internal pressure as Reform UK polls at 30%+.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/25/andy-burnham-electoral-reform-first-past-the-post",
+              "publishedAt": "2026-08-25"
+            },
+            {
+              "title": "Why Do Some Labour MPs Want Electoral Reform — and Will It Happen?",
+              "summary": "An explainer on the surge of interest in proportional representation within Labour ranks, driven by a fragmented political landscape where five parties — Reform UK, Labour, Conservatives, Lib Dems, and Greens — are bunched tightly in polls. The article analyses how the current first-past-the-post system would treat each party.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/25/why-labour-mps-electoral-reform-will-it-happen",
+              "publishedAt": "2026-08-25"
+            },
+            {
+              "title": "Will Andy Burnham Get Rough Sleepers Off Streets by Christmas?",
+              "summary": "The Guardian's podcast examines Burnham's high-profile pledge to end rough sleeping by Christmas, probing whether the government has the resources and political will to deliver on this ambitious social commitment.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/labour",
+              "publishedAt": "2026-08-24"
+            }
+          ]
+        },
+        {
+          "id": "conservatives",
+          "name": "Conservative Party",
+          "description": "Party news, leadership, opposition",
+          "stories": [
+            {
+              "title": "Kemi Badenoch Plans Post-Recess Mini-Reshuffle to Manage Frontbench HR",
+              "summary": "Conservative leader Kemi Badenoch is plotting a post-recess mini-reshuffle to manage some personnel logistics on the frontbench ahead of the return of Parliament. The reshuffle signals ongoing efforts to sharpen the opposition team.",
+              "source": "Politico London Playbook",
+              "url": "https://www.politico.eu/newsletter/london-playbook/london-playbook-pm-on-the-home-front-3/",
+              "publishedAt": "2026-08-26"
+            },
+            {
+              "title": "Badenoch Accuses Burnham of 'Laying Groundwork' for Tax Hikes Over Housing Funding",
+              "summary": "Conservative leader Kemi Badenoch attacked PM Andy Burnham's housing announcement, accusing him of 'laying the groundwork' for future tax increases to fund the backloaded affordable homes programme. She reaffirmed the Tory position: cut spending, lower taxes, and get Britain working.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/live/2026/aug/25/housing-plans-andy-burnham-social-renting-pledge-ukraine-reform-tories-rupert-lowe-uk-politics-latest",
+              "publishedAt": "2026-08-25"
+            },
+            {
+              "title": "Kemi Badenoch's Conservatives Wish They Could Be as Popular — Party Strategists Eye Autumn Blitz",
+              "summary": "Conservative strategists are buoyed by Farage's summer absence during the Clacton by-election, giving Badenoch clear air to build profile. With Burnham now a more popular adversary at No. 10, Tory strategists are eyeing an autumn offensive to put Badenoch to the fore.",
+              "source": "Politico",
+              "url": "https://www.politico.eu/article/kemi-badenoch-uk-tory-popular-party-wants-a-piece/",
+              "publishedAt": "2026-08-25"
+            }
+          ]
+        },
+        {
+          "id": "lib-dems",
+          "name": "Liberal Democrats",
+          "description": "Party news, policy positions",
+          "stories": [
+            {
+              "title": "Lib Dems Part of Tightly Bunched Five-Party Field as Electoral Reform Debate Heats Up",
+              "summary": "The Liberal Democrats are one of five parties — alongside Reform UK, Labour, Conservatives, and the Greens — now polling in a tight cluster, feeding into Labour backbench pressure on Burnham to consider proportional representation before the next election.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/25/why-labour-mps-electoral-reform-will-it-happen",
+              "publishedAt": "2026-08-25"
+            }
+          ]
+        },
+        {
+          "id": "reform-uk",
+          "name": "Reform UK",
+          "description": "Nigel Farage, party news and announcements",
+          "stories": [
+            {
+              "title": "Nigel Farage / Reform UK Pledges to Scrap GDPR for 'Light-Touch' Data Laws",
+              "summary": "Reform UK has pledged to axe the General Data Protection Regulation and replace it with lighter-touch laws, with Farage arguing GDPR has 'strangled small businesses and tech firms'. The party would also expand a venture capital scheme offering tax relief to investors.",
+              "source": "Politico / Herald Scotland",
+              "url": "https://www.politico.eu/article/nigel-farage-wants-to-scrap-gdpr-for-the-uk/",
+              "publishedAt": "2026-08-25"
+            },
+            {
+              "title": "Farage Tied Up in Clacton By-election After Resigning His Own Seat in July",
+              "summary": "Nigel Farage spent the summer campaigning in the Clacton by-election, which he triggered by resigning his own seat in July. Conservative strategists are relieved the contest has kept him occupied, leaving Badenoch space to set the opposition narrative.",
+              "source": "Politico",
+              "url": "https://www.politico.eu/article/kemi-badenoch-uk-tory-popular-party-wants-a-piece/",
+              "publishedAt": "2026-08-25"
+            },
+            {
+              "title": "Reform UK Polling Consistently at 30%+ — Driving Electoral Reform Debate",
+              "summary": "Reform UK's consistent polling at or above 30% is one of the key drivers of Labour MPs pushing for proportional representation, as analysis shows the current first-past-the-post system could deliver Farage a large majority despite not winning a popular majority vote.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/25/why-labour-mps-electoral-reform-will-it-happen",
+              "publishedAt": "2026-08-25"
+            }
+          ]
+        },
+        {
+          "id": "snp",
+          "name": "SNP",
+          "description": "Scottish National Party, Scottish politics",
+          "stories": [
+            {
+              "title": "Watchdog's Battle Over Operation Branchform About to Begin",
+              "summary": "Scotland's Information Commissioner is set to begin its oversight role over Operation Branchform, the police investigation into SNP finances. The development marks an important procedural step in one of the most significant ongoing investigations into Scottish political party funding.",
+              "source": "The Herald Scotland",
+              "url": "https://www.heraldscotland.com/news/26494430.watchdogs-battle-branchdform-begin/",
+              "publishedAt": "2026-08-26"
+            }
+          ]
+        },
+        {
+          "id": "cabinet-office",
+          "name": "Cabinet Office",
+          "description": "Government reshuffles, senior appointments, cross-department policy",
+          "stories": [
+            {
+              "title": "UK to Warn Citizens to Stock Up on Food Amid Climate and Security Threats",
+              "summary": "The Cabinet Office confirmed the government will issue new guidance warning citizens to maintain food and supply stockpiles in response to threats from climate change and hostile state actors. The Cabinet Office stated: 'Safeguarding national security is the first priority of any government.'",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/25/uk-to-warn-citizens-to-stock-up-on-food-amid-threat-from-climate-crisis-and-hostile-states",
+              "publishedAt": "2026-08-25"
+            },
+            {
+              "title": "Digital Leader Megan Lee-Devlin Becomes Chief Exec of HMCTS",
+              "summary": "Former Central Digital and Data Office chief Megan Lee-Devlin has taken the helm of HM Courts and Tribunals Service, after two and a half years as Ministry of Justice's Director General for Transformation. The appointment signals continued emphasis on digital leadership in public services.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/08/24/public-order-justice-and-rights/digital-leader-megan-lee-devlin-becomes-chief-exec-of-hmcts/",
+              "publishedAt": "2026-08-24"
+            },
+            {
+              "title": "Burnham Meets Luxembourg PM Frieden and Calls New Zealand PM Luxon",
+              "summary": "PM Andy Burnham held a bilateral meeting with Luxembourg Prime Minister Frieden on 23 August 2026, and a separate call with New Zealand PM Luxon on 19 August. Both meetings covered diplomatic priorities ahead of Burnham's UNGA visit.",
+              "source": "GOV.UK",
+              "url": "https://www.gov.uk/government/people/andy-burnham",
+              "publishedAt": "2026-08-24"
+            }
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "Elections & By-elections",
+          "description": "Upcoming or recent election results, polls",
+          "stories": [
+            {
+              "title": "Labour MPs Push Burnham to Commit to Electoral Reform in First 100 Days",
+              "summary": "A growing bloc of Labour MPs is preparing to formally push PM Burnham to back proportional representation within his first 100 days. The push comes amid polls showing five parties bunched tightly and Reform UK consistently polling above 30%.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/25/andy-burnham-electoral-reform-first-past-the-post",
+              "publishedAt": "2026-08-25"
+            },
+            {
+              "title": "Clacton By-election Ongoing After Farage Resigned His Own Seat in July",
+              "summary": "The Clacton by-election, triggered when Nigel Farage resigned his own seat in July, is currently underway. The contest has kept Farage occupied over the summer, creating space for Conservative leader Badenoch to set the opposition narrative.",
+              "source": "Politico",
+              "url": "https://www.politico.eu/article/kemi-badenoch-uk-tory-popular-party-wants-a-piece/",
+              "publishedAt": "2026-08-25"
+            }
+          ]
+        },
+        {
+          "id": "house-of-lords",
+          "name": "House of Lords",
+          "description": "Lords debates, reform, appointments",
+          "stories": [
+            {
+              "title": "House of Lords in Summer Recess — No Major Debates or Appointments",
+              "summary": "The House of Lords is in summer recess with no major debates, reform announcements, or new appointments reported in the last 24 hours. The Lords is expected to return in September alongside the Commons.",
+              "source": "UK Parliament",
+              "url": "https://www.parliament.uk/business/lords/",
+              "publishedAt": "2026-08-26"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-08-25",
       "lastUpdated": "2026-08-25T06:08:23.899Z",
