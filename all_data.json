@@ -1,6 +1,327 @@
 {
-  "lastUpdated": "2026-08-26T16:00:00+10:00",
+  "lastUpdated": "2026-08-27T16:00:00+10:00",
   "editions": [
+    {
+      "date": "2026-08-27",
+      "lastUpdated": "2026-08-27T16:00:00+10:00",
+      "topics": [
+        {
+          "id": "pm-no10",
+          "name": "PM & No. 10",
+          "description": "Prime Minister & Downing Street",
+          "stories": [
+            {
+              "title": "Burnham Calls Summit of First Ministers of Wales, Scotland and Northern Ireland",
+              "summary": "PM Andy Burnham has announced he will convene a summit of the first ministers of Wales, Scotland and Northern Ireland in the autumn, deepening intergovernmental cooperation as part of his devolution agenda.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/c14d8v83ny7o",
+              "publishedAt": "2026-08-27"
+            },
+            {
+              "title": "Burnham Launches Youth Employment Plan with 10,000 Work Placements",
+              "summary": "PM Andy Burnham announced a plan to tackle youth unemployment, calling on employers to offer 10,000 work placements for young people. The announcement is backed by a £2.5 billion investment in a Youth Guarantee offering training, work experience, or subsidised jobs.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/live/2026/aug/26/andy-burnham-labour-neets-youth-unemployment-work-placements-ofgem-energy-bills-reform-jenrick-latest-news-updates",
+              "publishedAt": "2026-08-26"
+            },
+            {
+              "title": "Burnham Says Rising Energy Prices 'Difficult' as Typical Annual Bill Rises to £1,723",
+              "summary": "PM Andy Burnham acknowledged the impact of rising energy costs as Ofgem confirmed the average household energy bill will increase to £1,723 per year from October. Burnham said the situation was \"difficult\" but defended the government's approach via Ofgem reform.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/business/live/2026/aug/26/uk-households-4-rise-energy-bills-average-1723-october-live-updates",
+              "publishedAt": "2026-08-26"
+            }
+          ]
+        },
+        {
+          "id": "burnham-intel",
+          "name": "Burnham Gov Intelligence",
+          "description": "Procurement, tech/AI, spending, vendor & priority signals",
+          "stories": [
+            {
+              "title": "🤖 Tech / AI / Digital — Agentic AI Warning from NCSC: Unintended Activity Risks",
+              "summary": "The National Cyber Security Centre has issued a fresh warning about the risks of agentic AI systems — AI agents that can take autonomous actions — highlighting potential for unintended or unpredictable activity in public sector deployments. A timely signal as government accelerates AI adoption.",
+              "source": "UKAuthority",
+              "url": "https://www.ukauthority.com/articles/agentic-ai-warning-from-ncsc",
+              "publishedAt": "2026-08-27"
+            },
+            {
+              "title": "🤖 Tech / AI / Digital — DWP Engineers Run Hackathon to Reimagine Digital Onboarding",
+              "summary": "The Department for Work and Pensions held an internal hackathon in which six teams had five hours to develop new approaches to digital onboarding. The event reflects the Burnham government's broader push to embed innovation culture in major public sector departments.",
+              "source": "UKAuthority",
+              "url": "https://www.ukauthority.com/articles/dwp-engineers-hack-onboarding",
+              "publishedAt": "2026-08-27"
+            },
+            {
+              "title": "🏢 Vendor Signal — UK Cyber Bill Creates Secret Vendor Ban Power With No Notification Duty",
+              "summary": "Proposed amendments to the UK Cyber Security and Resilience Bill would allow senior ministers to secretly ban technology vendors from critical infrastructure sectors with no obligation to notify those vendors. This is a significant vendor-risk signal for all tech companies operating in UK critical infrastructure.",
+              "source": "TechTimes / Techtimes.com",
+              "url": "https://www.techtimes.com/articles/325582/20260826/uk-cyber-bill-creates-secret-vendor-ban-power-no-notification-duty.htm",
+              "publishedAt": "2026-08-26"
+            },
+            {
+              "title": "🏗️ Procurement Signal — Social Value Weighting in Government Contracts Raised to 20%",
+              "summary": "Changes to public procurement rules will increase the weighting given to social value considerations from 10% to 20% for contracts worth more than £5 million. This is a material change for suppliers bidding for government work and signals the Burnham government's \"buy British\" procurement agenda.",
+              "source": "ACEVO Policy Update",
+              "url": "https://www.acevo.org.uk/2026/08/policy-update-august-2026/",
+              "publishedAt": "2026-08-27"
+            },
+            {
+              "title": "🤖 Tech / AI / Digital — MoD Appoints New Chief Digital and Information Officer",
+              "summary": "The Ministry of Defence has appointed a new Chief Digital and Information Officer (CDIO), a key leadership role overseeing defence's digital transformation and technology strategy. The appointment signals continued emphasis on digital capability at the heart of UK defence.",
+              "source": "UKAuthority",
+              "url": "https://www.ukauthority.com/articles/mod-appoint-new-cdio",
+              "publishedAt": "2026-08-25"
+            },
+            {
+              "title": "📄 Research Report — Building No. 10 North (Re:State, July 2026)",
+              "summary": "Re:State think tank has published a detailed blueprint for Burnham's flagship 'Number 10 North' institution, based in Manchester. Key signals: (1) Four proposed core units — Devolution, Subnational Investment & Growth, System Democratisation, and Local Public Services Innovation; (2) A Prime Minister's Transformation Directorate comprising Strategy, Policy, and Delivery units; (3) A 'devolve by default' framework requiring departments to annually assess which functions should be transferred to subnational government; (4) Initial staffing target of ~300 by end of 18-month mobilisation phase; (5) Social value procurement weighting, fiscal devolution, and Homes England restructure identified as early priority actions.",
+              "source": "Re:State (re-state.co.uk)",
+              "url": "https://re-state.co.uk/wp-content/uploads/2026/07/Building-No-10-North.pdf",
+              "publishedAt": "2026-07-01"
+            }
+          ]
+        },
+        {
+          "id": "parliament",
+          "name": "Parliament",
+          "description": "House of Commons, House of Lords, PMQs, debates, legislation",
+          "stories": [
+            {
+              "title": "UCL Constitution Unit: Ten Things to Watch Under Burnham in Parliament This Autumn",
+              "summary": "The UCL Constitution Unit published a detailed analysis of what to look out for when Parliament returns under PM Burnham this autumn, including: Lords reform (replacing it with a Senate of Nations and Regions), parliamentary committee elections for seats vacated by new ministers, and Burnham's posture on electoral reform.",
+              "source": "UCL Constitution Unit Blog",
+              "url": "https://blogs.ucl.ac.uk/constitution-unit/2026/08/27/parliament-under-andy-burnham-ten-things-to-look-out-for-this-autumn/",
+              "publishedAt": "2026-08-27"
+            },
+            {
+              "title": "JCHR Report: Children's Social Care System Failing to Support Young Adults Starting Life",
+              "summary": "The Joint Committee on Human Rights published a report warning that the children's social care system is failing to support young adults transitioning to independence. The JCHR report calls for urgent legislative action to close gaps in the care-leaving support framework.",
+              "source": "UK Parliament (JCHR)",
+              "url": "https://committees.parliament.uk/committee/93/human-rights-joint-committee/news/217424/childrens-social-care-system-failing-to-support-young-adults-starting-life-jchr-report-warns/",
+              "publishedAt": "2026-08-27"
+            },
+            {
+              "title": "Parliament Remains in Summer Recess — Returns in Autumn",
+              "summary": "Both the House of Commons and House of Lords remain in summer recess. Parliament is expected to return in September/October, when opposition parties plan to intensify scrutiny of Burnham's first months in office.",
+              "source": "UK Parliament",
+              "url": "https://www.parliament.uk/business/",
+              "publishedAt": "2026-08-27"
+            }
+          ]
+        },
+        {
+          "id": "labour",
+          "name": "Labour Party",
+          "description": "Party news, policy, internal politics",
+          "stories": [
+            {
+              "title": "Burnham Drops Support for Political Funding Cap Aimed at Curbing Mega-Donors",
+              "summary": "PM Andy Burnham has dropped support for a cap on political donations included in the Elections Bill, reversing a stance that had been intended to limit the influence of large donors. The move attracted criticism from party reformers who fear it leaves Labour exposed to big-money influence.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/26/burnham-political-donations-influence-elections-bill",
+              "publishedAt": "2026-08-26"
+            },
+            {
+              "title": "Guardian View: Burnham Backs Electoral Reform but Won't Legislate Without a Mandate",
+              "summary": "Downing Street confirmed that Burnham does personally back electoral reform, but accepts there is 'no mandate to legislate this side of a general election' — a position that is testing patience among Labour MPs who want action now given the fragmented polling landscape.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/commentisfree/2026/aug/26/the-guardian-view-on-electoral-reform-dont-wait-for-a-crisis-to-fix-a-broken-system",
+              "publishedAt": "2026-08-26"
+            },
+            {
+              "title": "UCL Blog Flags Committee By-elections for Seats Vacated by New Labour Ministers",
+              "summary": "The UCL Constitution Unit blog (published 27 Aug) noted that MPs appointed as ministers — including Andy Slaughter (Justice) and Sarah Owen (Women and Equalities) — have left parliamentary committee seats vacant, triggering formal committee by-elections when Parliament returns.",
+              "source": "UCL Constitution Unit Blog",
+              "url": "https://blogs.ucl.ac.uk/constitution-unit/2026/08/27/parliament-under-andy-burnham-ten-things-to-look-out-for-this-autumn/",
+              "publishedAt": "2026-08-27"
+            }
+          ]
+        },
+        {
+          "id": "conservatives",
+          "name": "Conservative Party",
+          "description": "Party news, leadership, opposition",
+          "stories": [
+            {
+              "title": "Jenrick Launches 'Pack of Lies' Personal Attack on Kemi Badenoch",
+              "summary": "Former Home Secretary Robert Jenrick has launched an unusually personal public attack on Conservative leader Kemi Badenoch, calling her claims about a meeting with Italian PM Meloni a 'pack of lies'. The intervention deepens apparent divisions within the Conservative Party.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/26/robert-jenrick-personal-attack-kemi-badenoch-lies",
+              "publishedAt": "2026-08-26"
+            },
+            {
+              "title": "Badenoch to Reshuffle Shadow Cabinet After Restless Backbenchers Apply Pressure",
+              "summary": "Kemi Badenoch is planning a shadow cabinet reshuffle ahead of Parliament's return, driven partly by restless Conservative backbenchers demanding changes. The reshuffle is seen as an attempt to tighten opposition messaging ahead of autumn PMQs.",
+              "source": "The Independent",
+              "url": "https://www.the-independent.com/voices/kemi-badenoch-reshuffle-uk-politics-conservatives-b3039584.html",
+              "publishedAt": "2026-08-26"
+            },
+            {
+              "title": "Meloni and Badenoch Under Pressure After Rome Meeting; Jenrick Claims Conspiracy",
+              "summary": "Conservative leader Kemi Badenoch met Italian PM Giorgia Meloni in Rome on 24 August for an informal meeting, but both are now under pressure amid conflicting accounts of what was discussed. Jenrick has accused Badenoch of misleading the party about the nature of the meeting.",
+              "source": "Brussels Signal / The Guardian",
+              "url": "https://brusselssignal.eu/2026/08/meloni-and-badenoch-under-pressure-after-rome-meeting/",
+              "publishedAt": "2026-08-26"
+            }
+          ]
+        },
+        {
+          "id": "lib-dems",
+          "name": "Liberal Democrats",
+          "description": "Party news, policy positions",
+          "stories": [
+            {
+              "title": "Ed Davey Calls for Suspension of Councillors Who Compared Liverpool Station to Auschwitz",
+              "summary": "Lib Dem leader Ed Davey called for the suspension of two councillors — one of whom reportedly compared a Liverpool station to a death camp — pending investigation. The incident has caused cross-party condemnation and prompted a formal investigation request from Mayor Steve Rotheram.",
+              "source": "BBC News / Politico",
+              "url": "https://www.bbc.co.uk/news/articles/cddv43g355no",
+              "publishedAt": "2026-08-27"
+            },
+            {
+              "title": "Davey Urges Burnham to Confront Trump Over Ukraine 'Lies'",
+              "summary": "Lib Dem leader Ed Davey called on PM Burnham to challenge US President Trump in 'the strongest possible terms' over what the party described as Trump's lies about Ukraine. The intervention comes as Burnham prepares for diplomatic engagements involving the US.",
+              "source": "Sky News",
+              "url": "https://news.sky.com/story/politics-latest-burnham-to-provide-ukraine-with-blueprints-for-long-range-missiles-as-he-travels-to-kyiv-12593360",
+              "publishedAt": "2026-08-26"
+            }
+          ]
+        },
+        {
+          "id": "reform-uk",
+          "name": "Reform UK",
+          "description": "Nigel Farage, party news and announcements",
+          "stories": [
+            {
+              "title": "Farage Faces Polling Hit From Restore Britain — Either Way, Politico Analysis",
+              "summary": "A Politico analysis (published 27 Aug) finds Nigel Farage faces a polling dilemma: whether or not Reform UK does a deal with the new Restore Britain party, the party's poll share suffers. The poll shows 93% of Reform voters at the last election would vote Reform again without a pact, falling to 83% with one.",
+              "source": "Politico",
+              "url": "https://www.politico.eu/article/deal-or-no-deal-nigel-farage-reform-uk-faces-polling-hit-from-restore-britain-either-way/",
+              "publishedAt": "2026-08-27"
+            },
+            {
+              "title": "Reform UK Slumps to Lowest Poll Rating in 18 Months — Farage's By-election Win Fails to Boost Party",
+              "summary": "Reform UK has slumped to its lowest opinion poll rating in 18 months, with new polling putting the party significantly below its recent peak. Nigel Farage's by-election win in Clacton failed to translate into a national polling bounce.",
+              "source": "The Independent",
+              "url": "https://www.the-independent.com/news/uk/politics/nigel-farage-reform-uk-poll-labour-b3039556.html",
+              "publishedAt": "2026-08-27"
+            },
+            {
+              "title": "Restore Britain Taken Seriously by Pollsters as New Right-Wing Challenger Emerges",
+              "summary": "The new Restore Britain party, founded by former Reform UK members including Rupert Lowe, is now being included in major polling exercises. Surveys show it polling at 3-7%, creating a split on the right that could damage both Reform and Conservative vote shares.",
+              "source": "The Independent",
+              "url": "https://www.the-independent.com/news/uk/politics/restore-britain-nigel-farage-rupert-lowe-polling-polls-b3039551.html",
+              "publishedAt": "2026-08-27"
+            }
+          ]
+        },
+        {
+          "id": "snp",
+          "name": "SNP",
+          "description": "Scottish National Party, Scottish politics",
+          "stories": [
+            {
+              "title": "Channel 5 Drama Commissioned on How Nicola Sturgeon's Husband Stole SNP Funds",
+              "summary": "Channel 5 has commissioned a drama exploring how Peter Murrell — Nicola Sturgeon's estranged husband — embezzled £400,000 from the SNP over 12 years. Murrell was jailed earlier in 2026 following his guilty plea, and the programme will draw on the Operation Branchform investigation.",
+              "source": "The Guardian / Herald Scotland",
+              "url": "https://www.theguardian.com/politics/2026/aug/26/channel-5-drama-nicola-sturgeon-peter-murrell-snp",
+              "publishedAt": "2026-08-26"
+            },
+            {
+              "title": "Andy Burnham Is Most Popular Politician in Scotland, Poll Finds",
+              "summary": "A new Herald Scotland poll finds that PM Andy Burnham is now the most popular politician in Scotland. The same poll shows the SNP moving from 31% to 34% support, while Reform UK dropped from 21% to 18%. The result raises questions about Burnham's potential appeal in a future independence referendum context.",
+              "source": "Herald Scotland",
+              "url": "https://www.heraldscotland.com/news/26498939.andy-burnham-popular-politician-scotland/",
+              "publishedAt": "2026-08-27"
+            },
+            {
+              "title": "Drama About Nicola Sturgeon and Peter Murrell Coming to TV",
+              "summary": "A full TV drama has been confirmed exploring the relationship between former SNP first minister Nicola Sturgeon and her now-jailed husband Peter Murrell, who was convicted of embezzling £400,000 from SNP party funds. The commission is a significant moment for Scottish political culture.",
+              "source": "Herald Scotland",
+              "url": "https://www.heraldscotland.com/news/26497667.drama-nicola-sturgeon-peter-murrell-coming-tv/",
+              "publishedAt": "2026-08-26"
+            }
+          ]
+        },
+        {
+          "id": "cabinet-office",
+          "name": "Cabinet Office",
+          "description": "Government reshuffles, senior appointments, cross-department policy",
+          "stories": [
+            {
+              "title": "Cabinet Office Launches Consultation on Digital ID for Public Services",
+              "summary": "The Cabinet Office has launched a public consultation on how digital ID should be used to make public services quicker, easier and more accessible. The consultation signals that the Burnham government is moving ahead with the digital identity agenda inherited from the Starmer administration.",
+              "source": "GOV.UK Cabinet Office",
+              "url": "https://www.gov.uk/government/organisations/cabinet-office",
+              "publishedAt": "2026-08-27"
+            },
+            {
+              "title": "Government Orders Public Spending Must 'Back British Jobs and Skills in Every Postcode'",
+              "summary": "The Cabinet Office has issued guidance requiring that public procurement must support British jobs and skills across all regions. This formalises the Burnham government's 'Buy British' procurement stance, which is now being operationalised through updated procurement rules.",
+              "source": "GOV.UK Cabinet Office",
+              "url": "https://www.gov.uk/government/organisations/cabinet-office",
+              "publishedAt": "2026-08-27"
+            },
+            {
+              "title": "UCL Blog: No 10 North Flagship Among Burnham's Key Parliamentary Autumn Priorities",
+              "summary": "The UCL Constitution Unit blog (published today) identifies Burnham's No. 10 North project in Manchester as one of the key governance developments to watch this autumn, alongside Lords reform and the devolution programme. The blog notes that Burnham plans to work from No 10 North at least one day per week.",
+              "source": "UCL Constitution Unit Blog",
+              "url": "https://blogs.ucl.ac.uk/constitution-unit/2026/08/27/parliament-under-andy-burnham-ten-things-to-look-out-for-this-autumn/",
+              "publishedAt": "2026-08-27"
+            }
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "Elections & By-elections",
+          "description": "Upcoming or recent election results, polls",
+          "stories": [
+            {
+              "title": "Five UK Local By-elections Held Today (27 August 2026)",
+              "summary": "Five local council by-elections are being contested across England today, including Guston, Kingsdown and St Margaret's-at-Cliffe in Dover (Kent), caused by the resignation of Conservative councillor Martin Bates. Candidates include representatives from Reform UK and the new Restore Britain party. Results expected overnight.",
+              "source": "Andrew Teale's Previews (Substack)",
+              "url": "https://andrewspreviews.substack.com/p/previewing-the-five-by-elections-d0a",
+              "publishedAt": "2026-08-26"
+            },
+            {
+              "title": "Reform UK Polling at Lowest in 18 Months as Restore Britain Emerges as Third Force",
+              "summary": "New polling shows Reform UK at its lowest approval rating in 18 months, with the Restore Britain party — founded by Rupert Lowe and other ex-Reform figures — now being included in mainstream polls at 3-7%. The split on the right has significant implications for by-election and general election arithmetic.",
+              "source": "The Independent / Politico",
+              "url": "https://www.the-independent.com/news/uk/politics/nigel-farage-reform-uk-poll-labour-b3039556.html",
+              "publishedAt": "2026-08-27"
+            },
+            {
+              "title": "Electoral Reform Debate: Burnham Backs PR but Says No Mandate to Legislate",
+              "summary": "The Guardian's editorial board called on Burnham not to wait for a crisis to fix the broken first-past-the-post system, as Downing Street confirmed he personally supports electoral reform but believes there is no mandate for legislation before the next election.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/commentisfree/2026/aug/26/the-guardian-view-on-electoral-reform-dont-wait-for-a-crisis-to-fix-a-broken-system",
+              "publishedAt": "2026-08-26"
+            }
+          ]
+        },
+        {
+          "id": "house-of-lords",
+          "name": "House of Lords",
+          "description": "Lords debates, reform, appointments",
+          "stories": [
+            {
+              "title": "Burnham Committed to Replacing House of Lords with 'Senate of the Nations and Regions'",
+              "summary": "The UCL Constitution Unit blog (published today, 27 Aug) confirms that PM Burnham has made a public commitment to replacing the House of Lords with a 'Senate of the Nations and Regions' — a federalist-style second chamber representing devolved nations and English regions. It lists this as one of the key constitutional developments to watch this autumn.",
+              "source": "UCL Constitution Unit Blog",
+              "url": "https://blogs.ucl.ac.uk/constitution-unit/2026/08/27/parliament-under-andy-burnham-ten-things-to-look-out-for-this-autumn/",
+              "publishedAt": "2026-08-27"
+            },
+            {
+              "title": "Lords Reform: Project Nutcracker Tests Constitutional Limits of Parliamentary Sovereignty",
+              "summary": "A new legal analysis examines the UK government's 'Project Nutcracker' proposal, which would use parliamentary sovereignty to shield major energy project consents (Development Consent Orders) from judicial review. This raises fundamental constitutional questions about the role of the Lords and courts in scrutinising government.",
+              "source": "Mondaq (UK Energy & Natural Resources)",
+              "url": "https://www.mondaq.com/uk/energy-and-natural-resources/1834804/project-nutcracker-can-parliament-rubber-stamp-a-dco-to-make-it-legally-unchallengeable",
+              "publishedAt": "2026-08-27"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-08-26",
       "lastUpdated": "2026-08-26T16:00:00+10:00",
