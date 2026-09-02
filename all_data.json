@@ -1,6 +1,292 @@
 {
-  "lastUpdated": "2026-08-28T16:00:00+10:00",
+  "lastUpdated": "2026-09-02T16:00:00+10:00",
   "editions": [
+    {
+      "date": "2026-09-02",
+      "lastUpdated": "2026-09-02T16:00:00+10:00",
+      "topics": [
+        {
+          "id": "pm-no10",
+          "name": "PM & No. 10",
+          "description": "Prime Minister & Downing Street",
+          "stories": [
+            {
+              "title": "Burnham blames Brexit and Thatcher in landmark first Commons address as PM",
+              "summary": "Andy Burnham made his first statement to the House of Commons as Prime Minister, pledging devolution deals and 'stronger public control' of essential services, and blaming Brexit for a 'decade of low growth'. He promised to be 'relentless' in bringing public ownership of water and hinted at approving North Sea oil and gas projects.",
+              "source": "The Guardian / BBC News",
+              "url": "https://www.theguardian.com/politics/2026/sep/01/burnham-promises-to-bring-optimism-and-substantial-change-in-first-commons-speech-as-pm",
+              "publishedAt": "2026-09-01"
+            },
+            {
+              "title": "UK long-term borrowing costs hit 28-year high ahead of October Budget",
+              "summary": "Long-term government gilt yields have risen to their highest level since 1998, putting immediate pressure on Burnham's first Budget next month and limiting fiscal headroom for his spending plans.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/c8d39vq779no",
+              "publishedAt": "2026-09-01"
+            },
+            {
+              "title": "Burnham's ambitious plans 'need room to breathe' \u2013 but Westminster suffocates change",
+              "summary": "A Guardian analysis warns that Burnham's devolution agenda and No. 10 North vision face structural resistance from Whitehall, even as the PM tries to rebalance England's centre of gravity away from London.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/commentisfree/2026/sep/01/andy-burnham-plans-westminster-change-summer-prime-minister",
+              "publishedAt": "2026-09-01"
+            }
+          ]
+        },
+        {
+          "id": "burnham-intel",
+          "name": "Burnham Gov Intelligence",
+          "description": "Procurement, tech/AI, spending, vendor & priority signals",
+          "stories": [
+            {
+              "title": "\ud83e\udd16 UK government launches \u00a3100m Sovereign AI R&D procurement scheme for startups",
+              "summary": "The Burnham government has opened the first procurement competitions under its Sovereign AI R&D Scheme, backed by up to \u00a3100m, covering four challenge areas: compute efficiency, AI in defence, safe AI agent adoption, and NHS productivity. Contracts range from \u00a3250k\u2013\u00a310m, with a supplier briefing on 7 September and proposals due 1 October.",
+              "source": "TechMarketView",
+              "url": "https://www.techmarketview.com/news/archive/2026/09/01/ukhotviewsextra-100m-sovereign-ai-rd-scheme-opens-to-uk-startups",
+              "publishedAt": "2026-09-01"
+            },
+            {
+              "title": "\ud83e\udd16 GDS brings in cyber firm to undertake GovAssure audit of One Login",
+              "summary": "The Government Digital Service has commissioned an external cybersecurity firm to audit its One Login platform under the GovAssure framework, following a period in which the platform's security setup faced setbacks and scrutiny.",
+              "source": "PublicTechnology",
+              "url": "https://www.publictechnology.net/2026/09/01/news/gds-brings-in-cyber-firm-to-undertake-govassure-audit-of-one-login/",
+              "publishedAt": "2026-09-01"
+            },
+            {
+              "title": "\ud83e\udd16 UK government plans AI chip purchases to keep British tech firms from relocating to US",
+              "summary": "The government is planning to purchase AI chips and semiconductor equipment from British tech firms to help prevent AI startups from moving to the United States, as part of its broader Sovereign AI agenda.",
+              "source": "Business Post",
+              "url": "https://www.businesspost.ie/article/uk-government-plans-ai-chip-purchases-to-keep-british-tech-firms-from-relocating-to-the-us/",
+              "publishedAt": "2026-09-01"
+            },
+            {
+              "title": "\ud83c\udfd7\ufe0f Capgemini wins \u00a3200m HMRC data warehouse contract \u2014 and questions arise over supplier concentration",
+              "summary": "Capgemini has won the largest contract in HMRC's \u00a3420m Data Warehouse and Integration Transformation (DWIT) programme, worth up to \u00a3200m over five years for legacy data warehouse migration. TechMarketView notes this raises questions about HMRC's dependence on a single supplier.",
+              "source": "TechMarketView",
+              "url": "https://www.techmarketview.com/ukhotviews/archive/2026/08/27/capgemini-wins-200m-hmrc-data-warehouse-contract",
+              "publishedAt": "2026-08-27"
+            },
+            {
+              "title": "\ud83d\udea6 Burnham and Healey punt welfare reforms into long grass \u2014 no major benefits announcements expected before October Budget",
+              "summary": "Order Order reports that despite Labour's election pledges on welfare, Burnham's government is not expected to make any major announcements on the welfare and benefits bill in October's Budget, effectively pausing this reform agenda.",
+              "source": "Order Order",
+              "url": "https://order-order.com/people/andy-burnham/",
+              "publishedAt": "2026-09-01"
+            },
+            {
+              "title": "\ud83e\udd16 Defra trialling Microsoft Copilot to support neurodivergent staff",
+              "summary": "The Department for Environment, Food & Rural Affairs is piloting Microsoft Copilot as a personal AI assistant to support colleagues with neurodivergent needs, one of the first departments to do so.",
+              "source": "UKAuthority",
+              "url": "https://www.ukauthority.com/articles/defra-harvest-copilot-benefits-for-neurodivergent-staff",
+              "publishedAt": "2026-09-01"
+            }
+          ]
+        },
+        {
+          "id": "parliament",
+          "name": "Parliament",
+          "description": "House of Commons & Lords debates, legislation, PMQs",
+          "stories": [
+            {
+              "title": "Burnham makes first Commons address: IPP prisoners, devolution, public services reform",
+              "summary": "PM Burnham addressed the Commons on his first full week as PM, tackling the long-running IPP (Imprisonment for Public Protection) prisoners issue, pledging devolution deals, and indicating early priorities. Tomorrow (2 Sep) will be his first PMQs.",
+              "source": "BBC Parliament / Politico",
+              "url": "https://www.politico.eu/newsletter/london-playbook/london-playbook-pm-rose-garden-tinted/",
+              "publishedAt": "2026-09-01"
+            },
+            {
+              "title": "Public Office (Accountability) Bill \u2014 Second Reading in Lords",
+              "summary": "The House of Lords is considering the second reading of the Public Office (Accountability) Bill, a significant piece of legislation that would tighten standards and accountability requirements for public officials.",
+              "source": "BBC Parliament",
+              "url": "https://www.bbc.co.uk/schedules/p00fzl73",
+              "publishedAt": "2026-09-01"
+            },
+            {
+              "title": "Representation of the People Bill remaining stages in Commons tomorrow",
+              "summary": "The Commons is scheduled to consider the remaining stages of the Representation of the People Bill on 2 September, alongside Burnham's first Prime Minister's Questions.",
+              "source": "Politico (London Playbook)",
+              "url": "https://www.politico.eu/newsletter/london-playbook/london-playbook-pm-rose-garden-tinted/",
+              "publishedAt": "2026-09-01"
+            }
+          ]
+        },
+        {
+          "id": "labour",
+          "name": "Labour Party",
+          "description": "Labour news, policy & internal politics",
+          "stories": [
+            {
+              "title": "Keir Starmer to stand down as MP to focus on international affairs",
+              "summary": "Former Prime Minister Keir Starmer has announced he is resigning his Holborn and St Pancras parliamentary seat, triggering a by-election. Starmer said he wishes to focus on international defence and security work, and combating violence against women and girls.",
+              "source": "The Guardian / Politico",
+              "url": "https://www.theguardian.com/politics/2026/sep/01/keir-starmer-to-stand-down-as-mp",
+              "publishedAt": "2026-09-01"
+            },
+            {
+              "title": "Burnham blames Brexit and Thatcher for UK's 'wrong turns' in first Commons speech",
+              "summary": "In a wide-ranging first Commons address, PM Burnham positioned his government as the corrective to decades of 'wrong turns', blaming Brexit and Thatcherite economics for the UK's low growth trajectory and inequality.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/sep/01/burnham-promises-to-bring-optimism-and-substantial-change-in-first-commons-speech-as-pm",
+              "publishedAt": "2026-09-01"
+            },
+            {
+              "title": "UK social mobility watchdog could be axed as ministers plan shake-up",
+              "summary": "Ministers are reportedly planning a shake-up of social mobility bodies, with the UK's main watchdog potentially facing abolition as the Burnham government reviews arms-length bodies for efficiency.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/labour+politics",
+              "publishedAt": "2026-09-01"
+            }
+          ]
+        },
+        {
+          "id": "conservatives",
+          "name": "Conservative Party",
+          "description": "Conservative news, leadership & opposition",
+          "stories": [
+            {
+              "title": "Badenoch sacks shadow chancellor Mel Stride, names Alex Burghart as deputy Tory leader",
+              "summary": "Conservative leader Kemi Badenoch has reshaped her shadow cabinet, removing shadow chancellor Mel Stride for 'insufficient pugnacity' on Treasury issues, and naming Alex Burghart as deputy Tory leader ahead of Burnham's first parliamentary session.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/live/2026/sep/01/andy-burnham-statement-commons-prison-release-farage-healey-defence-latest-news-updates",
+              "publishedAt": "2026-09-01"
+            },
+            {
+              "title": "Badenoch says Burnham's theory of growth is 'completely wrong'",
+              "summary": "Responding to Burnham's first Commons statement, Kemi Badenoch accused the PM of offering 'more government control, more taxes and more politicians', and argued Conservative economic theory \u2014 not more public intervention \u2014 is the answer to the UK's growth deficit.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cx2z528rdp6o",
+              "publishedAt": "2026-09-01"
+            },
+            {
+              "title": "Badenoch visited Rome and 'fantasised' Meloni told her not to do a deal with Reform",
+              "summary": "Reports emerged that Badenoch's Rome visit to meet Italian PM Giorgia Meloni did not result in any formal signal against a Reform-Conservative pact \u2014 despite Badenoch suggesting as much publicly, leaving her looking 'shell-shocked'.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/sep/01/kier-starmer-last-u-turn-andy-burnham",
+              "publishedAt": "2026-09-01"
+            }
+          ]
+        },
+        {
+          "id": "lib-dems",
+          "name": "Liberal Democrats",
+          "description": "Lib Dem news & policy positions",
+          "stories": [
+            {
+              "title": "Ed Davey calls for national commission on political reform in response to Burnham's Commons address",
+              "summary": "Liberal Democrat leader Sir Ed Davey used his question to PM Burnham to push for a national commission on political reform, arguing that too much power in the UK remains 'in the wrong hands'. Burnham said he does want political reform but gave no firm commitment on a commission.",
+              "source": "BBC News / The Guardian",
+              "url": "https://www.bbc.co.uk/news/articles/cx2z528rdp6o",
+              "publishedAt": "2026-09-01"
+            }
+          ]
+        },
+        {
+          "id": "reform-uk",
+          "name": "Reform UK",
+          "description": "Reform UK & Nigel Farage news",
+          "stories": [
+            {
+              "title": "Farage faces questions over claim of second parliamentary standards investigation",
+              "summary": "Nigel Farage, who resigned as an MP in July citing a second standards investigation into his finances, is now facing scrutiny over that claim \u2014 the watchdog is not believed to have widened the investigation as he alleged. Farage triggered a Clacton by-election when he quit.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/sep/01/nigel-farage-questions-claim-second-standards-investigation",
+              "publishedAt": "2026-09-01"
+            },
+            {
+              "title": "Farage back as MP \u2014 reportedly to spend 'even less time in parliament'",
+              "summary": "After being re-elected in the Clacton by-election, Farage has reportedly told GB News employers he will spend even less time in parliament than before, raising fresh questions about his commitment to his parliamentary duties.",
+              "source": "Politico (London Playbook)",
+              "url": "https://www.politico.eu/newsletter/london-playbook/london-playbook-pm-rose-garden-tinted/",
+              "publishedAt": "2026-09-01"
+            },
+            {
+              "title": "Richard Tice defends Reform UK-led councils over council tax rises and cuts",
+              "summary": "Reform UK deputy leader Richard Tice defended the party's record in councils it now controls, after council tax rises and service cuts emerged in Reform-led authorities \u2014 contradicting Farage's earlier pledge that Reform councils would keep rises lower than rivals.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/ckg87dlejqlo",
+              "publishedAt": "2026-09-01"
+            }
+          ]
+        },
+        {
+          "id": "snp",
+          "name": "SNP",
+          "description": "Scottish National Party & Scottish politics",
+          "stories": [
+            {
+              "title": "SNP to hold private closed-door debate on party governance in wake of Operation Branchform",
+              "summary": "The SNP is expected to hold a behind-closed-doors session to discuss how the party is run and make improvements in the wake of Operation Branchform \u2014 the police investigation into the party's finances that led to the arrest of former chief executive Peter Murrell.",
+              "source": "The Herald Scotland",
+              "url": "https://www.heraldscotland.com/news/26509451.snp-debate-party-operation-wake-murrell-scandal/",
+              "publishedAt": "2026-09-01"
+            },
+            {
+              "title": "Swinney sticks with pledge to cap prices on basic foods in Scotland",
+              "summary": "First Minister John Swinney has reaffirmed the Scottish Government's commitment to capping prices on basic food items, maintaining a flagship SNP policy despite cost pressures.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/uk-news/2026/sep/01/john-swinney-snp-prices-cap-food-scotland",
+              "publishedAt": "2026-09-01"
+            }
+          ]
+        },
+        {
+          "id": "cabinet-office",
+          "name": "Cabinet Office",
+          "description": "Government reshuffles, senior appointments, cross-department policy",
+          "stories": [
+            {
+              "title": "Tech leader Megan Lee-Devlin appointed new CEO of HM Courts and Tribunals Service",
+              "summary": "Megan Lee-Devlin, a technology and digital transformation leader, has been appointed as the new chief executive of HM Courts and Tribunals Service \u2014 signalling a continued focus on digital modernisation in the justice system.",
+              "source": "UKAuthority",
+              "url": "https://www.ukauthority.com/articles/tech-leader-to-head-hm-courts-and-tribunals-service",
+              "publishedAt": "2026-08-28"
+            },
+            {
+              "title": "Ross Maude confirmed as Chief Digital and Information Officer, Cabinet Office",
+              "summary": "TechMarketView's coverage of their upcoming events reveals Ross Maude as CDIO of the Cabinet Office, a key appointment as Burnham's government focuses on digital transformation of central government.",
+              "source": "TechMarketView",
+              "url": "https://www.techmarketview.com/ukhotviews/archive/2026/09/02/tmve26-meet-our-third-panellist",
+              "publishedAt": "2026-09-02"
+            }
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "Elections & By-elections",
+          "description": "Upcoming or recent elections, polls",
+          "stories": [
+            {
+              "title": "Starmer's resignation as MP will trigger by-election in Holborn and St Pancras",
+              "summary": "Keir Starmer's decision to stand down as MP for Holborn and St Pancras will trigger a by-election in a seat he held with an 11,572 majority in 2024, though that majority is expected to be tighter \u2014 with the Greens and left-wing independents mounting strong challenges.",
+              "source": "Politico / The Guardian",
+              "url": "https://www.politico.eu/article/keir-starmer-will-force-by-election-after-quitting-as-member-of-parliament/",
+              "publishedAt": "2026-09-01"
+            }
+          ]
+        },
+        {
+          "id": "house-of-lords",
+          "name": "House of Lords",
+          "description": "Lords debates, reform & appointments",
+          "stories": [
+            {
+              "title": "House of Lords Questions \u2014 Ministers face scrutiny on government priorities",
+              "summary": "Lords held Questions on 1 September, with government ministers facing questions on their priorities. The session followed Burnham's first Commons statement and provides a further parliamentary check on the new PM's agenda.",
+              "source": "BBC Parliament",
+              "url": "https://www.bbc.co.uk/schedules/p00fzl73",
+              "publishedAt": "2026-09-01"
+            },
+            {
+              "title": "Public Office (Accountability) Bill \u2014 Lords consider Part 2",
+              "summary": "The House of Lords continued scrutiny of the Public Office (Accountability) Bill, considering Part 2 of the legislation which addresses accountability standards for those in public life.",
+              "source": "BBC Parliament",
+              "url": "https://www.bbc.co.uk/schedules/p00fzl73",
+              "publishedAt": "2026-09-01"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-08-28",
       "lastUpdated": "2026-08-28T16:00:00+10:00",
