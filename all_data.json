@@ -1,6 +1,313 @@
 {
-  "lastUpdated": "2026-09-03T16:00:00+10:00",
+  "lastUpdated": "2026-09-04T16:00:00+10:00",
   "editions": [
+    {
+      "date": "2026-09-04",
+      "lastUpdated": "2026-09-04T16:00:00+10:00",
+      "topics": [
+        {
+          "id": "pm-no10",
+          "name": "PM & No. 10",
+          "description": "Prime Minister & Downing Street",
+          "stories": [
+            {
+              "title": "Burnham refuses to rule out future tax rises at PMQs",
+              "summary": "Andy Burnham faced Kemi Badenoch at his first Prime Minister's Questions, refusing to commit to ruling out future tax rises and defending his defence spending timeline — committing to NATO's 3.5% target by 2035 rather than 3% by 2030.",
+              "source": "Sky News",
+              "url": "https://news.sky.com/story/politics-latest-burnham-labour-farage-badenoch-reform-macron-12593360",
+              "publishedAt": "2026-09-04"
+            },
+            {
+              "title": "Badenoch accuses Burnham of kicking defence spending into the long grass",
+              "summary": "Burnham committed to NATO's 3.5% defence spending target by 2035 but not 3% by 2030, prompting sharp attacks from Conservative leader Badenoch at PMQs.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/crk3xdv0z71o",
+              "publishedAt": "2026-09-04"
+            },
+            {
+              "title": "Burnham tells Macron EU's 'Made in Europe' agenda poses challenges for UK",
+              "summary": "PM Burnham's talks with French President Macron saw Downing Street warn that the EU's Made in Europe agenda could pose 'significant challenges' for UK trade.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/live/2026/sep/03/andy-burnham-emmanuel-macron-zack-polanski-latest-news-updates",
+              "publishedAt": "2026-09-03"
+            }
+          ]
+        },
+        {
+          "id": "burnham-intel",
+          "name": "Burnham Gov Intelligence",
+          "description": "Procurement, tech/AI, spending, vendor & priority signals",
+          "stories": [
+            {
+              "title": "Warning: UK ministers putting interests of Big Tech ahead of public (2,000+ AI contracts in 8 years)",
+              "summary": "Campaigners warn UK ministers are too closely aligned with major technology companies, after analysis revealed the public sector has awarded over 2,000 AI-related contracts in the past eight years.",
+              "source": "PA Media / AOL",
+              "url": "https://www.aol.com/articles/warning-uk-ministers-putting-interests-090140000.html",
+              "publishedAt": "2026-09-04"
+            },
+            {
+              "title": "MoD signs £23.4m Google Cloud deal for sensitive information",
+              "summary": "The Ministry of Defence has signed a £23.4 million contract with Google Cloud to handle sensitive government data — a significant vendor signal for public sector cloud adoption.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/",
+              "publishedAt": "2026-09-04"
+            },
+            {
+              "title": "Domestic AI firms offered £100m opportunity to improve public services",
+              "summary": "The UK government has opened a £100 million programme targeting domestic AI companies to support public service improvement, signalling a shift toward homegrown AI capability.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/",
+              "publishedAt": "2026-09-04"
+            },
+            {
+              "title": "Government borrowing costs hit fresh highs — markets worried about Burnham's economic programme",
+              "summary": "UK bond market turmoil continues, with borrowing costs reaching new highs. An ex-Burnham adviser warned the markets need him to address the UK's fundamental economic problems.",
+              "source": "Sky News",
+              "url": "https://news.sky.com/story/politics-latest-keir-starmer-labour-iran-war-12593360",
+              "publishedAt": "2026-09-04"
+            },
+            {
+              "title": "New digital devolution programme begins — digital, data and AI skills for local leaders",
+              "summary": "A new digital devolution programme has launched, making digital, data and AI skills and services available to local government leaders across England.",
+              "source": "UKAuthority.com",
+              "url": "https://www.ukauthority.com/articles/new-digital-devolution-programme-begins",
+              "publishedAt": "2026-09-03"
+            }
+          ]
+        },
+        {
+          "id": "parliament",
+          "name": "Parliament",
+          "description": "House of Commons, House of Lords, PMQs, debates, legislation",
+          "stories": [
+            {
+              "title": "Burnham's first PMQs: defence spending clash dominates Commons",
+              "summary": "Andy Burnham faced his first Prime Minister's Questions as PM, with defence spending and tax policy dominating exchanges with Kemi Badenoch and other opposition leaders.",
+              "source": "BBC Parliament",
+              "url": "https://www.bbc.co.uk/programmes/b0070x47",
+              "publishedAt": "2026-09-04"
+            },
+            {
+              "title": "E-petition debate on misogyny as hate crime scheduled",
+              "summary": "The House of Commons is due to debate an e-petition relating to crimes motivated by misogyny and hate crime law, to be opened by Tony Vaughan MP.",
+              "source": "House of Commons Library",
+              "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-11073/",
+              "publishedAt": "2026-09-04"
+            },
+            {
+              "title": "Labour condemns Reform's £100bn cuts plan as 'half-baked'",
+              "summary": "During Commons exchanges, Labour MPs and ministers challenged Reform UK's plan for £100 billion in public spending cuts, calling it 'half-baked and dangerous'.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/live/2026/sep/03/andy-burnham-emmanuel-macron-zack-polanski-latest-news-updates",
+              "publishedAt": "2026-09-03"
+            }
+          ]
+        },
+        {
+          "id": "labour",
+          "name": "Labour Party",
+          "description": "Party news, policy, internal politics",
+          "stories": [
+            {
+              "title": "Labour condemns Reform's £100bn cuts plan as 'half-baked and dangerous'",
+              "summary": "The government hit back at Reform's spending reduction proposals, with ministers warning the plan would cause serious damage to public services.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/live/2026/sep/03/andy-burnham-emmanuel-macron-zack-polanski-latest-news-updates",
+              "publishedAt": "2026-09-03"
+            },
+            {
+              "title": "'Burnham's ambitious plans need room to breathe — Westminster suffocates change'",
+              "summary": "A Guardian commentary argues Burnham's reform programme risks being choked by Westminster's institutional inertia, calling for structural change to how Downing Street operates.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/labour",
+              "publishedAt": "2026-09-02"
+            },
+            {
+              "title": "Battle to succeed Burnham as Greater Manchester mayor heats up",
+              "summary": "Labour's Bev Craig discusses the contest to become Greater Manchester mayor following Burnham's move to Downing Street, calling it 'the dream job'.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/green-party",
+              "publishedAt": "2026-09-03"
+            }
+          ]
+        },
+        {
+          "id": "conservatives",
+          "name": "Conservative Party",
+          "description": "Party news, leadership, opposition",
+          "stories": [
+            {
+              "title": "Badenoch gives keynote defence speech: Tories would raise spending to 3% GDP by 2030",
+              "summary": "Kemi Badenoch outlined the Conservative plan to raise UK defence spending by £10bn a year to reach 3% of GDP by 2030, framing Russia as the primary threat justifying the increase.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/sep/03/kemi-badenoch-russia-defence-spending-tories-labour-sketch-john-crace",
+              "publishedAt": "2026-09-03"
+            },
+            {
+              "title": "Badenoch condemns Reform UK's 'authoritarian' press bans",
+              "summary": "Conservative leader Kemi Badenoch attacked Nigel Farage for banning journalists from Reform events, calling it 'authoritarian' and demanding he answer questions about the party's finances.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/sep/03/kemi-badenoch-farage-state-power-reform",
+              "publishedAt": "2026-09-03"
+            },
+            {
+              "title": "Guardian editorial: Badenoch's economic plan 'stuck in the Tory comfort zone'",
+              "summary": "The Guardian's editorial board argued Badenoch's choice of a new shadow chancellor reflects a lack of insight into why the Conservatives were defeated at the last general election.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/conservatives",
+              "publishedAt": "2026-09-02"
+            }
+          ]
+        },
+        {
+          "id": "lib-dems",
+          "name": "Liberal Democrats",
+          "description": "Party news, policy positions",
+          "stories": [
+            {
+              "title": "Ed Davey calls for police and Electoral Commission to investigate Reform",
+              "summary": "Lib Dem leader Ed Davey demanded a formal investigation by police and the Electoral Commission after Channel 4's undercover film exposed alleged plotting by Reform officials to circumvent foreign donations law.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/sep/03/reform-officials-plotted-to-break-law-on-foreign-donations-in-undercover-film",
+              "publishedAt": "2026-09-03"
+            },
+            {
+              "title": "Lib Dems join chorus of condemnation over Reform donation scandal",
+              "summary": "Ed Davey was among senior party leaders condemning the Reform UK revelations, with the story dominating political debate across Westminster.",
+              "source": "Politico",
+              "url": "https://www.politico.eu/newsletter/london-playbook/london-playbook-pm-pint-and-cigarette-time/",
+              "publishedAt": "2026-09-04"
+            }
+          ]
+        },
+        {
+          "id": "reform-uk",
+          "name": "Reform UK",
+          "description": "Nigel Farage, party news and announcements",
+          "stories": [
+            {
+              "title": "Reform officials filmed 'plotting to break law on foreign donations' — Channel 4 undercover investigation",
+              "summary": "A Channel 4 News undercover investigation captured Nigel Farage and senior Reform figures allegedly discussing ways to circumvent laws on foreign political donations. Police have confirmed they are aware of the matter.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/sep/03/reform-officials-plotted-to-break-law-on-foreign-donations-in-undercover-film",
+              "publishedAt": "2026-09-03"
+            },
+            {
+              "title": "Farage senior aide filmed suggesting way to avoid donations law",
+              "summary": "BBC News reports a Farage aide was specifically captured on film suggesting methods to circumvent political donation rules, deepening the scandal for Reform UK.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cr50ddzl97qo",
+              "publishedAt": "2026-09-04"
+            },
+            {
+              "title": "Reform decries undercover film as a 'hoax'",
+              "summary": "Reform UK has denied wrongdoing and called the Channel 4 documentary a 'hoax', while facing mounting pressure from all major parties, law enforcement, and the Electoral Commission.",
+              "source": "Sky News",
+              "url": "https://news.sky.com/story/politics-latest-burnham-labour-farage-badenoch-reform-macron-12593360",
+              "publishedAt": "2026-09-04"
+            }
+          ]
+        },
+        {
+          "id": "snp",
+          "name": "SNP",
+          "description": "Scottish National Party, Scottish politics",
+          "stories": [
+            {
+              "title": "SNP to discuss governance reform following Peter Murrell embezzlement case",
+              "summary": "The SNP is meeting to reform its internal governance structures following the scandal and conviction of former CEO Peter Murrell for embezzlement.",
+              "source": "The Herald Scotland",
+              "url": "https://www.heraldscotland.com/politics/holyrood/26517164.peter-murrell-scandal-can-snp-really-reform/",
+              "publishedAt": "2026-09-03"
+            },
+            {
+              "title": "Social care leaders warn over John Swinney's NHS reform plans",
+              "summary": "First Minister Swinney's plans to integrate social care into the NHS have drawn urgent warnings from social care leaders, who say they were given no advance notice and fear social care will be 'swallowed up' by the health service.",
+              "source": "The Herald Scotland",
+              "url": "https://www.heraldscotland.com/news/26516965.social-care-leaders-warn-john-swinney-nhs-reforms/",
+              "publishedAt": "2026-09-03"
+            },
+            {
+              "title": "Swinney and Reform's Offord clash over homeless refugees at FMQs",
+              "summary": "At First Minister's Questions in Holyrood, John Swinney accused Reform Scotland leader Malcolm Offord of exploiting legitimate immigration concerns.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/live/cm8xk4d2r5x8t",
+              "publishedAt": "2026-09-03"
+            }
+          ]
+        },
+        {
+          "id": "cabinet-office",
+          "name": "Cabinet Office",
+          "description": "Government reshuffles, senior appointments, cross-department policy",
+          "stories": [
+            {
+              "title": "Preet Gill appointed Minister for Safety and Health Innovation",
+              "summary": "Cabinet Office minutes confirm Preet Gill has been appointed Minister for Safety and Health Innovation following a government reshuffle.",
+              "source": "GOV.UK",
+              "url": "https://www.gov.uk/government/publications/food-standards-agency-september-2026-board-meeting/minutes-of-the-food-standards-agency-board-meeting-17-june-2026",
+              "publishedAt": "2026-09-04"
+            },
+            {
+              "title": "No. 10 advertises for Chief Communications Officer",
+              "summary": "The government is recruiting a Chief Communications Officer for No. 10's Communications Team — a senior role central to managing Downing Street's public messaging.",
+              "source": "Civil Service Jobs",
+              "url": "https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=2012056",
+              "publishedAt": "2026-09-04"
+            },
+            {
+              "title": "Immigration rules updated — Statement of Changes HC 584 published",
+              "summary": "The government published an explanatory memorandum to the latest statement of changes in immigration rules (HC 584, 3 September 2026).",
+              "source": "GOV.UK",
+              "url": "https://www.gov.uk/government/publications/statement-of-changes-to-the-immigration-rules-hc-584-3-september-2026/explanatory-memorandum-to-the-statement-of-changes-in-immigration-rules-hc-584-3-september-2026-accessible",
+              "publishedAt": "2026-09-03"
+            }
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "Elections & By-elections",
+          "description": "Upcoming or recent election results, polls",
+          "stories": [
+            {
+              "title": "Zack Polanski to stand in Holborn & St Pancras by-election (Starmer's old seat)",
+              "summary": "Green Party co-leader Zack Polanski has confirmed he will contest the by-election for Keir Starmer's former Holborn & St Pancras seat. Starmer held the seat with an 11,572 majority in 2024; Labour is expected to hold on based on current polling.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cge41ee40vwo",
+              "publishedAt": "2026-09-03"
+            },
+            {
+              "title": "Greens' Polanski pitches his case in high-profile London contest",
+              "summary": "Politico reports Green co-leader Polanski is positioning the by-election as a chance to hold Labour to account from the left in a nationally watched London contest.",
+              "source": "Politico",
+              "url": "https://www.politico.eu/article/uk-green-leader-zack-polanski-pitches-for-keir-starmer-seat/",
+              "publishedAt": "2026-09-03"
+            }
+          ]
+        },
+        {
+          "id": "house-of-lords",
+          "name": "House of Lords",
+          "description": "Lords debates, reform, appointments",
+          "stories": [
+            {
+              "title": "House of Lords to debate UK fiscal outlook on 10 September",
+              "summary": "The House of Lords Library has published a briefing ahead of a scheduled Lords debate on the UK's fiscal outlook — particularly timely given recent bond market turbulence and rising borrowing costs.",
+              "source": "House of Lords Library",
+              "url": "https://lordslibrary.parliament.uk/uk-fiscal-outlook/",
+              "publishedAt": "2026-09-04"
+            },
+            {
+              "title": "Anas Sarwar takes his seat in the House of Lords",
+              "summary": "Former Scottish Labour leader Anas Sarwar, now Lord Sarwar, has taken his seat in the unelected upper chamber, having led the Scottish Labour party for more than five years.",
+              "source": "The Herald Scotland",
+              "url": "https://www.heraldscotland.com/news/national/26518829.former-scottish-labour-leader-anas-sarwar-takes-lords-seat/",
+              "publishedAt": "2026-09-04"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-03",
       "lastUpdated": "2026-09-03T16:00:00+10:00",
