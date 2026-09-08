@@ -1,6 +1,263 @@
 {
-  "lastUpdated": "2026-09-07T16:00:00+10:00",
+  "lastUpdated": "2026-09-08T16:00:00+10:00",
   "editions": [
+    {
+      "date": "2026-09-08",
+      "lastUpdated": "2026-09-08T16:00:00+10:00",
+      "topics": [
+        {
+          "id": "pm-no10",
+          "name": "PM & No. 10",
+          "description": "Prime Minister & Downing Street",
+          "stories": [
+            {
+              "title": "Burnham Holds National Economic Council Meeting at No 10 North",
+              "summary": "Prime Minister Andy Burnham convened a National Economic Council meeting at No 10 North in Manchester, reinforcing his commitment to 'good growth in every postcode' and signalling devolution of economic decision-making away from Westminster.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/labour+politics",
+              "publishedAt": "2026-09-08"
+            },
+            {
+              "title": "UK Ministers Encouraged to Take More Legal Risks to Push Through Policies",
+              "summary": "Burnham has stressed he wants ministers to take more decisions away from quangos and officials, with Chancellor Reeves saying there is 'an appetite to get things done across government'. The move signals a more activist ministerial approach.",
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/97477741-5227-4783-ab30-2b94090b4d43",
+              "publishedAt": "2026-09-08"
+            },
+            {
+              "title": "Hamish Falconer Holds First Meeting With EU's Maro\u0161 \u0160ef\u010dovi\u010d",
+              "summary": "Hamish Falconer, appointed by Andy Burnham as minister for EU relations, held his first official meeting with EU opposite number Maro\u0161 \u0160ef\u010dovi\u010d, marking an early step in Burnham's approach to UK-EU relations.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/live/2026/sep/07/uk-politics-live-john-healey-economy-portsmouth-immigration-protests-latest-news-updates",
+              "publishedAt": "2026-09-07"
+            }
+          ]
+        },
+        {
+          "id": "burnham-intel",
+          "name": "Burnham Gov Intelligence",
+          "description": "Procurement, tech/AI, spending, vendor & priority signals",
+          "stories": [
+            {
+              "title": "Chancellor: Public Sector Procurement to Drive AI Innovation",
+              "summary": "Chancellor John Healey announced that public sector procurement will be used to drive AI innovation, with contracts addressing health, national security, cyber resilience, and computing infrastructure. Domestic AI firms have been offered a \u00a3100m opportunity to help improve public services.",
+              "source": "UKAuthority / PublicTechnology",
+              "url": "https://www.ukauthority.com/articles/public-sector-procurement-to-drive-ai-innovation-chancellor",
+              "publishedAt": "2026-09-04"
+            },
+            {
+              "title": "GOV.UK Wallet Opens Sandbox for Digital ID Firms",
+              "summary": "The GOV.UK Wallet has opened a sandbox environment for digital identity firms, accelerating the government's digital identity programme and inviting private sector tech vendors to integrate with the platform.",
+              "source": "PublicTechnology",
+              "url": "https://www.publictechnology.net/2026/09/07/science-technology-and-research/gov-uk-wallet-opens-sandbox-for-digital-id-firms/",
+              "publishedAt": "2026-09-07"
+            },
+            {
+              "title": "TechMarketView: UK Cybersecurity Market Trends and Forecasts 2026",
+              "summary": "TechMarketView published new research on UK cybersecurity market trends and forecasts for 2026, providing insight into the public sector tech market landscape and supplier positioning as government procurement accelerates.",
+              "source": "TechMarketView",
+              "url": "https://www.techmarketview.com/ukhotviews/archive/2026/09/08/new-research-uk-cybersecurity-market-trends-and-forecasts-2026",
+              "publishedAt": "2026-09-08"
+            }
+          ]
+        },
+        {
+          "id": "parliament",
+          "name": "Parliament",
+          "description": "House of Commons, Lords, PMQs & Legislation",
+          "stories": [
+            {
+              "title": "Policing Minister Makes Statement on 'Intimidating and Thuggish' Anti-Migrant Protests",
+              "summary": "Policing minister Sarah Jones addressed the House of Commons on anti-migrant protests in Portsmouth and other locations, stating those responsible 'should face the full force of the law'. The statement followed a weekend of unrest.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/live/2026/sep/07/uk-politics-live-john-healey-economy-portsmouth-immigration-protests-latest-news-updates",
+              "publishedAt": "2026-09-07"
+            },
+            {
+              "title": "Bill Launched to Ban Non-Healthcare Professionals from Performing Circumcisions",
+              "summary": "A parliamentary proposal to ban anyone who is not a healthcare professional from performing circumcisions has been launched in parliament, following the deaths of baby boys. The legislation has cross-party support.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/live/2026/sep/07/uk-politics-live-john-healey-economy-portsmouth-immigration-protests-latest-news-updates",
+              "publishedAt": "2026-09-07"
+            },
+            {
+              "title": "Government Announces Major Policy U-Turn \u2014 PLP Reaction",
+              "summary": "According to Politico's London Playbook, the government announced a significant policy U-turn, prompting a reaction from the Parliamentary Labour Party. Details of the reversal were circulating in Westminster.",
+              "source": "Politico",
+              "url": "https://www.politico.eu/newsletter/london-playbook/london-playbook-pm-plp-this-is-hardcore/",
+              "publishedAt": "2026-09-08"
+            }
+          ]
+        },
+        {
+          "id": "labour",
+          "name": "Labour Party",
+          "description": "Labour party news, policy & internal politics",
+          "stories": [
+            {
+              "title": "Burnham Government Presented as More Left-Wing Than Starmer's",
+              "summary": "Andy Burnham is presenting his new government as more left-wing than Keir Starmer's administration, with sources indicating several key policy shifts are set to be approved by ministers this month.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/labour+politics",
+              "publishedAt": "2026-09-08"
+            },
+            {
+              "title": "Yvette Cooper Says Labour 'Did Not Do Government Very Well' Under Starmer",
+              "summary": "Former Home Secretary Yvette Cooper has candidly admitted that the Labour Party 'did not do government very well' under Keir Starmer, in remarks that are being widely discussed within the party.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/keir-starmer",
+              "publishedAt": "2026-09-08"
+            },
+            {
+              "title": "Healey Details Growth Plans Ahead of First Budget",
+              "summary": "Chancellor John Healey outlined plans to spread growth more widely across the UK ahead of his first Budget, while acknowledging that 'Britain's growth trajectory has been weak' and that this 'must change'.",
+              "source": "BBC News",
+              "url": "https://www.bbc.com/news/topics/crr7mlg0dg1t",
+              "publishedAt": "2026-09-08"
+            }
+          ]
+        },
+        {
+          "id": "conservatives",
+          "name": "Conservative Party",
+          "description": "Conservative Party news, leadership & opposition",
+          "stories": [
+            {
+              "title": "Kemi Badenoch Condemns Reform UK's 'Authoritarian' Press Bans",
+              "summary": "Conservative leader Kemi Badenoch criticised Nigel Farage's Reform UK, saying the party would 'seek to abuse state power', as she also defended her housing benefit plans. The intervention highlighted the contest for the right-wing vote.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/sep/03/kemi-badenoch-farage-state-power-reform",
+              "publishedAt": "2026-09-07"
+            },
+            {
+              "title": "Shadow Chancellor Criticises Healey's Economic Speech",
+              "summary": "Shadow Chancellor Andrew Griffith said Healey failed to address 'any of the big issues' in his economic speech, including 'ruinously high energy costs' and welfare reform, and called on the government to rule out tax rises ahead of the Budget.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/live/c6x2z89exk4kt",
+              "publishedAt": "2026-09-07"
+            },
+            {
+              "title": "Guardian: Badenoch's Economic Plan 'Stuck in the Tory Comfort Zone'",
+              "summary": "The Guardian editorial board argued that Kemi Badenoch's economic plans remain too focused on traditional Conservative positions and fail to offer a credible alternative to the Burnham government's agenda.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/commentisfree/2026/sep/02/the-guardian-view-on-kemi-badenoch-and-the-economy-a-plan-stuck-in-the-tory-comfort-zone",
+              "publishedAt": "2026-09-07"
+            }
+          ]
+        },
+        {
+          "id": "lib-dems",
+          "name": "Liberal Democrats",
+          "description": "Liberal Democrat news & policy",
+          "stories": []
+        },
+        {
+          "id": "reform-uk",
+          "name": "Reform UK",
+          "description": "Reform UK & Nigel Farage",
+          "stories": [
+            {
+              "title": "A Reform UK Without Nigel Farage 'Used to Be Unthinkable. Not Any More'",
+              "summary": "The Guardian reports that Farage's position within Reform UK is increasingly being questioned following a series of scandals, with analysis suggesting the party could survive and potentially thrive without its current leader.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/commentisfree/2026/sep/07/reform-uk-nigel-farage-scandals",
+              "publishedAt": "2026-09-07"
+            },
+            {
+              "title": "Farage Rejects Foreign Funding Claims as Two Reform UK Aides Suspended",
+              "summary": "Nigel Farage denied that foreign money was ever funnelled to his party, insisting non-compliant donations are routinely returned. Two Reform UK aides were suspended following an undercover film showing officials allegedly plotting to break laws on foreign donations.",
+              "source": "BBC / YouTube",
+              "url": "https://www.youtube.com/watch?v=Pp0loVEmwms",
+              "publishedAt": "2026-09-08"
+            },
+            {
+              "title": "Bardella-Farage Immigration Deal Faces Backlash Across French Political Spectrum",
+              "summary": "National Rally President Jordan Bardella signed an immigration deal with Nigel Farage on Friday that has faced significant backlash across the French political spectrum, complicating both parties' domestic positions.",
+              "source": "Politico EU",
+              "url": "https://www.politico.eu/article/jordan-bardella-nigel-farage-reform-uk-immigration-deal-faces-backlash-across-french-political-spectrum/",
+              "publishedAt": "2026-09-08"
+            }
+          ]
+        },
+        {
+          "id": "snp",
+          "name": "SNP",
+          "description": "Scottish National Party & Scottish politics",
+          "stories": [
+            {
+              "title": "Scottish Government Guidance: 'People, Not AI, Must Remain Responsible for Decisions'",
+              "summary": "The Scottish Government issued new guidance instructing that 'people, not AI, must remain responsible for decisions', establishing a clear policy framework for AI use in Scottish public services.",
+              "source": "PublicTechnology",
+              "url": "https://www.publictechnology.net/2026/09/07/science-technology-and-research/scottish-government-guidance-instructs-that-people-not-ai-must-remain-responsible-for-decisions/",
+              "publishedAt": "2026-09-07"
+            }
+          ]
+        },
+        {
+          "id": "cabinet-office",
+          "name": "Cabinet Office",
+          "description": "Government reshuffles, senior appointments & cross-department policy",
+          "stories": [
+            {
+              "title": "Healey Budget Pre-Briefing: 'True to Labour's Values Means Controlling Spending'",
+              "summary": "Chancellor John Healey stated that 'being true to Labour's values means controlling spending', arguing there is 'nothing progressive about government spending \u00a31 in every ten on debt interest' as he prepares for the October Budget.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/live/2026/sep/07/uk-politics-live-john-healey-economy-portsmouth-immigration-protests-latest-news-updates",
+              "publishedAt": "2026-09-07"
+            },
+            {
+              "title": "Government Borrowing Costs Reach 18-Year High Ahead of Budget",
+              "summary": "Long-term UK government borrowing costs reached an 18-year high last week, putting significant pressure on Chancellor Healey ahead of next month's Budget and raising questions about the fiscal space available for spending commitments.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/live/c6x2z89exk4kt",
+              "publishedAt": "2026-09-08"
+            }
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "Elections & By-elections",
+          "description": "Upcoming or recent election results & polls",
+          "stories": [
+            {
+              "title": "By-Election in Keir Starmer's Old Seat Expected on 8 October",
+              "summary": "The by-election for the Holborn and St Pancras constituency, vacated by Keir Starmer last week, is expected to take place on 8 October. Labour will choose its candidate on Wednesday, while Green leader Zack Polanski is actively campaigning.",
+              "source": "Politico EU",
+              "url": "https://www.politico.eu/article/keir-starmer-holborn-st-pancras-by-election-october-8/",
+              "publishedAt": "2026-09-08"
+            },
+            {
+              "title": "'The Byelection in Holborn and St Pancras Is Labour's to Lose. But Lose It Might'",
+              "summary": "Polly Toynbee writes that the Holborn and St Pancras by-election is a key test of the 'Burnham bounce', with the Greens mounting a serious challenge. She warns Labour could lose the seat if it fails to energise left-leaning voters.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/commentisfree/2026/sep/08/byelection-holborn-st-pancras-labour-green-party-defence-rent-north-sea-oil-burnham",
+              "publishedAt": "2026-09-08"
+            },
+            {
+              "title": "Zack Polanski Presses the Flesh in Holborn and St Pancras Ahead of By-election",
+              "summary": "Green Party leader Zack Polanski is campaigning hard in Holborn and St Pancras, saying 'We can win here' and positioning the Greens as the primary challenger to Labour in the forthcoming by-election.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/sep/07/we-can-win-here-zack-polanski-presses-the-flesh-in-holborn-and-st-pancras",
+              "publishedAt": "2026-09-07"
+            }
+          ]
+        },
+        {
+          "id": "house-of-lords",
+          "name": "House of Lords",
+          "description": "Lords debates, reform & appointments",
+          "stories": [
+            {
+              "title": "Lords Debate Essential Services and AI in Cyber Bill",
+              "summary": "The House of Lords debated provisions within the Cyber Security Bill concerning AI and data centre incident reporting, with Lords considering how to regulate AI in essential services. The debate highlighted emerging legislative frameworks for AI governance.",
+              "source": "UKAuthority",
+              "url": "https://www.ukauthority.com/articles/lords-debate-essential-services-and-ai-cyber-bill",
+              "publishedAt": "2026-09-04"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-07",
       "lastUpdated": "2026-09-07T16:00:00+10:00",
