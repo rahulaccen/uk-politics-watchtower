@@ -1,6 +1,262 @@
 {
-  "lastUpdated": "2026-09-10T16:00:00+10:00",
+  "lastUpdated": "2026-09-11T16:00:00+10:00",
   "editions": [
+    {
+      "date": "2026-09-11",
+      "lastUpdated": "2026-09-11T16:00:00+10:00",
+      "topics": [
+        {
+          "id": "pm-no10",
+          "name": "PM & No. 10",
+          "description": "Prime Minister & Downing Street",
+          "stories": [
+            {
+              "title": "Visitor levy powers to be in place by March 2028, ministers say",
+              "summary": "The Burnham government announced plans for English councils to implement a tourist tax on hotel and Airbnb stays by March 2028, charged as a percentage of accommodation costs. The hospitality sector raised alarm, while No. 10 defended the policy saying communities would keep more of the proceeds.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/live/2026/sep/10/andy-burnham-hospitality-row-mayors-tourism-tax-levy-regional-mayors-education-ukraine-russia-latest-news-updates",
+              "publishedAt": "2026-09-10"
+            },
+            {
+              "title": "Burnham rejects Swinney Indyref2 talks after PMQs row",
+              "summary": "Following an apparent PMQs slip interpreted by the SNP as acknowledging independence conditions, PM Andy Burnham publicly rejected Scottish First Minister John Swinney's request for formal talks on a second independence referendum.",
+              "source": "The Herald",
+              "url": "https://www.heraldscotland.com/news/26540491.burnham-rejects-swinney-indyref2-talks-pmqs-row/",
+              "publishedAt": "2026-09-10"
+            },
+            {
+              "title": "Burnham's devolution project needs strong local media too \u2014 FT editorial",
+              "summary": "The Financial Times editorial board argued that PM Burnham's devolution agenda depends on a vibrant regional press to hold local leaders accountable, warning that democratic accountability risks lagging behind the transfer of power.",
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/7072bdc1-49d0-47c3-875b-4b1508e24481",
+              "publishedAt": "2026-09-10"
+            }
+          ]
+        },
+        {
+          "id": "burnham-intel",
+          "name": "Burnham Gov Intelligence",
+          "description": "Procurement, tech/AI, spending, vendor & priority signals",
+          "stories": [
+            {
+              "title": "\ud83e\udd16 DSIT picks partner for \u00a33.6m programme to help 300 women into frontier technology roles",
+              "summary": "The Department for Science, Innovation and Technology selected a delivery partner for a new scheme targeting gender equality in advanced tech careers, signalling continued public investment in digital skills.",
+              "source": "publictechnology.net",
+              "url": "https://www.publictechnology.net/2026/09/11/education-and-skills/dsit-picks-partner-for-3-6m-programme-to-help-300-women-into-frontier-technology-roles/",
+              "publishedAt": "2026-09-11"
+            },
+            {
+              "title": "\ud83d\udea6 Defra's embattled \u00a3500m livestock data reform scheme insources and implements 100-day improvement plan",
+              "summary": "Defra's troubled livestock data reform programme moved key functions in-house and launched a 100-day recovery plan, marking a significant pivot away from third-party delivery after years of cost overruns.",
+              "source": "publictechnology.net",
+              "url": "https://www.publictechnology.net/2026/09/10/environment/defras-embattled-500m-livestock-data-reform-scheme-insources-and-implements-100-day-improvement-plan/",
+              "publishedAt": "2026-09-10"
+            },
+            {
+              "title": "\ud83e\udd16 Fire chiefs issue Technology Enabled Care warning",
+              "summary": "UK fire service leaders warned that telecare devices deployed for vulnerable people must not compromise fire safety standards, highlighting regulatory tensions in the digital health technology space.",
+              "source": "ukauthority.com",
+              "url": "https://www.ukauthority.com/articles/fire-chiefs-issue-technology-enabled-care-warning",
+              "publishedAt": "2026-09-10"
+            }
+          ]
+        },
+        {
+          "id": "parliament",
+          "name": "Parliament",
+          "description": "House of Commons, House of Lords, PMQs, debates, legislation",
+          "stories": [
+            {
+              "title": "New peers introduced in House of Lords: Baron Jabbar and Baron Davey of Chalk Farm",
+              "summary": "The House of Lords formally introduced two new life peers on 10 September: Baron Jabbar of Little Venice (Parvais Jabbar MBE) and Baron Davey of Chalk Farm (Marcus John Davey CBE), supported by senior peers.",
+              "source": "Hansard / UK Parliament",
+              "url": "https://hansard.parliament.uk/Lords/2026-09-10/debates/00d7fec0-87d8-47ba-9bd1-b6ae02eb5ce7/LordsChamber",
+              "publishedAt": "2026-09-10"
+            },
+            {
+              "title": "MPs to vote on legalising assisted dying in England and Wales",
+              "summary": "Parliament is preparing for a significant vote on the Assisted Dying Bill, which if passed will face Lords scrutiny \u2014 setting up a potential clash between the elected chamber and the upper house.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cx2z770jr03o",
+              "publishedAt": "2026-09-10"
+            },
+            {
+              "title": "Devo and defense \u2014 Politico London Playbook",
+              "summary": "Politico's Westminster briefing tracks the Parliamentary agenda around the Burnham government's devolution and defence policy programme across both chambers.",
+              "source": "Politico EU",
+              "url": "https://www.politico.eu/newsletter/london-playbook/devo-and-defense/",
+              "publishedAt": "2026-09-11"
+            }
+          ]
+        },
+        {
+          "id": "labour",
+          "name": "Labour Party",
+          "description": "Labour party news, policy, internal politics",
+          "stories": [
+            {
+              "title": "Labour shifts on Israel: Miliband announces West Bank settlement sanctions",
+              "summary": "Foreign Secretary Ed Miliband announced UK sanctions on illegal Israeli settlements in the West Bank and described events there as ethnic cleansing, marking a significant shift in the Burnham government's foreign policy stance.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/audio/2026/sep/10/labour-shifts-on-israel-but-what-difference-will-it-make-podcast",
+              "publishedAt": "2026-09-10"
+            },
+            {
+              "title": "Labour mayors to embrace tourist tax with 5% cap",
+              "summary": "England's Labour metro mayors are set to back PM Burnham's visitor levy plans, endorsing a proposed 5% cap on the accommodation charge and aligning with Burnham's devolution pitch for new local revenue-raising powers.",
+              "source": "Sky News",
+              "url": "https://news.sky.com/story/politics-latest-andy-burnham-keir-starmer-labour-12593360",
+              "publishedAt": "2026-09-10"
+            },
+            {
+              "title": "BBC charter renewal: the secretive process that will decide the corporation's future",
+              "summary": "A Guardian long-read examines the Burnham government's upcoming BBC charter renewal negotiations \u2014 a high-stakes process determining the broadcaster's funding model, independence, and future amid broader media policy debates.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/news/2026/sep/10/bbc-charter-renewal-long-read-secretive-process-that-will-decide-future",
+              "publishedAt": "2026-09-10"
+            }
+          ]
+        },
+        {
+          "id": "conservatives",
+          "name": "Conservative Party",
+          "description": "Conservative party news, leadership, opposition",
+          "stories": []
+        },
+        {
+          "id": "lib-dems",
+          "name": "Liberal Democrats",
+          "description": "Liberal Democrat party news and policy positions",
+          "stories": [
+            {
+              "title": "Devo and defense \u2014 Politico London Playbook covers Lib Dem positioning",
+              "summary": "Politico's London Playbook covers Westminster dynamics including Liberal Democrat positioning on devolution and defence spending \u2014 two key areas under Ed Davey's leadership.",
+              "source": "Politico EU",
+              "url": "https://www.politico.eu/newsletter/london-playbook/devo-and-defense/",
+              "publishedAt": "2026-09-11"
+            }
+          ]
+        },
+        {
+          "id": "reform-uk",
+          "name": "Reform UK",
+          "description": "Nigel Farage, Reform UK party news and announcements",
+          "stories": [
+            {
+              "title": "Reform UK beset by internal row over response to Dover and Portsmouth protests",
+              "summary": "Nigel Farage called masked Patriot Platform protesters 'horrible', but faces internal pushback with some members praising them as patriots. The row is deepening questions about Reform's links to the hard nationalist right.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/sep/11/reform-uk-beset-by-internal-row-over-response-to-dover-and-portsmouth-protests",
+              "publishedAt": "2026-09-11"
+            },
+            {
+              "title": "Farage donor scandal turns spotlight on UK polling industry",
+              "summary": "The Met Police is investigating undisclosed donations from undercover reporters used to fund polling by JL Partners without disclosing the funder. The British Polling Council acknowledged 'clear breaches' of its transparency rules.",
+              "source": "Politico EU",
+              "url": "https://www.politico.eu/article/nigel-farage-donor-scandal-spotlight-uk-polling-jl-partners/",
+              "publishedAt": "2026-09-11"
+            },
+            {
+              "title": "Inside Nigel Farage's battle to get Reform election-ready",
+              "summary": "Politico reveals Reform UK has only around 100 vetted parliamentary candidates, far short of the 650 needed, as Farage races against time amid speculation Burnham could call an early election before 2029.",
+              "source": "Politico EU",
+              "url": "https://www.politico.eu/article/inside-nigel-farage-battle-to-get-reform-uk-election-ready/",
+              "publishedAt": "2026-09-11"
+            }
+          ]
+        },
+        {
+          "id": "snp",
+          "name": "SNP",
+          "description": "Scottish National Party, Scottish politics",
+          "stories": [
+            {
+              "title": "SNP claims independence would make Scots \u00a33,000 a year richer",
+              "summary": "SNP deputy leader Keith Brown cited Stanford University research suggesting Brexit cost UK GDP up to 8%, arguing an independent Scotland rejoining the EU would deliver an 'independence dividend' of roughly \u00a33,000 per adult annually.",
+              "source": "The Herald",
+              "url": "https://www.heraldscotland.com/politics/westminster/26540589.snp-claims-independence-make-scots-3-000-year-richer/",
+              "publishedAt": "2026-09-10"
+            },
+            {
+              "title": "Swinney seeks talks with Burnham on new independence vote",
+              "summary": "Scottish First Minister John Swinney formally wrote to PM Burnham requesting discussions on a second independence referendum, citing growing economic evidence for independence and the changed political landscape since 2014.",
+              "source": "The Herald",
+              "url": "https://www.heraldscotland.com/news/26537563.swinney-seeks-talks-burnham-new-independence-vote/",
+              "publishedAt": "2026-09-10"
+            },
+            {
+              "title": "Burnham rejects Swinney Indyref2 talks after PMQs row",
+              "summary": "PM Burnham categorically refused Scottish First Minister Swinney's request for formal IndyRef2 talks, after a PMQs slip was interpreted by the SNP as implicitly acknowledging conditions for independence.",
+              "source": "The Herald",
+              "url": "https://www.heraldscotland.com/news/26540491.burnham-rejects-swinney-indyref2-talks-pmqs-row/",
+              "publishedAt": "2026-09-10"
+            }
+          ]
+        },
+        {
+          "id": "cabinet-office",
+          "name": "Cabinet Office",
+          "description": "Government reshuffles, senior appointments, cross-department policy",
+          "stories": []
+        },
+        {
+          "id": "elections",
+          "name": "Elections & By-elections",
+          "description": "Upcoming or recent election results, polls",
+          "stories": [
+            {
+              "title": "By-election set after Shepshed Reform UK councillor quits",
+              "summary": "A by-election in Shepshed, Leicestershire will be held on 15 October after Reform UK councillor Helen Butler resigned. Reform holds 23 of 55 Leicestershire County Council seats; the result will test the party's local standing amid current controversies.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/c0e3zwj8vxjo",
+              "publishedAt": "2026-09-11"
+            },
+            {
+              "title": "Farage donor scandal puts UK polling industry under scrutiny",
+              "summary": "Met Police investigation into undisclosed poll funding raises questions about integrity of political polling data ahead of future elections, with the British Polling Council acknowledging 'clear breaches' of its disclosure rules.",
+              "source": "Politico EU",
+              "url": "https://www.politico.eu/article/nigel-farage-donor-scandal-spotlight-uk-polling-jl-partners/",
+              "publishedAt": "2026-09-11"
+            },
+            {
+              "title": "Reform UK racing to recruit 650 parliamentary candidates for next election",
+              "summary": "With speculation of a possible early election, Reform's nationwide candidate recruitment roadshow enters its second lap of the country to find hundreds more prospective MPs, with only ~100 currently vetted.",
+              "source": "Politico EU",
+              "url": "https://www.politico.eu/article/inside-nigel-farage-battle-to-get-reform-uk-election-ready/",
+              "publishedAt": "2026-09-11"
+            }
+          ]
+        },
+        {
+          "id": "house-of-lords",
+          "name": "House of Lords",
+          "description": "Lords debates, reform, appointments",
+          "stories": [
+            {
+              "title": "New peers introduced: Baron Jabbar and Baron Davey of Chalk Farm",
+              "summary": "The House of Lords formally introduced two new life peers on 10 September: Baron Jabbar of Little Venice (Parvais Jabbar MBE) and Baron Davey of Chalk Farm (Marcus John Davey CBE), supported by Baroness Kennedy of The Shaws and Lord Hermer.",
+              "source": "Hansard / UK Parliament",
+              "url": "https://hansard.parliament.uk/Lords/2026-09-10/debates/00d7fec0-87d8-47ba-9bd1-b6ae02eb5ce7/LordsChamber",
+              "publishedAt": "2026-09-10"
+            },
+            {
+              "title": "Reform UK recruiting prospective Lords peers as election preparation",
+              "summary": "Reform UK is searching for hundreds of prospective peers, believing it may need Lords representation to prevent the chamber from blocking its programme for government should Farage enter Downing Street.",
+              "source": "Politico EU",
+              "url": "https://www.politico.eu/article/inside-nigel-farage-battle-to-get-reform-uk-election-ready/",
+              "publishedAt": "2026-09-11"
+            },
+            {
+              "title": "Assisted Dying Bill heading for Lords scrutiny",
+              "summary": "As MPs prepare to vote on the Assisted Dying Bill for England and Wales, the legislation is expected to face significant debate and potential amendment in the House of Lords.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cx2z770jr03o",
+              "publishedAt": "2026-09-10"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-10",
       "lastUpdated": "2026-09-10T16:00:00+10:00",
