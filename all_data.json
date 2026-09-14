@@ -1,6 +1,299 @@
 {
-  "lastUpdated": "2026-09-11T16:00:00+10:00",
+  "lastUpdated": "2026-09-14T16:00:00+10:00",
   "editions": [
+    {
+      "date": "2026-09-14",
+      "lastUpdated": "2026-09-14T16:00:00+10:00",
+      "topics": [
+        {
+          "id": "pm-no10",
+          "name": "PM & No. 10",
+          "description": "Prime Minister & Downing Street",
+          "stories": [
+            {
+              "title": "Five takeaways from Burnham's Commons debut as PM",
+              "summary": "Andy Burnham faced his first PMQs as Prime Minister, being pressed by Kemi Badenoch on defence spending. He also refused to rule out future tax rises and paid tribute to predecessor Keir Starmer.",
+              "source": "BBC News",
+              "url": "https://www.bbc.com/news/articles/c2e0rdkrjw0o",
+              "publishedAt": "2026-09-10"
+            },
+            {
+              "title": "How Burnham got ready to govern with four key moments mapped out",
+              "summary": "BBC analysis reveals how Andy Burnham prepared to govern, covering his first No. 10 North meeting in July, cabinet appointments, and establishing his core team including Cabinet Secretary Dame Antonia Romeo.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cqxvz2r1qg4o",
+              "publishedAt": "2026-09-12"
+            },
+            {
+              "title": "Burnham runs Great North Run for homelessness charity",
+              "summary": "Prime Minister Andy Burnham ran in the Great North Run wearing a bib with the number 10, running in aid of Changing Lives homelessness charity.",
+              "source": "Sky News",
+              "url": "https://news.sky.com/story/politics-latest-burnham-labour-farage-badenoch-reform-macron-12593360",
+              "publishedAt": "2026-09-14"
+            }
+          ]
+        },
+        {
+          "id": "burnham-intel",
+          "name": "Burnham Gov Intelligence",
+          "description": "Procurement, tech/AI, spending, vendor & priority signals",
+          "stories": [
+            {
+              "title": "\ud83c\udfd7\ufe0f Burnham government strips back procurement rules to put British jobs at heart of \u00a390bn contracts",
+              "summary": "The government is replacing existing procurement rules to prioritise British jobs and skills across \u00a390bn of public contracts, signalling a major shift in public sector procurement strategy.",
+              "source": "Politics UK",
+              "url": "https://politicsuk.com/news/burnham-procurement-rules/",
+              "publishedAt": "2026-09-12"
+            },
+            {
+              "title": "\ud83c\udfd7\ufe0f Firms told to prioritise new jobs over green targets to win public contracts",
+              "summary": "Burnham will require firms bidding for public contracts to demonstrate job creation rather than meeting green and social value targets, reorienting the government's procurement evaluation criteria.",
+              "source": "BBC News",
+              "url": "https://www.bbc.com/news/articles/ckgdmv7elg8o",
+              "publishedAt": "2026-09-11"
+            },
+            {
+              "title": "\ud83e\udd16 Burnham centralises AI policy within his office \u2014 cabinet-level AI minister appointed",
+              "summary": "PM Burnham appointed Kanishka Narayan as the UK's first Cabinet-level AI minister while dismantling DSIT, redistributing its functions across newly named DBIST, DCMS, and the new Office for the PM and Cabinet.",
+              "source": "Verdantix",
+              "url": "https://www.verdantix.com/client-portal/blog/andy-burnham-has-centralized-ai-policy-within-his-office---how-should-firms-react",
+              "publishedAt": "2026-09-10"
+            },
+            {
+              "title": "\ud83e\udd16 Greater Manchester emerges as key hub for digital and technology talent",
+              "summary": "The Places for Growth programme aims to relocate thousands of public sector digital and technology roles outside London, with Greater Manchester positioned as a leading hub.",
+              "source": "UKAuthority",
+              "url": "https://www.ukauthority.com/articles/greater-manchester-emerges-as-key-hub-for-digital-and-technology-talent",
+              "publishedAt": "2026-09-11"
+            },
+            {
+              "title": "\ud83e\udd16 Public sector procurement to drive AI innovation \u2014 Chancellor signals new approach",
+              "summary": "Chancellor John Healey signalled that public sector procurement will be explicitly used to drive AI innovation, with government contracts expected to favour AI-enabled solutions.",
+              "source": "UKAuthority",
+              "url": "https://www.ukauthority.com/articles/public-sector-procurement-to-drive-ai-innovation-chancellor",
+              "publishedAt": "2026-09-04"
+            },
+            {
+              "title": "\ud83c\udfe2 UK warned over dangerous reliance on US tech giants for public sector systems",
+              "summary": "The Open Rights Group (ORG) has written to politicians warning that Britain is leaning too heavily on US firms such as Amazon, Microsoft, Google, and Palantir to run core public sector and cloud systems, amid fears of political leverage.",
+              "source": "Computing UK",
+              "url": "https://www.computing.co.uk/news/2026/security/uk-warned-over-reliance-on-us-tech-giants",
+              "publishedAt": "2026-09-10"
+            }
+          ]
+        },
+        {
+          "id": "parliament",
+          "name": "Parliament",
+          "description": "House of Commons, Lords, PMQs, legislation",
+          "stories": [
+            {
+              "title": "Burnham's PMQs debut shows challenge of delivering new era",
+              "summary": "Burnham's first Prime Minister's Questions saw Badenoch quiz him on defence spending and future tax rises. Burnham refused to rule out further taxes and acknowledged the scale of inherited challenges.",
+              "source": "BBC News",
+              "url": "https://www.bbc.com/news/articles/c0m3wpk7rdjo",
+              "publishedAt": "2026-09-10"
+            },
+            {
+              "title": "Parliament returns for autumn term \u2014 multiple ministerial statements expected",
+              "summary": "Parliament returned 1 September with new Foreign Secretary Ed Miliband responding to MPs' questions, and multiple urgent questions and ministerial statements filed after the extended summer recess.",
+              "source": "Hansard Society",
+              "url": "https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-1-september-2026",
+              "publishedAt": "2026-09-01"
+            },
+            {
+              "title": "House of Commons erupts over assisted dying debate",
+              "summary": "The Commons saw heated exchanges over the assisted dying bill, with PM Burnham having previously indicated that improvement in palliative care was a prerequisite before any assisted dying service could be introduced.",
+              "source": "UK Parliament / BBC",
+              "url": "https://www.youtube.com/watch?v=f5CMGL9e0PQ",
+              "publishedAt": "2026-09-11"
+            }
+          ]
+        },
+        {
+          "id": "labour",
+          "name": "Labour Party",
+          "description": "Party news, policy, internal politics",
+          "stories": [
+            {
+              "title": "Holborn and St Pancras by-election: Labour's to lose \u2014 but lose it might",
+              "summary": "The Guardian reports Labour faces a tough by-election in Holborn and St Pancras, with the party seen as vulnerable despite holding the seat, amid concerns about Burnham government performance in early weeks.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/labour",
+              "publishedAt": "2026-09-08"
+            },
+            {
+              "title": "TUC conference: Unions demand Burnham crackdown on zero-hours contracts",
+              "summary": "The Trades Union Congress is pressing the Burnham government to deliver its promised crackdown on zero-hours contracts, a flagship Labour commitment made in opposition.",
+              "source": "Sky News",
+              "url": "https://news.sky.com/story/politics-latest-starmer-labour-trump-lammy-vance-tankers-greenland-threats-nato-12593360",
+              "publishedAt": "2026-09-13"
+            }
+          ]
+        },
+        {
+          "id": "conservatives",
+          "name": "Conservative Party",
+          "description": "Party news, leadership, opposition",
+          "stories": [
+            {
+              "title": "Conservative reshuffle: who's who in Kemi Badenoch's new top team?",
+              "summary": "Kemi Badenoch reshuffled the Conservative shadow cabinet at the end of August, with The Guardian outlining the key figures in her new team as she positions the party for opposition.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/31/conservative-reshuffle-whos-who-in-kemi-badenochs-top-team",
+              "publishedAt": "2026-08-31"
+            },
+            {
+              "title": "Badenoch condemns Reform UK's 'authoritarian' press bans",
+              "summary": "Conservative leader Kemi Badenoch attacked Reform UK's reported media access restrictions at their annual conference, calling them 'authoritarian' and attempting to differentiate her party from Farage's movement.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/kemi-badenoch",
+              "publishedAt": "2026-09-09"
+            },
+            {
+              "title": "More public control is the only way to grow UK economy, Burnham tells MPs",
+              "summary": "As Burnham made his Commons debut as PM, he argued for greater public ownership as central to his economic growth agenda, drawing criticism from Badenoch who called it a return to 1970s policies.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/aug/31/andy-burnham-commons-more-public-ownership-only-way-to-grow-uk-economy",
+              "publishedAt": "2026-08-31"
+            }
+          ]
+        },
+        {
+          "id": "lib-dems",
+          "name": "Liberal Democrats",
+          "description": "Party news, policy positions",
+          "stories": [
+            {
+              "title": "Lib Dems win two council by-elections from Labour and Reform UK",
+              "summary": "The Liberal Democrats captured council seats from Labour in Devon and from Reform UK in Yorkshire, providing a boost to Sir Ed Davey's party and signalling continued growth in its local base.",
+              "source": "Guardian / BBC",
+              "url": "https://www.bbc.com/news/topics/cz317k9pd9rt",
+              "publishedAt": "2026-09-12"
+            }
+          ]
+        },
+        {
+          "id": "reform-uk",
+          "name": "Reform UK",
+          "description": "Nigel Farage, party news and announcements",
+          "stories": [
+            {
+              "title": "Reform UK annual conference held in Birmingham \u2014 Farage delivers keynote amid scrutiny",
+              "summary": "Reform UK held its 2026 national conference at the NEC Birmingham (4\u20135 September), with Farage delivering a keynote and facing scrutiny over an undercover investigation alleging foreign funding law breaches.",
+              "source": "The Guardian / BBC",
+              "url": "https://www.theguardian.com/commentisfree/2026/sep/09/nigel-farage-reform-uk-conference",
+              "publishedAt": "2026-09-09"
+            },
+            {
+              "title": "Reform beset by internal row over Dover and Portsmouth port protests",
+              "summary": "Reform UK faced internal divisions after masked protesters blockaded Dover port on the final day of the party conference. Farage condemned the actions as 'horrible' but faced criticism over the party's response.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/sep/11/reform-uk-beset-by-internal-row-over-response-to-dover-and-portsmouth-protests",
+              "publishedAt": "2026-09-11"
+            },
+            {
+              "title": "Reform 'very confident' \u00a372m donations were legal amid parliamentary investigation",
+              "summary": "Reform UK said it was 'very confident' its \u00a372m in donations were legal, even as a parliamentary investigation resumed and Rayner warned of retrospective action over party finances.",
+              "source": "Sky News",
+              "url": "https://news.sky.com/story/politics-latest-burnham-labour-farage-badenoch-reform-macron-12593360",
+              "publishedAt": "2026-09-13"
+            }
+          ]
+        },
+        {
+          "id": "snp",
+          "name": "SNP",
+          "description": "Scottish National Party, Scottish politics",
+          "stories": [
+            {
+              "title": "Swinney to cut Scottish health boards from 14 to two and roll out \u00a32 bus fares",
+              "summary": "First Minister John Swinney announced a dramatic NHS restructuring \u2014 reducing health boards from 14 to 2 \u2014 alongside a \u00a32 bus fare cap as part of the SNP government's new Programme for Government focused on cost of living.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/live/cq0lrz6j0ylnt",
+              "publishedAt": "2026-09-09"
+            },
+            {
+              "title": "PM Burnham says second Scottish independence referendum remains 'off limits'",
+              "summary": "Andy Burnham confirmed that a second Scottish independence referendum will not be granted, but BBC analysis noted this declaration may paradoxically boost support for independence.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cy8z5ndpz4go",
+              "publishedAt": "2026-09-12"
+            }
+          ]
+        },
+        {
+          "id": "cabinet-office",
+          "name": "Cabinet Office",
+          "description": "Government reshuffles, appointments, cross-department policy",
+          "stories": [
+            {
+              "title": "Burnham government ministerial appointments: July 2026 \u2014 full list",
+              "summary": "Key appointments under PM Burnham include John Healey as Chancellor, Ed Miliband as Foreign Secretary, Louise Haigh as First Secretary of State, and Yvette Cooper in a senior cabinet role. Dan Jarvis, Emma Reynolds and others retained as junior ministers.",
+              "source": "GOV.UK",
+              "url": "https://www.gov.uk/government/news/ministerial-appointments-july-2026",
+              "publishedAt": "2026-07-20"
+            },
+            {
+              "title": "DSIT scrapped \u2014 AI and digital governance restructured across departments",
+              "summary": "Under Burnham's premiership, the Department for Science, Innovation & Technology (DSIT) was abolished. Its functions were redistributed across DBIST, DCMS, and the new Office for the PM and Cabinet housing the first ever Cabinet-level AI minister.",
+              "source": "Global Government Finance",
+              "url": "https://www.globalgovernmentfinance.com/andy-burnham-pm-dsit-scrapped-ai-minister/",
+              "publishedAt": "2026-07-25"
+            }
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "Elections & By-elections",
+          "description": "Upcoming or recent election results, polls",
+          "stories": [
+            {
+              "title": "Holborn and St Pancras by-election looming \u2014 Labour under pressure",
+              "summary": "A by-election in the safe Labour seat of Holborn and St Pancras is approaching, with The Guardian warning Labour faces a real risk of losing the seat amid early discontent with the Burnham government.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/labour",
+              "publishedAt": "2026-09-08"
+            },
+            {
+              "title": "Farage wins local by-election as parliamentary investigation resumes",
+              "summary": "Nigel Farage won a by-election boycotted by major parties \u2014 reportedly without attending the declaration \u2014 as a parliamentary investigation into his conduct resumed hours after his victory.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/live/c5y40d11zewt",
+              "publishedAt": "2026-09-11"
+            },
+            {
+              "title": "Lib Dems capture council seats from Labour in Devon and Reform UK in Yorkshire",
+              "summary": "The Liberal Democrats won two council by-elections, taking a Labour seat in Devon and a Reform UK seat in Yorkshire, continuing their consistent local government growth.",
+              "source": "BBC / Guardian",
+              "url": "https://www.bbc.com/news/topics/cz317k9pd9rt",
+              "publishedAt": "2026-09-12"
+            }
+          ]
+        },
+        {
+          "id": "house-of-lords",
+          "name": "House of Lords",
+          "description": "Lords debates, reform, appointments",
+          "stories": [
+            {
+              "title": "House of Lords (Hereditary Peers) Act 2026 \u2014 reform next steps under debate",
+              "summary": "Following passage of the Hereditary Peers Act 2026, constitutional lawyers and peers are debating what comes next in Lords reform, with broad consensus on further steps but no government timetable confirmed.",
+              "source": "UK Constitutional Law Blog",
+              "url": "https://ukconstitutionallaw.org/2026/05/05/simon-karsunke-what-comes-next-the-way-forward-on-uk-house-of-lords-reform/",
+              "publishedAt": "2026-09-10"
+            },
+            {
+              "title": "Lords debate AI and essential services in Cybersecurity and Resilience Bill",
+              "summary": "The House of Lords debated key provisions around AI and essential services in the Cybersecurity and Resilience Bill, with peers raising concerns about accountability and oversight of AI-driven public systems.",
+              "source": "UKAuthority",
+              "url": "https://www.ukauthority.com/articles/lords-debate-essential-services-and-ai-cyber-bill",
+              "publishedAt": "2026-09-04"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-11",
       "lastUpdated": "2026-09-11T16:00:00+10:00",
