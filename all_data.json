@@ -1,6 +1,299 @@
 {
-  "lastUpdated": "2026-09-21T16:00:00+10:00",
+  "lastUpdated": "2026-09-22T06:03:36.355Z",
   "editions": [
+    {
+      "date": "2026-09-22",
+      "lastUpdated": "2026-09-22T06:03:36.355Z",
+      "topics": [
+        {
+          "id": "pm-no10",
+          "name": "PM & No. 10",
+          "description": "Prime Minister & Downing Street",
+          "stories": [
+            {
+              "title": "UK to give support to Saudi jets in attempt to counter Houthi fighters",
+              "summary": "UK to give support to Saudi jets in attempt to counter Houthi fighters Burnham also revealed he will use his first meeting with Trump on Tuesday to urge the US president to de-escalate the conflict in",
+              "source": "theguardian.com",
+              "url": "https://www.theguardian.com/politics/2026/sep/21/uk-to-give-support-to-saudi-jets-in-attempt-to-counter-houthi-fighters",
+              "publishedAt": "2026-09-22"
+            },
+            {
+              "title": "Andy Burnham | The Guardian",
+              "summary": "Andy Burnham **16 September 2026** Andy Burnham cancels engagements as his father’s death is announced **13 September 2026** Hospitality industry urges Andy Burnham to lay out VAT cut plans - Andy Bur",
+              "source": "theguardian.com",
+              "url": "https://www.theguardian.com/politics/andyburnham",
+              "publishedAt": "2026-09-22"
+            },
+            {
+              "title": "UK politics: New leader of Reform UK in Wales named after defeating rival ...",
+              "summary": "21 hours ago · Downing Street insiders expect Burnham to be a bit more forceful [than Keir Starmer was] when he feels there's a need to stand up for British interests.",
+              "source": "theguardian.com",
+              "url": "https://www.theguardian.com/politics/live/2026/sep/21/ed-davey-liberal-democrats-party-conference-brighton-labour-conservatives-andy-burnham-kemi-badenoch-nigel-farage-reform-uk-politics-latest-news?page=with%3Ablock-6ab0ec748f08c4af80ed876c",
+              "publishedAt": "2026-09-22"
+            }
+          ]
+        },
+        {
+          "id": "burnham-intel",
+          "name": "Burnham Gov Intelligence",
+          "description": "Procurement, tech/AI, spending, vendor & priority signals",
+          "stories": [
+            {
+              "title": "Halt super-intelligent AI with non-proliferation treaty, Ed Davey to ...",
+              "summary": "Halt super-intelligent AI with non-proliferation treaty, Ed Davey to say At this dangerous time - AI (artificial intelligence)",
+              "source": "theguardian.com",
+              "url": "https://www.theguardian.com/politics/2026/sep/21/halt-super-intelligent-ai-ed-davey-lib-dem-conference",
+              "publishedAt": "2026-09-22"
+            },
+            {
+              "title": "UK to give support to Saudi jets in attempt to counter Houthi fighters",
+              "summary": "9 hours ago · Andy Burnham seeks stability in Middle East to bring down prices at home as first meeting with Trump looms.",
+              "source": "theguardian.com",
+              "url": "https://www.theguardian.com/politics/2026/sep/21/uk-to-give-support-to-saudi-jets-in-attempt-to-counter-houthi-fighters",
+              "publishedAt": "2026-09-22"
+            },
+            {
+              "title": "AI (artificial intelligence) | The Guardian",
+              "summary": "3 hours ago · The Guardian view on AI v mathematicians: humans are still vital to the field, but tech firms refuse to see that. Sep 20 2026 12.58 EDT.",
+              "source": "theguardian.com",
+              "url": "https://www.theguardian.com/technology/artificialintelligenceai",
+              "publishedAt": "2026-09-22"
+            }
+          ]
+        },
+        {
+          "id": "parliament",
+          "name": "Parliament",
+          "description": "House of Commons, Lords, PMQs, legislation",
+          "stories": [
+            {
+              "title": "House of Commons - Hansard",
+              "summary": "Our use of cookies - UK Parliament - Commons: 21 September 2026",
+              "source": "hansard.parliament.uk",
+              "url": "https://hansard.parliament.uk/commons",
+              "publishedAt": "2026-09-22"
+            },
+            {
+              "title": "House of Commons | The Guardian",
+              "summary": "House of Commons **11 September 2026** double quotation markMy plea to MPs: this is the final chance to save the assisted dying bill. Make your mark on history **9 September 2026** Politics live with ",
+              "source": "theguardian.com",
+              "url": "https://www.theguardian.com/politics/houseofcommons",
+              "publishedAt": "2026-09-22"
+            },
+            {
+              "title": "BBC Parliament - Schedules",
+              "summary": "BBC Parliament BBC Parliament Schedule    Tuesday 22 September 2026 3. 06:10 On now  Watch live House of Commons—Fracking Ban Debate Coverage of the debate in the House of Commons on the merits of a f",
+              "source": "bbc.co.uk",
+              "url": "https://www.bbc.co.uk/schedules/p00fzl73",
+              "publishedAt": "2026-09-22"
+            }
+          ]
+        },
+        {
+          "id": "labour",
+          "name": "Labour Party",
+          "description": "Labour party news and policy",
+          "stories": [
+            {
+              "title": "Labour | The Guardian",
+              "summary": "Labour **16 September 2026** Trade unions, MPs and donors urge Burnham to revisit party funding rules - Reform UK",
+              "source": "theguardian.com",
+              "url": "https://www.theguardian.com/politics/labour",
+              "publishedAt": "2026-09-22"
+            },
+            {
+              "title": "Labour + Politics | The Guardian",
+              "summary": "Labour + Politics **19 September 2026** Unions to intervene on political funding as TUC chief warns ‘super-rich’ threaten democracy - Labour - TUC - Reform UK",
+              "source": "theguardian.com",
+              "url": "https://www.theguardian.com/politics/labour+politics",
+              "publishedAt": "2026-09-22"
+            },
+            {
+              "title": "UK politics: New leader of Reform UK in Wales named after ...",
+              "summary": "Ed Davey rejects claims party is ‘sleepwalking into irrelevance’ under his leadership – UK politics live - Labour",
+              "source": "theguardian.com",
+              "url": "https://www.theguardian.com/politics/live/2026/sep/21/ed-davey-liberal-democrats-party-conference-brighton-labour-conservatives-andy-burnham-kemi-badenoch-nigel-farage-reform-uk-politics-latest-news",
+              "publishedAt": "2026-09-22"
+            }
+          ]
+        },
+        {
+          "id": "conservatives",
+          "name": "Conservative Party",
+          "description": "Conservative party news and opposition",
+          "stories": [
+            {
+              "title": "UK politics: New leader of Reform UK in Wales named after defeating rival ...",
+              "summary": "21 hours ago · He said that developments in the Conservative party under Kemi Badenoch meant that liberal conservatives and pro-European conservatives were increasingly ...",
+              "source": "theguardian.com",
+              "url": "https://www.theguardian.com/politics/live/2026/sep/21/ed-davey-liberal-democrats-party-conference-brighton-labour-conservatives-andy-burnham-kemi-badenoch-nigel-farage-reform-uk-politics-latest-news?page=with%3Ablock-6ab105e98f08f9486219c3d3",
+              "publishedAt": "2026-09-22"
+            },
+            {
+              "title": "Farage names new leader for Reform UK in Wales after predecessor ...",
+              "summary": "21 hours ago · He said that developments in the Conservative party under Kemi Badenoch meant that liberal conservatives and pro-European conservatives were increasingly ...",
+              "source": "theguardian.com",
+              "url": "https://www.theguardian.com/politics/live/2026/sep/21/ed-davey-liberal-democrats-party-conference-brighton-labour-conservatives-andy-burnham-kemi-badenoch-nigel-farage-reform-uk-politics-latest-news?page=with%3Ablock-6ab0dfba8f08c4af80ed872e",
+              "publishedAt": "2026-09-22"
+            },
+            {
+              "title": "Andy Burnham | The Guardian",
+              "summary": "2 hours ago · Kemi Badenoch accuses Andy Burnham of 'fiddling while Europe risks burning'. Tory leader claims prime minister is avoiding difficult decisions as she urges ...",
+              "source": "theguardian.com",
+              "url": "https://www.theguardian.com/politics/andyburnham",
+              "publishedAt": "2026-09-22"
+            }
+          ]
+        },
+        {
+          "id": "lib-dems",
+          "name": "Liberal Democrats",
+          "description": "Lib Dem news and policy",
+          "stories": [
+            {
+              "title": "I've got no ceiling on Lib Dem ambitions, says leader Ed Davey",
+              "summary": "I've got no ceiling on Lib Dem ambitions, says leader Ed Davey PA Media Liberal Democrats Liberal Democrats Party Conference Ed Davey",
+              "source": "bbc.co.uk",
+              "url": "https://www.bbc.co.uk/news/articles/c670lvrdek8ro",
+              "publishedAt": "2026-09-22"
+            },
+            {
+              "title": "UK politics: New leader of Reform UK in Wales named after defeating rival by just two votes – as it happened",
+              "summary": "Ed Davey rejects claims party is ‘sleepwalking into irrelevance’ under his leadership – UK politics live [Share](mailto:?subject=Ed%20Davey%20rejects%20claims%20party%20is%20%E2%80%98sleepwalking%20in",
+              "source": "theguardian.com",
+              "url": "https://www.theguardian.com/politics/live/2026/sep/21/ed-davey-liberal-democrats-party-conference-brighton-labour-conservatives-andy-burnham-kemi-badenoch-nigel-farage-reform-uk-politics-latest-news",
+              "publishedAt": "2026-09-22"
+            },
+            {
+              "title": "Halt super-intelligent AI with non-proliferation treaty, Ed Davey to say",
+              "summary": "View image in fullscreen Halt super-intelligent AI with non-proliferation treaty, Ed Davey to say Ed Davey is to call for a global nuclear-style non-proliferation treaty to halt the development of sup",
+              "source": "theguardian.com",
+              "url": "https://www.theguardian.com/politics/2026/sep/21/halt-super-intelligent-ai-ed-davey-lib-dem-conference",
+              "publishedAt": "2026-09-22"
+            }
+          ]
+        },
+        {
+          "id": "reform-uk",
+          "name": "Reform UK",
+          "description": "Reform UK and Nigel Farage",
+          "stories": [
+            {
+              "title": "UK politics: New leader of Reform UK in Wales named after defeating rival ...",
+              "summary": "Ed Davey rejects claims party is ‘sleepwalking into irrelevance’ under his leadership – UK politics live Politics live with Andrew Sparrow Reform UK ‘has no interest in Wales’, says Senedd member who ",
+              "source": "theguardian.com",
+              "url": "https://www.theguardian.com/politics/live/2026/sep/21/ed-davey-liberal-democrats-party-conference-brighton-labour-conservatives-andy-burnham-kemi-badenoch-nigel-farage-reform-uk-politics-latest-news",
+              "publishedAt": "2026-09-22"
+            },
+            {
+              "title": "Nigel Farage - BBC News",
+              "summary": "Nigel Farage 2 days ago\\ \\ \\ \\ **Farage says £72m donations are compliant 'with the law today'**\\ \\ Ministers are seeking to put a £100,000 annual cap on donations from British expats, backdated to 25",
+              "source": "bbc.com",
+              "url": "https://www.bbc.com/news/topics/c8nq32jw5jpt",
+              "publishedAt": "2026-09-22"
+            },
+            {
+              "title": "Helen Jenner unveiled as Reform UK's new leader in Wales after ...",
+              "summary": "Helen Jenner unveiled as Reform UK’s new leader in Wales after arrest of Dan Thomas \\ \\ Reform UK activists squabble over Farage’s plan for £72m donations\\ \\ Read more - Reform UK - Wales - Nigel Fara",
+              "source": "theguardian.com",
+              "url": "https://www.theguardian.com/politics/2026/sep/21/helen-jenner-reform-uk-new-leader-wales-dan-thomas-arrest",
+              "publishedAt": "2026-09-22"
+            }
+          ]
+        },
+        {
+          "id": "snp",
+          "name": "SNP",
+          "description": "Scottish National Party and Scottish politics",
+          "stories": [
+            {
+              "title": "News, interviews and updates on the SNP | The National",
+              "summary": "16 hours ago · Keep reading for the latest SNP news, analysis, interviews and political updates on Scotland's party of government, its leadership, policies and the future",
+              "source": "thenational.scot",
+              "url": "https://www.thenational.scot/news/25059069.news-interviews-updates-snp/",
+              "publishedAt": "2026-09-22"
+            }
+          ]
+        },
+        {
+          "id": "cabinet-office",
+          "name": "Cabinet Office",
+          "description": "Reshuffles, appointments, cross-department policy",
+          "stories": [
+            {
+              "title": "Home Office - GOV.UK",
+              "summary": "Home Office Our ministers Satvir Kaur MP Our management Gareth Davies CB Simon Ridley CB Dr Rannia Leontaridi OBE ![](https://assets.publi...",
+              "source": "gov.uk",
+              "url": "https://www.gov.uk/government/organisations/home-office",
+              "publishedAt": "2026-09-22"
+            },
+            {
+              "title": "UK Visas and Immigration - GOV.UK",
+              "summary": "2 hours ago · UK Visas and Immigration (UKVI) is responsible for making millions of decisions every year about who has the right to visit or stay in the country, ...",
+              "source": "gov.uk",
+              "url": "https://www.gov.uk/government/organisations/uk-visas-and-immigration",
+              "publishedAt": "2026-09-22"
+            },
+            {
+              "title": "Prove your English language abilities with a secure English language test ...",
+              "summary": "Cookies on GOV.UK Guidance",
+              "source": "gov.uk",
+              "url": "https://www.gov.uk/guidance/prove-your-english-language-abilities-with-a-secure-english-language-test-selt",
+              "publishedAt": "2026-09-22"
+            }
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "Elections & By-elections",
+          "description": "Election results, by-elections, polls",
+          "stories": [
+            {
+              "title": "Labour loses majority after Reform by-election win - BBC News",
+              "summary": "edigitalsurvey.com edigitalsurvey.com is blocked ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABNEAAABkBAMAAABayruYAAAAJFBMVEUAAADa2tr/////9/e6urpTU1O5ubn39/f///9ZWVlfX1/z8/O/OctmAAAACXRSTlMA/////",
+              "source": "bbc.co.uk",
+              "url": "https://www.bbc.co.uk/news/articles/c5n4kp08yny0o",
+              "publishedAt": "2026-09-22"
+            },
+            {
+              "title": "Latest German election humiliation puts Merz on borrowed time as ...",
+              "summary": "Analysis",
+              "source": "theguardian.com",
+              "url": "https://www.theguardian.com/world/2026/sep/21/german-state-election-humiliation-friedrich-merz-borrowed-time-cdu-unrest-grows",
+              "publishedAt": "2026-09-22"
+            },
+            {
+              "title": "'No surprises' as results emerge in Russian parliamentary election - BBC",
+              "summary": "edigitalsurvey.com is blocked ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABNEAAABkBAMAAABayruYAAAAJFBMVEUAAADa2tr/////9/e6urpTU1O5ubn39/f///9ZWVlfX1/z8/O/OctmAAAACXRSTlMA//////////ZO3iNwAAALPElE",
+              "source": "bbc.co.uk",
+              "url": "https://www.bbc.co.uk/news/videos/cjp30pq0rx6ro",
+              "publishedAt": "2026-09-22"
+            }
+          ]
+        },
+        {
+          "id": "house-of-lords",
+          "name": "House of Lords",
+          "description": "Lords debates, reform, appointments",
+          "stories": [
+            {
+              "title": "Farage names new leader for Reform UK in Wales after predecessor ...",
+              "summary": "21 hours ago · Helen Jenner will be party's new head in Senedd as Farage says Dan Thomas's arrest was a 'bump in the road'. LIVE Updated 2m ago.",
+              "source": "theguardian.com",
+              "url": "https://www.theguardian.com/politics/live/2026/sep/21/ed-davey-liberal-democrats-party-conference-brighton-labour-conservatives-andy-burnham-kemi-badenoch-nigel-farage-reform-uk-politics-latest-news?page=with%3Ablock-6ab0dfba8f08c4af80ed872e",
+              "publishedAt": "2026-09-22"
+            },
+            {
+              "title": "BBC Parliament - Schedules",
+              "summary": "BBC Parliament BBC Parliament Schedule    Tuesday 22 September 2026 - CBBC - BBC News UK",
+              "source": "bbc.co.uk",
+              "url": "https://www.bbc.co.uk/schedules/p00fzl73",
+              "publishedAt": "2026-09-22"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-21",
       "lastUpdated": "2026-09-21T16:00:00+10:00",
