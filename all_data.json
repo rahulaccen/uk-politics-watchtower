@@ -1,6 +1,298 @@
 {
-  "lastUpdated": "2026-09-23T16:00:00+10:00",
+  "lastUpdated": "2026-10-02T16:00:00+10:00",
   "editions": [
+    {
+      "date": "2026-10-02",
+      "lastUpdated": "2026-10-02T16:00:00+10:00",
+      "topics": [
+        {
+          "id": "pm-no10",
+          "name": "PM & No. 10",
+          "description": "Prime Minister & Downing Street",
+          "stories": [
+            {
+              "title": "Man City Not 'Above the Rules', Says No 10 After Backlash to Burnham Remarks",
+              "summary": "Downing Street clarified that Prime Minister Andy Burnham does not believe Manchester City are above the rules after his earlier remarks suggesting support for the club sparked a major political row. The controversy has dominated political coverage, with Tories calling the comments 'completely out of touch'.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cj3v4vn3ydw1o",
+              "publishedAt": "2026-10-01"
+            },
+            {
+              "title": "Andy Burnham's Manchester City Comments Stir Fresh Tensions with Premier League",
+              "summary": "PM Burnham's remarks about Manchester City amid the club's ongoing financial scandal have reignited tensions with the Premier League, forcing a rapid clarification from No 10. Analysis suggests the about-turn matters as it touches on questions of political impartiality and governance.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/football/2026/oct/01/andy-burnhams-manchester-city-comments-stir-fresh-tensions-with-premier-league",
+              "publishedAt": "2026-10-01"
+            },
+            {
+              "title": "No 10 Gathering Evidence on Public Support for UK Rejoining EU",
+              "summary": "Downing Street is actively gathering evidence on levels of public support for the UK rejoining the European Union, signalling that Brexit reversal is becoming a live policy consideration under PM Burnham. The move has energised political debate across all parties.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/sep/30/no-10-gathering-evidence-public-support-rejoining-eu-reversing-brexit",
+              "publishedAt": "2026-09-30"
+            }
+          ]
+        },
+        {
+          "id": "burnham-intel",
+          "name": "Burnham Gov Intelligence",
+          "description": "Procurement, tech/AI, spending, vendor & priority signals",
+          "stories": [
+            {
+              "title": "\ud83e\udd16 Andy Burnham Searches for UK Alternative to Palantir",
+              "summary": "The Prime Minister is actively looking for a domestically-developed UK alternative to US data analytics firm Palantir, signalling a clear push to reduce dependency on American tech vendors for sensitive public sector data work. The move is seen as part of a broader sovereignty-focused digital strategy.",
+              "source": "Financial Times",
+              "url": "https://www.ft.com/content/9a6e17fe-55e4-4a6d-8761-8346ec765ba9",
+              "publishedAt": "2026-10-01"
+            },
+            {
+              "title": "\ud83c\udfe2 Minister Cites Need for 'Competitive Tension' in Government Cloud and Software Landscape",
+              "summary": "A government minister has publicly called for greater 'competitive tension' in the government's cloud and software supplier market, suggesting dissatisfaction with current vendor lock-in. This signals potential review or diversification of major platform contracts.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/10/01/business-and-industry/minister-cites-need-for-competitive-tension-in-government-cloud-and-software-landscape/",
+              "publishedAt": "2026-10-01"
+            },
+            {
+              "title": "\ud83c\udfd7\ufe0f Government to Create Specialist Insourcing Unit",
+              "summary": "The UK government has announced the creation of a specialist insourcing unit, signalling an intent to bring previously outsourced public sector capabilities back in-house. This could have significant implications for current suppliers and consultancies.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/10/02/education-and-skills/government-to-create-specialist-insourcing-unit/",
+              "publishedAt": "2026-10-02"
+            },
+            {
+              "title": "\ud83e\udd16 PM's Top AI Adviser Leung to Leave Post",
+              "summary": "The Prime Minister's senior AI adviser Jade Leung has announced she is leaving her role, creating a key vacancy in Burnham's technology advisory team. The departure raises questions about continuity of the government's AI strategy at a pivotal moment.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/09/30/education-and-skills/pms-top-ai-adviser-leung-to-leave-post/",
+              "publishedAt": "2026-09-30"
+            },
+            {
+              "title": "\ud83e\udd16 DWP Signs \u00a36m Deal to Move Data Warehouse to Cloud",
+              "summary": "The Department for Work and Pensions has signed a \u00a36 million contract to migrate its data warehouse to cloud infrastructure. The deal represents continued investment in cloud modernisation across central government.",
+              "source": "PublicTechnology.net",
+              "url": "https://www.publictechnology.net/2026/09/30/business-and-industry/dwp-signs-6m-deal-to-move-data-warehouse-to-cloud/",
+              "publishedAt": "2026-09-30"
+            },
+            {
+              "title": "\ud83e\udd16 New Information Commission Replaces the ICO",
+              "summary": "The data protection regulator has been restructured, with the new Information Commission formally replacing the Information Commissioner's Office (ICO). The transition took effect on 1 October 2026 and signals a new regulatory era for data governance in the UK.",
+              "source": "UKAuthority",
+              "url": "https://www.ukauthority.com/articles/new-information-commission-replaces-the-ico",
+              "publishedAt": "2026-10-01"
+            },
+            {
+              "title": "\ud83d\udea6 UK Government Releases Resilience Action Plan 2026 Implementation Report",
+              "summary": "The government published its 2026 implementation report for the UK Government Resilience Action Plan, outlining progress on cross-department resilience priorities. The report tracks key delivery milestones for critical national infrastructure and government continuity planning.",
+              "source": "GOV.UK",
+              "url": "https://www.gov.uk/government/publications/the-uk-government-resilience-action-plan-2026-implementation-report/the-uk-government-resilience-action-plan-2026-implementation-report-html",
+              "publishedAt": "2026-10-01"
+            }
+          ]
+        },
+        {
+          "id": "parliament",
+          "name": "Parliament",
+          "description": "House of Commons, Lords, PMQs & Legislation",
+          "stories": [
+            {
+              "title": "Key Disability Benefit for Young People May Be Axed Under Major Welfare Reform",
+              "summary": "Government proposals under debate could see a key disability benefit for young people abolished as part of sweeping welfare changes. The move would be politically sensitive following last year's dramatic Labour welfare rebellion in the Commons.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/oct/01/welfare-changes-under-debate-disability-benefit-young-people-uk",
+              "publishedAt": "2026-10-01"
+            },
+            {
+              "title": "Prisoner Early Release Scheme Begins Amid Criticism",
+              "summary": "Around 5,000 inmates are being released early under the government's revised scheme \u2014 down from an original forecast of 6,000 following changes made by PM Andy Burnham. The scheme has attracted significant cross-party criticism.",
+              "source": "Sky News",
+              "url": "https://news.sky.com/story/politics-latest-starmer-quizzed-over-burnham-as-he-heads-to-china-12593360",
+              "publishedAt": "2026-10-01"
+            },
+            {
+              "title": "Burnham Wants to Change British Elections \u2014 Voters Think They're Fine",
+              "summary": "A new Politico poll finds that PM Burnham's plans for electoral reform are not supported by the majority of voters, with many believing the current system is adequate. Labour won the 2024 election with 34% of the vote but 63% of seats \u2014 a result Burnham wants to address.",
+              "source": "Politico",
+              "url": "https://www.politico.eu/article/andy-burnham-change-british-elections-voters-poll/",
+              "publishedAt": "2026-10-02"
+            }
+          ]
+        },
+        {
+          "id": "labour",
+          "name": "Labour Party",
+          "description": "Labour party news, policy & internal politics",
+          "stories": [
+            {
+              "title": "Labour Figures Uneasy About Healey's 'Underpowered' Approach to Budget",
+              "summary": "Senior Labour figures are expressing concern that Chancellor Healey's budget approach lacks ambition, with critics describing it as 'underpowered' for the economic challenges facing the country. Internal party divisions over fiscal policy are growing ahead of the Autumn Budget.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/oct/01/labour-unease-healey-budget",
+              "publishedAt": "2026-10-01"
+            },
+            {
+              "title": "Burnham is Right That 'Hope Comes from Honesty' \u2014 Labour Must Make the Case for Rejoining the EU",
+              "summary": "Opinion piece arguing that PM Burnham's approach to honesty about the EU opens the door for Labour to make a stronger case for rejoining, despite the political risks. The article suggests Burnham and Sadiq Khan are aligned on this message.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/commentisfree/2026/oct/01/andy-burnham-sadiq-khan-hope-labour-rejoining-the-eu-brexit-growth-security",
+              "publishedAt": "2026-10-01"
+            },
+            {
+              "title": "Labour Could Lose 'Red Wall' Votes Over Triple Lock and EU Plans",
+              "summary": "Polling and party analysis suggest Labour risks losing voters in traditional 'red wall' constituencies over plans to cut the pension triple lock and reopen the Brexit debate. The triple lock reform poll gap has widened from 48% to 28% support.",
+              "source": "The Guardian (Politics Live)",
+              "url": "https://www.theguardian.com/politics/live/2026/oct/01/universal-credit-benefits-welfare-conservatives-kemi-badenoch-andy-burnham-labour-latest-news-updates",
+              "publishedAt": "2026-10-01"
+            }
+          ]
+        },
+        {
+          "id": "conservatives",
+          "name": "Conservative Party",
+          "description": "Conservative party news, Badenoch & opposition",
+          "stories": [
+            {
+              "title": "Badenoch Brands Burnham Government 'Corbynism with Better Packaging'",
+              "summary": "Conservative leader Kemi Badenoch used her conference speech to attack PM Burnham's policy programme as 'Corbynism with better packaging', signalling the Tories' intention to frame Labour's agenda as economically extreme. The speech came at the Conservatives' Birmingham conference.",
+              "source": "Politico",
+              "url": "https://www.politico.eu/podcast/politics-at-sam-and-annes/who-cares-if-im-nasty-kemi-badenoch-fights-back/",
+              "publishedAt": "2026-10-01"
+            },
+            {
+              "title": "Badenoch Leaves Door Open to Tory Support for Plaid Government Budget in Wales",
+              "summary": "Conservative leader Kemi Badenoch has not ruled out Welsh Conservatives supporting Plaid Cymru ministers in passing the Welsh government's supplementary budget. The potential cross-party arrangement would be unusual in the Welsh context.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/ck2090327x9zo",
+              "publishedAt": "2026-10-02"
+            },
+            {
+              "title": "Asylum Votes Show People Want Help, Says Badenoch",
+              "summary": "Kemi Badenoch backed calls for referendums on housing asylum seekers in Suffolk, including at RAF Barnham, saying the votes showed communities were 'asking for help' rather than rejecting migrants. The comments come as the Conservatives attempt to reassert themselves on immigration policy.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cwr7d7nykk1yo",
+              "publishedAt": "2026-10-02"
+            }
+          ]
+        },
+        {
+          "id": "lib-dems",
+          "name": "Liberal Democrats",
+          "description": "Lib Dem party news & policy positions",
+          "stories": [
+            {
+              "title": "Lib Dem MPs Criticise Davey Over Pension Triple Lock Response",
+              "summary": "Liberal Democrat MPs have publicly criticised party leader Ed Davey for his response to government proposals to reform the pension triple lock, with some feeling his stance was too passive. The intra-party tension comes amid a wider cross-party debate on pension policy.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cmlyey1w8q78o",
+              "publishedAt": "2026-10-02"
+            },
+            {
+              "title": "Ed Davey Delivers Keynote Speech at Lib Dem Conference in Brighton",
+              "summary": "Lib Dem leader Ed Davey addressed party faithful on the final day of the Liberal Democrat conference in Brighton, setting out the party's pitch for London and beyond. Davey also appeared on LBC and other media to outline party policy positions.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/programmes/b0bjf8p5/episodes/player",
+              "publishedAt": "2026-10-02"
+            }
+          ]
+        },
+        {
+          "id": "reform-uk",
+          "name": "Reform UK",
+          "description": "Reform UK & Nigel Farage",
+          "stories": [
+            {
+              "title": "'Thank You, Andy': Farage Gloats as Burnham Reopens Brexit Fight",
+              "summary": "Nigel Farage seized on PM Burnham's EU signals, claiming the reopening of the Brexit debate presents the 'biggest boost' to his political career and 'opens the door to Reform' in Leave-voting Labour heartlands. Farage was speaking at a rally in Doncaster.",
+              "source": "Politico",
+              "url": "https://www.politico.eu/article/thank-you-andy-farage-gloats-andy-burnham-reopens-brexit-fight/",
+              "publishedAt": "2026-10-02"
+            },
+            {
+              "title": "Farage Claims PM Reigniting Brexit Vote Will 'Open Door to Reform'",
+              "summary": "Reform UK leader Nigel Farage said Burnham has 'opened the door to Reform in the most extraordinary way' by reigniting the Brexit debate. He also claimed the party's internal inquiry would clear two aides suspended after a Channel 4 undercover investigation.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/crz6z636gx9zo",
+              "publishedAt": "2026-10-02"
+            },
+            {
+              "title": "Welcome to the New Reform Roadshow \u2014 Same as the Last but More Desperate",
+              "summary": "Analysis of Nigel Farage's Doncaster rally describes it as a desperate attempt to maintain momentum as Reform struggles to convert its polling surge into tangible political wins. The Guardian notes Farage's contradictions on Brexit pledges made nearly a decade ago.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/oct/01/reform-roadshow-nigel-farage",
+              "publishedAt": "2026-10-01"
+            }
+          ]
+        },
+        {
+          "id": "snp",
+          "name": "SNP",
+          "description": "Scottish National Party & Scottish politics",
+          "stories": [
+            {
+              "title": "Swinney Challenged Over NHS Reforms and Pension Changes at FMQs",
+              "summary": "Scottish First Minister John Swinney faced sharp questioning at Holyrood's FMQs over his NHS reform plans and pension changes, rejecting BMA criticism of the shake-up. Opposition parties also clashed with Swinney over welfare spending and Scotland's finances.",
+              "source": "The Herald",
+              "url": "https://www.heraldscotland.com/news/26599333.swinney-challenged-nhs-reforms-pension-changes/",
+              "publishedAt": "2026-10-02"
+            },
+            {
+              "title": "First Minister Swinney Quizzed on 'Gathering Mess' of Public Service Reform",
+              "summary": "Scottish Labour's Michael Marra accused the SNP government of presiding over 'a gathering mess' on public service reform and asked for clarity on devolution of Scottish Water. Swinney also declared violence against women a 'national emergency'.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/live/cqvgy208jdypt",
+              "publishedAt": "2026-10-02"
+            },
+            {
+              "title": "Scottish Labour Would Keep Most MPs if PM Vows to Rejoin EU",
+              "summary": "Polling analysis suggests Scottish Labour would hold onto most of its 37 Westminster seats if PM Burnham pledged to rejoin the European Union at the next general election, potentially insulating it from a Scottish pro-EU backlash.",
+              "source": "The Herald",
+              "url": "https://www.heraldscotland.com/politics/westminster/26597208.scottish-labour-keep-mps-pm-vows-rejoin-eu/",
+              "publishedAt": "2026-10-01"
+            }
+          ]
+        },
+        {
+          "id": "cabinet-office",
+          "name": "Cabinet Office",
+          "description": "Government reshuffles, appointments & cross-department policy",
+          "stories": [
+            {
+              "title": "Government Publishes Machinery of Government Changes Fact Sheet",
+              "summary": "The Cabinet Office published an updated fact sheet on recent Machinery of Government changes, providing official guidance on the latest structural government reorganisation. Further details are expected as the Burnham administration continues reshaping Whitehall.",
+              "source": "GOV.UK",
+              "url": "https://www.gov.uk/",
+              "publishedAt": "2026-10-02"
+            }
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "Elections & By-elections",
+          "description": "Upcoming or recent election results & polls",
+          "stories": [
+            {
+              "title": "Tories Hold On to Seat in Long Whatton and Diseworth By-election",
+              "summary": "The Conservative candidate Craig Smith won 55% of the vote in the Long Whatton and Diseworth by-election for North West Leicestershire District Council, delivering a local hold for the party.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/c6pwlwykj92vo",
+              "publishedAt": "2026-10-02"
+            },
+            {
+              "title": "Burnham Wants to Change British Elections \u2014 Voters Think They're Fine",
+              "summary": "A Politico poll shows most voters are satisfied with the current UK electoral system despite PM Burnham's plans for proportional representation reform. Labour's 2024 landslide \u2014 63% of seats from 34% of votes \u2014 remains the most disproportionate in British history.",
+              "source": "Politico",
+              "url": "https://www.politico.eu/article/andy-burnham-change-british-elections-voters-poll/",
+              "publishedAt": "2026-10-02"
+            }
+          ]
+        },
+        {
+          "id": "house-of-lords",
+          "name": "House of Lords",
+          "description": "Lords debates, reform & appointments",
+          "stories": []
+        }
+      ]
+    },
     {
       "date": "2026-09-23",
       "lastUpdated": "2026-09-23T16:00:00+10:00",
