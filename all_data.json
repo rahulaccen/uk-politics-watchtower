@@ -1,6 +1,133 @@
 {
-  "lastUpdated": "2026-10-07T16:00:00+11:00",
+  "lastUpdated": "2026-10-08T16:00:00+11:00",
   "editions": [
+    {
+      "date": "2026-10-08",
+      "lastUpdated": "2026-10-08T16:00:00+11:00",
+      "topics": [
+        {
+          "id": "pm-no10",
+          "name": "PM & No. 10",
+          "description": "Prime Minister & Downing Street",
+          "stories": [
+            {
+              "title": "UK and Germany to announce partnership against sabotage and cyberattacks",
+              "summary": "Sky News reported at 19:01 BST (18:01 UTC) on 7 October that Prime Minister Andy Burnham was due to meet German Chancellor Friedrich Merz in Berlin on Thursday and announce a partnership to counter sabotage and cyberattacks, alongside cooperation on innovation and regional growth.",
+              "source": "Sky News",
+              "url": "https://news.sky.com/story/politics-latest-burnham-labour-farage-badenoch-reform-macron-12593360?postid=12594125#liveblog-body",
+              "publishedAt": "2026-10-07"
+            }
+          ]
+        },
+        {
+          "id": "burnham-intel",
+          "name": "Burnham Gov Intelligence",
+          "description": "Procurement, tech/AI, spending, vendor & priority signals",
+          "stories": [
+            {
+              "title": "🏗️ Procurement signal · 💰 Spending / VfM · 🤝 Private sector / Consulting — MoJ reports £146m in September digital awards",
+              "summary": "TechMarketView reported at 09:58 BST (08:58 UTC) on 7 October that the Ministry of Justice awarded or announced intent to award more than £146m in digital contracts during September, all through the Digital Outcomes and Specialists 7 framework. Awards included up to £40m for The Dextrous Web and £36m and £19.1m contracts for Hippo Digital, alongside awards or intended awards to Tecknuovo, Solirius Reply, Cognizant and eSynergy.",
+              "source": "TechMarketView",
+              "url": "https://www.techmarketview.com/ukhotviews/archive/2026/10/07/moj-signs-146m-of-digital-deals-in-september",
+              "publishedAt": "2026-10-07"
+            },
+            {
+              "title": "🤖 Tech / AI / Digital · 🏢 Vendor signal — Thales sets out UK defence technology strategy focused on reuse and interoperability",
+              "summary": "TechMarketView reported at 16:13 BST (15:13 UTC) on 7 October that Thales launched a UK technology strategy centred on reuse, interoperability and easier upgrades, backed by £70m a year in UK R&D and £40m for the UK arm of its CortAIx AI accelerator. The report also quoted the National Armaments Director on autonomous systems and AI/data; TechMarketView's supplier-opportunity analysis is market commentary, not a new government contract.",
+              "source": "TechMarketView",
+              "url": "https://www.techmarketview.com/ukhotviews/archive/2026/10/07/ukhotviewsextra-defence-supplier-thales-bets-on-reuse-and-interoperability",
+              "publishedAt": "2026-10-07"
+            }
+          ]
+        },
+        {
+          "id": "parliament",
+          "name": "Parliament",
+          "description": "House of Commons, Lords, PMQs, debates, legislation",
+          "stories": []
+        },
+        {
+          "id": "labour",
+          "name": "Labour Party",
+          "description": "Labour party news, policy, internal politics",
+          "stories": [
+            {
+              "title": "Labour says Tory inheritance-tax pledge prioritises the wealthiest",
+              "summary": "At 08:53 BST (07:53 UTC) on 7 October, Sky News reported Labour's response to Kemi Badenoch's family-home inheritance-tax pledge: Bridget Phillipson criticised the proposal as favouring wealthier households and reiterated Labour's National Care Service offer.",
+              "source": "Sky News",
+              "url": "https://news.sky.com/story/politics-latest-burnham-labour-farage-badenoch-reform-macron-12593360?postid=12590079#liveblog-body",
+              "publishedAt": "2026-10-07"
+            }
+          ]
+        },
+        {
+          "id": "conservatives",
+          "name": "Conservative Party",
+          "description": "Conservative party news, leadership, opposition",
+          "stories": [
+            {
+              "title": "Badenoch pledges to exempt family homes from inheritance tax",
+              "summary": "Sky News reported at 16:59 BST (15:59 UTC) on 7 October that Conservative leader Kemi Badenoch pledged to exempt family homes from inheritance tax if her party wins the next general election, describing the Conservatives as the party of home ownership.",
+              "source": "Sky News",
+              "url": "https://news.sky.com/story/politics-latest-burnham-labour-farage-badenoch-reform-macron-12593360?postid=12589651#liveblog-body",
+              "publishedAt": "2026-10-07"
+            }
+          ]
+        },
+        {
+          "id": "lib-dems",
+          "name": "Liberal Democrats",
+          "description": "Lib Dem party news, policy positions",
+          "stories": []
+        },
+        {
+          "id": "reform-uk",
+          "name": "Reform UK",
+          "description": "Nigel Farage, Reform UK party news",
+          "stories": [
+            {
+              "title": "Reform inquiry acknowledges donation-process failings but denies electoral-law breach",
+              "summary": "Sky News reported at 09:20 BST (08:20 UTC) on 7 October that Reform UK's party-commissioned inquiry found no electoral-law breach in the alleged overseas-donation episode, but criticised conduct and weaknesses in party processes and recommended tighter donor checks and records. Police were still investigating related allegations; the inquiry's finding was the party's own conclusion, not an independent exoneration.",
+              "source": "Sky News",
+              "url": "https://news.sky.com/story/reform-uk-internal-inquiry-clears-own-advisers-over-donations-sting-13596069",
+              "publishedAt": "2026-10-07"
+            }
+          ]
+        },
+        {
+          "id": "snp",
+          "name": "SNP",
+          "description": "Scottish National Party, Scottish politics",
+          "stories": []
+        },
+        {
+          "id": "cabinet-office",
+          "name": "Cabinet Office",
+          "description": "Government reshuffles, senior appointments, cross-dept policy",
+          "stories": []
+        },
+        {
+          "id": "elections",
+          "name": "Elections & By-elections",
+          "description": "Upcoming or recent elections, results, polls",
+          "stories": [
+            {
+              "title": "Holborn and St Pancras voters set to choose Starmer's successor",
+              "summary": "ITV News published this preview at 23:01 UTC on 7 October, before the scan cutoff: voters were due to go to the polls on Thursday in the by-election to replace Keir Starmer, with Green leader Zack Polanski standing against Labour's Sagal Abdi-Wali. Polling and any result fell after the 05:00 UTC cutoff, so no result is included.",
+              "source": "ITV News",
+              "url": "https://www.itv.com/news/2026-10-07/voters-go-to-the-polls-to-replace-starmer-in-holborn-and-st-pancras-by-election",
+              "publishedAt": "2026-10-07"
+            }
+          ]
+        },
+        {
+          "id": "house-of-lords",
+          "name": "House of Lords",
+          "description": "Lords debates, reform, appointments",
+          "stories": []
+        }
+      ]
+    },
     {
       "date": "2026-10-07",
       "lastUpdated": "2026-10-07T16:00:00+11:00",
