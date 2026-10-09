@@ -1,6 +1,125 @@
 {
-  "lastUpdated": "2026-10-08T16:00:00+11:00",
+  "lastUpdated": "2026-10-09T16:00:00+11:00",
   "editions": [
+    {
+      "date": "2026-10-09",
+      "lastUpdated": "2026-10-09T16:00:00+11:00",
+      "topics": [
+        {
+          "id": "pm-no10",
+          "name": "PM & No. 10",
+          "description": "Prime Minister & Downing Street",
+          "stories": [
+            {
+              "title": "Burnham and Merz agree to pursue UK–Germany security framework against hybrid threats.",
+              "summary": "The Independent reported that the leaders met in Berlin on 8 October and agreed a framework to counter cyberattacks, sabotage and other hybrid threats, including intelligence-sharing and coordinated action. Earlier Sky News coverage at 11:20 BST said they would discuss protecting both countries; this was a policy commitment, not a specific funding package or contract award.",
+              "source": "The Independent; Sky News",
+              "url": "https://www.the-independent.com/news/uk/politics/burnham-merz-germany-meeting-russia-b3063225.html",
+              "publishedAt": "2026-10-08"
+            },
+            {
+              "title": "Premier League clubs fear potential political influence in Man City appeal.",
+              "summary": "BBC Sport reported that some clubs were concerned Burnham’s remarks about Manchester City could put the independent appeal process at risk. The concern was attributed to club sources; Burnham said the process must remain fully independent.",
+              "source": "BBC Sport",
+              "url": "https://www.bbc.co.uk/sport/football/articles/c6y93qq5175wo",
+              "publishedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "burnham-intel",
+          "name": "Burnham Gov Intelligence",
+          "description": "Procurement, tech/AI, spending, vendor & priority signals",
+          "stories": []
+        },
+        {
+          "id": "parliament",
+          "name": "Parliament",
+          "description": "House of Commons, Lords, PMQs, debates, legislation",
+          "stories": []
+        },
+        {
+          "id": "labour",
+          "name": "Labour Party",
+          "description": "Labour party news, policy, internal politics",
+          "stories": []
+        },
+        {
+          "id": "conservatives",
+          "name": "Conservative Party",
+          "description": "Conservative party news, leadership, opposition",
+          "stories": [
+            {
+              "title": "Badenoch says Thatcher-era water privatisation “was a success”.",
+              "summary": "In an ITV News conference interview reported at 16:18 on 8 October, Conservative leader Kemi Badenoch defended water privatisation. This was a political response, not a newly announced privatisation programme.",
+              "source": "Order-Order",
+              "url": "https://order-order.com/2026/10/08/kemi-thatchers-water-privatisation-sell-off-was-a-success/",
+              "publishedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "lib-dems",
+          "name": "Liberal Democrats",
+          "description": "Lib Dem party news, policy positions",
+          "stories": [
+            {
+              "title": "Davey jokes that Churchill deserved better than being replaced by a badger.",
+              "summary": "The Guardian reported that the next UK banknotes will feature four native species, after the Bank of England’s public consultation. Ed Davey’s quip was a reaction to the design announcement, not a Lib Dem policy announcement.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/business/2026/oct/08/uk-banknotes-new-design-barn-owl-bumblebee-puffin-hedgehog",
+              "publishedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "reform-uk",
+          "name": "Reform UK",
+          "description": "Nigel Farage, Reform UK party news",
+          "stories": []
+        },
+        {
+          "id": "snp",
+          "name": "SNP",
+          "description": "Scottish National Party, Scottish politics",
+          "stories": [
+            {
+              "title": "Scotland FMQs puts homelessness and school violence on agenda.",
+              "summary": "BBC Scotland reported that Scottish Labour leader Michael Marra pressed First Minister John Swinney on homelessness; Swinney said his government had made it a priority. Scottish Lib Dems also called for support for teachers facing school violence.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/live/c9zrd7ryk23pt",
+              "publishedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "cabinet-office",
+          "name": "Cabinet Office",
+          "description": "Government reshuffles, senior appointments, cross-dept policy",
+          "stories": []
+        },
+        {
+          "id": "elections",
+          "name": "Elections & By-elections",
+          "description": "Upcoming or recent elections, results, polls",
+          "stories": [
+            {
+              "title": "Polls close in Holborn and St Pancras by-election as Labour seeks to retain seat.",
+              "summary": "The Guardian described the contest in Keir Starmer’s former seat as a test of Labour’s support against the Greens. Polling closed on 8 October; the result became available only after the 05:00 UTC cut-off and is excluded.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/oct/08/polls-close-holborn-st-pancras-byelection-labour-greens",
+              "publishedAt": "2026-10-08"
+            }
+          ]
+        },
+        {
+          "id": "house-of-lords",
+          "name": "House of Lords",
+          "description": "Lords debates, reform, appointments",
+          "stories": []
+        }
+      ]
+    },
     {
       "date": "2026-10-08",
       "lastUpdated": "2026-10-08T16:00:00+11:00",
