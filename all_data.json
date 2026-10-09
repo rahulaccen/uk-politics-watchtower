@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-10-09T16:00:00+11:00",
+  "lastUpdated": "2026-10-09T16:12:49+11:00",
   "editions": [
     {
       "date": "2026-10-09",
-      "lastUpdated": "2026-10-09T16:00:00+11:00",
+      "lastUpdated": "2026-10-09T16:12:49+11:00",
       "topics": [
         {
           "id": "pm-no10",
@@ -11,15 +11,15 @@
           "description": "Prime Minister & Downing Street",
           "stories": [
             {
-              "title": "Burnham and Merz agree to pursue UK–Germany security framework against hybrid threats.",
-              "summary": "The Independent reported that the leaders met in Berlin on 8 October and agreed a framework to counter cyberattacks, sabotage and other hybrid threats, including intelligence-sharing and coordinated action. Earlier Sky News coverage at 11:20 BST said they would discuss protecting both countries; this was a policy commitment, not a specific funding package or contract award.",
+              "title": "Date-only coverage — exact 24-hour eligibility unverified: Burnham and Merz agree to pursue UK–Germany security framework against hybrid threats.",
+              "summary": "Date-only coverage — exact 24-hour eligibility unverified. The report is dated 8 October, but its publication time could not be verified. The cited Sky News item at 11:20 BST covered the planned talks, not the later agreement. The Independent reported that the leaders met in Berlin on 8 October and agreed a framework to counter cyberattacks, sabotage and other hybrid threats, including intelligence-sharing and coordinated action. Earlier Sky News coverage at 11:20 BST said they would discuss protecting both countries; this was a policy commitment, not a specific funding package or contract award.",
               "source": "The Independent; Sky News",
               "url": "https://www.the-independent.com/news/uk/politics/burnham-merz-germany-meeting-russia-b3063225.html",
               "publishedAt": "2026-10-08"
             },
             {
-              "title": "Premier League clubs fear potential political influence in Man City appeal.",
-              "summary": "BBC Sport reported that some clubs were concerned Burnham’s remarks about Manchester City could put the independent appeal process at risk. The concern was attributed to club sources; Burnham said the process must remain fully independent.",
+              "title": "Date-only coverage — exact 24-hour eligibility unverified: Premier League clubs fear potential political influence in Man City appeal.",
+              "summary": "Date-only coverage — exact 24-hour eligibility unverified. BBC Sport identifies the publication date as 8 October but gives no precise publication time. BBC Sport reported that some clubs were concerned Burnham’s remarks about Manchester City could put the independent appeal process at risk. The concern was attributed to club sources; Burnham said the process must remain fully independent.",
               "source": "BBC Sport",
               "url": "https://www.bbc.co.uk/sport/football/articles/c6y93qq5175wo",
               "publishedAt": "2026-10-08"
@@ -64,8 +64,8 @@
           "description": "Lib Dem party news, policy positions",
           "stories": [
             {
-              "title": "Davey jokes that Churchill deserved better than being replaced by a badger.",
-              "summary": "The Guardian reported that the next UK banknotes will feature four native species, after the Bank of England’s public consultation. Ed Davey’s quip was a reaction to the design announcement, not a Lib Dem policy announcement.",
+              "title": "Date-only coverage — exact 24-hour eligibility unverified: Davey jokes that Churchill deserved better than being replaced by a badger.",
+              "summary": "Date-only coverage — exact 24-hour eligibility unverified. The Guardian article is dated 8 October; source-page metadata available in this audit did not provide a precise publication time. The Guardian reported that the next UK banknotes will feature four native species, after the Bank of England’s public consultation. Ed Davey’s quip was a reaction to the design announcement, not a Lib Dem policy announcement.",
               "source": "The Guardian",
               "url": "https://www.theguardian.com/business/2026/oct/08/uk-banknotes-new-design-barn-owl-bumblebee-puffin-hedgehog",
               "publishedAt": "2026-10-08"
@@ -84,8 +84,8 @@
           "description": "Scottish National Party, Scottish politics",
           "stories": [
             {
-              "title": "Scotland FMQs puts homelessness and school violence on agenda.",
-              "summary": "BBC Scotland reported that Scottish Labour leader Michael Marra pressed First Minister John Swinney on homelessness; Swinney said his government had made it a priority. Scottish Lib Dems also called for support for teachers facing school violence.",
+              "title": "Date-only coverage — exact 24-hour eligibility unverified: Scotland FMQs puts homelessness and school violence on agenda.",
+              "summary": "Date-only coverage — exact 24-hour eligibility unverified. BBC live coverage documents the 8 October FMQs but provides no verifiable publication time for this coverage. BBC Scotland reported that Scottish Labour leader Michael Marra pressed First Minister John Swinney on homelessness; Swinney said his government had made it a priority. Scottish Lib Dems also called for support for teachers facing school violence.",
               "source": "BBC News",
               "url": "https://www.bbc.co.uk/news/live/c9zrd7ryk23pt",
               "publishedAt": "2026-10-08"
@@ -104,8 +104,8 @@
           "description": "Upcoming or recent elections, results, polls",
           "stories": [
             {
-              "title": "Polls close in Holborn and St Pancras by-election as Labour seeks to retain seat.",
-              "summary": "The Guardian described the contest in Keir Starmer’s former seat as a test of Labour’s support against the Greens. Polling closed on 8 October; the result became available only after the 05:00 UTC cut-off and is excluded.",
+              "title": "Date-only coverage — exact 24-hour eligibility unverified: Polls close in Holborn and St Pancras by-election as Labour seeks to retain seat.",
+              "summary": "Date-only coverage — exact 24-hour eligibility unverified. The Guardian article is dated 8 October; source-page metadata available in this audit did not provide a precise publication time. The report of the result, which surfaced after the cutoff, remains excluded. The Guardian described the contest in Keir Starmer’s former seat as a test of Labour’s support against the Greens. Polling closed on 8 October; the result became available only after the 05:00 UTC cut-off and is excluded.",
               "source": "The Guardian",
               "url": "https://www.theguardian.com/politics/2026/oct/08/polls-close-holborn-st-pancras-byelection-labour-greens",
               "publishedAt": "2026-10-08"
