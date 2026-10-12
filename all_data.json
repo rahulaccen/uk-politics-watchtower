@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-10-09T16:12:49+11:00",
+  "lastUpdated": "2026-10-12T16:00:00+11:00",
   "editions": [
+    {
+      "date": "2026-10-12",
+      "lastUpdated": "2026-10-12T16:00:00+11:00",
+      "topics": [
+        {
+          "id": "pm-no10",
+          "name": "PM & No. 10",
+          "description": "Prime Minister & Downing Street",
+          "stories": [
+            {
+              "title": "PM says it is 'clear' Russia interfered with Brexit vote",
+              "summary": "Prime Minister Andy Burnham said he was given a clear answer on entering No. 10 that Russia interfered in the 2016 referendum, but disclosed no further detail about the alleged activity or who provided the answer. The BBC page showed the report as published about 47 minutes before retrieval, placing it inside the specified window.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko",
+              "publishedAt": "2026-10-12"
+            }
+          ]
+        },
+        {
+          "id": "burnham-intel",
+          "name": "Burnham Gov Intelligence",
+          "description": "Procurement, tech/AI, spending, vendor & priority signals",
+          "stories": []
+        },
+        {
+          "id": "parliament",
+          "name": "Parliament",
+          "description": "House of Commons, Lords, PMQs, debates, legislation",
+          "stories": []
+        },
+        {
+          "id": "labour",
+          "name": "Labour Party",
+          "description": "Labour party news, policy, internal politics",
+          "stories": []
+        },
+        {
+          "id": "conservatives",
+          "name": "Conservative Party",
+          "description": "Conservative party news, leadership, opposition",
+          "stories": []
+        },
+        {
+          "id": "lib-dems",
+          "name": "Liberal Democrats",
+          "description": "Lib Dem party news, policy positions",
+          "stories": []
+        },
+        {
+          "id": "reform-uk",
+          "name": "Reform UK",
+          "description": "Nigel Farage, Reform UK party news",
+          "stories": []
+        },
+        {
+          "id": "snp",
+          "name": "SNP",
+          "description": "Scottish National Party, Scottish politics",
+          "stories": []
+        },
+        {
+          "id": "cabinet-office",
+          "name": "Cabinet Office",
+          "description": "Government reshuffles, senior appointments, cross-dept policy",
+          "stories": []
+        },
+        {
+          "id": "elections",
+          "name": "Elections & By-elections",
+          "description": "Upcoming or recent elections, results, polls",
+          "stories": []
+        },
+        {
+          "id": "house-of-lords",
+          "name": "House of Lords",
+          "description": "Lords debates, reform, appointments",
+          "stories": []
+        }
+      ]
+    },
     {
       "date": "2026-10-09",
       "lastUpdated": "2026-10-09T16:12:49+11:00",
