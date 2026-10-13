@@ -1,6 +1,155 @@
 {
-  "lastUpdated": "2026-10-12T16:00:00+11:00",
+  "lastUpdated": "2026-10-13T16:00:00+11:00",
   "editions": [
+    {
+      "date": "2026-10-13",
+      "lastUpdated": "2026-10-13T16:00:00+11:00",
+      "topics": [
+        {
+          "id": "pm-no10",
+          "name": "PM & No. 10",
+          "description": "Prime Minister & Downing Street",
+          "stories": [
+            {
+              "title": "Burnham sets UK–EU summit for 20 November",
+              "summary": "The PM called for serious dialogue about the longer-term relationship, while prioritising food, youth-mobility and emissions-trading deals. These are negotiations and ambitions, not completed agreements.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/oct/12/andy-burnham-britain-eu-brexit-reset",
+              "publishedAt": "2026-10-12T19:15:11Z"
+            }
+          ]
+        },
+        {
+          "id": "burnham-intel",
+          "name": "Burnham Gov Intelligence",
+          "description": "Procurement, tech/AI, spending, vendor & priority signals",
+          "stories": [
+            {
+              "title": "🤖 Tech / AI / Digital — government outlines AI cyber-security measures",
+              "summary": "Measures include extending AI vulnerability-detection pilots, examining targeted changes to the Cyber Security and Resilience Bill, and learning from near misses. This is policy and programme development, not an announced supplier contract.",
+              "source": "PublicTechnology",
+              "url": "https://www.publictechnology.net/2026/10/13/news/new-laws-and-learning-from-near-misses-government-sets-plans-to-make-uk-one-of-the-hardest-countries-to-attack-using-ai/",
+              "publishedAt": "2026-10-13T01:01:00Z"
+            },
+            {
+              "title": "💰 Spending / VfM — IFS warns of £35bn Budget challenge",
+              "summary": "The IFS says Chancellor John Healey needs a substantial top-up to meet defence and health ambitions without squeezing other departments. This is a think-tank assessment ahead of the 28 October Budget, not an announced spending cut or funding settlement.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo",
+              "publishedAt": "2026-10-12"
+            },
+            {
+              "title": "🏢 Vendor signal — Accenture and Dell launch private-AI business group",
+              "summary": "The alliance targets private, sovereign and specialist GPU-cloud infrastructure; Accenture plans to train more than 3,000 practitioners. TechMarketView names RHAELM as a client but reports no investment figure or revenue target; this is not evidence of a UK government award.",
+              "source": "TechMarketView",
+              "url": "https://www.techmarketview.com/ukhotviews/archive/2026/10/12/accenture-builds-a-dell-business-group-for-private-ai",
+              "publishedAt": "2026-10-12"
+            }
+          ]
+        },
+        {
+          "id": "parliament",
+          "name": "Parliament",
+          "description": "House of Commons, Lords, PMQs, debates, legislation",
+          "stories": []
+        },
+        {
+          "id": "labour",
+          "name": "Labour Party",
+          "description": "Labour party news, policy, internal politics",
+          "stories": []
+        },
+        {
+          "id": "conservatives",
+          "name": "Conservative Party",
+          "description": "Conservative party news, leadership, opposition",
+          "stories": [
+            {
+              "title": "Badenoch challenges PM's Brexit-interference language",
+              "summary": "The Conservative leader criticised Burnham's statements about Russia and the referendum. No. 10 said he accepts the result as legitimate; his allegation of attempted interference is not evidence that Russia changed the outcome.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cq5ynr4kn3nmo",
+              "publishedAt": "2026-10-12"
+            }
+          ]
+        },
+        {
+          "id": "lib-dems",
+          "name": "Liberal Democrats",
+          "description": "Lib Dem party news, policy positions",
+          "stories": [
+            {
+              "title": "Opinion: Guardian argues against replacing Ed Davey",
+              "summary": "The editorial discusses pressure on Davey's leadership ahead of a Tuesday meeting and argues his seat-focused strategy should continue. This is attributed commentary, not confirmation that a confidence vote has been triggered.",
+              "source": "The Guardian — editorial",
+              "url": "https://www.theguardian.com/commentisfree/2026/oct/12/the-guardian-view-on-the-liberal-democrats-now-is-not-the-time-to-change-leader",
+              "publishedAt": "2026-10-12T17:43:32Z"
+            }
+          ]
+        },
+        {
+          "id": "reform-uk",
+          "name": "Reform UK",
+          "description": "Nigel Farage, Reform UK party news",
+          "stories": [
+            {
+              "title": "Reform proposes five-year asylum freeze and immediate deportations",
+              "summary": "Farage's plan includes about 90,000 pending asylum cases and would not exempt children or mothers. Refugee charities called the proposals unworkable; these are opposition proposals, not current UK policy.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/oct/12/children-mothers-included-reform-immediately-deport-asylum-seekers",
+              "publishedAt": "2026-10-12T14:24:31Z"
+            },
+            {
+              "title": "Farage says he would scrutinise Britain's Ukraine support",
+              "summary": "Farage said a Reform government would examine whether UK aid is being lost to corruption, while saying support should continue and acknowledging Putin's threat. His corruption allegations are attributed claims, not established findings about British aid.",
+              "source": "POLITICO",
+              "url": "https://www.politico.eu/article/farage-look-at-uk-support-for-corrupt-ukraine/",
+              "publishedAt": "2026-10-12T13:52:46Z"
+            }
+          ]
+        },
+        {
+          "id": "snp",
+          "name": "SNP",
+          "description": "Scottish National Party, Scottish politics",
+          "stories": [
+            {
+              "title": "No investigation into Swinney's pension remarks",
+              "summary": "Independent advisers decided no investigation was required after Swinney referred himself over claims he misled Holyrood about pension changes. Scottish Conservative leader Russell Findlay continued to demand a correction.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/c9kgjym2me44o",
+              "publishedAt": "2026-10-12"
+            }
+          ]
+        },
+        {
+          "id": "cabinet-office",
+          "name": "Cabinet Office",
+          "description": "Government reshuffles, senior appointments, cross-dept policy",
+          "stories": []
+        },
+        {
+          "id": "elections",
+          "name": "Elections & By-elections",
+          "description": "Upcoming or recent elections, results, polls",
+          "stories": [
+            {
+              "title": "Polling transparency: Farage adviser's role at Redfield & Wilton",
+              "summary": "The Guardian reports Chris Bruni-Lowe had an influential, unpublicised role at the polling firm. Its director acknowledged consultancy work but denied an institutional or financial relationship with Farage or Reform; this is a transparency story, not a new election result or poll.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/oct/12/nigel-farage-adviser-influential-role-polling-firm-chris-bruni-lowe",
+              "publishedAt": "2026-10-12T13:42:27Z"
+            }
+          ]
+        },
+        {
+          "id": "house-of-lords",
+          "name": "House of Lords",
+          "description": "Lords debates, reform, appointments",
+          "stories": []
+        }
+      ]
+    },
     {
       "date": "2026-10-12",
       "lastUpdated": "2026-10-12T16:00:00+11:00",
