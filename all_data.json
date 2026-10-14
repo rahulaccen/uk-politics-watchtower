@@ -1,6 +1,179 @@
 {
-  "lastUpdated": "2026-10-13T16:00:00+11:00",
+  "lastUpdated": "2026-10-14T16:00:00+11:00",
   "editions": [
+    {
+      "date": "2026-10-14",
+      "lastUpdated": "2026-10-14T16:00:00+11:00",
+      "topics": [
+        {
+          "id": "pm-no10",
+          "name": "PM & No. 10",
+          "description": "Prime Minister & Downing Street",
+          "stories": [
+            {
+              "title": "Burnham to host Zelenskyy as UK accelerates missile deliveries",
+              "summary": "The PM will host Ukraine’s president at Downing Street on Wednesday, pledging support ‘for as long as it takes’. The UK plans faster delivery of lightweight multirole missiles and further sanctions proposals; this is a policy announcement, not a newly evidenced supplier contract award.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/oct/13/burnham-to-host-zelenskyy-at-no-10-in-show-of-rock-solid-support",
+              "publishedAt": "2026-10-13T21:30:35Z"
+            },
+            {
+              "title": "No. 10 brings business leaders and junior ministers together before the Budget",
+              "summary": "POLITICO reported planned meetings with entrepreneurs, major-company CEOs and business groups ahead of the 28 October Budget, alongside Pat McFadden, Lucy Rigby and Chris McDonald. GOV.UK corroborates their roles as Work and Pensions Secretary, Economic Secretary to the Treasury, and Minister for Science, Innovation and Investment; the meetings are reported plans, not procurement commitments.",
+              "source": "POLITICO",
+              "url": "https://www.politico.eu/newsletter/london-playbook/andy-burnham-goes-speed-dating/",
+              "publishedAt": "2026-10-13T06:05:45Z"
+            }
+          ]
+        },
+        {
+          "id": "burnham-intel",
+          "name": "Burnham Gov Intelligence",
+          "description": "Procurement, tech/AI, spending, vendor & priority signals",
+          "stories": [
+            {
+              "title": "🤖 Tech / AI / Digital — Cyber Bill assessed for serious AI-incident reporting",
+              "summary": "TechMarketView reports that ministers will assess the Cyber Security and Resilience Bill for AI-driven cyber threats, loss-of-control risks and serious-incident reporting in essential services, alongside AI-assisted checks of government systems. These are proposed regulatory and operational priorities, not enacted AI duties, new funding or a named-supplier award; the accessible commentary, not gated research, was read.",
+              "source": "TechMarketView",
+              "url": "https://www.techmarketview.com/ukhotviews/archive/2026/10/13/uk-government-looks-to-cyber-bill-for-ai-incident-reporting",
+              "publishedAt": "2026-10-13T09:43:00+01:00"
+            },
+            {
+              "title": "🏢 Vendor signal — Nexor positioned around defence data interoperability",
+              "summary": "TechMarketView’s public research preview highlights Nexor’s cloud-native Software Defined Guard and secure data-transfer capabilities, and discusses the Digital Targeting Web opportunity. This is supplier positioning and analyst commentary, not evidence of a new Nexor government award; the subscriber-only report was not accessed.",
+              "source": "TechMarketView",
+              "url": "https://www.techmarketview.com/ukhotviews/archive/2026/10/13/new-research-nexor-at-the-heart-of-defence-interoperability",
+              "publishedAt": "2026-10-13T15:41:00+01:00"
+            },
+            {
+              "title": "🏢 Vendor signal — Phoenix public-sector focus supports Bytes growth",
+              "summary": "TechMarketView reports that Bytes Technology Group has completed its sector alignment, with Phoenix focused on the public sector and Bytes on the private sector; public-sector gross profit rose 23.1%. Its CyberOne acquisition adds Microsoft-security expertise, but these company results and capability signals do not establish a new UK government contract.",
+              "source": "TechMarketView",
+              "url": "https://www.techmarketview.com/ukhotviews/archive/2026/10/13/bytes-services-strategy-gathers-momentum",
+              "publishedAt": "2026-10-13T10:10:00+01:00"
+            }
+          ]
+        },
+        {
+          "id": "parliament",
+          "name": "Parliament",
+          "description": "House of Commons, Lords, PMQs, debates, legislation",
+          "stories": [
+            {
+              "title": "Ministers propose further veterans safeguards in Troubles legislation",
+              "summary": "Ministers described amendments intended to limit repeated investigations and require attorney-general consent for serious Troubles-related prosecutions. MPs were also due to consider extending the bill’s carry-over timetable; proposals and ministers’ claims should not be confused with legislation already enacted.",
+              "source": "The Guardian liveblog",
+              "url": "https://www.theguardian.com/politics/live/2026/oct/13/andy-burnham-brexit-eu-europe-neil-kinnock-lobby-wes-streeting-labour-prisoner-early-release-uk-politics-latest-news-updates?page=with%3Ablock-6ace2f1b8f0811efce0fe46b#block-6ace2f1b8f0811efce0fe46b",
+              "publishedAt": "2026-10-13T13:34:00Z"
+            }
+          ]
+        },
+        {
+          "id": "labour",
+          "name": "Labour Party",
+          "description": "Labour party news, policy, internal politics",
+          "stories": [
+            {
+              "title": "Labour MPs challenge proposed pension triple-lock changes",
+              "summary": "Neil Duncan-Jordan and other left-wing MPs backed a Commons motion opposing the PM’s proposed changes to the pensions triple lock to fund social care, calling for progressive taxation instead. This is an internal policy challenge, not confirmation that the proposed pension changes have become law.",
+              "source": "Sky News liveblog",
+              "url": "https://news.sky.com/story/politics-latest-talks-taking-place-about-what-to-do-with-seized-shadow-fleet-tanker-as-it-sits-off-dorset-coast-12593360?postid=12631124#liveblog-body",
+              "publishedAt": "2026-10-13T21:28:00+01:00"
+            }
+          ]
+        },
+        {
+          "id": "conservatives",
+          "name": "Conservative Party",
+          "description": "Conservative party news, leadership, opposition",
+          "stories": [
+            {
+              "title": "Tories attack tagging safeguards in prisoner early-release scheme",
+              "summary": "Nick Timothy alleged in a Commons urgent question that many released prisoners were not tagged and that reoffending was ‘off the charts’. Justice minister Jake Richards blamed inherited prison-capacity pressures; the reoffending assertion is an opposition claim, not an independently verified statistic.",
+              "source": "The Guardian liveblog",
+              "url": "https://www.theguardian.com/politics/live/2026/oct/13/andy-burnham-brexit-eu-europe-neil-kinnock-lobby-wes-streeting-labour-prisoner-early-release-uk-politics-latest-news-updates?page=with%3Ablock-6ace2c6f8f0874762783d02a#block-6ace2c6f8f0874762783d02a",
+              "publishedAt": "2026-10-13T13:11:00Z"
+            }
+          ]
+        },
+        {
+          "id": "lib-dems",
+          "name": "Liberal Democrats",
+          "description": "Lib Dem party news, policy positions",
+          "stories": [
+            {
+              "title": "Davey survives leadership showdown, but disquiet remains",
+              "summary": "Sky’s late-evening reporting says Ed Davey survived talks with his parliamentary party without enough MPs willing to trigger a no-confidence vote. Its correspondent judged his position weaker, with MPs more willing to voice dissatisfaction; that assessment is analysis rather than a formal leadership result.",
+              "source": "Sky News liveblog",
+              "url": "https://news.sky.com/story/politics-latest-talks-taking-place-about-what-to-do-with-seized-shadow-fleet-tanker-as-it-sits-off-dorset-coast-12593360?postid=12631296#liveblog-body",
+              "publishedAt": "2026-10-13T22:00:00+01:00"
+            }
+          ]
+        },
+        {
+          "id": "reform-uk",
+          "name": "Reform UK",
+          "description": "Nigel Farage, Reform UK party news",
+          "stories": [
+            {
+              "title": "Farage denies authorising shootings of small boats after Jenrick remarks",
+              "summary": "Nigel Farage said Reform would not authorise lethal force against small-boat crossings, following Robert Jenrick’s call for Royal Marines to be allowed to fire. Farage framed force as a response to violence; the dispute concerns party proposals and clarifications, not current government policy.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/oct/13/nigel-farage-reform-robert-jenrick-small-boats-royal-marines-lethal-force",
+              "publishedAt": "2026-10-13T14:49:23Z"
+            }
+          ]
+        },
+        {
+          "id": "snp",
+          "name": "SNP",
+          "description": "Scottish National Party, Scottish politics",
+          "stories": [
+            {
+              "title": "SNP invites Burnham to its conference during expected Scotland visit",
+              "summary": "The SNP invited the PM to its Aberdeen conference amid reports of a visit to Scotland. The invitation and expected travel are distinct from acceptance of the invitation or confirmation that he will address the conference.",
+              "source": "The Herald / PA",
+              "url": "https://www.heraldscotland.com/news/national/26631179.snp-invites-burnham-party-conference-amid-scotland-visit-reports/",
+              "publishedAt": "2026-10-13T10:42:23Z"
+            }
+          ]
+        },
+        {
+          "id": "cabinet-office",
+          "name": "Cabinet Office",
+          "description": "Government reshuffles, senior appointments, cross-dept policy",
+          "stories": []
+        },
+        {
+          "id": "elections",
+          "name": "Elections & By-elections",
+          "description": "Upcoming or recent elections, results, polls",
+          "stories": [
+            {
+              "title": "MI5 distinguishes attempted Brexit interference from changing the vote",
+              "summary": "MI5 chief Ken McCallum confirmed attempted Russian interference through media and online activity around the 2016 referendum, while stressing the difference between interference attempted and outcomes swayed. He presented no new public evidence that Russia changed the result; this is a fresh election-security statement, not a new election or poll result.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/oct/13/russia-brexit-eu-referendum-interference-mi5",
+              "publishedAt": "2026-10-13T15:15:45Z"
+            }
+          ]
+        },
+        {
+          "id": "house-of-lords",
+          "name": "House of Lords",
+          "description": "Lords debates, reform, appointments",
+          "stories": [
+            {
+              "title": "Streeting tells Lords committee defence investment summit is set for 1 December",
+              "summary": "POLITICO reported the Defence Secretary’s announcement at a Lords committee of a 1 December Defence Investment Summit, alongside examples of procurement/testing bureaucracy. The summit date is an engagement and priority signal, not committed spending or evidence of contracts awarded.",
+              "source": "POLITICO",
+              "url": "https://www.politico.eu/newsletter/london-playbook/london-playbook-pm-leaving-the-multiverse/",
+              "publishedAt": "2026-10-13T16:07:34Z"
+            }
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-13",
       "lastUpdated": "2026-10-13T16:00:00+11:00",
