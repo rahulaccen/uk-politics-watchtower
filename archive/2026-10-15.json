@@ -1,0 +1,185 @@
+{
+  "lastUpdated": "2026-10-15T16:00:00+11:00",
+  "topics": [
+    {
+      "id": "pm-no10",
+      "name": "PM & No. 10",
+      "description": "Prime Minister & Downing Street",
+      "stories": [
+        {
+          "title": "We are behind you and that will not change, PM tells Zelensky",
+          "summary": "Andy Burnham promised Volodymyr Zelensky that UK support would not change during their Downing Street meeting. No. 10 also said it would accelerate lightweight multirole missile deliveries; this is a delivery-priority announcement, not evidence of a new supplier award.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cm0rl1gkz97do",
+          "publishedAt": "2026-10-14T17:07:37.649Z"
+        }
+      ]
+    },
+    {
+      "id": "burnham-intel",
+      "name": "Burnham Gov Intelligence",
+      "description": "Procurement, tech/AI, spending, vendor & priority signals",
+      "stories": [
+        {
+          "title": "🤖 Tech / AI / Digital — Nvidia, worth $5.5tn, donates $250m to UK for AI safety research",
+          "summary": "Nvidia pledged $250m of computing power over five years for UK AI safety and security research, including university laboratories. This is a corporate in-kind commitment, not £250m of government funding or a newly awarded public contract.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/oct/14/nvidia-donates-to-uk-ai-safety-research",
+          "publishedAt": "2026-10-14T10:10:37.000Z"
+        },
+        {
+          "title": "💰 Spending / VfM — UK watchdog probes US drug pricing deal ",
+          "summary": "The National Audit Office has begun preliminary enquiries into the cost and value for money of the UK–US drug-pricing arrangement after six committee chairs raised concerns. These are preliminary enquiries, not a completed audit finding or a new spending award.",
+          "source": "POLITICO",
+          "url": "https://www.politico.eu/article/uk-watchdog-probes-us-drug-pricicing-deal/",
+          "publishedAt": "2026-10-14T10:31:20.000Z"
+        },
+        {
+          "title": "🤖 Tech / AI / Digital — DfT looking at ‘security and misuse risks’ of pavement robots",
+          "summary": "DfT is considering security and misuse safeguards for pavement-robot trials, including authorised access to cargo and protection against cyberthreats. This is policy development and proposed operator requirements, not a procurement award; no winning supplier is identified.",
+          "source": "PublicTechnology",
+          "url": "https://www.publictechnology.net/2026/10/15/transport/dft-looking-at-security-and-misuse-risks-of-pavement-robots/",
+          "publishedAt": "2026-10-15T01:02:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "parliament",
+      "name": "Parliament",
+      "description": "Commons debates, scrutiny & legislation",
+      "stories": [
+        {
+          "title": "Kemi Badenoch presses Andy Burnham on benefits and Brexit vote claims at PMQs",
+          "summary": "At PMQs, Kemi Badenoch challenged Burnham over benefits decisions, energy security and claims about Russian interference in the Brexit referendum. The exchanges exposed policy disputes rather than announcing enacted legislation or a funded defence timetable.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/live/cmwyz69003rkt",
+          "publishedAt": "2026-10-14T09:58:34.726Z"
+        }
+      ]
+    },
+    {
+      "id": "labour",
+      "name": "Labour Party",
+      "description": "Policy & internal politics",
+      "stories": [
+        {
+          "title": "Closer EU trade ties greater prize for UK than making separate deals, minister says",
+          "summary": "Douglas Alexander argued that closer EU trading arrangements would offer a larger economic prize than separate trade agreements, even at the cost of negotiating freedom. These ministerial remarks indicate the direction of Labour's debate; they are not a concluded customs-union or EU-membership agreement.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/oct/14/closer-eu-trade-ties-uk-europe-douglas-alexander",
+          "publishedAt": "2026-10-14T13:58:39.000Z"
+        }
+      ]
+    },
+    {
+      "id": "conservatives",
+      "name": "Conservative Party",
+      "description": "Opposition & party politics",
+      "stories": [
+        {
+          "title": "Opinion — Jonathan Liew — This civil war on the British right is a charade – its politics are more united than ever",
+          "summary": "Guardian columnist Jonathan Liew argues that public conflict between Britain's right-wing parties obscures substantial political alignment. His suggestion that this may end in coalition is opinion and prediction, not a reported Conservative–Reform agreement.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/commentisfree/2026/oct/14/civil-war-british-right-charade-politics-united-coalition",
+          "publishedAt": "2026-10-14T07:00:48.000Z"
+        }
+      ]
+    },
+    {
+      "id": "lib-dems",
+      "name": "Liberal Democrats",
+      "description": "Policy & party politics",
+      "stories": [
+        {
+          "title": "BBC political analysis — Chris Mason — Chris Mason: Lib Dems rally behind Davey after recent resignations",
+          "summary": "After two frontbench resignations, Liberal Democrat MPs rallied around Ed Davey at a lengthy private meeting and he indicated willingness to make further changes. Chris Mason's analysis describes the party's internal anxieties; it does not report a leadership change.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cqy7l03ydkyko",
+          "publishedAt": "2026-10-14T05:11:33.658Z"
+        }
+      ]
+    },
+    {
+      "id": "reform-uk",
+      "name": "Reform UK",
+      "description": "Policy & party politics",
+      "stories": [
+        {
+          "title": "Reform faces criticism after councillors filmed making racist comments",
+          "summary": "ITV undercover filming showed some Reform councillors and candidates using racist, violent and sexist language. Reform said there was no room for racism and that those filmed were under investigation and had resigned or been suspended; the allegations concern the individuals investigated, not every party member.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cw3dj458re1vo",
+          "publishedAt": "2026-10-14T22:34:47.347Z"
+        },
+        {
+          "title": "Nigel Farage says charities that help asylum seekers reach UK should be prosecuted",
+          "summary": "Nigel Farage called for charities helping asylum seekers reach the UK to face prosecution, drawing criticism from refugee organisations. This is a Reform political demand, not an enacted change to criminal law.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/oct/14/nigel-farage-charities-help-asylum-seekers-uk-prosecute",
+          "publishedAt": "2026-10-14T11:18:27.000Z"
+        }
+      ]
+    },
+    {
+      "id": "snp",
+      "name": "SNP",
+      "description": "Scottish politics & government",
+      "stories": [
+        {
+          "title": "I do not have confidence UK is safe from Russian threats - Swinney",
+          "summary": "John Swinney said he lacked confidence that the UK was adequately protected from Russian threats, highlighting coastal and offshore vulnerabilities around Scotland. His remarks challenge UK defence policy; they do not establish that a specific attack has occurred.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c98rzg7mlxxdo",
+          "publishedAt": "2026-10-14T15:30:03.983Z"
+        },
+        {
+          "title": "BBC political analysis — Glenn Campbell — What does Andy Burnham have up his sleeve as he crashes SNP conference?",
+          "summary": "Glenn Campbell examines how Burnham's planned Scotland visit during the SNP conference could divert attention from Swinney and intensify the constitutional argument. This is analysis of political positioning, not confirmation of an independence-referendum agreement.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cj20vnp50py3o",
+          "publishedAt": "2026-10-14T21:58:59.755Z"
+        },
+        {
+          "title": "🤖 Tech / AI / Digital — Scottish Government — Scottish Government limits remote working and introduces location-reporting tool",
+          "summary": "Scottish civil servants are to record their working location through a new self-reporting tool, alongside office-attendance expectations of 40% for staff and 60% for senior officials. This is a Scottish Government workforce-policy report, not a UK Cabinet Office measure or an identified supplier award.",
+          "source": "PublicTechnology",
+          "url": "https://www.publictechnology.net/2026/10/15/education-and-skills/scottish-government-limits-remote-working-and-introduces-location-reporting-tool/",
+          "publishedAt": "2026-10-15T01:01:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "cabinet-office",
+      "name": "Cabinet Office",
+      "description": "Cross-government policy & appointments",
+      "stories": []
+    },
+    {
+      "id": "elections",
+      "name": "Elections & By-elections",
+      "description": "Election results, polling & oversight",
+      "stories": [
+        {
+          "title": "UK polling watchdog faces reckoning after Farage sting",
+          "summary": "POLITICO reports that British Polling Council officers and members are questioning whether the body can enforce transparency rules following the JL Partners/Reform-linked polling controversy. The report concerns regulatory capacity and allegations, not a new election result or completed expulsion.",
+          "source": "POLITICO",
+          "url": "https://www.politico.eu/article/uk-polling-watchdog-faces-reckoning-after-farage-donor-sting/",
+          "publishedAt": "2026-10-15T03:00:00.000Z"
+        },
+        {
+          "title": "SNP set for ’emphatic’ Westminster win, says Scotland’s Deputy First Minister",
+          "summary": "A Survation poll of 2,039 people in Scotland put Westminster voting intention at SNP 34%, Labour 20%, Reform 18% and Conservatives 12%; independence support was 52% after excluding don't-knows. Fieldwork spanned September and October: these are polling estimates reported today, not seats won or an election outcome.",
+          "source": "The Herald / PA",
+          "url": "https://www.heraldscotland.com/news/national/26636140.snp-set-emphatic-westminster-win-says-scotlands-deputy-first-minister/",
+          "publishedAt": "2026-10-14T13:32:17.000Z"
+        }
+      ]
+    },
+    {
+      "id": "house-of-lords",
+      "name": "House of Lords",
+      "description": "Lords debates, reform & appointments",
+      "stories": []
+    }
+  ]
+}
