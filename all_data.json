@@ -1,6 +1,162 @@
 {
-  "lastUpdated": "2026-10-15T16:00:00+11:00",
+  "lastUpdated": "2026-10-16T16:00:00+11:00",
   "editions": [
+    {
+      "date": "2026-10-16",
+      "lastUpdated": "2026-10-16T16:00:00+11:00",
+      "topics": [
+        {
+          "id": "pm-no10",
+          "name": "PM & No. 10",
+          "description": "Prime Minister & Downing Street",
+          "stories": [
+            {
+              "title": "Burnham to urge Swinney to work with him on devolution during Scottish visit",
+              "summary": "Burnham is expected to invite John Swinney to work with No. 10 North and the Scotland Office on regional empowerment during his Scottish visit. These are proposals and an expected speech, not confirmation of new devolved powers or committed funding.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cmlykv9pey7go",
+              "publishedAt": "2026-10-15T21:59:18.684Z"
+            }
+          ]
+        },
+        {
+          "id": "burnham-intel",
+          "name": "Burnham Gov Intelligence",
+          "description": "Procurement, tech/AI, spending, vendor & priority signals",
+          "stories": [
+            {
+              "title": "🏗️ Procurement signal / 🤖 Tech / AI / Digital — Firm lands contract to support data-enabled ‘evolution’ of GOV.UK App",
+              "summary": "PublicTechnology reports that Projects by IF has a £660,000, seven-month contract for research, prototyping and reusable design approaches for a more personalised GOV.UK App. This is reporting of an awarded design engagement, not an announcement that a full personalised service has launched or that the award was made today.",
+              "source": "PublicTechnology",
+              "url": "https://www.publictechnology.net/2026/10/16/government-and-politics/firm-lands-contract-to-support-data-enabled-evolution-of-gov-uk-app",
+              "publishedAt": "2026-10-16T01:03:00.000Z"
+            },
+            {
+              "title": "🏢 Vendor signal / Procurement analysis — A closer look at Capita’s DWP deal: Govt claims both bids were 35% under should-cost model – but Sopra Steria says ‘issues go beyond headline price’",
+              "summary": "Fresh reporting on Capita's existing Synergy shared-services award says government maintains both bids were more than 35% below its should-cost model; rival Sopra Steria says its ongoing legal challenge concerns deliverability, risk and procurement compliance as well as price. Published contract values differ across notices and Capita's £370m statement, so these should not be treated as a single confirmed new spending commitment; the allegations are contested, not judicial findings.",
+              "source": "PublicTechnology",
+              "url": "https://www.publictechnology.net/2026/10/15/business-and-industry/a-closer-look-at-capitas-dwp-deal-govt-claims-both-bids-were-35-under-should-cost-model-but-sopra-steria-says-issues-go-beyond-headline-price",
+              "publishedAt": "2026-10-15T13:57:44.000Z"
+            },
+            {
+              "title": "💰 Spending / VfM — Tees Valley Combined Authority faces fresh government probe",
+              "summary": "The government has ordered a new inspection of Tees Valley Combined Authority over concerns about debt, borrowing costs and declining reserves, appointing Laura Shoaf to lead it. The authority welcomes the scrutiny; this is an inspection and financial-risk signal, not a finding of wrongdoing or a new contract award.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cke8r2le13evo",
+              "publishedAt": "2026-10-15T14:08:12.150Z"
+            }
+          ]
+        },
+        {
+          "id": "parliament",
+          "name": "Parliament",
+          "description": "Commons debates, scrutiny & legislation",
+          "stories": []
+        },
+        {
+          "id": "labour",
+          "name": "Labour Party",
+          "description": "Policy & internal politics",
+          "stories": [
+            {
+              "title": "Labour to break from Green council groups that back Zionism policy",
+              "summary": "Labour is giving Green groups on 18 power-sharing councils seven days to reject their party's 'Zionism is racism' policy or face the end of local arrangements. The Greens reject Labour's approach as undemocratic; this is a new local-coalition ultimatum, beyond yesterday's national coalition comments.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/c6g7x1y577zro",
+              "publishedAt": "2026-10-15T12:34:32.350Z"
+            },
+            {
+              "title": "Equality watchdog writes to Greens over 'Zionism is racism' motion",
+              "summary": "The Equality and Human Rights Commission has requested information from the Greens about the practical impact of the motion after complaints alleging discrimination. The party says Zionist views will not affect membership or discipline; the request is not a finding of unlawful conduct or confirmation of a statutory investigation.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cmly0np1gldvo",
+              "publishedAt": "2026-10-15T16:35:09.472Z"
+            }
+          ]
+        },
+        {
+          "id": "conservatives",
+          "name": "Conservative Party",
+          "description": "Opposition & party politics",
+          "stories": [
+            {
+              "title": "Opinion — Gaby Hinsliff — It’s not the old two-party politics – but Labour and the Tories now know they can shun their populist challengers",
+              "summary": "Hinsliff argues that Badenoch and Burnham are becoming more willing to draw boundaries against Reform and the Greens despite a fragmented electoral landscape. This is a columnist's interpretation, not a new Conservative policy announcement, polling result or confirmed coalition decision.",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/commentisfree/2026/oct/15/andy-burnham-kemi-badenoch-labour-tories-populist-challengers",
+              "publishedAt": "2026-10-15T17:40:36.000Z"
+            }
+          ]
+        },
+        {
+          "id": "lib-dems",
+          "name": "Liberal Democrats",
+          "description": "Policy & party politics",
+          "stories": []
+        },
+        {
+          "id": "reform-uk",
+          "name": "Reform UK",
+          "description": "Policy & party politics",
+          "stories": [
+            {
+              "title": "Reform faces questions over candidate vetting after undercover filming",
+              "summary": "A further instalment of ITV undercover filming raises new questions about candidate vetting, including advice to delete Tommy Robinson-related social-media material and disputed claims that a former candidate failed vetting. Reform says it has improved procedures and denies that the candidate failed vetting; these are new allegations following yesterday's initial revelations.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cqm26yr42ezko",
+              "publishedAt": "2026-10-15T23:52:27.766Z"
+            },
+            {
+              "title": "Nigel Farage accuses police chief of misleading on migrant crime",
+              "summary": "Farage accused Essex Police of misleading the public about asylum-seeker crime while visiting council-funded private patrols, without specifying the national statistics he invoked. Police say incidents linked to Wethersfield remain low and comprise 0.57% of incidents attended across Braintree district since the site opened; the wider-rollout call is Farage's preference, not a funded national programme.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/c30rl14l98vzo",
+              "publishedAt": "2026-10-15T12:49:01.715Z"
+            }
+          ]
+        },
+        {
+          "id": "snp",
+          "name": "SNP",
+          "description": "Scottish politics & government",
+          "stories": [
+            {
+              "title": "Flynn urges prime minister to 'bring it on' over independence referendum",
+              "summary": "Stephen Flynn challenged Burnham to allow an independence referendum in his SNP conference speech, while stressing the need for sustained persuasion. Swinney wants another vote by 2031, but the prime minister has said a second referendum remains off limits; no referendum has been authorised.",
+              "source": "BBC News",
+              "url": "https://www.bbc.co.uk/news/articles/cv2d658g1erro",
+              "publishedAt": "2026-10-15T14:08:55.161Z"
+            }
+          ]
+        },
+        {
+          "id": "cabinet-office",
+          "name": "Cabinet Office",
+          "description": "Cross-government policy & appointments",
+          "stories": [
+            {
+              "title": "List of Ministers' Interests: October 2026 (HTML) - GOV.UK",
+              "summary": "The Independent Adviser on Ministerial Standards has published the October list of ministers' interests, covering relevant financial, family and outside interests across government. This is a transparency disclosure, not evidence of a reshuffle or a determination that a disclosed interest constitutes misconduct.",
+              "source": "GOV.UK / Independent Adviser on Ministerial Standards",
+              "url": "https://www.gov.uk/government/publications/list-of-ministers-interests/list-of-ministers-interests-october-2026-html",
+              "publishedAt": "2026-10-15T15:00:01.000Z"
+            }
+          ]
+        },
+        {
+          "id": "elections",
+          "name": "Elections & By-elections",
+          "description": "Election results, polling & oversight",
+          "stories": []
+        },
+        {
+          "id": "house-of-lords",
+          "name": "House of Lords",
+          "description": "Lords debates, reform & appointments",
+          "stories": []
+        }
+      ]
+    },
     {
       "date": "2026-10-15",
       "lastUpdated": "2026-10-15T16:00:00+11:00",
