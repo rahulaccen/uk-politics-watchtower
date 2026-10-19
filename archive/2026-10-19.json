@@ -1,0 +1,132 @@
+{
+  "lastUpdated": "2026-10-19T16:00:00+11:00",
+  "topics": [
+    {
+      "id": "pm-no10",
+      "name": "PM & No. 10",
+      "description": "Prime Minister & Downing Street",
+      "stories": [
+        {
+          "title": "Burnham warns of Neets-fuelled 'economic catastrophe and moral failure'",
+          "summary": "Burnham warned that nearly one million young people outside education, employment or training risk an economic catastrophe and moral failure. The BBC reports further job-opportunity plans are expected later this week; this is a policy direction and forthcoming announcement, not a newly awarded contract or a confirmed new funding total.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cq0melgpre23o",
+          "publishedAt": "2026-10-19T01:40:53.416Z"
+        },
+        {
+          "title": "Andy Burnham launches campaign against ‘headphone dodgers’ on public transport",
+          "summary": "Ministers plan a national campaign against loud phone audio on public transport and guidance allowing local transport authorities to fine non-compliant bus passengers up to £100 under existing Bus Services Act powers. Transport safety officers or police, not drivers, would enforce the rules; unions say the proposals do not adequately address violence against staff.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/oct/19/andy-burnham-launches-campaign-against-headphone-dodgers-on-public-transport",
+          "publishedAt": "2026-10-18T23:01:12.000Z"
+        },
+        {
+          "title": "No action to be taken against wife of PM’s aide over Palestine Action post",
+          "summary": "The Metropolitan police said Sarah Helm's Palestine Action-related social-media post did not meet the criminal threshold and no further action would follow. Helm is married to national security adviser Jonathan Powell; Downing Street said her views were personal and she did not represent the government.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/oct/17/sarah-helm-jonathan-powell-palestine-action",
+          "publishedAt": "2026-10-17T19:47:45.000Z"
+        }
+      ]
+    },
+    {
+      "id": "burnham-intel",
+      "name": "Burnham Gov Intelligence",
+      "description": "Procurement, tech/AI, spending, vendor & priority signals",
+      "stories": [
+        {
+          "title": "🤖 Tech / AI / Digital · Analysis — The power of AI is worrying senior Labour figures – as is the fear of ‘falling behind the public’ ",
+          "summary": "The Guardian reports growing concern among senior Labour figures about AI safety and whether government is keeping pace with public anxiety. This is new analysis of recent cabinet, ministerial and security-service warnings, not a new AI purchase, contract award or announced cancellation; underlying events from earlier in the week are context.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/oct/17/artificial-intelligence-ai-labour-government-safety-uk-extremism",
+          "publishedAt": "2026-10-17T11:33:20.000Z"
+        }
+      ]
+    },
+    {
+      "id": "parliament",
+      "name": "Parliament",
+      "description": "Commons debates, scrutiny & legislation",
+      "stories": []
+    },
+    {
+      "id": "labour",
+      "name": "Labour Party",
+      "description": "Policy & internal politics",
+      "stories": [
+        {
+          "title": "Reported feature — Blunkett leads Labour backlash against Burnham's voting reform",
+          "summary": "Lord Blunkett and several Labour MPs oppose Burnham's proposed move away from first-past-the-post, warning of fragmented accountability and leverage for smaller parties. The report describes internal resistance to a promised next-manifesto commitment, not an enacted change to the electoral system.",
+          "source": "The i Paper",
+          "url": "https://inews.co.uk/news/politics/blunkett-labour-backlash-against-burnham-voting-reform-4826328",
+          "publishedAt": "2026-10-18T15:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "conservatives",
+      "name": "Conservative Party",
+      "description": "Opposition & party politics",
+      "stories": []
+    },
+    {
+      "id": "lib-dems",
+      "name": "Liberal Democrats",
+      "description": "Policy & party politics",
+      "stories": []
+    },
+    {
+      "id": "reform-uk",
+      "name": "Reform UK",
+      "description": "Policy & party politics",
+      "stories": [
+        {
+          "title": "Aspiring Reform MP who said ‘you cannot be Muslim and British’ suspended",
+          "summary": "Reform suspended aspiring parliamentary candidate Jason Powell after undercover ITV footage recorded anti-Muslim remarks and calls to put Channel arrivals in concentration camps. The report also raises questions about other councillors' recorded comments; the party says there is no room for racism. This includes the 17 October revelations rather than counting that precursor report separately.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/oct/18/aspiring-reform-mp-cannot-be-muslim-and-british-suspended",
+          "publishedAt": "2026-10-18T10:03:49.000Z"
+        },
+        {
+          "title": "Police investigate Reform mayor for allegedly sharing ‘naked and sexualised’ images of himself",
+          "summary": "The Guardian reports that Hull and East Yorkshire mayor Luke Campbell is under police investigation over allegations he showed a female colleague naked and sexualised images. Reform says he firmly denies the allegations; the report says he has not been arrested. An investigation is not a finding of wrongdoing.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/oct/18/police-investigate-reform-mayor-allegedly-sharing-naked-sexualised-images-of-himself",
+          "publishedAt": "2026-10-18T15:18:04.000Z"
+        }
+      ]
+    },
+    {
+      "id": "snp",
+      "name": "SNP",
+      "description": "Scottish politics & government",
+      "stories": [
+        {
+          "title": "SNP says campaign for next referendum on independence ‘has already begun’",
+          "summary": "John Swinney told the SNP conference that a new independence-referendum campaign had begun, announcing the Choose Scotland persuasion campaign backed by a six-figure party war chest. Party figures argued a hung Westminster parliament could create leverage; no referendum has been agreed or scheduled.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/oct/17/snp-campaign-second-referendum-independence-john-swinney",
+          "publishedAt": "2026-10-17T15:45:53.000Z"
+        }
+      ]
+    },
+    {
+      "id": "cabinet-office",
+      "name": "Cabinet Office",
+      "description": "Cross-government policy & appointments",
+      "stories": []
+    },
+    {
+      "id": "elections",
+      "name": "Elections & By-elections",
+      "description": "Election results, polling & oversight",
+      "stories": []
+    },
+    {
+      "id": "house-of-lords",
+      "name": "House of Lords",
+      "description": "Lords debates, reform & appointments",
+      "stories": []
+    }
+  ]
+}

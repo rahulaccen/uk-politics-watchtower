@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T16:00:00+11:00",
+  "lastUpdated": "2026-10-19T16:00:00+11:00",
   "topics": [
     {
       "id": "pm-no10",
@@ -7,11 +7,25 @@
       "description": "Prime Minister & Downing Street",
       "stories": [
         {
-          "title": "Burnham to urge Swinney to work with him on devolution during Scottish visit",
-          "summary": "Burnham is expected to invite John Swinney to work with No. 10 North and the Scotland Office on regional empowerment during his Scottish visit. These are proposals and an expected speech, not confirmation of new devolved powers or committed funding.",
+          "title": "Burnham warns of Neets-fuelled 'economic catastrophe and moral failure'",
+          "summary": "Burnham warned that nearly one million young people outside education, employment or training risk an economic catastrophe and moral failure. The BBC reports further job-opportunity plans are expected later this week; this is a policy direction and forthcoming announcement, not a newly awarded contract or a confirmed new funding total.",
           "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cmlykv9pey7go",
-          "publishedAt": "2026-10-15T21:59:18.684Z"
+          "url": "https://www.bbc.co.uk/news/articles/cq0melgpre23o",
+          "publishedAt": "2026-10-19T01:40:53.416Z"
+        },
+        {
+          "title": "Andy Burnham launches campaign against ‘headphone dodgers’ on public transport",
+          "summary": "Ministers plan a national campaign against loud phone audio on public transport and guidance allowing local transport authorities to fine non-compliant bus passengers up to £100 under existing Bus Services Act powers. Transport safety officers or police, not drivers, would enforce the rules; unions say the proposals do not adequately address violence against staff.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/oct/19/andy-burnham-launches-campaign-against-headphone-dodgers-on-public-transport",
+          "publishedAt": "2026-10-18T23:01:12.000Z"
+        },
+        {
+          "title": "No action to be taken against wife of PM’s aide over Palestine Action post",
+          "summary": "The Metropolitan police said Sarah Helm's Palestine Action-related social-media post did not meet the criminal threshold and no further action would follow. Helm is married to national security adviser Jonathan Powell; Downing Street said her views were personal and she did not represent the government.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/oct/17/sarah-helm-jonathan-powell-palestine-action",
+          "publishedAt": "2026-10-17T19:47:45.000Z"
         }
       ]
     },
@@ -21,25 +35,11 @@
       "description": "Procurement, tech/AI, spending, vendor & priority signals",
       "stories": [
         {
-          "title": "🏗️ Procurement signal / 🤖 Tech / AI / Digital — Firm lands contract to support data-enabled ‘evolution’ of GOV.UK App",
-          "summary": "PublicTechnology reports that Projects by IF has a £660,000, seven-month contract for research, prototyping and reusable design approaches for a more personalised GOV.UK App. This is reporting of an awarded design engagement, not an announcement that a full personalised service has launched or that the award was made today.",
-          "source": "PublicTechnology",
-          "url": "https://www.publictechnology.net/2026/10/16/government-and-politics/firm-lands-contract-to-support-data-enabled-evolution-of-gov-uk-app",
-          "publishedAt": "2026-10-16T01:03:00.000Z"
-        },
-        {
-          "title": "🏢 Vendor signal / Procurement analysis — A closer look at Capita’s DWP deal: Govt claims both bids were 35% under should-cost model – but Sopra Steria says ‘issues go beyond headline price’",
-          "summary": "Fresh reporting on Capita's existing Synergy shared-services award says government maintains both bids were more than 35% below its should-cost model; rival Sopra Steria says its ongoing legal challenge concerns deliverability, risk and procurement compliance as well as price. Published contract values differ across notices and Capita's £370m statement, so these should not be treated as a single confirmed new spending commitment; the allegations are contested, not judicial findings.",
-          "source": "PublicTechnology",
-          "url": "https://www.publictechnology.net/2026/10/15/business-and-industry/a-closer-look-at-capitas-dwp-deal-govt-claims-both-bids-were-35-under-should-cost-model-but-sopra-steria-says-issues-go-beyond-headline-price",
-          "publishedAt": "2026-10-15T13:57:44.000Z"
-        },
-        {
-          "title": "💰 Spending / VfM — Tees Valley Combined Authority faces fresh government probe",
-          "summary": "The government has ordered a new inspection of Tees Valley Combined Authority over concerns about debt, borrowing costs and declining reserves, appointing Laura Shoaf to lead it. The authority welcomes the scrutiny; this is an inspection and financial-risk signal, not a finding of wrongdoing or a new contract award.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cke8r2le13evo",
-          "publishedAt": "2026-10-15T14:08:12.150Z"
+          "title": "🤖 Tech / AI / Digital · Analysis — The power of AI is worrying senior Labour figures – as is the fear of ‘falling behind the public’ ",
+          "summary": "The Guardian reports growing concern among senior Labour figures about AI safety and whether government is keeping pace with public anxiety. This is new analysis of recent cabinet, ministerial and security-service warnings, not a new AI purchase, contract award or announced cancellation; underlying events from earlier in the week are context.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/oct/17/artificial-intelligence-ai-labour-government-safety-uk-extremism",
+          "publishedAt": "2026-10-17T11:33:20.000Z"
         }
       ]
     },
@@ -55,18 +55,11 @@
       "description": "Policy & internal politics",
       "stories": [
         {
-          "title": "Labour to break from Green council groups that back Zionism policy",
-          "summary": "Labour is giving Green groups on 18 power-sharing councils seven days to reject their party's 'Zionism is racism' policy or face the end of local arrangements. The Greens reject Labour's approach as undemocratic; this is a new local-coalition ultimatum, beyond yesterday's national coalition comments.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c6g7x1y577zro",
-          "publishedAt": "2026-10-15T12:34:32.350Z"
-        },
-        {
-          "title": "Equality watchdog writes to Greens over 'Zionism is racism' motion",
-          "summary": "The Equality and Human Rights Commission has requested information from the Greens about the practical impact of the motion after complaints alleging discrimination. The party says Zionist views will not affect membership or discipline; the request is not a finding of unlawful conduct or confirmation of a statutory investigation.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cmly0np1gldvo",
-          "publishedAt": "2026-10-15T16:35:09.472Z"
+          "title": "Reported feature — Blunkett leads Labour backlash against Burnham's voting reform",
+          "summary": "Lord Blunkett and several Labour MPs oppose Burnham's proposed move away from first-past-the-post, warning of fragmented accountability and leverage for smaller parties. The report describes internal resistance to a promised next-manifesto commitment, not an enacted change to the electoral system.",
+          "source": "The i Paper",
+          "url": "https://inews.co.uk/news/politics/blunkett-labour-backlash-against-burnham-voting-reform-4826328",
+          "publishedAt": "2026-10-18T15:00:00.000Z"
         }
       ]
     },
@@ -74,15 +67,7 @@
       "id": "conservatives",
       "name": "Conservative Party",
       "description": "Opposition & party politics",
-      "stories": [
-        {
-          "title": "Opinion — Gaby Hinsliff — It’s not the old two-party politics – but Labour and the Tories now know they can shun their populist challengers",
-          "summary": "Hinsliff argues that Badenoch and Burnham are becoming more willing to draw boundaries against Reform and the Greens despite a fragmented electoral landscape. This is a columnist's interpretation, not a new Conservative policy announcement, polling result or confirmed coalition decision.",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/commentisfree/2026/oct/15/andy-burnham-kemi-badenoch-labour-tories-populist-challengers",
-          "publishedAt": "2026-10-15T17:40:36.000Z"
-        }
-      ]
+      "stories": []
     },
     {
       "id": "lib-dems",
@@ -96,18 +81,18 @@
       "description": "Policy & party politics",
       "stories": [
         {
-          "title": "Reform faces questions over candidate vetting after undercover filming",
-          "summary": "A further instalment of ITV undercover filming raises new questions about candidate vetting, including advice to delete Tommy Robinson-related social-media material and disputed claims that a former candidate failed vetting. Reform says it has improved procedures and denies that the candidate failed vetting; these are new allegations following yesterday's initial revelations.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cqm26yr42ezko",
-          "publishedAt": "2026-10-15T23:52:27.766Z"
+          "title": "Aspiring Reform MP who said ‘you cannot be Muslim and British’ suspended",
+          "summary": "Reform suspended aspiring parliamentary candidate Jason Powell after undercover ITV footage recorded anti-Muslim remarks and calls to put Channel arrivals in concentration camps. The report also raises questions about other councillors' recorded comments; the party says there is no room for racism. This includes the 17 October revelations rather than counting that precursor report separately.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/oct/18/aspiring-reform-mp-cannot-be-muslim-and-british-suspended",
+          "publishedAt": "2026-10-18T10:03:49.000Z"
         },
         {
-          "title": "Nigel Farage accuses police chief of misleading on migrant crime",
-          "summary": "Farage accused Essex Police of misleading the public about asylum-seeker crime while visiting council-funded private patrols, without specifying the national statistics he invoked. Police say incidents linked to Wethersfield remain low and comprise 0.57% of incidents attended across Braintree district since the site opened; the wider-rollout call is Farage's preference, not a funded national programme.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/c30rl14l98vzo",
-          "publishedAt": "2026-10-15T12:49:01.715Z"
+          "title": "Police investigate Reform mayor for allegedly sharing ‘naked and sexualised’ images of himself",
+          "summary": "The Guardian reports that Hull and East Yorkshire mayor Luke Campbell is under police investigation over allegations he showed a female colleague naked and sexualised images. Reform says he firmly denies the allegations; the report says he has not been arrested. An investigation is not a finding of wrongdoing.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/oct/18/police-investigate-reform-mayor-allegedly-sharing-naked-sexualised-images-of-himself",
+          "publishedAt": "2026-10-18T15:18:04.000Z"
         }
       ]
     },
@@ -117,11 +102,11 @@
       "description": "Scottish politics & government",
       "stories": [
         {
-          "title": "Flynn urges prime minister to 'bring it on' over independence referendum",
-          "summary": "Stephen Flynn challenged Burnham to allow an independence referendum in his SNP conference speech, while stressing the need for sustained persuasion. Swinney wants another vote by 2031, but the prime minister has said a second referendum remains off limits; no referendum has been authorised.",
-          "source": "BBC News",
-          "url": "https://www.bbc.co.uk/news/articles/cv2d658g1erro",
-          "publishedAt": "2026-10-15T14:08:55.161Z"
+          "title": "SNP says campaign for next referendum on independence ‘has already begun’",
+          "summary": "John Swinney told the SNP conference that a new independence-referendum campaign had begun, announcing the Choose Scotland persuasion campaign backed by a six-figure party war chest. Party figures argued a hung Westminster parliament could create leverage; no referendum has been agreed or scheduled.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/oct/17/snp-campaign-second-referendum-independence-john-swinney",
+          "publishedAt": "2026-10-17T15:45:53.000Z"
         }
       ]
     },
@@ -129,15 +114,7 @@
       "id": "cabinet-office",
       "name": "Cabinet Office",
       "description": "Cross-government policy & appointments",
-      "stories": [
-        {
-          "title": "List of Ministers' Interests: October 2026 (HTML) - GOV.UK",
-          "summary": "The Independent Adviser on Ministerial Standards has published the October list of ministers' interests, covering relevant financial, family and outside interests across government. This is a transparency disclosure, not evidence of a reshuffle or a determination that a disclosed interest constitutes misconduct.",
-          "source": "GOV.UK / Independent Adviser on Ministerial Standards",
-          "url": "https://www.gov.uk/government/publications/list-of-ministers-interests/list-of-ministers-interests-october-2026-html",
-          "publishedAt": "2026-10-15T15:00:01.000Z"
-        }
-      ]
+      "stories": []
     },
     {
       "id": "elections",
