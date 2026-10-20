@@ -1,0 +1,183 @@
+{
+  "lastUpdated": "2026-10-20T16:00:00+11:00",
+  "topics": [
+    {
+      "id": "pm-no10",
+      "name": "PM & No. 10",
+      "description": "Prime Minister & Downing Street",
+      "stories": [
+        {
+          "title": "No 10 rebukes Hegseth over Nato allies’ role in Afghanistan",
+          "summary": "Downing Street said the US defence secretary was wrong to downplay Nato allies’ combat role in Afghanistan, emphasising British troops’ sacrifices. It also reiterated unwavering UK support for Ukraine amid a softer US approach to Russia.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/oct/19/pete-hegseth-nato-afghanistan-downing-street",
+          "publishedAt": "2026-10-19T14:13:16.000Z"
+        },
+        {
+          "title": "Burnham announces new private-parking safeguards",
+          "summary": "A code due to be laid in Parliament on Tuesday would guarantee five minutes to decide whether to park and ten minutes to leave, with lower appeal charges for genuine mistakes. The £100 maximum remains; commencement is not confirmed and Which? says the reforms fall short.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/money/2026/oct/19/andy-burnham-new-rules-private-parking-fines-code-of-practice",
+          "publishedAt": "2026-10-19T21:30:07.000Z"
+        },
+        {
+          "title": "PM welcomes descendants of the Jarrow marchers",
+          "summary": "Burnham met descendants carrying the original petition box, 90 years after marchers protesting unemployment were turned away in London. Jarrow MP Kate Osborne organised the visit; this was a commemorative meeting, not a new investment award.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cw7vp13y81jeo",
+          "publishedAt": "2026-10-19T19:44:22.808Z"
+        }
+      ]
+    },
+    {
+      "id": "burnham-intel",
+      "name": "Burnham Gov Intelligence",
+      "description": "Procurement, tech/AI, spending, vendor & priority signals",
+      "stories": [
+        {
+          "title": "🤖 Tech / AI / Digital · 💰 Spending / VfM — Legal Aid breach included older records",
+          "summary": "New reporting says the Legal Aid Agency’s analysis found about 250,000 stolen records predating 2007, with the earliest verified record from 1978, and some probation data. A minister cited £200m allocated for transformation and recovery: funding allocation, not a newly confirmed supplier award; the agency says it has no indication the stolen data has been published or shared.",
+          "source": "PublicTechnology",
+          "url": "https://www.publictechnology.net/2026/10/19/news/legal-aid-agency-reveals-50-year-old-data-was-stolen-in-cyberattack",
+          "publishedAt": "2026-10-19T10:14:01.000Z"
+        },
+        {
+          "title": "🤖 Tech / AI / Digital — Digital-ID survey flags accessibility and data-retention gaps",
+          "summary": "OfDIA’s inclusion survey of 44 accredited providers found 75% reported WCAG AA compliance or better, while some collected demographic information without using it to monitor inclusion. This is market oversight evidence, not a contract award or a finding that every non-compliant respondent broke accessibility law.",
+          "source": "PublicTechnology",
+          "url": "https://www.publictechnology.net/2026/10/19/society-and-welfare/one-in-four-digital-id-firms-miss-accessibility-targets-and-keep-hold-of-demographic-data",
+          "publishedAt": "2026-10-19T12:54:21.000Z"
+        },
+        {
+          "title": "🤖 Tech / AI / Digital — MHRA previews AI-device regulatory agenda",
+          "summary": "The regulator previewed its 20 October AdvaMed presentation on lifecycle regulation, sandboxes and international collaboration for AI-enabled medical devices. Existing AI Airlock work and the June MHRA–FDA Pioneer Programme provide context; this is a regulatory agenda, not an AI procurement award.",
+          "source": "GOV.UK",
+          "url": "https://www.gov.uk/government/news/uk-regulator-brings-new-ai-and-medtech-agenda-to-advamed",
+          "publishedAt": "2026-10-19T15:06:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "parliament",
+      "name": "Parliament",
+      "description": "Commons debates, scrutiny & legislation",
+      "stories": [
+        {
+          "title": "Hospital-detained serious offenders face benefit restrictions",
+          "summary": "Regulations due to be laid on Tuesday would stop qualifying serious offenders detained in hospital receiving universal credit while NHS care already covers their bed and board. Government estimates annual savings in the tens of millions; entry into force is expected early next year, subject to parliamentary approval.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo",
+          "publishedAt": "2026-10-19T23:21:38.708Z"
+        },
+        {
+          "title": "Written answer acknowledges Access to Work digital-access barriers",
+          "summary": "PublicTechnology reports that DWP’s individual identity checks prevent appointees submitting Access to Work claims online for some disabled claimants. The minister says work to explore solutions is planned for the second half of 2027–28; telephone and Relay UK alternatives remain available, and no platform contract is announced.",
+          "source": "PublicTechnology",
+          "url": "https://www.publictechnology.net/2026/10/19/society-and-welfare/dwp-acknowledges-barriers-to-digital-services-faced-by-some-disabled-claimants",
+          "publishedAt": "2026-10-19T10:17:50.000Z"
+        }
+      ]
+    },
+    {
+      "id": "labour",
+      "name": "Labour Party",
+      "description": "Policy & internal politics",
+      "stories": [
+        {
+          "title": "Fahnbulleh’s removed constituency post exposes migration-policy tensions",
+          "summary": "A constituency write-up attributed concerns about longer settlement waits and integration to Miatta Fahnbulleh. Her office says the remarks were paraphrased and not a true representation of her views, and removed the text; the government’s final consultation response is still pending.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2026/oct/19/migration-energy-secretary-mahmood-fahnbulleh",
+          "publishedAt": "2026-10-19T17:35:17.000Z"
+        },
+        {
+          "title": "Healey rules out raising capital gains tax in next week’s Budget",
+          "summary": "Chancellor John Healey has rejected calls from some Labour figures to raise capital gains tax, citing concern about investment and wealthy taxpayers leaving or deferring sales. This is a pre-Budget position, not a newly enacted tax change.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo",
+          "publishedAt": "2026-10-20T01:31:09.201Z"
+        }
+      ]
+    },
+    {
+      "id": "conservatives",
+      "name": "Conservative Party",
+      "description": "Opposition & party politics",
+      "stories": []
+    },
+    {
+      "id": "lib-dems",
+      "name": "Liberal Democrats",
+      "description": "Policy & party politics",
+      "stories": []
+    },
+    {
+      "id": "reform-uk",
+      "name": "Reform UK",
+      "description": "Policy & party politics",
+      "stories": [
+        {
+          "title": "Amanda Bland leaves Reform whip, changing Holyrood party rankings",
+          "summary": "Amanda Bland says she has left Reform UK Scotland and will remain an independent MSP; Reform wants her to resign the seat. The departure reduces Reform from 17 to 16 seats, leaving Labour’s 17 as Holyrood’s second-largest party; she gave no specific reason for leaving.",
+          "source": "The Herald / PA",
+          "url": "https://www.heraldscotland.com/news/national/26648993.labour-becomes-holyroods-second-biggest-party-reform-msp-resigns-whip",
+          "publishedAt": "2026-10-19T14:42:16.000Z"
+        },
+        {
+          "title": "Newly released footage raises questions over Farage’s £5m gift explanation",
+          "summary": "The Guardian’s published description of undercover footage says aide Dan Jukes acknowledged that Farage departed from press-office advice when describing Christopher Harborne’s gift as a thank-you for Brexit. The report contrasts that account with his security-purpose explanation; a parliamentary watchdog investigation remains unresolved, not a finding of misconduct.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/video/2026/oct/19/dan-jukes-reveals-nigel-farage-did-not-take-press-office-line-on-5m-gift-video",
+          "publishedAt": "2026-10-19T16:32:07.000Z"
+        }
+      ]
+    },
+    {
+      "id": "snp",
+      "name": "SNP",
+      "description": "Scottish politics & government",
+      "stories": [
+        {
+          "title": "SNP conference backs domestic-energy motion",
+          "summary": "Delegates backed using domestic energy rather than imports and applying Scotland’s remaining oil-and-gas benefits to the net-zero transition. A minister reiterated case-by-case assessment based on climate compatibility and energy security; the refreshed Scottish energy strategy is still pending, not a blanket drilling approval.",
+          "source": "The Herald / PA",
+          "url": "https://www.heraldscotland.com/news/26651371.snp-delegates-back-motion-domestic-energy-production",
+          "publishedAt": "2026-10-19T19:56:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "cabinet-office",
+      "name": "Cabinet Office",
+      "description": "Cross-government policy & appointments",
+      "stories": [
+        {
+          "title": "Government proposes 2.3% ceiling for senior civil-service paybill growth",
+          "summary": "New evidence to the Senior Salaries Review Body recommends total senior civil-service paybill growth of no more than 2.3% for 2027–28, with no additional departmental funding. This is government evidence and an affordability proposal, not a final pay award; it is distinct from implementation of the 2026 settlement.",
+          "source": "GOV.UK",
+          "url": "https://www.gov.uk/government/publications/government-evidence-to-the-senior-salaries-review-body-on-the-pay-of-the-senior-civil-service/government-evidence-to-the-senior-salaries-review-body-on-the-pay-of-the-senior-civil-service-october-2026-html",
+          "publishedAt": "2026-10-19T12:08:07.000Z"
+        },
+        {
+          "title": "Cabinet Office publishes test-and-learn delivery guidance",
+          "summary": "New phase-four guidance in the Test, Learn and Grow Playbook covers planning tests, measuring success and deciding whether to continue, iterate, pause or stop a solution. It is a delivery-method framework, not evidence that a named programme has been cancelled or a consultancy appointed.",
+          "source": "GOV.UK",
+          "url": "https://www.gov.uk/guidance/test-and-learn-playbook/testing-learning-and-iterating-phase-4",
+          "publishedAt": "2026-10-19T09:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "elections",
+      "name": "Elections & By-elections",
+      "description": "Election results, polling & oversight",
+      "stories": []
+    },
+    {
+      "id": "house-of-lords",
+      "name": "House of Lords",
+      "description": "Lords debates, reform & appointments",
+      "stories": []
+    }
+  ]
+}
