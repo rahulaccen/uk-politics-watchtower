@@ -1,0 +1,163 @@
+{
+  "lastUpdated": "2026-10-21T16:00:00+11:00",
+  "topics": [
+    {
+      "id": "pm-no10",
+      "name": "PM & No. 10",
+      "description": "Prime Minister & Downing Street",
+      "stories": [
+        {
+          "title": "Jackdaw decision expected, with Rosebank still unresolved",
+          "summary": "BBC reporting says ministers are expected to approve the North Sea Jackdaw gas field, with an announcement and Commons statement anticipated on Wednesday. This is advance reporting, not confirmation that approval had been granted by the digest cutoff; Rosebank remains a separate decision.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o",
+          "publishedAt": "2026-10-20T17:33:42.831Z"
+        },
+        {
+          "title": "Burnham responds to Covid inquiry’s adult-social-care findings",
+          "summary": "In a written Commons statement reported at 15:20 UTC, the PM endorsed the inquiry’s finding that adult social care has been undervalued and said its findings would inform pandemic planning and his National Care Service vision. A full response to recommendations is still to come; the report itself does not implement the proposed reforms.",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
+          "publishedAt": "2026-10-20T07:47:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "burnham-intel",
+      "name": "Burnham Gov Intelligence",
+      "description": "Procurement, tech/AI, spending, vendor & priority signals",
+      "stories": [
+        {
+          "title": "🤖 Tech / AI / Digital — National Data Library reaches 80 collections and 46,000 datasets",
+          "summary": "Ministers report that the data.gov.uk-based gateway now brings together more than 80 collection pages and makes over 46,000 datasets searchable, with most publicly accessible. Further discovery improvements and platform redesign remain roadmap work, not a newly awarded technology contract.",
+          "source": "PublicTechnology",
+          "url": "https://www.publictechnology.net/2026/10/20/science-technology-and-research/national-data-library-grows-to-80-collections-and-46000-datasets",
+          "publishedAt": "2026-10-20T12:38:56.000Z"
+        },
+        {
+          "title": "🏗️ Procurement signal — Wales tenders £432,000 family-history service",
+          "summary": "The National Library of Wales is seeking a single provider for its online genealogy service, with bids due by midday on 19 November. The prospective £432,000 engagement is a tender opportunity, not a completed supplier award.",
+          "source": "PublicTechnology",
+          "url": "https://www.publictechnology.net/2026/10/20/society-and-welfare/wales-plans-400k-deal-for-national-online-family-history-service",
+          "publishedAt": "2026-10-20T12:24:34.000Z"
+        },
+        {
+          "title": "🤖 Tech / AI / Digital · 💰 Spending / VfM — MoJ plans £17.5m virtual-remand pilot",
+          "summary": "At least four police forces are to test first court hearings by secure video from custody suites, aiming to reduce transport and court delays. The £17.5m pilot commitment is not evidence of a named vendor winning a contract or of nationwide rollout.",
+          "source": "PublicTechnology",
+          "url": "https://www.publictechnology.net/2026/10/20/public-order-justice-and-rights/moj-confirms-pilot-for-virtual-remand-hearings",
+          "publishedAt": "2026-10-20T12:04:25.000Z"
+        }
+      ]
+    },
+    {
+      "id": "parliament",
+      "name": "Parliament",
+      "description": "Commons debates, scrutiny & legislation",
+      "stories": []
+    },
+    {
+      "id": "labour",
+      "name": "Labour Party",
+      "description": "Policy & internal politics",
+      "stories": [
+        {
+          "title": "Perran Moon suspended pending Covid-loan investigation",
+          "summary": "Labour suspended the Camborne and Redruth MP after he referred himself for investigation over repayments of a business Bounce Back Loan. Moon says the application complied with the rules and the funds met staffing and essential costs; suspension and investigation are not findings of wrongdoing.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cqgkvnp0lkv5o",
+          "publishedAt": "2026-10-20T21:20:28.086Z"
+        }
+      ]
+    },
+    {
+      "id": "conservatives",
+      "name": "Conservative Party",
+      "description": "Opposition & party politics",
+      "stories": [
+        {
+          "title": "Badenoch presses Labour to make public-spending cuts",
+          "summary": "The opposition leader argued that Labour would lack the courage to deliver spending reductions needed to reduce debt and support defence, citing her own £70bn savings plans. These are opposition proposals ahead of the 28 October Budget, not adopted government cuts.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cry835v68dq9o",
+          "publishedAt": "2026-10-20T13:22:03.250Z"
+        }
+      ]
+    },
+    {
+      "id": "lib-dems",
+      "name": "Liberal Democrats",
+      "description": "Policy & party politics",
+      "stories": [
+        {
+          "title": "Jane Dodds to step down as Welsh Liberal Democrat leader",
+          "summary": "Dodds announced she will hand over the Welsh leadership but remain the party’s sole Senedd member. Nominations are scheduled to open on 23 October and close on 16 November; this is a leadership transition, not a parliamentary-seat resignation.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c98rzv177l75o",
+          "publishedAt": "2026-10-20T17:21:36.188Z"
+        }
+      ]
+    },
+    {
+      "id": "reform-uk",
+      "name": "Reform UK",
+      "description": "Policy & party politics",
+      "stories": [
+        {
+          "title": "Farage proposes tax-free reservist pay",
+          "summary": "At a Plymouth rally, the Reform leader pledged to remove tax from armed-forces reservists’ pay to encourage recruitment. It is a party pledge, not a change to current tax law.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cvwy788ee34xo",
+          "publishedAt": "2026-10-20T17:59:23.599Z"
+        },
+        {
+          "title": "Offord urges departed Reform MSP to give up her seat",
+          "summary": "In a new response to Amanda Bland’s previously reported departure, Scottish Reform leader Malcolm Offord argued that she lacked a personal mandate to retain a regional-list seat. Bland disputes the account surrounding her exit; the departure and resulting party rankings are not counted again as new developments.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c674p99x7ngpo",
+          "publishedAt": "2026-10-20T09:21:49.169Z"
+        }
+      ]
+    },
+    {
+      "id": "snp",
+      "name": "SNP",
+      "description": "Scottish politics & government",
+      "stories": [
+        {
+          "title": "Scottish and Welsh governments seek welfare changes and energy-bill support",
+          "summary": "A joint pre-Budget letter calls for removal of the benefit cap and bedroom tax, an end to the local-housing-allowance freeze and targeted energy discounts. These are requests to UK ministers and proposals for further devolution, not agreed UK policy or a funded social-tariff launch.",
+          "source": "Scottish Government",
+          "url": "https://www.gov.scot/news/scotland-and-wales-scrap-punitive-welfare-policies-and-cut-bills",
+          "publishedAt": "2026-10-20T09:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "cabinet-office",
+      "name": "Cabinet Office",
+      "description": "Cross-government policy & appointments",
+      "stories": [
+        {
+          "title": "Kearns questions national-security adviser’s position",
+          "summary": "The Conservative MP wrote to the PM asking whether the adviser’s position remained tenable following his wife’s Palestine Action social-media post. Police had already concluded the post did not meet the criminal threshold, and Downing Street said she does not represent government; no resignation, dismissal or new criminal finding is reported.",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cke8r0me3y9vo",
+          "publishedAt": "2026-10-20T22:29:24.206Z"
+        }
+      ]
+    },
+    {
+      "id": "elections",
+      "name": "Elections & By-elections",
+      "description": "Election results, polling & oversight",
+      "stories": []
+    },
+    {
+      "id": "house-of-lords",
+      "name": "House of Lords",
+      "description": "Lords debates, reform & appointments",
+      "stories": []
+    }
+  ]
+}
